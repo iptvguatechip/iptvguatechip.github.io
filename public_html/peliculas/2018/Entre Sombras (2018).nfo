@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Entre Sombras</title>
+    <originaltitle>Entre Sombras</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>84</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una joven ciega se adentra en el despiadado mundo del hampa londinense después de haber oído como se cometía un asesinato en el piso superior al suyo. A partir de ese momento, la mafia del Este, los sicarios y la corrupción serán parte de su vida.</plot>
+    <tagline></tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dnYDS04jdceKDP56gak5lntcZfA.jpg">https://image.tmdb.org/t/p/original/dnYDS04jdceKDP56gak5lntcZfA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yoEIOLTIukSoPrkVT6eUZylBBK4.jpg">https://image.tmdb.org/t/p/original/yoEIOLTIukSoPrkVT6eUZylBBK4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4G2L7bFKQXW7LbVZGieexGKZ9DZ.jpg">https://image.tmdb.org/t/p/original/4G2L7bFKQXW7LbVZGieexGKZ9DZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8321616</id>
+    <uniqueid type="imdb" default="true">tt8321616</uniqueid>
+    <uniqueid type="tmdb">531708</uniqueid>
+    <genre>Fantasía</genre>
+    <genre>Aventura</genre>
+    <country>France</country>
+    <credits>Alice Guimarães</credits>
+    <credits>Mónica Santos</credits>
+    <director>Alice Guimarães</director>
+    <director>Mónica Santos</director>
+    <premiered>2018-06-11</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Animais Avpl</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>238.000000</aspect>
+                <width>1904</width>
+                <height>792</height>
+                <durationinseconds>6073</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sara Costa</name>
+        <role>Natália</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gilberto Oliveira</name>
+        <role>Thief of Hearts</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Margarida Vila-Nova</name>
+        <role>Narrator</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhuae5uvfzonRaIy1jR8ctKVal4.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:53:48</dateadded>
+</movie>

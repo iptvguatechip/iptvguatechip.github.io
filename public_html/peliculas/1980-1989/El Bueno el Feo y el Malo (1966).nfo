@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El bueno, el malo y el feo</title>
+    <originaltitle>Il buono, il brutto, il cattivo</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.800000</value>
+            <votes>678367</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.400000</value>
+            <votes>5435</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Durante la rabia de la Guerra civil americana entre la Unión y la Confederación, tres hombres, “una persona solitaria tranquila, un asesino a sueldo despiadado y un bandido mexicano, peinan el territorio americano hacia el Sudoeste en busca de una caja fuerte que contiene $200,000 en el oro robado.</plot>
+    <tagline>Para tres hombres que la guerra civil no es un infierno, es solo una práctica.</tagline>
+    <runtime>161</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fSWnIXsxA47smMLwRELSWkxbVJ.jpg">https://image.tmdb.org/t/p/original/fSWnIXsxA47smMLwRELSWkxbVJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eWivEg4ugIMAd7d4uWI37b17Cgj.jpg">https://image.tmdb.org/t/p/original/eWivEg4ugIMAd7d4uWI37b17Cgj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sN4h2uODctPePR8ot611XK3fdbs.jpg">https://image.tmdb.org/t/p/original/sN4h2uODctPePR8ot611XK3fdbs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/e881nA7p982CHL5GjI1LICwHMd7.jpg">https://image.tmdb.org/t/p/original/e881nA7p982CHL5GjI1LICwHMd7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1OllUoCAiNxwjsSn6euFdpQZzFU.jpg">https://image.tmdb.org/t/p/original/1OllUoCAiNxwjsSn6euFdpQZzFU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/usIXFgUP0Fjbwgeg2GwEOlAHSFM.jpg">https://image.tmdb.org/t/p/original/usIXFgUP0Fjbwgeg2GwEOlAHSFM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pUFvDCS8DuSys8kVNbGywrerWLu.jpg">https://image.tmdb.org/t/p/original/pUFvDCS8DuSys8kVNbGywrerWLu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ov4bwPZKSPdZd8l4cckOdoI0Or1.jpg">https://image.tmdb.org/t/p/original/ov4bwPZKSPdZd8l4cckOdoI0Or1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wtX8w5xksSpSDRHvtbsxLHEokQa.jpg">https://image.tmdb.org/t/p/original/wtX8w5xksSpSDRHvtbsxLHEokQa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg">https://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ozfj50CEXvjQNSgRqkPYcHhPyvU.jpg">https://image.tmdb.org/t/p/original/ozfj50CEXvjQNSgRqkPYcHhPyvU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xuEgsmTnx43naCRdOknF5Kp9cjd.jpg">https://image.tmdb.org/t/p/original/xuEgsmTnx43naCRdOknF5Kp9cjd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sLZRtYcbRBCxPWWsdqQA4C626BQ.jpg">https://image.tmdb.org/t/p/original/sLZRtYcbRBCxPWWsdqQA4C626BQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mxdjCeoPTy6IUd99nTB6kjiRiZI.jpg">https://image.tmdb.org/t/p/original/mxdjCeoPTy6IUd99nTB6kjiRiZI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7HCxbaC4FMIC1cEcAQJAqfYnnWh.jpg">https://image.tmdb.org/t/p/original/7HCxbaC4FMIC1cEcAQJAqfYnnWh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nlOxiSPC2ve1oZsAte74uIQB54N.jpg">https://image.tmdb.org/t/p/original/nlOxiSPC2ve1oZsAte74uIQB54N.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fEeLpltmv7ntNrtNvFrddkHWISk.jpg">https://image.tmdb.org/t/p/original/fEeLpltmv7ntNrtNvFrddkHWISk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oayZt3jvtVmqOg0kLRt870z62YE.jpg">https://image.tmdb.org/t/p/original/oayZt3jvtVmqOg0kLRt870z62YE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p5GstkZa3V9ejGg70YDpVdfof8v.jpg">https://image.tmdb.org/t/p/original/p5GstkZa3V9ejGg70YDpVdfof8v.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x4biAVdPVCghBlsVIzB6NmbghIz.jpg">https://image.tmdb.org/t/p/original/x4biAVdPVCghBlsVIzB6NmbghIz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1IBOXagfmwTvhb8prIfRvt89ePs.jpg">https://image.tmdb.org/t/p/original/1IBOXagfmwTvhb8prIfRvt89ePs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zZv1ZgglS80WvBktQUBBEooVqqH.jpg">https://image.tmdb.org/t/p/original/zZv1ZgglS80WvBktQUBBEooVqqH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xXoc8OZ8ivVlRfuS8wQ7PTt68ss.jpg">https://image.tmdb.org/t/p/original/xXoc8OZ8ivVlRfuS8wQ7PTt68ss.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kYXuiE6BUPJVVKkrMeQEroKdTAZ.jpg">https://image.tmdb.org/t/p/original/kYXuiE6BUPJVVKkrMeQEroKdTAZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9BIIosFjVSLPhdGSVhjJ9pWRvT0.jpg">https://image.tmdb.org/t/p/original/9BIIosFjVSLPhdGSVhjJ9pWRvT0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3H0TPj81yFK17tFNtNXkRTeuzng.jpg">https://image.tmdb.org/t/p/original/3H0TPj81yFK17tFNtNXkRTeuzng.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b30nTRcLls1Z0X1ywe9NyC6oe5.jpg">https://image.tmdb.org/t/p/original/b30nTRcLls1Z0X1ywe9NyC6oe5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eoCSp75lxatmIa6aGqfnzwtbttd.jpg">https://image.tmdb.org/t/p/original/eoCSp75lxatmIa6aGqfnzwtbttd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/30jOms5Vu6baZZRfvZRwcABok9G.jpg">https://image.tmdb.org/t/p/original/30jOms5Vu6baZZRfvZRwcABok9G.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i45UNI97e9xvRfCSeo9GXlw8XWA.jpg">https://image.tmdb.org/t/p/original/i45UNI97e9xvRfCSeo9GXlw8XWA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mVl1EvEnYJnTQv71nksfneyF0Yd.jpg">https://image.tmdb.org/t/p/original/mVl1EvEnYJnTQv71nksfneyF0Yd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xnFmcq40R0umHHLXTpvOW5GTdMh.jpg">https://image.tmdb.org/t/p/original/xnFmcq40R0umHHLXTpvOW5GTdMh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nF80D0AeYGoVMMu0KGfmk7IyBnJ.jpg">https://image.tmdb.org/t/p/original/nF80D0AeYGoVMMu0KGfmk7IyBnJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wHaSSjH7PlDuYx6QwmUuvA2lLo5.jpg">https://image.tmdb.org/t/p/original/wHaSSjH7PlDuYx6QwmUuvA2lLo5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cxSdkcqbEhG1DVPerzKVKA37AMV.jpg">https://image.tmdb.org/t/p/original/cxSdkcqbEhG1DVPerzKVKA37AMV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z562msRBRSJRFIfZvSvjC4vunZF.jpg">https://image.tmdb.org/t/p/original/z562msRBRSJRFIfZvSvjC4vunZF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mDlK614fBHXulWQe8ewA1wu2xuf.jpg">https://image.tmdb.org/t/p/original/mDlK614fBHXulWQe8ewA1wu2xuf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/s4hcP043jrmnN00fd5AWbj6Axyi.jpg">https://image.tmdb.org/t/p/original/s4hcP043jrmnN00fd5AWbj6Axyi.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0060196</id>
+    <uniqueid type="imdb" default="true">tt0060196</uniqueid>
+    <uniqueid type="tmdb">429</uniqueid>
+    <genre>Western</genre>
+    <country>United States of America</country>
+    <credits>Sergio Leone</credits>
+    <credits>Sergio Donati</credits>
+    <credits>Luciano Vincenzoni</credits>
+    <credits>Agenore Incrocci</credits>
+    <credits>Furio Scarpelli</credits>
+    <director>Sergio Leone</director>
+    <premiered>1966-12-23</premiered>
+    <year>1966</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>United Artists</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WCN5JJY_wiA</trailer>
+    <actor>
+        <name>Clint Eastwood</name>
+        <role>Blondie</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eli Wallach</name>
+        <role>Tuco Ramirez</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cjOzKNXOrwc8ZgGWmJEM8A3HZ19.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Van Cleef</name>
+        <role>Sentenza / Angel Eyes</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/prcDQR2pp0b92j0G8rnX5kQeQk0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aldo Giuffrè</name>
+        <role>Alcoholic Union Captain</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/lhCobXoExhtZneHpt00IdHcVOsN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luigi Pistilli</name>
+        <role>Father Pablo Ramirez</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/bH5vmD2CMBHzJyBe0P0bL6iTUNL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rada Rassimov</name>
+        <role>Maria</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/l2rJyC1vLSLj00ho90mgAkzpzlZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Enzo Petito</name>
+        <role>Storekeeper</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Claudio Scarchilli</name>
+        <role>Tuco Henchman</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Livio Lorenzon</name>
+        <role>Baker</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/wddU2SgidvtdvBzfEEHhOkSel8U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Casale</name>
+        <role>Bill Carson / Jackson</role>
+        <order>13</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BY2U3MmM1NDQtMjU4OC00YTQ1LThjZjUtMjFlN2Q5MmVkZDIwXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandro Scarchilli</name>
+        <role>Tuco Henchman</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benito Stefanelli</name>
+        <role>Member of Angel Eyes&apos; Gang</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/g8wrcKWLuxq3Rmtp3LXItaGVLoQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angelo Novi</name>
+        <role>Monk</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mario Brega</name>
+        <role>Corporal Wallace</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/anV1dBcJDSkL8OaUoSqBoAU7FPK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Al Mulock</name>
+        <role>One-Armed Bounty Hunter</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/kpKA0KjiyQMdXaT7syWfYg7MDVS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Braña</name>
+        <role>Bounty Hunter #2 (uncredited)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/pm3atvF3WIxv1RsVSLeie5YSKjy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Saturno Cerra</name>
+        <role>Bounty Hunter #3 (uncredited)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/7a7kTmT5yRUx9RBYdmroDynIG6G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Casas</name>
+        <role>Stevens (uncredited)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/x3CWO3b5ZlJiAXWtMvnF5n3ntwB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chelo Alonso</name>
+        <role>Stevens&apos; Wife (uncredited)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/3jN80sYYxEd88mYpgQC5OALbECM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antoñito Ruiz</name>
+        <role>Stevens&apos; Youngest Son (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Bartha</name>
+        <role>Sheriff (uncredited)</role>
+        <order>24</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMzlhZWQwZTktYmM4MS00NThjLWE0NjktODNhNDU2Yzc2ZGM5XkEyXkFqcGdeQXVyNTc0NjY1ODk@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Di Mitri</name>
+        <role>Deputy (uncredited)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/kEtaOz3d7QQUHSLMOqK9cYrEOrU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Attilio Dottesio</name>
+        <role>3rd Sombrero Onlooker at Tuco&apos;s 1st Hanging (uncredited)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/Qe1u3NCklcxRKaua9JRVVRDEjy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amerigo Castrighella</name>
+        <role>2nd Sombrero Onlooker at Tuco&apos;s 1st Hanging (uncredited)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/i5xPp42yiACwMXgbL6DdcVOMaZw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Veriano Ginesi</name>
+        <role>Bald Onlooker at Tuco&apos;s 1st Hanging (uncredited)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/oJwDUr67iTAHhrp7c7esgU3gKCv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alberigo Donadeo</name>
+        <role>Spettatore Prima Impiccagione (uncredited)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/h7XiYvGkn9SPOGAYyvYORym5NPz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aysanoa Runachagua</name>
+        <role>Pistolero Recruited by Tuco in the Cave (uncredited)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/zdpd0iwLSkJWfO0UXcGRh0cCIC4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Víctor Israel</name>
+        <role>Sergeant at Confederate Fort (uncredited)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/cQfmoEOvlOhjsYnWr65sah8zku4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Terrón</name>
+        <role>Thomas &apos;Shorty&apos; Larson (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Román Ariznavarreta</name>
+        <role>Bounty Hunter (uncredited)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/qBXJcgUeSz13qqthv6Q3OwyuLV8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Molino Rojo</name>
+        <role>Captain Harper (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/1J1l8QvjfjhjKhZnq1zqWOUuQr3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aldo Sambrell</name>
+        <role>Member of Angel Eyes&apos; Gang (uncredited)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/lJsoZtOeNaer5jZSydSjONL32xp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Romano Puppo</name>
+        <role>Bill - Member of Angel Eyes&apos; Gang (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/k2ExalQ56vsy6mjNMvGEFyMVnFb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lorenzo Robledo</name>
+        <role>Clem - \tMember of Angel Eyes&apos; Gang (uncredited)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/1URdsmesjkTb6wA7HfXGUJg2kUM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luigi Ciavarro</name>
+        <role>Slim - Member of Angel Eyes&apos; Gang (uncredited)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/iHQSpDuxAdHeBWR30jFy2xIxWM4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Axel Darna</name>
+        <role>Soldato Confederato Morente (uncredited)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/fzoIRqZe7rWXwAV8XLeNVhqGP27.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Alagich</name>
+        <role>Soldato Unione all&apos;Arresto (uncredited)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fortunato Arena</name>
+        <role>1st Sombrero Onlooker at Tuco&apos;s 1st Hanging (uncredited)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/jaRWglJgcBhhYOFo5skWvl8822U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Silvana Bacci</name>
+        <role>Messicana con Biondo (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/cWCliMHwmwpLnTASdQBkAOafMn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Bradley</name>
+        <role>Old Soldier (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Conroy</name>
+        <role>Confederate Soldier (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio Contreras</name>
+        <role>Violinista al Campo (uncredited)</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Domingo Contreras</name>
+        <role>Extra (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luis Fernández de Eribe</name>
+        <role>Soldier Coat (uncredited)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/yMvdmHyFjCG3yJDSpdbJnCC96yU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ricardo Palacios</name>
+        <role>Barista a Socorro (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/b9mYDsnTgspofRPYEI5l4GMbrlG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Palombi</name>
+        <role>Vecchio Sergente (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/whtLgT5LXwQgeE23MtmMsxWc2eu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julio Martínez Piernavieja</name>
+        <role>Corista al Campo (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesús Porras</name>
+        <role>Suonatore Armonica al Campo (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enrique Santiago</name>
+        <role>Mexican Bounty Hunter (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Franco Tocci</name>
+        <role>Soldato Unione con Sigaro (uncredited)</role>
+        <order>57</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZjE3YTY4NTUtMTViZC00MzJlLTliZDYtMGEzNzM4NjBmZWQwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Rodriguez</name>
+        <role>Mexican Bounty Hunter (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/3dEkALd2W4ZekvcHN5cHuTuufkZ.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-28 07:47:58</dateadded>
+</movie>

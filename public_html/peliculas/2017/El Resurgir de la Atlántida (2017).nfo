@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Atlantis, Secretos al Descubierto</title>
+    <originaltitle>Atlantis Rising</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>307</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>5</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>James Cameron y Simcha Jacobovici van a la aventura de encontrar la ciudad perdida de Atlantis utilizando al filósofo griego Platón como un mapa del tesoro virtual.</plot>
+    <tagline></tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uheYyCgkmLpgbfqwlmlaqF4GcZh.jpg">https://image.tmdb.org/t/p/original/uheYyCgkmLpgbfqwlmlaqF4GcZh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8MDGDQADi0LNRFUXpO3nPDa61vP.jpg">https://image.tmdb.org/t/p/original/8MDGDQADi0LNRFUXpO3nPDa61vP.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yxv2rcOOQozB4LlfbL0AKsY8xzk.jpg">https://image.tmdb.org/t/p/original/yxv2rcOOQozB4LlfbL0AKsY8xzk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nvWAyn6ijDAPsnNfFLW5BhPzmtn.jpg">https://image.tmdb.org/t/p/original/nvWAyn6ijDAPsnNfFLW5BhPzmtn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rXhjWEB28Chqln54rdrNdSAOLrV.jpg">https://image.tmdb.org/t/p/original/rXhjWEB28Chqln54rdrNdSAOLrV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7Zm7K3f5mq5tTUnLIOkigNddFMw.jpg">https://image.tmdb.org/t/p/original/7Zm7K3f5mq5tTUnLIOkigNddFMw.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6467274</id>
+    <uniqueid type="imdb" default="true">tt6467274</uniqueid>
+    <uniqueid type="tmdb">447829</uniqueid>
+    <genre>Documental</genre>
+    <genre>Aventura</genre>
+    <genre>Misterio</genre>
+    <country>Canada</country>
+    <credits>Simcha Jacobovici</credits>
+    <director>Simcha Jacobovici</director>
+    <premiered>2017-01-29</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>National Geographic</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GxXlLtzZZwc</trailer>
+    <actor>
+        <name>James Cameron</name>
+        <role>Himself</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simcha Jacobovici</name>
+        <role>Himself</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Pellegrino</name>
+        <role>Himself</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 09:35:19</dateadded>
+</movie>

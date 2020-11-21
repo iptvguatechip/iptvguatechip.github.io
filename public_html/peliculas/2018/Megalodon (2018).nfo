@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Megalodon</title>
+    <originaltitle>Megalodon</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>2.900000</value>
+            <votes>1699</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>165</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A military vessel on the search for an unidentified submersible finds themselves face to face with a giant shark, forced to use only what they have on board to defend themselves from the monstrous beast.</plot>
+    <tagline>Danger Is Rising!</tagline>
+    <runtime>113</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg">https://image.tmdb.org/t/p/original/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aXkwZp9ASHWvcA7KmokFhCId5e2.jpg">https://image.tmdb.org/t/p/original/aXkwZp9ASHWvcA7KmokFhCId5e2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jpkiI5qo3cMKYuc2MgOemQsYFay.jpg">https://image.tmdb.org/t/p/original/jpkiI5qo3cMKYuc2MgOemQsYFay.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fXFQnOSbybaU9h2kJ3jtRUU4OpA.jpg">https://image.tmdb.org/t/p/original/fXFQnOSbybaU9h2kJ3jtRUU4OpA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3uZeqHTS18d8huhgsV8Yn9ZQR7u.jpg">https://image.tmdb.org/t/p/original/3uZeqHTS18d8huhgsV8Yn9ZQR7u.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8235660</id>
+    <uniqueid type="imdb" default="true">tt8235660</uniqueid>
+    <uniqueid type="tmdb">523931</uniqueid>
+    <genre>Acción</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Terror</genre>
+    <genre>Película de TV</genre>
+    <country>United States of America</country>
+    <credits>Canyon Prince</credits>
+    <credits>James Thomas</credits>
+    <credits>Koichi Petetsky</credits>
+    <director>James Thomas</director>
+    <premiered>2018-08-13</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>The Asylum</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MPr3BleeXC0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6793</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Madsen</name>
+        <role>Admiral King</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/69cqjkTNKI1muAfnvorfmWNVgIe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott C. Roe</name>
+        <role>Jameson</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5HmdlrurWBdGcJDBzYplSyxgncP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ego Mikitas</name>
+        <role>Captain Ivanov</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6bpMVYgZVbrpWiEFn2jNwaYQWv4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paulina Nguyen</name>
+        <role>Cheng</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/dXXbo0mGRp0pt4EMuynwFyZcyFg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominic Pace</name>
+        <role>Captain Streeper</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/1JgTgliJ5hXJIhtv31qtntfaXAX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aimee Stolte</name>
+        <role>Yana Popov</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Joo</name>
+        <role>Mansfield</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/7iZ8f1Hr8pmNKvP2AcyjKzicH7E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Caroline Harris</name>
+        <role>Commander Lynch</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luke Fattorusso</name>
+        <role>Burkhead</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dimitry Rozental</name>
+        <role>Mikhail</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philip Nathanael</name>
+        <role>Treadwell</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sébastien Charmant</name>
+        <role>Vallier</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth J. Cron</name>
+        <role>Munoz</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mario Rocha</name>
+        <role>Morris</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:22:39</dateadded>
+</movie>

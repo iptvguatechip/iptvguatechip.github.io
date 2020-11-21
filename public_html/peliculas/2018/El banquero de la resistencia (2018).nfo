@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El banquero de la resistencia</title>
+    <originaltitle>Bankier van het Verzet</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>7394</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>132</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En la Amsterdam ocupada por los nazis, los hermanos banqueros Walraven y Gijs van Hall enfrentan su mayor desafío cuando deciden ayudar a financiar la resistencia holandesa.</plot>
+    <tagline>The greatest concealed act of resistance</tagline>
+    <runtime>123</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gS7z2knXHygje1oQ2rgdaLsw8Hz.jpg">https://image.tmdb.org/t/p/original/gS7z2knXHygje1oQ2rgdaLsw8Hz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eyspDRnUmkzAOm3FxRJfTxhaOj.jpg">https://image.tmdb.org/t/p/original/eyspDRnUmkzAOm3FxRJfTxhaOj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sqAJF2muVamUQfmGmrRK9w8s1KS.jpg">https://image.tmdb.org/t/p/original/sqAJF2muVamUQfmGmrRK9w8s1KS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3lXrQlekonbVQWUBSixxuvpQhND.jpg">https://image.tmdb.org/t/p/original/3lXrQlekonbVQWUBSixxuvpQhND.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pDtquB9mFRxdK7kJ9TgY48roquh.jpg">https://image.tmdb.org/t/p/original/pDtquB9mFRxdK7kJ9TgY48roquh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3ixSzoPz4ElIxCMere6ATfpCbRP.jpg">https://image.tmdb.org/t/p/original/3ixSzoPz4ElIxCMere6ATfpCbRP.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 16</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4610378</id>
+    <uniqueid type="imdb" default="true">tt4610378</uniqueid>
+    <uniqueid type="tmdb">497916</uniqueid>
+    <genre>Bélica</genre>
+    <genre>Drama</genre>
+    <country>Netherlands</country>
+    <credits>Marieke van der Pol</credits>
+    <credits>Michael Leendertse</credits>
+    <credits>Joost Reijmers</credits>
+    <credits>Thomas van der Ree</credits>
+    <credits>Matthijs Bockting</credits>
+    <credits>Pieter van den Berg</credits>
+    <director>Joram Lürsen</director>
+    <premiered>2018-03-08</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Dutch Filmworks</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i7bKkoT3p4I</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7406</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>nld</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Barry Atsma</name>
+        <role>Walraven van Hall</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wF3rjcUsPRuj0eBciapt9NyZniv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Derwig</name>
+        <role>Gijsbert van Hall</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xTwRFISqv4jKClHnXghkKUHmte0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pierre Bokma</name>
+        <role>Meinoud Rost van Tonningen</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6s4lpbszhXQYBgvbkVBbO1HmwhF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Götz Schubert</name>
+        <role>Friedrich Viebahn</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fockeline Ouwerkerk</name>
+        <role>Tilly van Hall</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nlGnZlCS1ornJVKCqkDV9T0cRdX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raymond Thiry</name>
+        <role>Van den Berg</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nNOzNn7xrMBts7gofAVvsMGjkTh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaap Spijkers</name>
+        <role>Cornelis Ritter</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/thi1QOTdsGmUW13e6aXkQrQmDFs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tjebbo Gerritsma</name>
+        <role>Henri Termeulen</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/m3nMcdXb0FtsF2XaTa2etTKPFnU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Jordan</name>
+        <role>Herbert Oelschlägel</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/2rcpI7WoBReW0lYBTpqkWFU0unJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matteo van der Grijn</name>
+        <role>Huub van Schie</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/lhPJPGv73Hl3qCbcykzuV4KD0tE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jochum ten Haaf</name>
+        <role>Jaap Buijs</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1drFR8jaCsJrt74cbOfa626tUrN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ali Zijlstra</name>
+        <role>Jeanette Veenstra</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/1CRpyiHOJqBO7h3qtgSvInpfUm7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steef de Bot</name>
+        <role>Jonas van Berkel</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frederik Brom</name>
+        <role>Marcel Dubois</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ea6I0LLNWWFJxaNf94qQLSDmJL5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Violette Vandervelden</name>
+        <role>Marleen van Hall</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Allard Geerlings</name>
+        <role>Big Man</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julien Croiset</name>
+        <role>Banker #5</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 16:58:00</dateadded>
+</movie>

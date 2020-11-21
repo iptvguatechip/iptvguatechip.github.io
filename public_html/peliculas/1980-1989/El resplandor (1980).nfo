@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El resplandor</title>
+    <originaltitle>The Shining</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.400000</value>
+            <votes>881372</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.200000</value>
+            <votes>11892</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.</plot>
+    <tagline>He came as the caretaker, but this hotel had its own guardians - who&apos;d been there a long time</tagline>
+    <runtime>143</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lH2Lf30S0zFcjBSiKMwrxYfc6n4.jpg">https://image.tmdb.org/t/p/original/lH2Lf30S0zFcjBSiKMwrxYfc6n4.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/iic9YD6zyz2mWIoHVaFy34N0MxX.jpg">https://image.tmdb.org/t/p/original/iic9YD6zyz2mWIoHVaFy34N0MxX.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hOhky3X4DO3n2rJbPlWaFgnscZl.jpg">https://image.tmdb.org/t/p/original/hOhky3X4DO3n2rJbPlWaFgnscZl.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/y1D4p5fFQ4NW75Fj5qQmFS8Efkp.jpg">https://image.tmdb.org/t/p/original/y1D4p5fFQ4NW75Fj5qQmFS8Efkp.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/Zu3LsXs8xBmIGpMTL5029EITJC.jpg">https://image.tmdb.org/t/p/original/Zu3LsXs8xBmIGpMTL5029EITJC.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rP11ywfwE1FJMQq8bhfS9bcYXse.jpg">https://image.tmdb.org/t/p/original/rP11ywfwE1FJMQq8bhfS9bcYXse.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/6e2tjzj0OFViDxx5yYeduBM53BE.jpg">https://image.tmdb.org/t/p/original/6e2tjzj0OFViDxx5yYeduBM53BE.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/8L2bt7OWxrVhZPrFPkyZW4rEXzq.jpg">https://image.tmdb.org/t/p/original/8L2bt7OWxrVhZPrFPkyZW4rEXzq.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/6fI0lDcilB81ool1RHux11MUSZG.jpg">https://image.tmdb.org/t/p/original/6fI0lDcilB81ool1RHux11MUSZG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p9hqo2JWhBytLxskz4FBKcP2e1k.jpg">https://image.tmdb.org/t/p/original/p9hqo2JWhBytLxskz4FBKcP2e1k.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg">https://image.tmdb.org/t/p/original/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aD0smIJ3MW3lUgayXvltjkIzZpT.jpg">https://image.tmdb.org/t/p/original/aD0smIJ3MW3lUgayXvltjkIzZpT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/px0qtUqaSQwLBnZbKlYas7usfTW.jpg">https://image.tmdb.org/t/p/original/px0qtUqaSQwLBnZbKlYas7usfTW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xF1N0ewiwKkBTMiuVI7zcJreTM6.jpg">https://image.tmdb.org/t/p/original/xF1N0ewiwKkBTMiuVI7zcJreTM6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg">https://image.tmdb.org/t/p/original/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vJq1poTiRDFdLCSTCNrzQuPtnVz.jpg">https://image.tmdb.org/t/p/original/vJq1poTiRDFdLCSTCNrzQuPtnVz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/io450N7H8iK2M79vZ4QWbm13MlA.jpg">https://image.tmdb.org/t/p/original/io450N7H8iK2M79vZ4QWbm13MlA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nRj5511mZdTl4saWEPoj9QroTIu.jpg">https://image.tmdb.org/t/p/original/nRj5511mZdTl4saWEPoj9QroTIu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/maB98h3jGYoAHDydxuLOQZdBQaN.jpg">https://image.tmdb.org/t/p/original/maB98h3jGYoAHDydxuLOQZdBQaN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z85FBLwtYp452O6wEzDvocXIJG9.jpg">https://image.tmdb.org/t/p/original/z85FBLwtYp452O6wEzDvocXIJG9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5xcXvTErivIgRchsaw9qaT3NflE.jpg">https://image.tmdb.org/t/p/original/5xcXvTErivIgRchsaw9qaT3NflE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cMdyiZbDTIQvaFBxddh3URzM287.jpg">https://image.tmdb.org/t/p/original/cMdyiZbDTIQvaFBxddh3URzM287.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hljO0M5K6pmKZo9FPSi7g5Cck6B.jpg">https://image.tmdb.org/t/p/original/hljO0M5K6pmKZo9FPSi7g5Cck6B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dyRZE1GxbMI03HY8CweDXWHbVZg.jpg">https://image.tmdb.org/t/p/original/dyRZE1GxbMI03HY8CweDXWHbVZg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xazWoLealQwEgqZ89MLZklLZD3k.jpg">https://image.tmdb.org/t/p/original/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hCE09C7pOYkiXVSY0HjAUcmTBh0.jpg">https://image.tmdb.org/t/p/original/hCE09C7pOYkiXVSY0HjAUcmTBh0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8LFbf5z5iZtcmkljFTYTPXFLWh8.jpg">https://image.tmdb.org/t/p/original/8LFbf5z5iZtcmkljFTYTPXFLWh8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/94qnqeNFA87tAZMys62Bx0TCFZy.jpg">https://image.tmdb.org/t/p/original/94qnqeNFA87tAZMys62Bx0TCFZy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gAG1B7T6PYjDxfI5b3xOQHrpWNl.jpg">https://image.tmdb.org/t/p/original/gAG1B7T6PYjDxfI5b3xOQHrpWNl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yhmgGreofwlScPQt3uPoc48bpsL.jpg">https://image.tmdb.org/t/p/original/yhmgGreofwlScPQt3uPoc48bpsL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1gZxixTfWmhIpMCCkOs7u0ru3v5.jpg">https://image.tmdb.org/t/p/original/1gZxixTfWmhIpMCCkOs7u0ru3v5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y9IR1otvdveNJLzXwaqSeshyLTM.jpg">https://image.tmdb.org/t/p/original/y9IR1otvdveNJLzXwaqSeshyLTM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7DGshQCul9mqnolQAMFq8916Ayn.jpg">https://image.tmdb.org/t/p/original/7DGshQCul9mqnolQAMFq8916Ayn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ueQ6UbadZUjLh4Pk0Hx1aC07OJX.jpg">https://image.tmdb.org/t/p/original/ueQ6UbadZUjLh4Pk0Hx1aC07OJX.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg">https://image.tmdb.org/t/p/original/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg">https://image.tmdb.org/t/p/original/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aqqk9IMTFD4sFVjpIKDdHOGVbVx.jpg">https://image.tmdb.org/t/p/original/aqqk9IMTFD4sFVjpIKDdHOGVbVx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dQMjySqD3rC8hSueCw3inXRJmIU.jpg">https://image.tmdb.org/t/p/original/dQMjySqD3rC8hSueCw3inXRJmIU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hWbC1ix65Ln7GySSvt6oe31A9GY.jpg">https://image.tmdb.org/t/p/original/hWbC1ix65Ln7GySSvt6oe31A9GY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3N9UcnCJRyLE2B4ZTbxIpWqL4aQ.jpg">https://image.tmdb.org/t/p/original/3N9UcnCJRyLE2B4ZTbxIpWqL4aQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bs3PHgG3FEapj1vT3SPnyeEU6Sy.jpg">https://image.tmdb.org/t/p/original/bs3PHgG3FEapj1vT3SPnyeEU6Sy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9WyZkJjQOibjZUhKr4C6JlUZ5C1.jpg">https://image.tmdb.org/t/p/original/9WyZkJjQOibjZUhKr4C6JlUZ5C1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h2QvJMZjCWWC0QnMSsjKQJHXPB8.jpg">https://image.tmdb.org/t/p/original/h2QvJMZjCWWC0QnMSsjKQJHXPB8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jWHagVuSoWOluZwPyFctAyU6NHd.jpg">https://image.tmdb.org/t/p/original/jWHagVuSoWOluZwPyFctAyU6NHd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3eBK57pZdc2zs4P8F3G00M1k25k.jpg">https://image.tmdb.org/t/p/original/3eBK57pZdc2zs4P8F3G00M1k25k.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w62tFkuXKkAEV2xL5K1cDEVCSNc.jpg">https://image.tmdb.org/t/p/original/w62tFkuXKkAEV2xL5K1cDEVCSNc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eyVLGgir9AmEgD9wOYoTYsMHdzL.jpg">https://image.tmdb.org/t/p/original/eyVLGgir9AmEgD9wOYoTYsMHdzL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yQ7AR0T0dFJcEfR9g4J8vyeiHCl.jpg">https://image.tmdb.org/t/p/original/yQ7AR0T0dFJcEfR9g4J8vyeiHCl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fAcJcaSIAKBeNetqkfpyj4gGVfL.jpg">https://image.tmdb.org/t/p/original/fAcJcaSIAKBeNetqkfpyj4gGVfL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mBELENvvSx5tAcCRCKfw8kzLOv8.jpg">https://image.tmdb.org/t/p/original/mBELENvvSx5tAcCRCKfw8kzLOv8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9NG9ZuhOVCcNVXiIdn6LUTULROp.jpg">https://image.tmdb.org/t/p/original/9NG9ZuhOVCcNVXiIdn6LUTULROp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5w8xkdlUCXS4BJ4b1LqRFCkm2S5.jpg">https://image.tmdb.org/t/p/original/5w8xkdlUCXS4BJ4b1LqRFCkm2S5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xzN0wy7eO6evKpWM6sBKGiBEQxe.jpg">https://image.tmdb.org/t/p/original/xzN0wy7eO6evKpWM6sBKGiBEQxe.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0081505</id>
+    <uniqueid type="imdb" default="true">tt0081505</uniqueid>
+    <uniqueid type="tmdb">694</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <set>
+        <name>El resplandor - Colección</name>
+    </set>
+    <credits>Stanley Kubrick</credits>
+    <credits>Diane Johnson</credits>
+    <director>Stanley Kubrick</director>
+    <premiered>1980-05-23</premiered>
+    <year>1980</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Hawk Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A3q03BBwMp4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>8626</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jack Nicholson</name>
+        <role>Jack Torrance</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shelley Duvall</name>
+        <role>Wendy Torrance</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/mCNjpLeTDCUMFGLfe9BvHKM2ny7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scatman Crothers</name>
+        <role>Dick Hallorann</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ughfThqQuuoPLSsC9HfkxwX370w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Lloyd</name>
+        <role>Danny Torrance</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/sFhJokeMkwD46Gsiy4Bjv26aiqZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Nelson</name>
+        <role>Stuart Ullman</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/mPJX312FaIfJXTochCs3g26YcFd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Turkel</name>
+        <role>Lloyd the Bartender</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/qtyXl7dJojta0urPqzGpRLgJ54z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Jackson</name>
+        <role>Doctor (uncredited)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/4N2QHfubcEkQvxVxUVrbqPe5x1o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Dennen</name>
+        <role>Bill Watson</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/zSRROjxzdgbMRSPjpq2Kfpszd4J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Burton</name>
+        <role>Larry Durkin</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/hUGbsvlAfnmWD0EbrJEEPMhkulg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Philip Stone</name>
+        <role>Delbert Grady</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKIz8L0TcKk26TNGj7rKfgP02UG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lia Beldam</name>
+        <role>Young Woman in Bath</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/cMqC8geIBmTnKRN2AhBtYbA5fT4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billie Gibson</name>
+        <role>Old Woman in Bath</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Baxt</name>
+        <role>Forest Ranger 1 (uncredited)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/amzGafV7re5W1Xxnsj0L52eZiIy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manning Redwood</name>
+        <role>Forest Ranger 2 (uncredited)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/mEYKZYJUOu5tpz2PXN82Z4bvmeb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Burns</name>
+        <role>Grady Daughter (uncredited)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louise Burns</name>
+        <role>Grady Daughter (uncredited)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robin Pappas</name>
+        <role>Nurse (uncredited)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alison Coleridge</name>
+        <role>Secretary (uncredited)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Burnell Tucker</name>
+        <role>Policeman (uncredited)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/kSMCUUbt6pplhEKSR3uX8rJDXOy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jana Shelden</name>
+        <role>Stewardess (uncredited)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/FQMFRWTkLA6sI15mSPugI5Qg9X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Phelps</name>
+        <role>Receptionist (uncredited)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Norman Gay</name>
+        <role>Injured Guest (uncredited)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Desbois</name>
+        <role>Hotel Porter (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vivian Kubrick</name>
+        <role>Smoking Guest on Ballroom Couch (uncredited)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/abkr2zJWKURpfzsBJDGeYZZaAXt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek Lyons</name>
+        <role>Hotel Bellhop (uncredited)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/3rz4mRzDsS3PgdnOaeDH3VmmFVL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Harris</name>
+        <role>Ballroom Dancer (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/nc83B1SJ7xVJjx8Op7HolOM70uc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter McNamara</name>
+        <role>Dinner Guest (uncredited)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Guy Standeven</name>
+        <role>Ballroom Guest (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/cA11gfCeTmPosebOGp69Sv2MOBJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reg Thomason</name>
+        <role>Ballroom Guest (uncredited)</role>
+        <order>42</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMjIyMWM5YTktZDFhYS00ZGY3LTkzYjYtZTk1MzU5NjQ4OTg2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._UY632.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-06-01 09:39:08</dateadded>
+</movie>

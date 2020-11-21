@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hotel Transylvania 3: Monstruos de vacaciones</title>
+    <originaltitle>Hotel Transylvania 3: Summer Vacation</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>55628</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.900000</value>
+            <votes>2712</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En Hotel Transylvania 3  Monstruos de vacaciones, Mavis sorprende a Drácula con un viaje familiar a un lujoso crucero para monstruos, pero lo que no imaginaba todo el grupo es que más que ser unas deliciosas vacaciones es una aventura amorosa.  Y es que Drácula caerá rendido ante los encantos de Ericka, la capitana del barco, quien resulta ser hija de Abraham Van Helsing, el famoso cazador de vampiros. Ahora, Mavis tendrá que proteger a su papá y mantenerlo lejos de Ericka.</plot>
+    <tagline>Hotel Transylvania 3</tagline>
+    <runtime>97</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9nR1xIcDo84gbbNZeFb9NCZYTdw.jpg">https://image.tmdb.org/t/p/original/9nR1xIcDo84gbbNZeFb9NCZYTdw.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lrss5CB6dgRMnBoTlqhWoRTYbiv.jpg">https://image.tmdb.org/t/p/original/lrss5CB6dgRMnBoTlqhWoRTYbiv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zRNpkbP9QpcV2wz9dFzCzdG9fSD.jpg">https://image.tmdb.org/t/p/original/zRNpkbP9QpcV2wz9dFzCzdG9fSD.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/2wJ6NhW1L34oP59hpQdsusS2Drw.jpg">https://image.tmdb.org/t/p/original/2wJ6NhW1L34oP59hpQdsusS2Drw.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3DMRKmSyxRJZ5IkyAxo6JZjioHT.jpg">https://image.tmdb.org/t/p/original/3DMRKmSyxRJZ5IkyAxo6JZjioHT.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/5ScWL6YfqeHQNMiVigoC2DvV9nl.jpg">https://image.tmdb.org/t/p/original/5ScWL6YfqeHQNMiVigoC2DvV9nl.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/htfWpV1cxtmYnmHiElJqfCZmWIA.jpg">https://image.tmdb.org/t/p/original/htfWpV1cxtmYnmHiElJqfCZmWIA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/5BdZEDsRLYpmlhYTUvWH56Quots.jpg">https://image.tmdb.org/t/p/original/5BdZEDsRLYpmlhYTUvWH56Quots.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/uhwRuPmDFoiuBxOAU3bJxu6os6i.jpg">https://image.tmdb.org/t/p/original/uhwRuPmDFoiuBxOAU3bJxu6os6i.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/arH2YrpG7EVMnA4JCtzAXt9wQQJ.jpg">https://image.tmdb.org/t/p/original/arH2YrpG7EVMnA4JCtzAXt9wQQJ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5MJt6g7k9gADQH4xHn5mOEMa3Vr.jpg">https://image.tmdb.org/t/p/original/5MJt6g7k9gADQH4xHn5mOEMa3Vr.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5dFrxoGKot6UjJD9SlBkyICJES7.jpg">https://image.tmdb.org/t/p/original/5dFrxoGKot6UjJD9SlBkyICJES7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xWoCAuqXogDaKsEcUoBu0A87y82.jpg">https://image.tmdb.org/t/p/original/xWoCAuqXogDaKsEcUoBu0A87y82.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg">https://image.tmdb.org/t/p/original/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r69lcBWIqjN1wU0sKuxyubbtyF.jpg">https://image.tmdb.org/t/p/original/r69lcBWIqjN1wU0sKuxyubbtyF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rbVPq3sGfm4DPkFIoYj3mIXbMoU.jpg">https://image.tmdb.org/t/p/original/rbVPq3sGfm4DPkFIoYj3mIXbMoU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ga8WirIPf2KyVTty97ItxhmcyPW.jpg">https://image.tmdb.org/t/p/original/ga8WirIPf2KyVTty97ItxhmcyPW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg">https://image.tmdb.org/t/p/original/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o7RY5zNHdH2heGS1hET2Rt6hZOe.jpg">https://image.tmdb.org/t/p/original/o7RY5zNHdH2heGS1hET2Rt6hZOe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aRKmgBjCzYjnOMgjjGX5fnLfyiN.jpg">https://image.tmdb.org/t/p/original/aRKmgBjCzYjnOMgjjGX5fnLfyiN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg">https://image.tmdb.org/t/p/original/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/74RN7WMGSBvUag2c8NMfnXybWWl.jpg">https://image.tmdb.org/t/p/original/74RN7WMGSBvUag2c8NMfnXybWWl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pFhGvy9qJNjRVVZY4VMQV2YVzlI.jpg">https://image.tmdb.org/t/p/original/pFhGvy9qJNjRVVZY4VMQV2YVzlI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yCVtyKgH7Zduh4rlowO4Wt3nMcI.jpg">https://image.tmdb.org/t/p/original/yCVtyKgH7Zduh4rlowO4Wt3nMcI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ggP9OUjqCJSyYRpHpL48tIE6qwC.jpg">https://image.tmdb.org/t/p/original/ggP9OUjqCJSyYRpHpL48tIE6qwC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/moLfA7PuID77Fk5GBtHzrZLw7DI.jpg">https://image.tmdb.org/t/p/original/moLfA7PuID77Fk5GBtHzrZLw7DI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/s3Yg2stxcMPzCUh5dNDcEg20cuC.jpg">https://image.tmdb.org/t/p/original/s3Yg2stxcMPzCUh5dNDcEg20cuC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hHr5pJ2eGUNliNdbV8MuPEiyzrH.jpg">https://image.tmdb.org/t/p/original/hHr5pJ2eGUNliNdbV8MuPEiyzrH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fYPRpvUYupLQnXKoQ2ZxsNbIdXG.jpg">https://image.tmdb.org/t/p/original/fYPRpvUYupLQnXKoQ2ZxsNbIdXG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nbjqedtHhR6HFlAHFMTFGcnoTzq.jpg">https://image.tmdb.org/t/p/original/nbjqedtHhR6HFlAHFMTFGcnoTzq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aMLlnfaVASTtqDLnQVhVVSVYOWK.jpg">https://image.tmdb.org/t/p/original/aMLlnfaVASTtqDLnQVhVVSVYOWK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m7zI1LmqcF1rEPTM9BacKNDrLND.jpg">https://image.tmdb.org/t/p/original/m7zI1LmqcF1rEPTM9BacKNDrLND.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6ynYlMgUkhHSjfnfth0iMfViWEO.jpg">https://image.tmdb.org/t/p/original/6ynYlMgUkhHSjfnfth0iMfViWEO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/XoXhxTS8fIYzFglOhe2zpBVxQA.jpg">https://image.tmdb.org/t/p/original/XoXhxTS8fIYzFglOhe2zpBVxQA.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m03jul0YdVEOFXEQVUv6pOVQYGL.jpg">https://image.tmdb.org/t/p/original/m03jul0YdVEOFXEQVUv6pOVQYGL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xVCwX0p8uZ0ieD8JozZmdi1wUjK.jpg">https://image.tmdb.org/t/p/original/xVCwX0p8uZ0ieD8JozZmdi1wUjK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gvUYIHWzq7r3KuzAaKvly2h0SjM.jpg">https://image.tmdb.org/t/p/original/gvUYIHWzq7r3KuzAaKvly2h0SjM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gw0asmbuaWroP84Zy4JtIlYhr3h.jpg">https://image.tmdb.org/t/p/original/gw0asmbuaWroP84Zy4JtIlYhr3h.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jpsGUzKSY9obt4AIHL9mt7NEwSt.jpg">https://image.tmdb.org/t/p/original/jpsGUzKSY9obt4AIHL9mt7NEwSt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hoZc70rbHaVD50Q5jSMUvr7VSXi.jpg">https://image.tmdb.org/t/p/original/hoZc70rbHaVD50Q5jSMUvr7VSXi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vCPYDnwxIYgqCghpPu2DanZ3tEy.jpg">https://image.tmdb.org/t/p/original/vCPYDnwxIYgqCghpPu2DanZ3tEy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dq6JP59ti6gdvbMMYW4UJoTaqfn.jpg">https://image.tmdb.org/t/p/original/dq6JP59ti6gdvbMMYW4UJoTaqfn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uUYQ4BWYbyNqb3Srrp0mtwd7o5w.jpg">https://image.tmdb.org/t/p/original/uUYQ4BWYbyNqb3Srrp0mtwd7o5w.jpg</thumb>
+    </fanart>
+    <mpaa>Rated APTA</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5220122</id>
+    <uniqueid type="imdb" default="true">tt5220122</uniqueid>
+    <uniqueid type="tmdb">400155</uniqueid>
+    <genre>Familia</genre>
+    <genre>Fantasía</genre>
+    <genre>Comedia</genre>
+    <genre>Animación</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Hotel Transylvania - Colección</name>
+    </set>
+    <credits>Michael McCullers</credits>
+    <credits>Genndy Tartakovsky</credits>
+    <director>Genndy Tartakovsky</director>
+    <premiered>2018-06-28</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Columbia Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9c44MV4vw9c</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5843</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Adam Sandler</name>
+        <role>Count Dracula (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Samberg</name>
+        <role>Johnny Loughran (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/y6VcPyshsr6SMx97fg515NoNGRr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Selena Gomez</name>
+        <role>Mavis (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rAkhmUuNs1M7pg048co1DaJgav9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin James</name>
+        <role>Frankenstein (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/nSLuzz4KoycSP5vyUsdju3y4Xtw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Spade</name>
+        <role>Griffin (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8tv638lAMLmYh8bSLICqPzbW3tv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Buscemi</name>
+        <role>Wayne (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keegan-Michael Key</name>
+        <role>Murray (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Molly Shannon</name>
+        <role>Wanda (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/gFuqGF0IO4e9IjiJYAvGI9205Sq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fran Drescher</name>
+        <role>Eunice (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/kQzvZ4ksLunfs3QZQtzRhzLJPBY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathryn Hahn</name>
+        <role>Ericka Van Helsing (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Gaffigan</name>
+        <role>Professor Abraham Van Helsing (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/vjsNoFWoTCXaBZ59qq6A03BeQs8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mel Brooks</name>
+        <role>Vlad (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/c21qNcMJlHnRolfhQhZOVacjtwI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Asher Blinkoff</name>
+        <role>Dennis Loughran (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/jMGlMK31z98DOVU9Yh1yruo6Zp8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sadie Sandler</name>
+        <role>Winnie (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZYWrq8ASzrpQZ0U75Ok7HVMMTa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Genndy Tartakovsky</name>
+        <role>Blobby / Blobby Baby / Puppy Blobby (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/19hgthbSR0mcp524yUFxcTpOtmk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chrissy Teigen</name>
+        <role>Crystal (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/mSr84rB656sz6rjhxIS9gjiWGEZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alison Hammond</name>
+        <role>Frankenginger (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Fzpb1KAA4b9suY1Q2sJu3N6zhH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Whyte</name>
+        <role>Tinkles / Bob (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/b1jrcXsqiY5G4C9ieg1B7PrrnEl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron LaPlante</name>
+        <role>Gremlins / Gremlin Pilot / Gremlin Stewardess (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/9o42oeMwvAfoJq2E5H83hdvTrxj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Murdocca</name>
+        <role>Phone / Kelsey / Witch #1 / Witch #2 (voice)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joyce Arrastia</name>
+        <role>Zingr Witch / Witch #3 (voice)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sunny Sandler</name>
+        <role>Sunny (voice)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tara Strong</name>
+        <role>Frankenlady (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9S3QzI3L5aARP8GYYO86rREKxU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Libby Thomas Dickey</name>
+        <role>Libby (voice)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patrick Harpin</name>
+        <role>Austrian Boy (voice)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Craig Kellman</name>
+        <role>Mr. Hydraberg (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/c5LqdP9ouyqaZeOhF9D05PjOSeu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaime Camil</name>
+        <role>Chupacabra (voice)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/3hxkykBr2ou03hvWKen8FKPDRwm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Jonas</name>
+        <role>The Kraken (voice)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/wlzMYfBH3uBwOyU0LfDMK3XaFpr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Parnell</name>
+        <role>Stan / Fish Man (voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/aGzA5l9S89qLkhpSdjmkerFdZt0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Tatasciore</name>
+        <role>Additional Voices (voice)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/busoEz4khUJ0hOoKHexjXwGrsit.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kari Wahlgren</name>
+        <role>Additional Voices (voice)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/9phhl0oubAKt8D50xLGAb81KPSb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian T. Delaney</name>
+        <role>Additional Voices (voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/zzkAnz4HcnUIDJKTxuL0HS7uHk2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Atkin Downes</name>
+        <role>Additional Voices (voice)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Gee-George</name>
+        <role>Additional Voices (voice)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/1qQ6m28PasNeNQLy5nlXWYp8ZVu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant George</name>
+        <role>Additional Voices (voice)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/julROMpew9wvfV1z6Lzik1qngsn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Haberkorn</name>
+        <role>Additional Voices (voice)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/pQgclvlmf0rTpplFZquNtT1ypIR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rif Hutton</name>
+        <role>Additional Voices (voice)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/1RqWCEgCr3K47QxKoWiPEoT8pBZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lex Lang</name>
+        <role>Additional Voices (voice)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/hrgjiwtrnI6meAg2Q1eTGpyTrDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mona Marshall</name>
+        <role>Additional Voices (voice)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Morgado</name>
+        <role>Additional Voices (voice)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/rDkWTPcsFtw5MQCi1qxSXXZlXG2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Ruff</name>
+        <role>Additional Voices (voice)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/wO6VvUeVRlVm2N4lutsz6ayBxL5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Sanfelippo</name>
+        <role>Additional Voices (voice)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Y4CsCV6VYEhy63hurbL2M43HeU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keith Silverstein</name>
+        <role>Additional Voices (voice)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/vW1d7TfqNPglzmxa8UlyDEbkLgJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kirk Thornton</name>
+        <role>Additional Voices (voice)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/pGzgUKchroJyBMf5uGOqmVZD6zX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amanda Troop</name>
+        <role>Additional Voices (voice)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIiz7YCwDCphqCWNA6zUzl30WQ9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Audrey Wasilewski</name>
+        <role>Additional Voices (voice)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/4iUq8nA7hm2taO0vMMvvwtQvLr2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Debra Wilson</name>
+        <role>Additional Voices (voice)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/2bsguOhkeCrSFMhWQZ9xUrQcaFw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael-Leon Wooley</name>
+        <role>Additional Voices (voice)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/tMUNtp3xPTHRBUhnOiHcU5sjBDS.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:18:48</dateadded>
+</movie>

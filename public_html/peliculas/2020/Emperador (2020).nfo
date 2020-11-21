@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Emperor</title>
+    <originaltitle>Emperor</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>477</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.300000</value>
+            <votes>35</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Drama inspirado en la leyenda de Shields &quot;Emperor&quot; Green, un descendiente de reyes africanos convertidos en esclavo y en un fuera de la ley en la época anterior a la Guerra Civil. Buscando la libertad de su familia, Shields luchó en su huida hacia el norte, ayudando a alterar el curso de la historia estadounidense.</plot>
+    <tagline>Son of kings. Father of revolution.</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/s6BMM5UjC9fqGWqlzeWCHJjBNyy.jpg">https://image.tmdb.org/t/p/original/s6BMM5UjC9fqGWqlzeWCHJjBNyy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3AvBhUt43rsWGcHDNOzH98zajmW.jpg">https://image.tmdb.org/t/p/original/3AvBhUt43rsWGcHDNOzH98zajmW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wT71osd1azUqY0O7nXkTGe9ysG9.jpg">https://image.tmdb.org/t/p/original/wT71osd1azUqY0O7nXkTGe9ysG9.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qfuvkbJpLzNHddTH2y9VXaCCCs4.jpg">https://image.tmdb.org/t/p/original/qfuvkbJpLzNHddTH2y9VXaCCCs4.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8354752</id>
+    <uniqueid type="imdb" default="true">tt8354752</uniqueid>
+    <uniqueid type="tmdb">666219</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <country>United States of America</country>
+    <credits>Mark Amin</credits>
+    <credits>Pat Charles</credits>
+    <director>Mark Amin</director>
+    <premiered>2020-08-18</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Sobini Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TKG7dnF-dSU</trailer>
+    <actor>
+        <name>Dayo Okeniyi</name>
+        <role>Shields Green</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/anfpCPkIH2BlUku2qBebngnf9cQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Dern</name>
+        <role>Levi Coffin</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/or8f1huzZ6sYQfjUgpWKUjx0Xow.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Cromwell</name>
+        <role>John Brown</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kat Graham</name>
+        <role>Delores</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9AvpU8NAcPJRcioeNm5kVo4rPZg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Robson</name>
+        <role>Luke McCabe</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5PC13qMbigvYXd4rhay6VgHJXhX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naturi Naughton</name>
+        <role>Sarah Green</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7MAE01ucdjtV1lSeHB39BYayl3N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Scheer</name>
+        <role>Duvane Henderson</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/76c6ieidSECRslxVX4ZA5WBdz40.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keean Johnson</name>
+        <role>Rufus Little</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/qYslz07HQUW1bAqdYSa3dUbnglb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>M.C. Gainey</name>
+        <role>Randolph Stevens</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/nM82se0lOFbOhhj3J6tRFcdEydO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mykelti Williamson</name>
+        <role>Truesdale</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/b68ZTxJL8EuvGMCcgSH3Mbn2GxP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Lennix</name>
+        <role>Frederick Douglas</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/kNGiizWpetf4pyAkINkjkWacmCL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Logan</name>
+        <role>Gunther Bowman</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkLxZQYgXihT0MZEsqSzwwtelLY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Carter</name>
+        <role>Grady</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/xdQINDoQK3nx5ndIJnYU3qKRM4Y.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-10-19 13:22:01</dateadded>
+</movie>

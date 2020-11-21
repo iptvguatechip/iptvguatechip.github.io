@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Blackwood</title>
+    <originaltitle>Blackwood</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>42</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Nikki, a sound recordist, picks up a strange sound whilst filming on location in a forest. After a disturbing encounter, she wakes up alone, confused and filthy in her house. Her only chance at finding out what happened to her, lies within her sound recorder.</plot>
+    <tagline></tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kQmWQ2KCDfgpkshyM9rMfPsMYCF.jpg">https://image.tmdb.org/t/p/original/kQmWQ2KCDfgpkshyM9rMfPsMYCF.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8254428</id>
+    <uniqueid type="imdb" default="true">tt8254428</uniqueid>
+    <uniqueid type="tmdb">598175</uniqueid>
+    <genre>Terror</genre>
+    <country>Australia</country>
+    <credits>Andrew Montague</credits>
+    <director>Andrew Montague</director>
+    <premiered>2018-04-04</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5790</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Danielle Butlin</name>
+        <role>NIkki</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rowan Howard</name>
+        <role>First A.D.</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/iuskKWwqheNVSfAZiottaaCj23b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Koutsoukos</name>
+        <role>Director</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alanah Parkin</name>
+        <role>Damsel</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/esf9IVQYgKmjNEdQ03NRXgy92bS.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 13:09:52</dateadded>
+</movie>

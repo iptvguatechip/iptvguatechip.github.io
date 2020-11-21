@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Dry Martina</title>
+    <originaltitle>Dry Martina</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>661</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>15</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Martina was a famous singer in Argentina during the late 90s, who&apos;s become completely frigid and disenchanted with love. The arrival of a so-called sister, alongside her attractive boyfriend, compel Martina to go to Chile with one objective in mind: getting back her libido.</plot>
+    <tagline>Thirsty for love</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gA6nTGlDtFdRtGEYHSEBzSJ1Xzy.jpg">https://image.tmdb.org/t/p/original/gA6nTGlDtFdRtGEYHSEBzSJ1Xzy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3XS4ZRAMyMVBgBq2MrE5zWBLqfy.jpg">https://image.tmdb.org/t/p/original/3XS4ZRAMyMVBgBq2MrE5zWBLqfy.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rvSBEspGc899mUikZXDAodQBg4c.jpg">https://image.tmdb.org/t/p/original/rvSBEspGc899mUikZXDAodQBg4c.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6312802</id>
+    <uniqueid type="imdb" default="true">tt6312802</uniqueid>
+    <uniqueid type="tmdb">510338</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>Argentina</country>
+    <credits>Che Sandoval</credits>
+    <director>Che Sandoval</director>
+    <premiered>2018-06-21</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Rizoma Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SvrA1pdA7wc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5998</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Antonella Costa</name>
+        <role>Martina</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/l9flsMdJkbbpbi4Tm76d07qIZcl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geraldine Neary</name>
+        <role>Francisca</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xqN8WCe2vdkFqY062kvMpjqlvSj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Campos</name>
+        <role>César</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pIECkwjzt7H4eR25ST65MtLzYiQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricio Contreras</name>
+        <role>Nacho</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mvaDGv6UackqBPtgJbtiJnFrsct.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Álvaro Espinoza</name>
+        <role>Juan</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/bZO0plU7ZvKhKUBPbuMXDvO6hwH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Garabal</name>
+        <role>Roberto</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mktxywLXiqpTilDaI2mFuHUvOPe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joaquin Fernández</name>
+        <role>Daniel</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sergio Nicloux</name>
+        <role>Leonardo</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Héctor Morales</name>
+        <role>Young Man</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/nnMJ8fy1Bc7A3DTD2w1chY2Vu14.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fernando Guzzoni</name>
+        <role>Man at the Soda machine</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/gwe6ZqgkhZ6XHlEHF4lsaMJ9rSh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucas Espinoza</name>
+        <role>Young Man at the Bus Station</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rafael Gumucio</name>
+        <role>The Lover</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Humberto Miranda</name>
+        <role>Janitor</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joaquin Mussio</name>
+        <role>Medic</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eyal Meyer</name>
+        <role>Young Friend</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/lKd5qFeSKc26QKPdzbSH0bM1rwf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Pablo Correa</name>
+        <role>Truck Driver</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sergio Diaz</name>
+        <role>Taxi Driver</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alejandro Goic</name>
+        <role>MATTA  Cultural Center Security Guard</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/p775rssNjddji5UULZ2kidh4KeR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Etienne Bobenrieth</name>
+        <role>Sam (voice)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 16:25:07</dateadded>
+</movie>

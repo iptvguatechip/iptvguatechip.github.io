@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>My Hero Academia: Dos héroes</title>
+    <originaltitle>僕のヒーローアカデミア THE MOVIE ～2人の英雄～</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.500000</value>
+            <votes>5973</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.100000</value>
+            <votes>455</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Deku y All-Might visitan la isla I, una ciudad flotante hecha por el hombre. Allí, conocen a una chica y pelean contra un villano que domina el lugar. Además, se develará información sobre el pasado de All-Might.</plot>
+    <tagline>Who is your hero?</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/45ugfrqKgSIrTSdJIw6kwABztq8.jpg">https://image.tmdb.org/t/p/original/45ugfrqKgSIrTSdJIw6kwABztq8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/783vbPefbFReMBRwbwD3HQkxGEr.jpg">https://image.tmdb.org/t/p/original/783vbPefbFReMBRwbwD3HQkxGEr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg">https://image.tmdb.org/t/p/original/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mbhupfwVQfCAtX14LdJURgBinM8.jpg">https://image.tmdb.org/t/p/original/mbhupfwVQfCAtX14LdJURgBinM8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lqqf7L41ylGf9v3r9YOw7Uy1fl3.jpg">https://image.tmdb.org/t/p/original/lqqf7L41ylGf9v3r9YOw7Uy1fl3.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uicia399gyMGE1smatJ41M0CtFx.jpg">https://image.tmdb.org/t/p/original/uicia399gyMGE1smatJ41M0CtFx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9DzVZK1tZmTFphef5hDU3oJyA4o.jpg">https://image.tmdb.org/t/p/original/9DzVZK1tZmTFphef5hDU3oJyA4o.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gnLydPCxdh1xmxW715HeGtL3xTi.jpg">https://image.tmdb.org/t/p/original/gnLydPCxdh1xmxW715HeGtL3xTi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oxaQaHobEuKVvK8488PdCYY3lGU.jpg">https://image.tmdb.org/t/p/original/oxaQaHobEuKVvK8488PdCYY3lGU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/t9sn0dK8J3pRbFysOrRgE8B4Mbl.jpg">https://image.tmdb.org/t/p/original/t9sn0dK8J3pRbFysOrRgE8B4Mbl.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7745068</id>
+    <uniqueid type="imdb" default="true">tt7745068</uniqueid>
+    <uniqueid type="tmdb">505262</uniqueid>
+    <genre>Animación</genre>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <genre>Aventura</genre>
+    <country>Japan</country>
+    <set>
+        <name>My Hero Academia - Colección</name>
+    </set>
+    <director>Kenji Nagasaki</director>
+    <premiered>2018-08-03</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>BONES</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eU7FlWNWr8o</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5761</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>jpn</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Daiki Yamashita</name>
+        <role>Izuku Midoriya (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenta Miyake</name>
+        <role>All Might (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5eb1CeKfRfVcyxzuhYkQN6c4gm5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mirai Shida</name>
+        <role>Melissa Shield (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/8EsiYk1qTUsVfI8nn09qpgSPIgl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nobuhiko Okamoto</name>
+        <role>Katsuki Bakugou (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qyZpSYva9O9JQIZ0nVmXTf90FlL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yūki Kaji</name>
+        <role>Shouto Todoroki (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ayane Sakura</name>
+        <role>Ochako Uraraka (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/3DEUD9sdtJQXd3QpkdNtcz9NuBy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaito Ishikawa</name>
+        <role>Tenya Iida (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/kLVhJYH73ust9ComUxGR63DOvxu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toshiki Masuda</name>
+        <role>Eijirou Kirishima (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/pq9VVaieyJ95CgCji7ZvBxsw3bT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryou Hirohashi</name>
+        <role>Minoru Mineta (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/f02uG9vDXrIUk0Rik0RpGj4k8wa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tasuku Hatanaka</name>
+        <role>Denki Kaminari (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/tIOs1Tvrofe6SBzyEnJDGcKJg0m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marina Inoue</name>
+        <role>Momo Yaoyorozu (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/pkGEWPRg310WyDLvRrw8RIzFMzU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aoi Yuki</name>
+        <role>Tsuyu Asui (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cIFTJFbPhN55T9WW2P064Wh8qty.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katsuhisa Namase</name>
+        <role>David Shield (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/b3dmjOUkCPblOPhPRJTcrgsiVbq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kei Shindou</name>
+        <role>Kyouka Jirou (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/5TSWS4YW9eeaVZm0E3LLKJnACUG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rikiya Koyama</name>
+        <role>Wolfram (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/76irEW7bn5hQYfAk28QtSxnoKOV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eri Kitamura</name>
+        <role>Mina Ashido (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/9kZPDbMSOlZ9BtLfkbOMVxmMUIj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaori Nazuka</name>
+        <role>Toru Hagakure (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/5gw9iXGvgWcD2un6gyYxrJwLDvV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mitsuru Ogata</name>
+        <role>Samuel Abraham (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/hU4oLTtbjMSHbDfByuhQx9jzaym.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akio Otsuka</name>
+        <role>All For One (voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/fBgebh93VAJC9lIVdB8JmFtdixL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daigo Yamamoto</name>
+        <role>Daigo (voice)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nobuyuki Hayakawa</name>
+        <role>Nobu (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/vfBi8eidDlKj74dM6IMVRNLAcZU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Genta Aoki</name>
+        <role>Pilot (voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/dncbi3cSi8tK9hTQ5bVntEjkT4Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mami Sugino</name>
+        <role>Female reporter (voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/aP4p3tnmZccv9Y9Vrm4rvU2F8LS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kensuke Satō</name>
+        <role>Mr. Plastic (voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/95hZ6e6y8Pk5nk8qMH7V6xyEUxf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keiji Hirai</name>
+        <role>Elecplant (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/6zDx1oFvWTYqmKm4qN7ZBnAxfey.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tomomi Kawamura</name>
+        <role>Cow Lady (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/l6vm9lHp8u05NBEeQeIYSl7CJIG.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 18:38:44</dateadded>
+</movie>

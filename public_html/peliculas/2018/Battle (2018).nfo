@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Battle</title>
+    <originaltitle>Battle</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>3561</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>561</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Amalie es la chica que tiene todo, buena apariencia, dinero, un novio y un gran talento para bailar. Un día, su mundo se desmorona  con todo lo que sabe. Entonces entra Mikael. Él está bailando en las calles y Amalie se une a él para bailar en las calles, bailando batallas.</plot>
+    <tagline></tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6yNzlIYHx5Yfs4sfSE8EBtX4ChT.jpg">https://image.tmdb.org/t/p/original/6yNzlIYHx5Yfs4sfSE8EBtX4ChT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg">https://image.tmdb.org/t/p/original/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vVMO4ajDgCEwD41hfFzP5fp2Y5r.jpg">https://image.tmdb.org/t/p/original/vVMO4ajDgCEwD41hfFzP5fp2Y5r.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vOsWTsLkP1vB8HPvuSTQb6yTkOy.jpg">https://image.tmdb.org/t/p/original/vOsWTsLkP1vB8HPvuSTQb6yTkOy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xFSP8HipmNVCgTISXF5JypQtSQz.jpg">https://image.tmdb.org/t/p/original/xFSP8HipmNVCgTISXF5JypQtSQz.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6854672</id>
+    <uniqueid type="imdb" default="true">tt6854672</uniqueid>
+    <uniqueid type="tmdb">513574</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <genre>Música</genre>
+    <country>Denmark</country>
+    <credits>Maja Lunde</credits>
+    <director>Katarina Launing</director>
+    <premiered>2018-09-28</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Friland</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>191.000000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5890</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>nor</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lisa Teige</name>
+        <role>Amalie</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vtFWaJFGWqVUbw1EXycctL88OPJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fabian Svegaard Tapia</name>
+        <role>Mikael</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vebjørn Enger</name>
+        <role>Aksel</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/boLyNF47WSJpieLp6bHxTchnZAp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlott Madeleine Utzig</name>
+        <role>Charlotte</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Achmed Akkabi</name>
+        <role>Bashir</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/7jNE7Ii1ksK2MOm1AdWw0XPWLAM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen-Lise Mynster</name>
+        <role>Birgitta</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qj5P2EfJQVWXdo96eoJTzgIjprp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stig R. Amdam</name>
+        <role>Bjørn</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/poJH7EEUfBi7uEGOcE5flOpSPWG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sofie Albertine Foss</name>
+        <role>Vanessa</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Morad Aziman</name>
+        <role>Josef</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marius Vold</name>
+        <role>Elliot</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucas Lute</name>
+        <role>The Loot</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sigyn Åsa Sætereng</name>
+        <role>Kim</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Silje Marie Baltzersen</name>
+        <role>Ida</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bao Andre Nguyen</name>
+        <role>Moa</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 12:06:40</dateadded>
+</movie>

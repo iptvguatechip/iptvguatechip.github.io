@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Socios y Sabuesos</title>
+    <originaltitle>Turner &amp; Hooch</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>63489</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>784</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Scott Turner es un meticuloso detective que está investigando un difícil caso de homicidio. Un día encuentra en la calle a un perro desgarbado, vulgar y con muy malos modales, al que decide adoptar y que pronto se convierte en el mejor ayudante que nunca ha tenido.</plot>
+    <tagline>The Oddest Couple Ever Unleashed!</tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mPRTuakCxvN5hm20vPHzSgmB52n.jpg">https://image.tmdb.org/t/p/original/mPRTuakCxvN5hm20vPHzSgmB52n.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g3LC4mc17fQIFnPsMi81zzKC5gF.jpg">https://image.tmdb.org/t/p/original/g3LC4mc17fQIFnPsMi81zzKC5gF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yRQHceOIAUOPIzGAKhecV6fK2R0.jpg">https://image.tmdb.org/t/p/original/yRQHceOIAUOPIzGAKhecV6fK2R0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/npEuuKEzJYOINa6CG0lob9DWh4U.jpg">https://image.tmdb.org/t/p/original/npEuuKEzJYOINa6CG0lob9DWh4U.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/meBpJPHUyOM4hwvyGrRLRmImy11.jpg">https://image.tmdb.org/t/p/original/meBpJPHUyOM4hwvyGrRLRmImy11.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lsX1PJjB65Rmn4We3ydEMMpL8S3.jpg">https://image.tmdb.org/t/p/original/lsX1PJjB65Rmn4We3ydEMMpL8S3.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0098536</id>
+    <uniqueid type="imdb" default="true">tt0098536</uniqueid>
+    <uniqueid type="tmdb">6951</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <genre>Suspense</genre>
+    <genre>Crimen</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <credits>Michael Blodgett</credits>
+    <credits>Dennis Shryack</credits>
+    <director>Roger Spottiswoode</director>
+    <premiered>1989-07-28</premiered>
+    <year>1989</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Silver Screen Partners III</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vZV3Lr4Bol4</trailer>
+    <actor>
+        <name>Tom Hanks</name>
+        <role>Scott Turner</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mare Winningham</name>
+        <role>Emily Carson</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/ufNKjUzTzOkrVrIWtYBYjFkXJ9C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig T. Nelson</name>
+        <role>Howard Hyde</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Paulin</name>
+        <role>Zack Gregory</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cGSy2R21wL02JzTbEQl4DxyMDNZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John McIntire</name>
+        <role>Amos Reed</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/A2Nl0VDQmZ4JxT9tj0UzBNNMZm1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Knell</name>
+        <role>Ernie</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/iRBgaZcPxCKuozeTIkrW7xEei6J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reginald VelJohnson</name>
+        <role>Det. David Sutton</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary McCusker</name>
+        <role>Katie</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Linda Eve Miller</name>
+        <role>Mrs. Pine</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Walker</name>
+        <role>Police Officer</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jules Sylvester</name>
+        <role>Animal Control Man</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ernie Lively</name>
+        <role>Motel Clerk</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/gvYzRSCwhjO0ZSyuVka4A0CMQP6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J. C. Quinn</name>
+        <role>Walter Boyett</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/3ZebZIsQoTDnLnwYaLLluytXer8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ebbe Roe Smith</name>
+        <role>Harley McCabe</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Scannell</name>
+        <role>Jeff Foster</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joel Bailey</name>
+        <role>Ferraday</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clyde Kusatsu</name>
+        <role>Kevin Williams</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/3sYl18ElVAylYKrtKJVJ98Rie2Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elaine Renee Bush</name>
+        <role>Store Clerk</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elden Henson</name>
+        <role>Eric Boyett</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ES7ojO0MmU2nSl8gQ22jzB7ZH0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mickie McGowan</name>
+        <role>Additional Dialogue Replacement (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-02 18:56:24</dateadded>
+</movie>

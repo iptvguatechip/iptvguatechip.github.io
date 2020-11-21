@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Blade Runner 2049</title>
+    <originaltitle>Blade Runner 2049</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.000000</value>
+            <votes>448721</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>8861</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En 2049, K es uno de los esclavos androides de la nueva serie Nexus-9 llamados replicantes. K también es un Blade Runner, un cazador de replicantes rebeldes, que termina realizando un importante descubrimiento durante una de sus misiones. Luego de ser ordenado buscar y destruir cualquier evidencia del suceso, el androide termina tras la pista de Rick Deckard, un misterioso ex Blade Runner desparecido por más de 30 años. Secuela del icónico filme de ciencia ficción de 1982, Blade Runner.</plot>
+    <tagline>La clave para el futuro es finalmente desenterrada</tagline>
+    <runtime>163</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3nU3Xp392atVc50Y4ihSKnb3fFt.jpg">https://image.tmdb.org/t/p/original/3nU3Xp392atVc50Y4ihSKnb3fFt.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/nl9lE24Fk2Jh5O3QwHGVfegm3jM.jpg">https://image.tmdb.org/t/p/original/nl9lE24Fk2Jh5O3QwHGVfegm3jM.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/cWESb1o9lW2i2Z3Xllv9u40aNIk.jpg">https://image.tmdb.org/t/p/original/cWESb1o9lW2i2Z3Xllv9u40aNIk.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/cecErHzVWM9gCp7Fnp1dYYdCKUw.jpg">https://image.tmdb.org/t/p/original/cecErHzVWM9gCp7Fnp1dYYdCKUw.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/de3nql7XipNOdLJhRNouPecxvmM.jpg">https://image.tmdb.org/t/p/original/de3nql7XipNOdLJhRNouPecxvmM.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3RCaryivt60QsDlqGZbKuZ8jfWr.jpg">https://image.tmdb.org/t/p/original/3RCaryivt60QsDlqGZbKuZ8jfWr.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/foT46aJ7QPUFDl3CK8ArDl0JaZX.jpg">https://image.tmdb.org/t/p/original/foT46aJ7QPUFDl3CK8ArDl0JaZX.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qCMbGtyPNlweI5nIvYf8XhuVpJx.jpg">https://image.tmdb.org/t/p/original/qCMbGtyPNlweI5nIvYf8XhuVpJx.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/d7JJ6yRbXdlO7CZy4tMEhwHBOQ6.jpg">https://image.tmdb.org/t/p/original/d7JJ6yRbXdlO7CZy4tMEhwHBOQ6.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/z7xymB0IvsjMimpQpWbi2FAJ9XZ.jpg">https://image.tmdb.org/t/p/original/z7xymB0IvsjMimpQpWbi2FAJ9XZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/e3TyY0t1jwJjujgJPZq3R3gUL3B.jpg">https://image.tmdb.org/t/p/original/e3TyY0t1jwJjujgJPZq3R3gUL3B.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/nymf9DsefNG4nnVSJBdx0p6QgMc.jpg">https://image.tmdb.org/t/p/original/nymf9DsefNG4nnVSJBdx0p6QgMc.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/vRQgmpV3SoQumYHCblslbkg7UPI.jpg">https://image.tmdb.org/t/p/original/vRQgmpV3SoQumYHCblslbkg7UPI.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/atNlgYq6XKIZl6Ky53TeexBU3E3.jpg">https://image.tmdb.org/t/p/original/atNlgYq6XKIZl6Ky53TeexBU3E3.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/bSHZIvLoPBWyGLeiAudN1mXdvQX.jpg">https://image.tmdb.org/t/p/original/bSHZIvLoPBWyGLeiAudN1mXdvQX.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/4CdSGSQFRzECinGejfVPXJmMbBq.jpg">https://image.tmdb.org/t/p/original/4CdSGSQFRzECinGejfVPXJmMbBq.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/9Tkw14x1r9gAlbJ3RByFEFJ7ewL.jpg">https://image.tmdb.org/t/p/original/9Tkw14x1r9gAlbJ3RByFEFJ7ewL.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xiOw9kLNfFPoe3j3J6nHqDTT1fu.jpg">https://image.tmdb.org/t/p/original/xiOw9kLNfFPoe3j3J6nHqDTT1fu.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/57zhlMYblPute6qb8v16ZmGSPVv.jpg">https://image.tmdb.org/t/p/original/57zhlMYblPute6qb8v16ZmGSPVv.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/wR3ZbCWM55qbJBcIO7rHm0MB68j.jpg">https://image.tmdb.org/t/p/original/wR3ZbCWM55qbJBcIO7rHm0MB68j.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/1QxKmE09BYUbDJTBKxUbWtmhVYF.jpg">https://image.tmdb.org/t/p/original/1QxKmE09BYUbDJTBKxUbWtmhVYF.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/li3buIx57ph3RX5XlbpMzJPewZ0.jpg">https://image.tmdb.org/t/p/original/li3buIx57ph3RX5XlbpMzJPewZ0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aBvDBfqCHs0sCXoun7giyHeClb1.jpg">https://image.tmdb.org/t/p/original/aBvDBfqCHs0sCXoun7giyHeClb1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg">https://image.tmdb.org/t/p/original/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uHEAuTMJItOxjA0a2pOqX2almaR.jpg">https://image.tmdb.org/t/p/original/uHEAuTMJItOxjA0a2pOqX2almaR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jLul37v1NcF8XpdSEh4RHsmGocA.jpg">https://image.tmdb.org/t/p/original/jLul37v1NcF8XpdSEh4RHsmGocA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/laDkK7or46F7QZvsIQ3CDIAkc23.jpg">https://image.tmdb.org/t/p/original/laDkK7or46F7QZvsIQ3CDIAkc23.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jsMVRjLwKWN3gaiGd9pJUrxezsp.jpg">https://image.tmdb.org/t/p/original/jsMVRjLwKWN3gaiGd9pJUrxezsp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hWo37nrCWews7W5eyB8y7uHzAC.jpg">https://image.tmdb.org/t/p/original/hWo37nrCWews7W5eyB8y7uHzAC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yeANTnsRzrenqsnt4BWSeZV5WRY.jpg">https://image.tmdb.org/t/p/original/yeANTnsRzrenqsnt4BWSeZV5WRY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kr3tjbRaDrcOsKSOSbJmyeVE8ny.jpg">https://image.tmdb.org/t/p/original/kr3tjbRaDrcOsKSOSbJmyeVE8ny.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pTdroxYwhsaY7gla0MtIzCrBzkj.jpg">https://image.tmdb.org/t/p/original/pTdroxYwhsaY7gla0MtIzCrBzkj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mABdwROMFSOY6NDpVuDe0sleY8s.jpg">https://image.tmdb.org/t/p/original/mABdwROMFSOY6NDpVuDe0sleY8s.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6cGBCk58edFv5J8JD8uSOSdIpUj.jpg">https://image.tmdb.org/t/p/original/6cGBCk58edFv5J8JD8uSOSdIpUj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hJR0Sl0x3hS6WAAiNte4ZTKYI0j.jpg">https://image.tmdb.org/t/p/original/hJR0Sl0x3hS6WAAiNte4ZTKYI0j.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mxhG5iJESuWcoRaxzWRtFvUdwRm.jpg">https://image.tmdb.org/t/p/original/mxhG5iJESuWcoRaxzWRtFvUdwRm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AoMwA5owsmi3e6FZiStBQmUBJyb.jpg">https://image.tmdb.org/t/p/original/AoMwA5owsmi3e6FZiStBQmUBJyb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/to6EBOMjToDiQxoinO1P18no5GU.jpg">https://image.tmdb.org/t/p/original/to6EBOMjToDiQxoinO1P18no5GU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3diUaMRgaGqDfsxv1WHRdTRrDMY.jpg">https://image.tmdb.org/t/p/original/3diUaMRgaGqDfsxv1WHRdTRrDMY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b4aAWEpjYSMQY2EObB3xo4acZLf.jpg">https://image.tmdb.org/t/p/original/b4aAWEpjYSMQY2EObB3xo4acZLf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i78Fg2kz9ID3qTXRVH0BhU470Wt.jpg">https://image.tmdb.org/t/p/original/i78Fg2kz9ID3qTXRVH0BhU470Wt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5ffpAd9hdNHcYvXeikDt74RxjqM.jpg">https://image.tmdb.org/t/p/original/5ffpAd9hdNHcYvXeikDt74RxjqM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jTqGgREH1KvBHsVxdX1lWC5jq6Y.jpg">https://image.tmdb.org/t/p/original/jTqGgREH1KvBHsVxdX1lWC5jq6Y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1A4kVyZSbc7y9qekHcyIXIQFLQh.jpg">https://image.tmdb.org/t/p/original/1A4kVyZSbc7y9qekHcyIXIQFLQh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pnBsy1sq0X8IjOGFO62p6k9UfaH.jpg">https://image.tmdb.org/t/p/original/pnBsy1sq0X8IjOGFO62p6k9UfaH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/juQGNMYNimM2byt5tOSOY1rqcOk.jpg">https://image.tmdb.org/t/p/original/juQGNMYNimM2byt5tOSOY1rqcOk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j0cSGKIxEoqXwCr8r6CfeUVaOP.jpg">https://image.tmdb.org/t/p/original/j0cSGKIxEoqXwCr8r6CfeUVaOP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8Yf1LpVhQAn7n2sCsCpDvQFOWw.jpg">https://image.tmdb.org/t/p/original/8Yf1LpVhQAn7n2sCsCpDvQFOWw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5EuXvLuNVIVsYDa3d4VrPtnBy5.jpg">https://image.tmdb.org/t/p/original/5EuXvLuNVIVsYDa3d4VrPtnBy5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/muYiihFhXEpPcS2WltlSOgmOL0j.jpg">https://image.tmdb.org/t/p/original/muYiihFhXEpPcS2WltlSOgmOL0j.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xjOUbhs1B80vV9lD2W9g7cNlUJY.jpg">https://image.tmdb.org/t/p/original/xjOUbhs1B80vV9lD2W9g7cNlUJY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lOqJGrDhForxVbfhstTAHhi1qMS.jpg">https://image.tmdb.org/t/p/original/lOqJGrDhForxVbfhstTAHhi1qMS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wkxJLwqZXSb7sm8iCjQszxfS6ET.jpg">https://image.tmdb.org/t/p/original/wkxJLwqZXSb7sm8iCjQszxfS6ET.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x8emXFvci09XprImABnoKIcMBVN.jpg">https://image.tmdb.org/t/p/original/x8emXFvci09XprImABnoKIcMBVN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3kdykcCbaOmiz2OqNGHZLfoqagu.jpg">https://image.tmdb.org/t/p/original/3kdykcCbaOmiz2OqNGHZLfoqagu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kFHc4tfGGfJxxSK15pjJccJ1n0h.jpg">https://image.tmdb.org/t/p/original/kFHc4tfGGfJxxSK15pjJccJ1n0h.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b48Ruhr14BvTLf8pq5ylIz02sFf.jpg">https://image.tmdb.org/t/p/original/b48Ruhr14BvTLf8pq5ylIz02sFf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cg6t08FNZ2mEqWPWWRqQCwMAdNS.jpg">https://image.tmdb.org/t/p/original/cg6t08FNZ2mEqWPWWRqQCwMAdNS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gEBVJSfNvqtV7wrhU70RpbtZWYZ.jpg">https://image.tmdb.org/t/p/original/gEBVJSfNvqtV7wrhU70RpbtZWYZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y4gJ7xbMLI1iuzhMSFO6qalS5UP.jpg">https://image.tmdb.org/t/p/original/y4gJ7xbMLI1iuzhMSFO6qalS5UP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg">https://image.tmdb.org/t/p/original/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l8OPtE74ZSiaAlxCxV5elbAW6rv.jpg">https://image.tmdb.org/t/p/original/l8OPtE74ZSiaAlxCxV5elbAW6rv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg">https://image.tmdb.org/t/p/original/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/udNM3eaORPY8xUtXxmmayxHkn2f.jpg">https://image.tmdb.org/t/p/original/udNM3eaORPY8xUtXxmmayxHkn2f.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qD2DSOfBQWmWYgsZJKe0MnA1Tc4.jpg">https://image.tmdb.org/t/p/original/qD2DSOfBQWmWYgsZJKe0MnA1Tc4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yb6NmH2LSy8VLf2myiWKt8LFGTG.jpg">https://image.tmdb.org/t/p/original/yb6NmH2LSy8VLf2myiWKt8LFGTG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg">https://image.tmdb.org/t/p/original/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9FGKm8ldvlOIk5fRFvwAl2SfMGO.jpg">https://image.tmdb.org/t/p/original/9FGKm8ldvlOIk5fRFvwAl2SfMGO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jfUncKerJWZttKzStJ0ZHQgnx3K.jpg">https://image.tmdb.org/t/p/original/jfUncKerJWZttKzStJ0ZHQgnx3K.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gUfqAhpNflEHugQPeUNVhQRn2Pa.jpg">https://image.tmdb.org/t/p/original/gUfqAhpNflEHugQPeUNVhQRn2Pa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u368eiKLBAqWMY2ZOvCl2h9A0Pu.jpg">https://image.tmdb.org/t/p/original/u368eiKLBAqWMY2ZOvCl2h9A0Pu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3SaFXUrbqNE3JYLAVTqLoas5YDE.jpg">https://image.tmdb.org/t/p/original/3SaFXUrbqNE3JYLAVTqLoas5YDE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gwawQhUf80p2HyQ8HozDs2DffM4.jpg">https://image.tmdb.org/t/p/original/gwawQhUf80p2HyQ8HozDs2DffM4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tZR2n4PehYrMzva6QPdwOIDQ8x4.jpg">https://image.tmdb.org/t/p/original/tZR2n4PehYrMzva6QPdwOIDQ8x4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/IEnujqSfn3fcjkEO2oL562KAon.jpg">https://image.tmdb.org/t/p/original/IEnujqSfn3fcjkEO2oL562KAon.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AdQoKLOGqnZngNdh6RpGDAvVBsq.jpg">https://image.tmdb.org/t/p/original/AdQoKLOGqnZngNdh6RpGDAvVBsq.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg">https://image.tmdb.org/t/p/original/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8QXGNP0Vb4nsYKub59XpAhiUSQN.jpg">https://image.tmdb.org/t/p/original/8QXGNP0Vb4nsYKub59XpAhiUSQN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ilRyazdMJwN05exqhwK4tMKBYZs.jpg">https://image.tmdb.org/t/p/original/ilRyazdMJwN05exqhwK4tMKBYZs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bMdSmfI0qwpAkvhAL7sqpjmwgf4.jpg">https://image.tmdb.org/t/p/original/bMdSmfI0qwpAkvhAL7sqpjmwgf4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg">https://image.tmdb.org/t/p/original/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/askFH4GSk2u9z3ZE5ypdKIMeqLJ.jpg">https://image.tmdb.org/t/p/original/askFH4GSk2u9z3ZE5ypdKIMeqLJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg">https://image.tmdb.org/t/p/original/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vsLSG7O4np40Bt6p91b3jGxO9wI.jpg">https://image.tmdb.org/t/p/original/vsLSG7O4np40Bt6p91b3jGxO9wI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tpX7Yhe7QJet2QkAnnAa9KK2dFW.jpg">https://image.tmdb.org/t/p/original/tpX7Yhe7QJet2QkAnnAa9KK2dFW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h4eHTlkEF6e1oIzhIOhxHhITrz7.jpg">https://image.tmdb.org/t/p/original/h4eHTlkEF6e1oIzhIOhxHhITrz7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AdYJMNhcXVeqjRenSHP88oaLCaC.jpg">https://image.tmdb.org/t/p/original/AdYJMNhcXVeqjRenSHP88oaLCaC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3U0KZQzYcTm5dNVcpPupm1zxpdo.jpg">https://image.tmdb.org/t/p/original/3U0KZQzYcTm5dNVcpPupm1zxpdo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/l10jullDnRSIGuYLvhP425m1hm3.jpg">https://image.tmdb.org/t/p/original/l10jullDnRSIGuYLvhP425m1hm3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/veYXeKpIPx1KDFaJau5eYV7VLSx.jpg">https://image.tmdb.org/t/p/original/veYXeKpIPx1KDFaJau5eYV7VLSx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q8KSI4NymkBbe28nyuhfeK51dSm.jpg">https://image.tmdb.org/t/p/original/q8KSI4NymkBbe28nyuhfeK51dSm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5bK9Nywtvtk6vnl6CANjUQbjsN5.jpg">https://image.tmdb.org/t/p/original/5bK9Nywtvtk6vnl6CANjUQbjsN5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/y4wxXBt54xmsVFGpbhkdSky87xc.jpg">https://image.tmdb.org/t/p/original/y4wxXBt54xmsVFGpbhkdSky87xc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fzETAOYLW6aiEcbGG18BSd2Owh0.jpg">https://image.tmdb.org/t/p/original/fzETAOYLW6aiEcbGG18BSd2Owh0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3bWUP9kyf9BxVc0hmZdqXB2w4UP.jpg">https://image.tmdb.org/t/p/original/3bWUP9kyf9BxVc0hmZdqXB2w4UP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yvc4P8ig7UOYs2Y0DOxCAWfk9kq.jpg">https://image.tmdb.org/t/p/original/yvc4P8ig7UOYs2Y0DOxCAWfk9kq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mWKEmxKiYwj0hEcYV9q4OgtAv48.jpg">https://image.tmdb.org/t/p/original/mWKEmxKiYwj0hEcYV9q4OgtAv48.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oNbraywlvb4SXHs6TQd9N57vspZ.jpg">https://image.tmdb.org/t/p/original/oNbraywlvb4SXHs6TQd9N57vspZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1DPPsKEOMqzqECuhezJuvzEnk9S.jpg">https://image.tmdb.org/t/p/original/1DPPsKEOMqzqECuhezJuvzEnk9S.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nKDhB9tt6HM8vvQcdOwQtfcFoZw.jpg">https://image.tmdb.org/t/p/original/nKDhB9tt6HM8vvQcdOwQtfcFoZw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z1FI2fAjrdSNDWQrxdHiN6O0SQU.jpg">https://image.tmdb.org/t/p/original/z1FI2fAjrdSNDWQrxdHiN6O0SQU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AplZ6nnfHQCfRpT1M9aQLi5QorZ.jpg">https://image.tmdb.org/t/p/original/AplZ6nnfHQCfRpT1M9aQLi5QorZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/43vT4UDskVlOMqI4xNVOeq4O7pn.jpg">https://image.tmdb.org/t/p/original/43vT4UDskVlOMqI4xNVOeq4O7pn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fIgWr9QKVANIFq8RZpVCMDjpvUw.jpg">https://image.tmdb.org/t/p/original/fIgWr9QKVANIFq8RZpVCMDjpvUw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/DjvYXh8I1XBFjv68C74jT5WkGm.jpg">https://image.tmdb.org/t/p/original/DjvYXh8I1XBFjv68C74jT5WkGm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/npyq5Q3zkiiWJ032elagQbXpxkQ.jpg">https://image.tmdb.org/t/p/original/npyq5Q3zkiiWJ032elagQbXpxkQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3oMcgwieehGrWXlGzhbgYfrB7mv.jpg">https://image.tmdb.org/t/p/original/3oMcgwieehGrWXlGzhbgYfrB7mv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/Ar48aJQU7imsrn66vIpp7bnKUX8.jpg">https://image.tmdb.org/t/p/original/Ar48aJQU7imsrn66vIpp7bnKUX8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/69k6cQUljYqWrsQEhOCD3FUGiUz.jpg">https://image.tmdb.org/t/p/original/69k6cQUljYqWrsQEhOCD3FUGiUz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/t1CAptLyvW1X3P5axS0tA2Q215E.jpg">https://image.tmdb.org/t/p/original/t1CAptLyvW1X3P5axS0tA2Q215E.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2tmj5m2uwKEEzP37INTizTEC87D.jpg">https://image.tmdb.org/t/p/original/2tmj5m2uwKEEzP37INTizTEC87D.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9AU3kxNMM6AGofeC1uOtm4etsNj.jpg">https://image.tmdb.org/t/p/original/9AU3kxNMM6AGofeC1uOtm4etsNj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z3pL8wUIXcFJ2ct3ebjK2yjxIHx.jpg">https://image.tmdb.org/t/p/original/z3pL8wUIXcFJ2ct3ebjK2yjxIHx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8OT5Uh0n17f9QX089jAbXVshVoF.jpg">https://image.tmdb.org/t/p/original/8OT5Uh0n17f9QX089jAbXVshVoF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8MvBQgoM30OEjbUNLJZoHtTLjBa.jpg">https://image.tmdb.org/t/p/original/8MvBQgoM30OEjbUNLJZoHtTLjBa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/JyMCH2pCQ78SmC1vVWtCiQFpIZ.jpg">https://image.tmdb.org/t/p/original/JyMCH2pCQ78SmC1vVWtCiQFpIZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uKbX1ha7KWyTecvpPpRCB3iFfj3.jpg">https://image.tmdb.org/t/p/original/uKbX1ha7KWyTecvpPpRCB3iFfj3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7HpLtXp5ElJlza12sqB9INV64os.jpg">https://image.tmdb.org/t/p/original/7HpLtXp5ElJlza12sqB9INV64os.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/LcdhmR29krcOfVcOw4ntpBoJUl.jpg">https://image.tmdb.org/t/p/original/LcdhmR29krcOfVcOw4ntpBoJUl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bfdMaY3aCJd8wOR5AhmDsBfmwKt.jpg">https://image.tmdb.org/t/p/original/bfdMaY3aCJd8wOR5AhmDsBfmwKt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pGu0eYzzSkvoUMsCttcbp9q0xmo.jpg">https://image.tmdb.org/t/p/original/pGu0eYzzSkvoUMsCttcbp9q0xmo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a3mGFIHzAyZppGBMixDNMZWey2O.jpg">https://image.tmdb.org/t/p/original/a3mGFIHzAyZppGBMixDNMZWey2O.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yhrZXBPKRl0UteHzYeQllqDoyu.jpg">https://image.tmdb.org/t/p/original/yhrZXBPKRl0UteHzYeQllqDoyu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sgdBXQw1y8Lm9kt6YLalkxH26W0.jpg">https://image.tmdb.org/t/p/original/sgdBXQw1y8Lm9kt6YLalkxH26W0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6xMyfWtQ13FLyJQbAMeXAzRmnE2.jpg">https://image.tmdb.org/t/p/original/6xMyfWtQ13FLyJQbAMeXAzRmnE2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4VxP8c0zAJK6PJi5VuZl5lMIhff.jpg">https://image.tmdb.org/t/p/original/4VxP8c0zAJK6PJi5VuZl5lMIhff.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dkg2t2E0u2X8H00LQPCbRQvA1gh.jpg">https://image.tmdb.org/t/p/original/dkg2t2E0u2X8H00LQPCbRQvA1gh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iqZWmj1Ifz4T5tuCuszWktUG5yX.jpg">https://image.tmdb.org/t/p/original/iqZWmj1Ifz4T5tuCuszWktUG5yX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4eU36qkOYZwgv0qL911jhlsOBZU.jpg">https://image.tmdb.org/t/p/original/4eU36qkOYZwgv0qL911jhlsOBZU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2yybytXCmLGNGshbo70Uv3X51es.jpg">https://image.tmdb.org/t/p/original/2yybytXCmLGNGshbo70Uv3X51es.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d0Wj1uM0mJjXtAVDIEPB2fwH328.jpg">https://image.tmdb.org/t/p/original/d0Wj1uM0mJjXtAVDIEPB2fwH328.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/63n0EM6rlgKd095CCuqBTguWaXc.jpg">https://image.tmdb.org/t/p/original/63n0EM6rlgKd095CCuqBTguWaXc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dmOdb8IB0IQsM5sWEfY4lvTqLaW.jpg">https://image.tmdb.org/t/p/original/dmOdb8IB0IQsM5sWEfY4lvTqLaW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sEckvJ6Fsnr9CPS1oAKuk74Rhtf.jpg">https://image.tmdb.org/t/p/original/sEckvJ6Fsnr9CPS1oAKuk74Rhtf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/igNlYXLQtZ7AvcccfzLZLDEBi1I.jpg">https://image.tmdb.org/t/p/original/igNlYXLQtZ7AvcccfzLZLDEBi1I.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kBkNbH9yEuuci3wEvyJtBJMvKmZ.jpg">https://image.tmdb.org/t/p/original/kBkNbH9yEuuci3wEvyJtBJMvKmZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1nvCrMeyhfnennRWo2IMbVEmjH0.jpg">https://image.tmdb.org/t/p/original/1nvCrMeyhfnennRWo2IMbVEmjH0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nrev3581KdA1ZjjirY9Ah4Nrd4n.jpg">https://image.tmdb.org/t/p/original/nrev3581KdA1ZjjirY9Ah4Nrd4n.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uAB92wfh19oBxwRePGxzCDk5LfL.jpg">https://image.tmdb.org/t/p/original/uAB92wfh19oBxwRePGxzCDk5LfL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2iLDA6r7dSO0ZFT4xc1V07rmKs0.jpg">https://image.tmdb.org/t/p/original/2iLDA6r7dSO0ZFT4xc1V07rmKs0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hT0c9rzpgqnhnmEhyn7GhFBhvvD.jpg">https://image.tmdb.org/t/p/original/hT0c9rzpgqnhnmEhyn7GhFBhvvD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yREn3D7eHNSIfPJ6ufVCd84UuFc.jpg">https://image.tmdb.org/t/p/original/yREn3D7eHNSIfPJ6ufVCd84UuFc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/teOWxvnsaYCBQl7Ad8f3Q448qMI.jpg">https://image.tmdb.org/t/p/original/teOWxvnsaYCBQl7Ad8f3Q448qMI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gutxlnEu1JeXP9KuhXGODY2hZKs.jpg">https://image.tmdb.org/t/p/original/gutxlnEu1JeXP9KuhXGODY2hZKs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d9YZ1jDJCJZYG7pvT0L7r2bjsP5.jpg">https://image.tmdb.org/t/p/original/d9YZ1jDJCJZYG7pvT0L7r2bjsP5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tbH1Zvo2Reg0xnrh0PQC9cJxuZ0.jpg">https://image.tmdb.org/t/p/original/tbH1Zvo2Reg0xnrh0PQC9cJxuZ0.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 12</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1856101</id>
+    <uniqueid type="imdb" default="true">tt1856101</uniqueid>
+    <uniqueid type="tmdb">335984</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Drama</genre>
+    <country>Canada</country>
+    <set>
+        <name>Blade Runner - Colección</name>
+    </set>
+    <credits>Hampton Fancher</credits>
+    <credits>Michael Green</credits>
+    <director>Denis Villeneuve</director>
+    <premiered>2017-10-04</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Torridon Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gt2BqOaKjcQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>9807</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ryan Gosling</name>
+        <role>K</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana de Armas</name>
+        <role>Joi</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/14uxt0jH28J9zn4vNQNTae3Bmr7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Leto</name>
+        <role>Niander Wallace</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harrison Ford</name>
+        <role>Rick Deckard</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5M7oN3sznp99hWYQ9sX0xheswWX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Wright</name>
+        <role>Lt. Joshi</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/roJedXmjqEcSOC1HaQ4e9gEWdR3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sylvia Hoeks</name>
+        <role>Luv</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Davis</name>
+        <role>Mariette</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/ekQbEIKh26jbz17P0wwLbo6uNs9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carla Juri</name>
+        <role>Dr. Ana Stelline</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Tu9PCmTyLD1wWP8PGCzZpuImre.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lennie James</name>
+        <role>Mister Cotton</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/hfZrdEkBHxYYbMoGHAaVomlgMi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Bautista</name>
+        <role>Sapper Morton</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/n70J37YOBYEvLOtdVVXJCYGaTeR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Dastmalchian</name>
+        <role>Coco</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/3cdrnfthY40ZsIhq1FBEwGJq9mE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barkhad Abdi</name>
+        <role>Doc Badger</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/utfeg8GnGyW3aVNcRfhII9RCXB6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiam Abbass</name>
+        <role>Freysa</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/hkzC5aJKTiuCchBpybaHDVngYZW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wood Harris</name>
+        <role>Nandez</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/9gvwUEu1fZTSTkykaCx2fSdSDWK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward James Olmos</name>
+        <role>Gaff</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXnilUrQBIMLHSQkPjQk99mX70x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tómas Lemarquis</name>
+        <role>File Clerk</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ioANYaLznj91AcsSOfd25DwxVqo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sallie Harmsen</name>
+        <role>Replicant</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/acbAK0XXjEnwfxXl1jiHakhR80H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Young</name>
+        <role>Rachael</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/yfJADYt6xYPpg1g7Z7TTW0bcL2s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Loren Peta</name>
+        <role>Rachael double</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/XuWNeNu7g3stBzPX6n2PjNBOr1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Arnold</name>
+        <role>Interviewer</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/dTfoxBUC6jpZry0ijlS8g4Y5cuS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Krista Kosonen</name>
+        <role>Doxie #2</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/6o55wwwRPX7nOEXTJoJSKeJkacu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elarica Johnson</name>
+        <role>Doxie #3</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/iiMfkwUSyUki9Q6YbfoVBOGSheq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Benson</name>
+        <role>Liberace Look-A-Like</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/5xA8oSRBfzBN9QAOC0MAI8Jqb0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kingston Taylor</name>
+        <role>Boy with One Ear</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/pwivZzhZf1JCV49YBlkRycUGGTB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Thompson</name>
+        <role>Elvis Look-A-Like</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ellie Wright</name>
+        <role>Little Ellie</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/xF7ww2FNyQGOOKQ1kdH4COkQEZ5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suzie Kennedy</name>
+        <role>Marilyn Look-A-Like</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/qEm5LOUIvVYp5iTGALj76pxkcyr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Triffitt</name>
+        <role>Sinatra Look-A-Like</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/eoiyH3cJ7wpa5ED9Dbpehl8poXg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vilma Szécsi</name>
+        <role>Angry Old Lady</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/6bQYnho9aP3WEdQQa4PaO0jxbKr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kincsö Sánta</name>
+        <role>Birthday Girl</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>André Lukács Molnár</name>
+        <role>Memory Child</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>István Göz</name>
+        <role>Scavenger #1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pál Nyári</name>
+        <role>Scavenger #2</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joshua Tersoo Allagh</name>
+        <role>Scavenger #3</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zoltán Béres</name>
+        <role>Scavenger #4</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Konstantin Pál</name>
+        <role>Scavenger #5</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ferenc Györgyi</name>
+        <role>Scavenger #6</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samuel Brown</name>
+        <role>Orphanage Boy</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 13:17:02</dateadded>
+</movie>

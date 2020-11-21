@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Negrada</title>
+    <originaltitle>La Negrada</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>124</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.300000</value>
+            <votes>3</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Entre la población negra de la costa oaxaqueña, el “queridato” es aceptado socialmente. Juana y Magdalena comparten su vida con Neri, aunque saben que eso les hace daño. La enfermedad de Juana le dará la claridad a Magdalena para retomar su vida sin él.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uqXbigoJpMu1c5tkUEIhzhU9uoP.jpg">https://image.tmdb.org/t/p/original/uqXbigoJpMu1c5tkUEIhzhU9uoP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/meryvIkTlnc9WfQeFd3Go9FrMnh.jpg">https://image.tmdb.org/t/p/original/meryvIkTlnc9WfQeFd3Go9FrMnh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8QpKeb0cvBXc0SnqFzjSgp6J1t1.jpg">https://image.tmdb.org/t/p/original/8QpKeb0cvBXc0SnqFzjSgp6J1t1.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rP4k0Pblhyl64AIS8WldGv4L0a0.jpg">https://image.tmdb.org/t/p/original/rP4k0Pblhyl64AIS8WldGv4L0a0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7583568</id>
+    <uniqueid type="imdb" default="true">tt7583568</uniqueid>
+    <uniqueid type="tmdb">511354</uniqueid>
+    <genre>Drama</genre>
+    <director>Jorge Pérez Solano</director>
+    <premiered>2018-03-12</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>la tirisia</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6194</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Magdalena Soriano</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juana Mariche Domínguez</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Felipe Neri Acevedo Corcuera</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sara Gallardo</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:31</dateadded>
+</movie>

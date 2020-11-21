@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Revenant: El renacido</title>
+    <originaltitle>The Revenant</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.000000</value>
+            <votes>691526</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>13721</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un fronterizo en una expedición de comercio de pieles en la década de 1820 lucha por la supervivencia después de haber sido atacado por un oso y dejado por muerto por los miembros de su propio equipo de caza.</plot>
+    <tagline>Sangre perdida. Vida Encontrada.</tagline>
+    <runtime>156</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg">https://image.tmdb.org/t/p/original/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xDWCJg0Ax29j5D5CM5c5suLKPLJ.jpg">https://image.tmdb.org/t/p/original/xDWCJg0Ax29j5D5CM5c5suLKPLJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg">https://image.tmdb.org/t/p/original/ji3ecJphATlVgWNY0B0RVXZizdf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tSaBkriE7TpbjFoQUFXuikoz0dF.jpg">https://image.tmdb.org/t/p/original/tSaBkriE7TpbjFoQUFXuikoz0dF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m2T8tVP1TDHgZijAPVOODNshWPO.jpg">https://image.tmdb.org/t/p/original/m2T8tVP1TDHgZijAPVOODNshWPO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lNvGxJDXJiwg8SoKR8txhgYH1Hh.jpg">https://image.tmdb.org/t/p/original/lNvGxJDXJiwg8SoKR8txhgYH1Hh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o6XkwTovSWryJoEY3hoywwHLJtK.jpg">https://image.tmdb.org/t/p/original/o6XkwTovSWryJoEY3hoywwHLJtK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cuBhqbnfeinOPPZ9Rvdend3caiG.jpg">https://image.tmdb.org/t/p/original/cuBhqbnfeinOPPZ9Rvdend3caiG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/47CPtrJri6T9roxbs38Pdq54g41.jpg">https://image.tmdb.org/t/p/original/47CPtrJri6T9roxbs38Pdq54g41.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tRlFB5sKUYvLNeFxiIZStyHSQ5V.jpg">https://image.tmdb.org/t/p/original/tRlFB5sKUYvLNeFxiIZStyHSQ5V.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pEHJUwm1k1ZjKo9uxhFPRuJ8rmC.jpg">https://image.tmdb.org/t/p/original/pEHJUwm1k1ZjKo9uxhFPRuJ8rmC.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nMfH0LMMFk2ovyURkYvyTI99nSo.jpg">https://image.tmdb.org/t/p/original/nMfH0LMMFk2ovyURkYvyTI99nSo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rnKoZVfwyhpg2EMZSmjtP1GSOXT.jpg">https://image.tmdb.org/t/p/original/rnKoZVfwyhpg2EMZSmjtP1GSOXT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uRQAsj7kkphR0m3gz3LWyXtUmem.jpg">https://image.tmdb.org/t/p/original/uRQAsj7kkphR0m3gz3LWyXtUmem.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o9YTgkvsXpwjPR2uMURH6iop9NP.jpg">https://image.tmdb.org/t/p/original/o9YTgkvsXpwjPR2uMURH6iop9NP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/t81KcskqIsHnNvRfQAVw2nS9Wv7.jpg">https://image.tmdb.org/t/p/original/t81KcskqIsHnNvRfQAVw2nS9Wv7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ecdXI2LmrZZr3xmIZRWpzShJUKV.jpg">https://image.tmdb.org/t/p/original/ecdXI2LmrZZr3xmIZRWpzShJUKV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/s6xQN7DjjBMqj7CtxK3EeR4vFNB.jpg">https://image.tmdb.org/t/p/original/s6xQN7DjjBMqj7CtxK3EeR4vFNB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9KmL2bkGTgEpk5L0FN7VmWs5JdG.jpg">https://image.tmdb.org/t/p/original/9KmL2bkGTgEpk5L0FN7VmWs5JdG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg">https://image.tmdb.org/t/p/original/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ni4BCNYX50xAiGQm5EXQYDLGObz.jpg">https://image.tmdb.org/t/p/original/ni4BCNYX50xAiGQm5EXQYDLGObz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/n04MZX6gPigTqed68A3px8qUzQc.jpg">https://image.tmdb.org/t/p/original/n04MZX6gPigTqed68A3px8qUzQc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8bqwqYHBolJn7aAAzk85rGWyGpC.jpg">https://image.tmdb.org/t/p/original/8bqwqYHBolJn7aAAzk85rGWyGpC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mFreKKBNnB2v678aDq0IZ2jaD8K.jpg">https://image.tmdb.org/t/p/original/mFreKKBNnB2v678aDq0IZ2jaD8K.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hYVwMIUXuHSC4u7m2n1ayLzdqX1.jpg">https://image.tmdb.org/t/p/original/hYVwMIUXuHSC4u7m2n1ayLzdqX1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pTlSANGrcvRTA72DTBS6CbbpXoe.jpg">https://image.tmdb.org/t/p/original/pTlSANGrcvRTA72DTBS6CbbpXoe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z0T8A3fkAQlx4mWZ1eTiFSZwOMX.jpg">https://image.tmdb.org/t/p/original/z0T8A3fkAQlx4mWZ1eTiFSZwOMX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rUUofmWzRmuSN10jjGgmGgRNFAB.jpg">https://image.tmdb.org/t/p/original/rUUofmWzRmuSN10jjGgmGgRNFAB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m1ZcLPMSsvr8O1aYm0jEfuEGXvG.jpg">https://image.tmdb.org/t/p/original/m1ZcLPMSsvr8O1aYm0jEfuEGXvG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h255KpFeHv7vzkqXhn8R7HLJ1UU.jpg">https://image.tmdb.org/t/p/original/h255KpFeHv7vzkqXhn8R7HLJ1UU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hEIJM0hQXh85PFqDE4YCsxMPye8.jpg">https://image.tmdb.org/t/p/original/hEIJM0hQXh85PFqDE4YCsxMPye8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qQ3CCCB7cEXLQLiZfyVJkuAMGpS.jpg">https://image.tmdb.org/t/p/original/qQ3CCCB7cEXLQLiZfyVJkuAMGpS.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1663202</id>
+    <uniqueid type="imdb" default="true">tt1663202</uniqueid>
+    <uniqueid type="tmdb">281957</uniqueid>
+    <genre>Western</genre>
+    <genre>Drama</genre>
+    <genre>Aventura</genre>
+    <country>Canada</country>
+    <credits>Alejandro González Iñárritu</credits>
+    <credits>Mark L. Smith</credits>
+    <director>Alejandro González Iñárritu</director>
+    <premiered>2015-12-25</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Monarchy Enterprises S.a.r.l.</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a8HRA49kaok</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>9381</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Leonardo DiCaprio</name>
+        <role>Hugh Glass</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Hardy</name>
+        <role>John Fitzgerald</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sGMA6pA2D6X0gun49igJT3piHs3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Domhnall Gleeson</name>
+        <role>Captain Andrew Henry</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qVRZPKZvkTDypGrrhDyUU4QaDYy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Poulter</name>
+        <role>Jim Bridger</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/gbRgcFBUJ3e3CxubAv3Y5EVVare.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Forrest Goodluck</name>
+        <role>Hawk</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/rnaoSD6GmL6NGnzLnij5ScLpEJP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Anderson</name>
+        <role>Anderson</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristoffer Joner</name>
+        <role>Murphy</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vufeSWAdY9653t5Vxu3HysCnIkY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Burge</name>
+        <role>Stubby Bill</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Duane Howard</name>
+        <role>Elk Dog</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/vyH33tbxxghTsi2qQfo8sNLU7lA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melaw Nakehk&apos;o</name>
+        <role>Powaqa</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/m52aGnTKiiJm2wlzLQE6G3yVlWw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fabrice Adde</name>
+        <role>Toussaint</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arthur RedCloud</name>
+        <role>Hikuc</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher Rosamond</name>
+        <role>Boone</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/rvPZ3Y08mRKro2JnAKu2ZBEaGeq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Moloney</name>
+        <role>Dave Chapman</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/uDoXuAWLwdjwf76htiW4l8s1VzV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lukas Haas</name>
+        <role>Jones</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/bJ0ZHg5UA9JThkC5wV4Y82T9ucy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brendan Fletcher</name>
+        <role>Fryman</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/9lLXazetKooqGYaSsZWZYYCDe8C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyson Wood</name>
+        <role>Weston</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>McCaleb Burnett</name>
+        <role>Beckett</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vincent Leclerc</name>
+        <role>French Trapper #1</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/sCNPUiSUQs1kfurlDXm8qgjQ8Mj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephane Legault</name>
+        <role>French Trapper</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/dIZW2T4qD8hMQRKtA0yBvTeOkHp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emmanuel Bilodeau</name>
+        <role>French Interpreter</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/5HaKiUCi2SJXUVpsILpaC7nCp4m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cole Vandale</name>
+        <role>Coulter Naked Pale Trapper</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Guiry</name>
+        <role>Billy Brother Trapper</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/j8M7rA6JUqjavIRz8ZhYkniBOjj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Olynek</name>
+        <role>Johnnie Brother Trapper</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/ltrafH4blEMglqqNvyqCKfJO4vU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amelia Crow Show</name>
+        <role>Pregnant Pawnee Woman</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Strand Rumpel</name>
+        <role>Scalped Shirtless Trapper</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/qRIzQPwE761Vi6z6Qxd1yZR7IpI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothy Lyle</name>
+        <role>Gordon in Shack</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/1SyVpvu48EJN4I6UqC5MEVCKCFS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kory Grim</name>
+        <role>Trapper Hatchet in Back</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/ia3b0nr5ZWeypCmYOgr0BH56xi3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Starlight</name>
+        <role>Arikara Chief</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jamie Medicine Crane</name>
+        <role>Arikara Crying Woman</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Veronica Marlowe</name>
+        <role>Arikara Crying Woman</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clarence Hoof</name>
+        <role>Arikara Healer</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/jOmUHYL4SVRa1GHQsHWSj2fmpur.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dion Little Child</name>
+        <role>Arikara Warrior</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blake Wildcat</name>
+        <role>Arikara Warrior</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Young Pine</name>
+        <role>Arikara Warrior</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cody Big Tobacco</name>
+        <role>Arikara Warrior</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dallas Young Pine</name>
+        <role>Arikara Warrior</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chesley Wilson</name>
+        <role>Arikara Elder</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Fraser</name>
+        <role>Trapper Violin Player</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Duncan</name>
+        <role>Trapper Violin Player</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mariah Old Shoes</name>
+        <role>Pawnee Prostitute</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grace Dove</name>
+        <role>Hugh Glass&apos; Wife</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/uNtVEFiEOmJDnoar20XWRxU625u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Glynn McMorran</name>
+        <role>American Soldier</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/t3tx7i9QioHg79mkb5knT6DZA9T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isaiah Tootoosis</name>
+        <role>Boy Hawk</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex Bisping</name>
+        <role>Trapper</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/dk0NjcM18VQ0sYru5wyyx1RPhTV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Ippolito</name>
+        <role>Trapper</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/9CxDzzgyiEcc31NHxfvONcAeFvN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Olynek</name>
+        <role>Trapper</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>C. Adam Leigh</name>
+        <role>Trapper</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Corey</name>
+        <role>Trapper</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Rampanen</name>
+        <role>Trapper</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Javier Botet</name>
+        <role>Nightmare Character</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haysam Kadri</name>
+        <role>Doctor</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jordan Crawford</name>
+        <role>Fort Butcher</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Rampanen</name>
+        <role>Harp Player</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brad Carter</name>
+        <role>Johnnie</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/xdQINDoQK3nx5ndIJnYU3qKRM4Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rootie J. Boyd</name>
+        <role>Southern Trapper</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dave Burchill</name>
+        <role>French Trapper</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ray Chase</name>
+        <role>Southern Trapper</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/xeJKJnvIwItI90roo7mMUduBbbq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Glenn Ennis</name>
+        <role>The Bear</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/hx3rVLo1vlsv4g8kwVGQ2r2pux8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Fathy</name>
+        <role>French Trapper (voice)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Xj8isssKGMoMLtfVcaNXeiO6Q4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Krysko</name>
+        <role>Trapper</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/nBHxXpL04OyG5fgyeutj9jSA9XK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Richard Lofstrom</name>
+        <role>French Trapper</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>T. Michael Morris</name>
+        <role>Irish Trapper</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bruno Stephane</name>
+        <role>French Trapper (voice)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay Tavare</name>
+        <role>Native American Voices</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/gGAiOz3CZ2CEtBNVQdmjJuAb3uG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>AJ Taylor</name>
+        <role>Trapper</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Villar</name>
+        <role>Southern Trapper</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay Cardinal Villeneuve</name>
+        <role>French Fur Trapper</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/gSGwpTLX6QtAmAjeFCBdAoyYftV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Del Zamora</name>
+        <role>Native Voices</role>
+        <order>73</order>
+        <thumb>https://image.tmdb.org/t/p/original/lPeWF6B0eBA1RFpCUyvxL402TOA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Duff Zayonce</name>
+        <role>Trapper</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/n689iNpxBH0wt1cY7ptkJ0kAZb5.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-12 20:32:43</dateadded>
+</movie>

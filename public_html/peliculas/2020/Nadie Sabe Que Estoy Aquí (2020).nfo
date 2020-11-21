@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Nadie sabe que estoy aquí</title>
+    <originaltitle>Nadie sabe que estoy aquí</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>2909</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>92</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Memo (Jorge García) fue una estrella de pop adolescente en los años 90. Más de 15 años de reclusión en una isla del sur de Chile lo han transformado en un curioso ejemplar humano y en un momento determinado su vida se verá sacudida por la llegada de inesperados visitantes.</plot>
+    <tagline></tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c67spk8poB4AE4bIqLHvPE77Yyd.jpg">https://image.tmdb.org/t/p/original/c67spk8poB4AE4bIqLHvPE77Yyd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c7CTxNNPeg6MH9VA9BBvMKdPmSh.jpg">https://image.tmdb.org/t/p/original/c7CTxNNPeg6MH9VA9BBvMKdPmSh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qsCKsRqbWwUYZYCIZfSvXqY4Xul.jpg">https://image.tmdb.org/t/p/original/qsCKsRqbWwUYZYCIZfSvXqY4Xul.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cUPrCDQt23ZdJ6Mk8kO8cBcPcxw.jpg">https://image.tmdb.org/t/p/original/cUPrCDQt23ZdJ6Mk8kO8cBcPcxw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/16XjaGDUrlm1GuBqU4j4VPyMI9n.jpg">https://image.tmdb.org/t/p/original/16XjaGDUrlm1GuBqU4j4VPyMI9n.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10728764</id>
+    <uniqueid type="imdb" default="true">tt10728764</uniqueid>
+    <uniqueid type="tmdb">698432</uniqueid>
+    <genre>Drama</genre>
+    <country>Chile</country>
+    <credits>Josefina Fernández</credits>
+    <credits>Enrique Videla</credits>
+    <credits>Gaspar Antillo</credits>
+    <director>Gaspar Antillo</director>
+    <premiered>2020-04-15</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fabula</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0CZXhNcZuEE</trailer>
+    <actor>
+        <name>Jorge Garcia</name>
+        <role>Memo</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Millaray Lobos</name>
+        <role>Marta</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sYgruo8xoLJYCs5ECQnsxydtpjK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Gnecco</name>
+        <role>Braulio</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7547NaocLWoksXPLX6PD6Dr9Bk1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alejandro Goic</name>
+        <role>Jacinto</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/p775rssNjddji5UULZ2kidh4KeR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gastón Pauls</name>
+        <role>Ángelo</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ibm906Lvq9CnlaYe0bEiavv1Vt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nelson Brodt</name>
+        <role>Sergio</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/1pvDZERlSRQUFCFMqtd6zqSYAsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Solange Lackington</name>
+        <role>Producer</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gO6ThlGJhUMtF7jRH0B3rz3RtSP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Paxeco</name>
+        <role>Samuel</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/z677BvbEYHb4mmiYhum1xN3xP0g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Paz Grandjean</name>
+        <role>Francisca</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan Falcón</name>
+        <role>Animador</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/h9qJdNpJlcpIJFKbqLbuSUUr2fl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julio Fuentes</name>
+        <role>Guest</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roberto Vander</name>
+        <role>Miami Producer</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/uOILArn1aVYYwxc8MCBS35VUXZf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lukas Vergara</name>
+        <role>Memo niño</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vicente Álvarez</name>
+        <role>Ángelo niño</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-10-24 18:49:28</dateadded>
+</movie>

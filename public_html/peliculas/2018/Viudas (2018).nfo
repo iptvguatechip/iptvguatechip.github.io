@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Viudas</title>
+    <originaltitle>Viudas</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>11</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Julia is saying goodbye to the last visitors who have come to the house after the sudden death of her husband. When it seems that finally has a moment of intimacy, Susan knocks on the door. Despite Julia&apos;s refusal to let her pass, Susana rebukes her, arguing that she has the right to say goodbye to her husband.</plot>
+    <tagline></tagline>
+    <runtime>129</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bxiNVkAclg7HQopYTM4TAUrB4IJ.jpg">https://image.tmdb.org/t/p/original/bxiNVkAclg7HQopYTM4TAUrB4IJ.jpg</thumb>
+    <mpaa>Rated APTA</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4219332</id>
+    <uniqueid type="imdb" default="true">tt4219332</uniqueid>
+    <uniqueid type="tmdb">612938</uniqueid>
+    <genre>Comedia</genre>
+    <credits>Sonia Madrid</credits>
+    <director>María Guerra</director>
+    <premiered>2018-10-24</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>María Guerra PC</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7774</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Raquel Pérez</name>
+        <role>Susana</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/2JSvX2JdGs96DfGOU8RdaQqrrYG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ika de Mo</name>
+        <role>Teresa</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Javier Tolosa</name>
+        <role>Álvaro</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5aBTofDSIFf4y2JxK6CmXHpaB6B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cristina Alcázar</name>
+        <role>Julia</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/2PMSIbpCj3g702qgB2NVabthE3E.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 20:34:55</dateadded>
+</movie>

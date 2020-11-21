@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Yo soy Bolt</title>
+    <originaltitle>I Am Bolt</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>3104</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>61</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El legado del corredor jamaiquino Usain Bolt, el hombre más rápido de la historia</plot>
+    <tagline></tagline>
+    <runtime>107</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/h2BvZdOteARp5hzYGvWQCauE4Hl.jpg">https://image.tmdb.org/t/p/original/h2BvZdOteARp5hzYGvWQCauE4Hl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qQrzSsMdqvymzG4XCtZMa6jNMG4.jpg">https://image.tmdb.org/t/p/original/qQrzSsMdqvymzG4XCtZMa6jNMG4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3P82H9sV3NuzOaSTkI8tujqgyPt.jpg">https://image.tmdb.org/t/p/original/3P82H9sV3NuzOaSTkI8tujqgyPt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ak7IufApenKjfbe2Xbg0NsuPPRa.jpg">https://image.tmdb.org/t/p/original/ak7IufApenKjfbe2Xbg0NsuPPRa.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/elFe3xSo9nQLcG9kOjPUG2zPfrF.jpg">https://image.tmdb.org/t/p/original/elFe3xSo9nQLcG9kOjPUG2zPfrF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5QvcsobQsCDSKk0G7Z2hwRWYn82.jpg">https://image.tmdb.org/t/p/original/5QvcsobQsCDSKk0G7Z2hwRWYn82.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4647900</id>
+    <uniqueid type="imdb" default="true">tt4647900</uniqueid>
+    <uniqueid type="tmdb">422469</uniqueid>
+    <genre>Documental</genre>
+    <director>Gabe Turner</director>
+    <premiered>2016-11-28</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZoB3i4OeCck</trailer>
+    <actor>
+        <name>Usain Bolt</name>
+        <role>Himself</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/eBCKyQo2CmyEnJCCv8IXnW7qpOf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neymar Jr</name>
+        <role>Himself</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/8887Hq0XyckSVy7xfHIUikt7qRO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Serena Williams</name>
+        <role>Herself</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qMoRnzYuUkqb8VZjbX4XWZeQZzY.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 12:13:49</dateadded>
+</movie>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La teoría del todo</title>
+    <originaltitle>The Theory of Everything</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.700000</value>
+            <votes>396272</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.900000</value>
+            <votes>8084</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una mirada a la relación entre el famoso físico Stephen Hawking y su esposa.</plot>
+    <tagline>Su mente cambió nuestro mundo. Un amor cambió el suyo.</tagline>
+    <runtime>123</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sVKeuoy82eR02iMIqRAepqMCoag.jpg">https://image.tmdb.org/t/p/original/sVKeuoy82eR02iMIqRAepqMCoag.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qmiO03jqDZLfigAFI1lgw8ci2jr.jpg">https://image.tmdb.org/t/p/original/qmiO03jqDZLfigAFI1lgw8ci2jr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg">https://image.tmdb.org/t/p/original/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rvix5zBaADWbEFp3KWbtf55RMUs.jpg">https://image.tmdb.org/t/p/original/rvix5zBaADWbEFp3KWbtf55RMUs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rRgGlPumV5gTmTm2zV9XTqjyju5.jpg">https://image.tmdb.org/t/p/original/rRgGlPumV5gTmTm2zV9XTqjyju5.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jE43L9ni4OWhjwXcDlEKkVnfscW.jpg">https://image.tmdb.org/t/p/original/jE43L9ni4OWhjwXcDlEKkVnfscW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vGdw4AM3Egv5vCf6MkqInISbpp.jpg">https://image.tmdb.org/t/p/original/vGdw4AM3Egv5vCf6MkqInISbpp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2TkXtz8x9k5MLviJx3qYBMLePsv.jpg">https://image.tmdb.org/t/p/original/2TkXtz8x9k5MLviJx3qYBMLePsv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/278RlKUnOzOZpZc9mE8JluTSf0Q.jpg">https://image.tmdb.org/t/p/original/278RlKUnOzOZpZc9mE8JluTSf0Q.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4JUEdYSeMUWBmrOXjBqRBi3gaxN.jpg">https://image.tmdb.org/t/p/original/4JUEdYSeMUWBmrOXjBqRBi3gaxN.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2980516</id>
+    <uniqueid type="imdb" default="true">tt2980516</uniqueid>
+    <uniqueid type="tmdb">266856</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United Kingdom</country>
+    <credits>Anthony McCarten</credits>
+    <director>James Marsh</director>
+    <premiered>2014-11-26</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Working Title Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pOsMMutM8C0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7405</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eddie Redmayne</name>
+        <role>Stephen Hawking</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Felicity Jones</name>
+        <role>Jane Hawking</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/61vOLUiibva5lX7HYMmdjFFWEi3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Cox</name>
+        <role>Jonathan Hellyer Jones</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/eAmwqhfy5UMTPIWJyN6j4acgztz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Watson</name>
+        <role>Beryl Wilde</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon McBurney</name>
+        <role>Frank Hawking</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/wwN02i4RBoPHDdOKXBV5AhFALdT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Thewlis</name>
+        <role>Dennis Sciama</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maxine Peake</name>
+        <role>Elaine Mason</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6H2yLBIQDWgDmBkS5exDHGlZgqt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Lloyd</name>
+        <role>Brian</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Prior</name>
+        <role>Robert Hawking (Age 17)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/a69CXhQ6rDIqYUYEDa7DLOqOECX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sophie Perry</name>
+        <role>Lucy Hawking (Age 14)</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Finlay Wright-Stephens</name>
+        <role>Timothy Hawking (Age 8)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alice Orr-Ewing</name>
+        <role>Diana King</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/jOtE1FZvzjpWctXEV5ephzgFXaT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Morrison</name>
+        <role>Carter</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/a2Te4EVHdetRq63MveAxVQIi7yi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Marcus</name>
+        <role>Ellis</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gruffudd Glyn</name>
+        <role>Rees</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Longley</name>
+        <role>Barman - Rowing Club</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Guy Oliver-Watts</name>
+        <role>George Wilde</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucy Chappell</name>
+        <role>Mary Hawking</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/6wrGhl4Gfj3d0jtmECk81xRJfQC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Hope</name>
+        <role>Philippa Hawking</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/uHWyyV6gmQqhgCeYgK4VkX9hXVS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abigail Cruttenden</name>
+        <role>Isobel Hawking</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/gLLLwCtZv5Kjst7N4ErsWuaOeh7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Gerard-Martin</name>
+        <role>Physicist #1</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brett Brown</name>
+        <role>Physicist #2</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anthony Skrimshire</name>
+        <role>Physicist #3</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian McKay</name>
+        <role>Roger Penrose</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/8k7XPKHVtlPqfWg4Joulw0Pc9Fe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Godley</name>
+        <role>Senior Doctor - Cambridge Hospital</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/xOM0zOb2KZ2q8M6lRrDo9bEBeJE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicola Sloane</name>
+        <role>Bedder</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/blWSecB0y80tJCfLEdd3sfIC23f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lottie Hamilton</name>
+        <role>Robert Hawking (New Born)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enzo Cilenti</name>
+        <role>Kip Thorne</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/lGFHPUsOlAnncpZLfdFXCGq2nji.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rufus Taylor</name>
+        <role>Robert Hawking (Age 2)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Delilah Sexton</name>
+        <role>Lucy Hawking (New Born)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eileen Davies</name>
+        <role>Eileen Bond</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/6dIEVzSn5VfQ0Sh1rPutzhtTOk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Chandler</name>
+        <role>John Taylor</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/uqiDrIp84VEJY3vPCr95Cxp4mKY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Georg Nikoloff</name>
+        <role>Khalatnikov</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/vhGgKtOP855NbFCv2IakOeEyL1i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oliver Payne</name>
+        <role>Robert Hawking (Age 8)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Raffiella Chapman</name>
+        <role>Lucy Hawking (Age 6)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/u3vzRCht6RaULefF6EpBocmD30d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Houston</name>
+        <role>Timothy Hawking (Baby)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria Emslie</name>
+        <role>Sarah (Geneva Student)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Lebœuf</name>
+        <role>Swiss Doctor</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/tC4l4Ig9NvHd12NKvXiZpKDPdAk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Barton</name>
+        <role>Technician</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucy Challenger</name>
+        <role>Female Fan</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicola Victoria Buck</name>
+        <role>Cockcroft Guest #2</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stuart Benson</name>
+        <role>Cockcroft Guest #3</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Bridgmont</name>
+        <role>Cockcroft Guest #5</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/h7RaUzUnaJxkz7dsK47MRJIue3b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Edwards</name>
+        <role>Cockcroft Guest #4</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jumaane Brown</name>
+        <role>Cockcroft Guest #1</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 16:35:20</dateadded>
+</movie>

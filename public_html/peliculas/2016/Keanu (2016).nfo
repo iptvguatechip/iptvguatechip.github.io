@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Keanu</title>
+    <originaltitle>Keanu</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>45134</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>754</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Key &amp; Peele, el popular dúo cómico, interpretan a Clarence y Rell, dos primos que viven en la ciudad y que están muy lejos de ser unos rufianes. Cuando el querido gato de Rell, Keanu, es raptado, no tendrán más remedio que hacerse pasar por unos despiadados asesinos, con el objetivo de infiltrarse en una banda callejera y recuperar a su felino. Pero el increíblemente adorable gatito, se vuelve tan codiciado que tendrán que luchar por su custodia creando una guerra de pandillas, obligando a nuestros dos héroes a tomarse la justicia por su mano.</plot>
+    <tagline>Kitten, please.</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zztcso1bq32yzns0RI7fWYGF6yS.jpg">https://image.tmdb.org/t/p/original/zztcso1bq32yzns0RI7fWYGF6yS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg">https://image.tmdb.org/t/p/original/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x3w1RjbtDfIVPpdZCHcSy2zpi86.jpg">https://image.tmdb.org/t/p/original/x3w1RjbtDfIVPpdZCHcSy2zpi86.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pOK0AGZLJ501PRvigJ4KsumojgA.jpg">https://image.tmdb.org/t/p/original/pOK0AGZLJ501PRvigJ4KsumojgA.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/43gM9MjHPeGktYIHMPvDov1sZcm.jpg">https://image.tmdb.org/t/p/original/43gM9MjHPeGktYIHMPvDov1sZcm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bOz0fPbHGAYvKzNTIBlh926kQqz.jpg">https://image.tmdb.org/t/p/original/bOz0fPbHGAYvKzNTIBlh926kQqz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9DITq7K44fL4fQOmYTZEqus8CvZ.jpg">https://image.tmdb.org/t/p/original/9DITq7K44fL4fQOmYTZEqus8CvZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jZc8tyDDCQHxlrISHC6z8QCQykD.jpg">https://image.tmdb.org/t/p/original/jZc8tyDDCQHxlrISHC6z8QCQykD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lwdViUKifDEufIysDQyVMciYk9U.jpg">https://image.tmdb.org/t/p/original/lwdViUKifDEufIysDQyVMciYk9U.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xWCwCoRyAAeZxEUkreQIgg5kSt5.jpg">https://image.tmdb.org/t/p/original/xWCwCoRyAAeZxEUkreQIgg5kSt5.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4139124</id>
+    <uniqueid type="imdb" default="true">tt4139124</uniqueid>
+    <uniqueid type="tmdb">342521</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Jordan Peele</credits>
+    <credits>Alex Rubens</credits>
+    <director>Peter Atencio</director>
+    <premiered>2016-04-21</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>New Line Cinema</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K9zy27apgI8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5989</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jordan Peele</name>
+        <role>Rell Williams / Oil Dresden</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/9rOEfvKUInuUpJ6MMhiC8Tch1WM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keegan-Michael Key</name>
+        <role>Clarence Goobril / Smoke Dresden</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Haddish</name>
+        <role>Hi-C</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/Avmv1YY7Qscz0TyWxhqFoS7BO5f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Method Man</name>
+        <role>Cheddar</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mYJFxOcrda410rS5JHPf0nPuimZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darrell Britt-Gibson</name>
+        <role>Trunk</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cCfTL6qkctE088J3qr8qtgGrZa1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Mitchell</name>
+        <role>Bud</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/A8tLaFFkPoiDdYL9GcZ9KZyUB9P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamar Malachi Neighbors</name>
+        <role>Stitches</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luis Guzmán</name>
+        <role>Bacon</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Forte</name>
+        <role>Hulka</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/kphnirb7YggSVEhGI47kACxaIJQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nia Long</name>
+        <role>Hannah</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/2HnplqKDWkLyReeeAPsbEctkpPQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Huebel</name>
+        <role>Spencer</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/uHz2fiBMRz2E6GmAH5sRJNvKHWI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Wolfe</name>
+        <role>Alexis</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/qvAaB02INi8xCVy2BPzVWjYF1vR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordyn A. Davis</name>
+        <role>Belle</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Yeargain</name>
+        <role>Donnie</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brittany Seymour</name>
+        <role>Rachel</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Holden</name>
+        <role>Detective Mank</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/bdtFF6BD37ij1eso6XkpKm4phf7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nadiyah Skyy Taylor</name>
+        <role>Galaxy</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susan McBrien</name>
+        <role>Hulka&apos;s Mom</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/iaPd3nqtbhxOhDz2tMsHCNuAnKr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenny Ballard</name>
+        <role>Officer Jonah</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/jydalQK5bNXzmiryVbgCs4R0ULz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Casselberry</name>
+        <role>King Diaz</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/oDaDxzQsiAsE5fMr5HtoGT51Irl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neil Wells</name>
+        <role>Prison Guard</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David A. Cole</name>
+        <role>Cop #1</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/tVe7AmwsWK2rCHSaXR9mcqiSLPe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reginal Varice</name>
+        <role>Cop #2</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/hWxjakH3pAaWBTp13ArUPIsfoL6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Hayner</name>
+        <role>Guard #2</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/12X2PL1dOacs7LDjLDRLkCAiubR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keanu Reeves</name>
+        <role>Keanu (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/rRdru6REr9i3WIHv2mntpcgxnoY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sue-Lynn Ansari</name>
+        <role>Dancer (uncredited)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/lJuW2N6JhG2GJTulmkJYzQXvhvA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Faris</name>
+        <role>Herself (uncredited)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gino Galento</name>
+        <role>Narco Guard (uncredited)</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maia Kavchak</name>
+        <role>Drug Girl (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 21:36:40</dateadded>
+</movie>

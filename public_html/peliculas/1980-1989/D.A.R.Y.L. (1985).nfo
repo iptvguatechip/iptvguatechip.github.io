@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>D.A.R.Y.L.</title>
+    <originaltitle>D.A.R.Y.L.</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>12004</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>169</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un niño, que padece amnesia y sólo recuerda que se llama Daryl, aparece abandonado en una localidad de Virginia, donde un joven matrimonio decide acogerlo hasta que sus padres vayan a buscarlo. El joven prodigio demuestra poseer unas cualidades fuera de lo común.</plot>
+    <tagline>He can fly a jet, race a car and outsmart a computer. The government created him and now they want him destroyed.</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2cORBji66CreRT90gmrCiOxkpr9.jpg">https://image.tmdb.org/t/p/original/2cORBji66CreRT90gmrCiOxkpr9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pvz23gr0b03dfmge9wpJndajK9N.jpg">https://image.tmdb.org/t/p/original/pvz23gr0b03dfmge9wpJndajK9N.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wYj6GP0vkQplaxpM9vD4s8qi0zD.jpg">https://image.tmdb.org/t/p/original/wYj6GP0vkQplaxpM9vD4s8qi0zD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/583Mew4XSZyRmC2abO2v4IlTsq4.jpg">https://image.tmdb.org/t/p/original/583Mew4XSZyRmC2abO2v4IlTsq4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zqLlHdtPoSEyo8R3EMDtFBEQ0Si.jpg">https://image.tmdb.org/t/p/original/zqLlHdtPoSEyo8R3EMDtFBEQ0Si.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kLFVw5tJieAznTiCPBndWzASQix.jpg">https://image.tmdb.org/t/p/original/kLFVw5tJieAznTiCPBndWzASQix.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h6CWZxMgtOjOohLIzURyjnOSj8y.jpg">https://image.tmdb.org/t/p/original/h6CWZxMgtOjOohLIzURyjnOSj8y.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mOcNunsx0r47JNCAA7uknJ30VCx.jpg">https://image.tmdb.org/t/p/original/mOcNunsx0r47JNCAA7uknJ30VCx.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0088979</id>
+    <uniqueid type="imdb" default="true">tt0088979</uniqueid>
+    <uniqueid type="tmdb">16248</uniqueid>
+    <genre>Familia</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United Kingdom</country>
+    <credits>David Ambrose</credits>
+    <credits>Jeffrey Ellis</credits>
+    <credits>Allan Scott</credits>
+    <director>Simon Wincer</director>
+    <premiered>1985-06-14</premiered>
+    <year>1985</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paramount</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dKovIJUcKwo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>mpeg4</codec>
+                <aspect>22.000000</aspect>
+                <width>704</width>
+                <height>288</height>
+                <durationinseconds>5762</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Mary Beth Hurt</name>
+        <role>Joyce Richardson</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kX58VOb6a5c4kmjfCIudcWqU24H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael McKean</name>
+        <role>Andy Richardson</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xSwMjo3hLLVeopaHwYDdM1m5enl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barret Oliver</name>
+        <role>Daryl</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/3I2WOtca5upKiBAWVcRItCWCSog.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Linker</name>
+        <role>Sherie Lee Fox</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cQarREEBdju2rr0UEM8f4IAo8NW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Corkill</name>
+        <role>Turtle</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/n5nKI4T55LDGVoqS5RG1Ru6ZUET.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colleen Camp</name>
+        <role>Elaine Fox</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/itP8Fae0cvSknpIeX3X3koEn4jp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Ryan</name>
+        <role>Howie Fox</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/dqIpatrjynjxfc18JKb6mJJlKgX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josef Sommer</name>
+        <role>Dr. Jeffrey Stewart</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/eY3tCB4j7nWhsZX1enU6BYpaZl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathryn Walker</name>
+        <role>Dr. Ellen Lamb</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron Frazier</name>
+        <role>General Graycliffe</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Wohl</name>
+        <role>Mr. Nesbitt</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/iPHxMD2eimYJysHYIzLZUbPFhnp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ed Grady</name>
+        <role>Mr. Bergen</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/7flHLGfdYHIMRAGPMfIqXo8dE8X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tucker McGuire</name>
+        <role>Mrs. Bergen</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Hammatt</name>
+        <role>Dr. Mulligan</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-23 18:40:44</dateadded>
+</movie>

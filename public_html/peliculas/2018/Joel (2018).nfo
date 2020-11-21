@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Joel</title>
+    <originaltitle>Joel</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.200000</value>
+            <votes>187</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>2</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Basada en la historia del asesino serial más conocido de Nueva York quién asesino al menos a 17 prostitutas entre fines de los &apos;80 y comienzos de los &apos;90.</plot>
+    <tagline>New York&apos;s most notorious serial killer</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/J0tH2NHkdfSapxTaQ7RizhXUyh.jpg">https://image.tmdb.org/t/p/original/J0tH2NHkdfSapxTaQ7RizhXUyh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l3S0RAJuBheNuG53nmw3NEBhTiv.jpg">https://image.tmdb.org/t/p/original/l3S0RAJuBheNuG53nmw3NEBhTiv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aNU7YNy7j1uiQuBs3RokVHMcbYU.jpg">https://image.tmdb.org/t/p/original/aNU7YNy7j1uiQuBs3RokVHMcbYU.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/u58Kcs2NOgMMav1nx4n24rARa70.jpg">https://image.tmdb.org/t/p/original/u58Kcs2NOgMMav1nx4n24rARa70.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iEv8zUZ4HHXdL4tGqCv76TU7goM.jpg">https://image.tmdb.org/t/p/original/iEv8zUZ4HHXdL4tGqCv76TU7goM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eLrAJMY0lrw3QjxAOvI1wQvKBQj.jpg">https://image.tmdb.org/t/p/original/eLrAJMY0lrw3QjxAOvI1wQvKBQj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hwU7FkS969VL3I0yEdZWlMWAopc.jpg">https://image.tmdb.org/t/p/original/hwU7FkS969VL3I0yEdZWlMWAopc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cgdSl4TCavirwA27OsN9LdK5FLF.jpg">https://image.tmdb.org/t/p/original/cgdSl4TCavirwA27OsN9LdK5FLF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uwZ6gM0TZe0oMAHWijTdLR8gH8z.jpg">https://image.tmdb.org/t/p/original/uwZ6gM0TZe0oMAHWijTdLR8gH8z.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6986606</id>
+    <uniqueid type="imdb" default="true">tt6986606</uniqueid>
+    <uniqueid type="tmdb">478762</uniqueid>
+    <genre>Crimen</genre>
+    <country>United States of America</country>
+    <credits>John R. Hand</credits>
+    <director>John R. Hand</director>
+    <premiered>2018-06-15</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>JRH Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BzVVL8vO9lQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5995</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Arnold Odo</name>
+        <role>Joel Rifkin</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bri Bynon McGregor</name>
+        <role>Star</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fernando Cano</name>
+        <role>Detective Moretti</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ella Stryker</name>
+        <role>Jamie</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Billionna Olivia Reyes</name>
+        <role>Kerri</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/xFh6yOdlMNPOyRnDTpXs3FwOFPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Golden</name>
+        <role>Lola</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alyssa Klein</name>
+        <role>Bibi</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caitlyn Moore</name>
+        <role>Amber</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carrie Harden</name>
+        <role>Randi</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laurel Thomas</name>
+        <role>Candy</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeannie Ramirez</name>
+        <role>Maci</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:19</dateadded>
+</movie>

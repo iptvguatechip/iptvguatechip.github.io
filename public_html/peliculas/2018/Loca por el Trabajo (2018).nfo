@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Loca por el trabajo</title>
+    <originaltitle>Loca por el trabajo</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.300000</value>
+            <votes>254</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.900000</value>
+            <votes>20</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Alicia, una exitosa ejecutiva, adicta al trabajo, antepone las necesidades de su empresa a las de su familia. Un mal día, a causa de una absurda confusión, pierde todo lo que tiene. En medio de esta situación, se hace amiga de su alocada vecina, quien resulta ser propietaria de una sex shop. Alicia encontrará en ese fascinante lugar muy “buena vibra” y un nuevo rumbo para su vida profesional.</plot>
+    <tagline>Es un placer hacer negocios</tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iPS4ju4Po7n7RIpR4yRMSw3k8oG.jpg">https://image.tmdb.org/t/p/original/iPS4ju4Po7n7RIpR4yRMSw3k8oG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r8Z4sNA0BvtU3NpyYTCl5spOrry.jpg">https://image.tmdb.org/t/p/original/r8Z4sNA0BvtU3NpyYTCl5spOrry.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jS2gAZ2ccVLeAyVsDiqBJl9bHy7.jpg">https://image.tmdb.org/t/p/original/jS2gAZ2ccVLeAyVsDiqBJl9bHy7.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7126758</id>
+    <uniqueid type="imdb" default="true">tt7126758</uniqueid>
+    <uniqueid type="tmdb">554581</uniqueid>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <credits>Jose Luis Gutierrez</credits>
+    <credits>Flavia Atencio</credits>
+    <credits>Concepción Taboada</credits>
+    <credits>Gustavo Rodríguez</credits>
+    <director>Luis Eduardo Reyes</director>
+    <premiered>2018-11-16</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Instituto Mexicano de Cinematografía</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>956.000000</aspect>
+                <width>1912</width>
+                <height>798</height>
+                <durationinseconds>5631</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bárbara de Regil</name>
+        <role>Alicia</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6DXA3uzsq7o2AWNGtvriEXuoC0B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marianna Burelli</name>
+        <role>Maricela</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fcja3dhU19ShrwDJXcWLsPDXa1h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alberto Guerra</name>
+        <role>Leonardo</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/aqckvbjXVGeFlx27FJevoby9WBM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adriana Barraza</name>
+        <role>Mercedes</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/1aE7wu22bdgVTa0PMKXbAOSLiZn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hernán Mendoza</name>
+        <role>Braulio</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cAjl04gkTPp0NkmzicFVJVQg9Mv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Regina Blandón</name>
+        <role>Fabiana</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hoNmc7G7l70RcBa1hDj485Th5Ne.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Tovar</name>
+        <role>Rosendo</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martha Claudia Moreno</name>
+        <role>Rosa</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6nHilL0TGRpYuD4EXYElute7H8G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Esteban Soberanes</name>
+        <role>Carlos</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pamela Almanza</name>
+        <role>Daniela</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/h6VgbR19K7fRjr2sS3FL9gVMazj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Santacruz</name>
+        <role>Cortazar</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roxana Castellanos</name>
+        <role>Cliente</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/6umqsNAgt8o25VQfy73EyWIxcqv.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:15:32</dateadded>
+</movie>

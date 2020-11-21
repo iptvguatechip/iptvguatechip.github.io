@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Tomb Raider: Las aventuras de Lara Croft</title>
+    <originaltitle>Tomb Raider</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>187543</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>5660</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Lara Croft (Alicia Vikander) es una joven e inexperta arqueóloga que se embarcará en su primera aventura para terminar la investigación arqueológica iniciada por su padre, y descubrir así antiguos secretos con el fin de limpiar el deshonrado nombre de su progenitor. Esta expedición llena de peligros será una lucha por la supervivencia, con nuevas pruebas y nuevos enemigos, en la que Croft, poco a poco, se irá convirtiendo en la heroína que todos conocemos. La historia de una mujer corriente que descubre su carácter de luchadora al verse obligada a poner a prueba sus habilidades de lucha con el único propósito de salir con vida.</plot>
+    <tagline>Her legend begins</tagline>
+    <runtime>117</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fLMvphhOso5w3C3m0HOkAxzVCZ8.jpg">https://image.tmdb.org/t/p/original/fLMvphhOso5w3C3m0HOkAxzVCZ8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ef7sUooM7E5sl4Wk3f6QlQtGyOY.jpg">https://image.tmdb.org/t/p/original/ef7sUooM7E5sl4Wk3f6QlQtGyOY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7BXR8Y39stor8ahBue1VDSp0Vm.jpg">https://image.tmdb.org/t/p/original/7BXR8Y39stor8ahBue1VDSp0Vm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iKMrC8fR9exkdykazvuZU3BDfTy.jpg">https://image.tmdb.org/t/p/original/iKMrC8fR9exkdykazvuZU3BDfTy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg">https://image.tmdb.org/t/p/original/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xIsa2Gxkk6UDvfcMVQqnOSOr3nA.jpg">https://image.tmdb.org/t/p/original/xIsa2Gxkk6UDvfcMVQqnOSOr3nA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg">https://image.tmdb.org/t/p/original/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iWFeyCxwmVMgZyGFWF2riynKrJ5.jpg">https://image.tmdb.org/t/p/original/iWFeyCxwmVMgZyGFWF2riynKrJ5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3zrC5tUiR35rTz9stuIxnU1nUS5.jpg">https://image.tmdb.org/t/p/original/3zrC5tUiR35rTz9stuIxnU1nUS5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rcyPer7CGmDzWCczT4okv26clDj.jpg">https://image.tmdb.org/t/p/original/rcyPer7CGmDzWCczT4okv26clDj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4aZvU0rq0pj2QHGnBDybgiMWNbA.jpg">https://image.tmdb.org/t/p/original/4aZvU0rq0pj2QHGnBDybgiMWNbA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dnxU4TaXKuFTv9kv6XEGyWEaD7v.jpg">https://image.tmdb.org/t/p/original/dnxU4TaXKuFTv9kv6XEGyWEaD7v.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/OQZR5QSJkVCVKZ1S7OWZb8xFWe.jpg">https://image.tmdb.org/t/p/original/OQZR5QSJkVCVKZ1S7OWZb8xFWe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/HzyU0Bap4fV4k0xNrxuMsLGilu.jpg">https://image.tmdb.org/t/p/original/HzyU0Bap4fV4k0xNrxuMsLGilu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oVB4PXX4ImEPLYvd31amBEMvYwF.jpg">https://image.tmdb.org/t/p/original/oVB4PXX4ImEPLYvd31amBEMvYwF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5xCWYsXuH5Ule88o5bZxOsnagSv.jpg">https://image.tmdb.org/t/p/original/5xCWYsXuH5Ule88o5bZxOsnagSv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6q6SHENUQrH1hNzaSxo3nbioGo7.jpg">https://image.tmdb.org/t/p/original/6q6SHENUQrH1hNzaSxo3nbioGo7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ArJRIUPM5gxzeLCIDTE2teN82fY.jpg">https://image.tmdb.org/t/p/original/ArJRIUPM5gxzeLCIDTE2teN82fY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vFlzKpavasxwtCTESLQrnkJiQeK.jpg">https://image.tmdb.org/t/p/original/vFlzKpavasxwtCTESLQrnkJiQeK.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg">https://image.tmdb.org/t/p/original/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jLYhKjSC8LyXzWZc6VwPjMYP2wy.jpg">https://image.tmdb.org/t/p/original/jLYhKjSC8LyXzWZc6VwPjMYP2wy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oJd4ZZ587CofDDGV1qAfp91m7VC.jpg">https://image.tmdb.org/t/p/original/oJd4ZZ587CofDDGV1qAfp91m7VC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg">https://image.tmdb.org/t/p/original/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pW3Yd8TEYIwgVMMJBjvBxKcmgXu.jpg">https://image.tmdb.org/t/p/original/pW3Yd8TEYIwgVMMJBjvBxKcmgXu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yVlaVnGRwJMxB3txxwA24XurSNp.jpg">https://image.tmdb.org/t/p/original/yVlaVnGRwJMxB3txxwA24XurSNp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fcw00cUvmtYGbs0Q8VkITneGvES.jpg">https://image.tmdb.org/t/p/original/fcw00cUvmtYGbs0Q8VkITneGvES.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gVtxvD7DBQJojua6J0I9t7p48i.jpg">https://image.tmdb.org/t/p/original/gVtxvD7DBQJojua6J0I9t7p48i.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mNKAKJ2Zxtny8vgH90qYaicuxlO.jpg">https://image.tmdb.org/t/p/original/mNKAKJ2Zxtny8vgH90qYaicuxlO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b5WcQjIGQEnSaTWxSXq0zHuMq38.jpg">https://image.tmdb.org/t/p/original/b5WcQjIGQEnSaTWxSXq0zHuMq38.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uzjjJbwKQEUqvlQUTz44WUFGMZo.jpg">https://image.tmdb.org/t/p/original/uzjjJbwKQEUqvlQUTz44WUFGMZo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mxttTR5PfXFT9lfoTHrdMioqM1i.jpg">https://image.tmdb.org/t/p/original/mxttTR5PfXFT9lfoTHrdMioqM1i.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kvS8wKvSl5xcV3RrLiNFl5PLOeq.jpg">https://image.tmdb.org/t/p/original/kvS8wKvSl5xcV3RrLiNFl5PLOeq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sF1UGnbY5QVxv9T1p7JUdz93eBw.jpg">https://image.tmdb.org/t/p/original/sF1UGnbY5QVxv9T1p7JUdz93eBw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h9H8j7RHUPX904W63I5iNgtyE8M.jpg">https://image.tmdb.org/t/p/original/h9H8j7RHUPX904W63I5iNgtyE8M.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 12</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1365519</id>
+    <uniqueid type="imdb" default="true">tt1365519</uniqueid>
+    <uniqueid type="tmdb">338970</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Fantasía</genre>
+    <country>United Kingdom</country>
+    <credits>Alastair Siddons</credits>
+    <credits>Geneva Robertson-Dworet</credits>
+    <director>Roar Uthaug</director>
+    <premiered>2018-03-05</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Square Enix</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=phsWSladwOI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7068</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Alicia Vikander</name>
+        <role>Lara Croft</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/9pmHTbXeRxUF51jJKthmHI49u9z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walton Goggins</name>
+        <role>Mathias Vogel</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WAXNCOo66vBnSi396Eh2IQUsG6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Wu</name>
+        <role>Lu Ren</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/w6fCmYDlTNYfgdXBZjZH107c9zJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominic West</name>
+        <role>Lord Richard Croft</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xOr7REvhVy9Ax83dlk2qRiwLC1G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristin Scott Thomas</name>
+        <role>Ana Miller</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kFy1U9bTI2yIA0LyrgsqU5isFl0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek Jacobi</name>
+        <role>Mr. Yaffe</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/htc4eCYmNlVotcu8AFTbDiLBzsJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah John-Kamen</name>
+        <role>Sophie</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2dWMAk6l0KavjxZpR1P4ln7bxYg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandre Willaume</name>
+        <role>Lieutenant</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6zttJU9oH51Os2YHtzj9RuMc6Ck.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamer Burjaq</name>
+        <role>Mercenary</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/rz1FOttxvkeVkAh7XxjBwd8eGgC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Collins</name>
+        <role>Mercenary</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/1MGu9w57XtOc9NhLk8UvXvtG4vN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keenan Arrison</name>
+        <role>Rocket (Mercenary)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/945JkSeqpymlqvPSgmT4Tq3mMFv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrian Mazive</name>
+        <role>Mercenary</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/7fa4GEcDFxoIB7BFzOxKg70FH4d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Milton Schorr</name>
+        <role>Mac (Mercenary)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/tKrRpxUGTDCoDlSenhf3Xl7AAal.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Waison</name>
+        <role>Taxi Driver (Stunts)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samuel Mak</name>
+        <role>Chinese Kid</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/fWR0tnViZITlKcEdyGSYAaZwLMf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sky Yang</name>
+        <role>Chinese Kid</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Civic Chung</name>
+        <role>Chinese Kid</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Josef Altin</name>
+        <role>Bruce The Boss</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/8gsZTX35qE7jI6pch6369DeNRIX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Postlethwaite</name>
+        <role>Bill</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/cpHNAqOBP8SIcml1A8ODmtuEyNh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Jean Nsengiyumva</name>
+        <role>Rog</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jaime Winstone</name>
+        <role>Pamela</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/66YHmcXmxjFABJfoWKwg0iEMcwS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Obiora</name>
+        <role>Baxter</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/4AJSOV9JzHOzeULqamGqTcNtltV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shekhar Varma</name>
+        <role>Mr. Ahuja</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/ryKjZxyEy3j8lp94rPNbj9UBCnj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rekha John-Cheriyan</name>
+        <role>Mrs. Ahuja</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/begnwafxgWkCPZRg11aKQzlumsY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Aakeel</name>
+        <role>Nitin Ahuja</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/bZQM9rdsngwVVcnxCQEQEYA9Ycf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maisy De Freitas</name>
+        <role>Young Lara 7 years old</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emily Carey</name>
+        <role>Young Lara 14 years old</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/oU5Np6awKABR9P18OC9EwyFKHrQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gordon Chow</name>
+        <role>Sickly Old Digger</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Duncan Airlie James</name>
+        <role>Terry the Trainer</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/ptLekWmOm5BpXgSqqV5XGpetYQ6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jandre le Roux</name>
+        <role>Heli Pilot</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vere Tindale</name>
+        <role>Heli Co-Pilot</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/7FfFbU35Nx4Zvfz68WxkrO0kun3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Annabel Elizabeth Wood</name>
+        <role>Rose</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Fok</name>
+        <role>Digger in Woods</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/ofaUPZ0on6NW7FOJxNhuMJRTCGn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maruwan Gasant</name>
+        <role>Digger in Camp</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nick Frost</name>
+        <role>Alan (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Sayuri Hare</name>
+        <role>Sam (uncredited)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/5hgkuLVl7WsmQmShL6ms3GrK2fA.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 12:43:17</dateadded>
+</movie>

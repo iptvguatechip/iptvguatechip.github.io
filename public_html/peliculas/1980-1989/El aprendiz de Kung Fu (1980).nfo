@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Aprendiz De Kung Fu</title>
+    <originaltitle>招半式闖江湖</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>1666</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>33</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Jiang (Jackie Chan) actúa como si fuese un novato en peleas pero interesado en aprender. Desesperado por conocer las técnicas de Kung fu, acepta vigilar un gran Tesoro de Jade como intercambio por las clases de Kung fu que le ofrece su maestro.</plot>
+    <tagline></tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5iaMKY9gTnDx16d5Ht9BtUDX94V.jpg">https://image.tmdb.org/t/p/original/5iaMKY9gTnDx16d5Ht9BtUDX94V.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qyNG5IRXNZI5SCZ7Soknqf5b8nI.jpg">https://image.tmdb.org/t/p/original/qyNG5IRXNZI5SCZ7Soknqf5b8nI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7cVIMPxKFzMlZgVPIhJqmCwjp4E.jpg">https://image.tmdb.org/t/p/original/7cVIMPxKFzMlZgVPIhJqmCwjp4E.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wXB5FA1Xbd3D3TFOHvWf1qCTxKm.jpg">https://image.tmdb.org/t/p/original/wXB5FA1Xbd3D3TFOHvWf1qCTxKm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jpmAMKp840nL2Ea1Z5ao3LjVz8B.jpg">https://image.tmdb.org/t/p/original/jpmAMKp840nL2Ea1Z5ao3LjVz8B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2GP5eZVlNFwm1IazWKJjf0EN49i.jpg">https://image.tmdb.org/t/p/original/2GP5eZVlNFwm1IazWKJjf0EN49i.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0080623</id>
+    <uniqueid type="imdb" default="true">tt0080623</uniqueid>
+    <uniqueid type="tmdb">18867</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Acción</genre>
+    <country>Hong Kong</country>
+    <credits>Tang Ming-Chi</credits>
+    <director>Chen Chi-Hwa</director>
+    <premiered>1978-06-30</premiered>
+    <year>1978</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lo Wei Motion Picture Co.</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vQgyu8JMsog</trailer>
+    <actor>
+        <name>Jackie Chan</name>
+        <role>Master Chang</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Tien</name>
+        <role>Master Mao</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wSlkjKKcJWX1YpXPFbAikUjIMwo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doris Lung Chun-Erh</name>
+        <role>Fung&apos;s daughter</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kim Chung-ran</name>
+        <role>Miss Lu / Whip Hero&apos;s sister</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kam Kong</name>
+        <role>Ying Fu</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lee Hae-Ryong</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ma Ju-Lung</name>
+        <role></role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/l88Hap1aaJq4ncNrMI5y2r8QZJI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miao Tien</name>
+        <role>Mr Wan</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/29J7SoNE5FiNvMDkOtsKug7oRSh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lin Chao-Hsiung</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dean Shek</name>
+        <role>Man with cane</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/zFckxqvmGjjb6lYlYaNfy5ahWTJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Lee Chi-lun</name>
+        <role>Snake woman</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lee Man-Tai</name>
+        <role>Old Beggar</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ko Keung</name>
+        <role>Wears gold cape</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gam Sai-Yuk</name>
+        <role>Wears leopard skin</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 13:10:50</dateadded>
+</movie>

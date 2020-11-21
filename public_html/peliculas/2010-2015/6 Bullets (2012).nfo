@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>6 Balas</title>
+    <originaltitle>6 Bullets</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.100000</value>
+            <votes>13869</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>182</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El veterano mercenario Samson Gaul sabe que, en el fragor de la batalla, cada bala cuenta. Cuando sus acciones dieron como resultado la muerte de víctimas indefensas se retiró pero ahora es la última esperanza de Andrew Fayden un padre desesperado. Fayden sabe luchar pero solo no está preparado para encontrar a su hija en las corruptas calles de un país extranjero. Juntos, ambos guerreros, no se detendrán ante nada para destrozar la red criminal que se aprovecha de los inocentes.</plot>
+    <tagline>The greater the sinner, the greater the saint.</tagline>
+    <runtime>115</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lSVezF5DFwQaWNxSBb4O2qaSZv2.jpg">https://image.tmdb.org/t/p/original/lSVezF5DFwQaWNxSBb4O2qaSZv2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l8bKC9HUgDj5EHGlW9qKBWCQZTz.jpg">https://image.tmdb.org/t/p/original/l8bKC9HUgDj5EHGlW9qKBWCQZTz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tniFHeiQU55feNik7X0mHlEe9DE.jpg">https://image.tmdb.org/t/p/original/tniFHeiQU55feNik7X0mHlEe9DE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7yEbEUrOsAS0d5DW1OqtvSpmRQv.jpg">https://image.tmdb.org/t/p/original/7yEbEUrOsAS0d5DW1OqtvSpmRQv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wydggKafirsqdPHzGGN1jZ2f8xf.jpg">https://image.tmdb.org/t/p/original/wydggKafirsqdPHzGGN1jZ2f8xf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rcXA8y4g6SIz1rSpOy0ACm4VeOT.jpg">https://image.tmdb.org/t/p/original/rcXA8y4g6SIz1rSpOy0ACm4VeOT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pc67Qnant1EzVgies89L0q1cNzH.jpg">https://image.tmdb.org/t/p/original/pc67Qnant1EzVgies89L0q1cNzH.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/43ZU7sKMdh7WFXgfuHntpPUh4Nf.jpg">https://image.tmdb.org/t/p/original/43ZU7sKMdh7WFXgfuHntpPUh4Nf.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1975249</id>
+    <uniqueid type="imdb" default="true">tt1975249</uniqueid>
+    <uniqueid type="tmdb">127521</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <country>United States of America</country>
+    <credits>Chad Law</credits>
+    <credits>Evan Law</credits>
+    <director>Ernie Barbarash</director>
+    <premiered>2012-09-11</premiered>
+    <year>2012</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Rodin Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ioIknR8KQmk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6903</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jean-Claude Van Damme</name>
+        <role>Samson Gaul</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qAHXPJ4IybMsCbNY3811CytFj3H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kris Van Damme</name>
+        <role>Selwyn Gaul</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/4465DC6Fz3RUtOGwD2E4xidFr8z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bianca Bree</name>
+        <role>Amalia</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/1bwKdE1oYtW4ahUxS80i4leKPWN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Flanigan</name>
+        <role>Andrew Fayden</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5AA1ORKIsnMakT6fCVy3JKlzMs6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna-Louise Plowman</name>
+        <role>Monica Fayden</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/awagJhvfkNYItu6Giv5wWn8tCfW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Beaumont</name>
+        <role>Becky Fayden</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5pOvpZeL1DTmKyWpSy6Z8YE0k6g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terese Cilluffo</name>
+        <role>News Anchor</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Uriel Emil Pollack</name>
+        <role>Vlad</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/71xJg7pWmwPNlv8DQ4lNMJZmEF4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ioan Ionescu</name>
+        <role>Dr. Sui</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louis Dempsey</name>
+        <role>Cosmin Stelu</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/y1VOor5pYAdqpNfXgKRktuygwOa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Townsend</name>
+        <role>(uncredited)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-02 10:38:08</dateadded>
+</movie>

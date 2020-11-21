@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ed Wood</title>
+    <originaltitle>Ed Wood</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.800000</value>
+            <votes>163697</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>1498</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Ed Wood es un joven director de cine, un visionario sin ninguna formación académica, aficionado a vestirse de mujer y con muy pocas oportunidades de hacer películas en un gran estudio. Sin embargo no ceja en su empeño de convertirse en un director famoso. Tras reunir a un curioso grupo de personajes, realiza películas de bajo presupuesto, excéntricas y no muy cuidadas técnicamente.</plot>
+    <tagline>When it came to making bad movies, Ed Wood was the best.</tagline>
+    <runtime>121</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l6DjxsCOlpT1xzztMHQDAZvqdhx.jpg">https://image.tmdb.org/t/p/original/l6DjxsCOlpT1xzztMHQDAZvqdhx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/37Cprgwnn4iDvjoEzCNTErZXrJo.jpg">https://image.tmdb.org/t/p/original/37Cprgwnn4iDvjoEzCNTErZXrJo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xCGCUFjUZJXgaiL4pV3orInA0ff.jpg">https://image.tmdb.org/t/p/original/xCGCUFjUZJXgaiL4pV3orInA0ff.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mwIpZTVgnHl08RvNFvgHCINR8BL.jpg">https://image.tmdb.org/t/p/original/mwIpZTVgnHl08RvNFvgHCINR8BL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/e4J0XllorrXGB151msWzo8cWwsO.jpg">https://image.tmdb.org/t/p/original/e4J0XllorrXGB151msWzo8cWwsO.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg">https://image.tmdb.org/t/p/original/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iyOAqR2xhjk21MBhzFSnHzO1Y0c.jpg">https://image.tmdb.org/t/p/original/iyOAqR2xhjk21MBhzFSnHzO1Y0c.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ewhc3qossg0fHb2S09jXZUD8jog.jpg">https://image.tmdb.org/t/p/original/ewhc3qossg0fHb2S09jXZUD8jog.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zrAw0fBrv4BlKC4PxDLVX3vtoWS.jpg">https://image.tmdb.org/t/p/original/zrAw0fBrv4BlKC4PxDLVX3vtoWS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mmzcbm1Y9GhIvq5XoFuVrgYpyK2.jpg">https://image.tmdb.org/t/p/original/mmzcbm1Y9GhIvq5XoFuVrgYpyK2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0109707</id>
+    <uniqueid type="imdb" default="true">tt0109707</uniqueid>
+    <uniqueid type="tmdb">522</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <country>United States of America</country>
+    <credits>Rudolph Grey</credits>
+    <credits>Scott Alexander</credits>
+    <credits>Larry Karaszewski</credits>
+    <director>Tim Burton</director>
+    <premiered>1994-09-27</premiered>
+    <year>1994</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Touchstone Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CawVaHxWvnA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>xvid</codec>
+                <aspect>40.000000</aspect>
+                <width>720</width>
+                <height>558</height>
+                <durationinseconds>7283</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Johnny Depp</name>
+        <role>Ed Wood</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/532tIC5wzmmR1jO7oA83rTiLvBx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Landau</name>
+        <role>Bela Lugosi</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/m3E6gwlk0UHTNBQktfVXgEn5MQC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Jessica Parker</name>
+        <role>Dolores Fuller</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pv65NTk8g4v7ZNd0ldi6QhEcJLa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia Arquette</name>
+        <role>Kathy O&apos;Hara</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4QhSLWWVtwz3Q13MFPDm2kXzT3W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Jones</name>
+        <role>Criswell</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/zLodpqWUb9OzQLpK1ZY9im1Lh0p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Murray</name>
+        <role>Bunny Breckinridge</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Marie</name>
+        <role>Vampira</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/ze1gOeR6qfAMAUlMqNYdV7KX3Pd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Steele</name>
+        <role>Tor Johnson</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/62frqfzzAHj3kcej7d1EXJMHBs5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>G. D. Spradlin</name>
+        <role>Reverend Lemon</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/pWNa9H3ABB3Ug9CwTfVNtHsCFjV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent D&apos;Onofrio</name>
+        <role>Orson Welles</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Starr</name>
+        <role>Georgie Weiss</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/mv5UWjH3ukiMQuuHuSZCsnZ9cOw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Casella</name>
+        <role>Paul Marco</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/5CNTDSCBhWPclTLTyTBy8oHUkzb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brent Hinkley</name>
+        <role>Conrad Brooks</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/o7vmerVxCynNszBFgxJjwOS99NY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William James Myers</name>
+        <role>Tor Johnson</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ekJOuNSDbJALloXlgyCjAHmIviI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juliet Landau</name>
+        <role>Loretta King</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/yZWvGRtB2tKTy4aYbqG1rno6iJU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clive Rosengren</name>
+        <role>Ed Reynolds</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/n8EcJgGQodlJf5CvB6Z71fobQjf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norman Alden</name>
+        <role>Cameraman Bill (uncredited)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/b9DgjOXgwSFLDbTT5DhAFPDGlxe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonard Termo</name>
+        <role>Makeup Man Harry (uncredited)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/9QummJWlDgiEMClBTGyMfF6nyMX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ned Bellamy</name>
+        <role>Dr. Tom Mason (uncredited)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/uTVy2aJkcLTYxPwLt8dpYxsEZul.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Dayton</name>
+        <role>Soundman (uncredited)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/aHO2FLTgypy210Vl3wVLTYosaUz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ross Manarchy</name>
+        <role>Camera Assistant (uncredited)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/dpK2uFch0ZnS8ScxXKER0LRqjaG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Cusack</name>
+        <role>Tony McCoy</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/gzFrSaKHWiNw3QnoJe1Amv2mcpH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stanley DeSantis</name>
+        <role>Mr. Feldman (uncredited)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/4pdkgjIGI5gW7Mf39tBXe7yaOg5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Biff Yeager</name>
+        <role>Rude Boss (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph R. Gannascoli</name>
+        <role>Security Guard (uncredited)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/zEYyN6kNIhtaFwYnDKlfiCnxjqY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carmen Filpi</name>
+        <role>Old Crusty Man (uncredited)</role>
+        <order>25</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZjliYjkyOGMtYjk2Mi00NDVjLWFhZGQtZmJkYzRkZTA1MWI0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Malkiewicz</name>
+        <role>Secretary #1 (uncredited)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/fglz4JTbmWAfOkNPhngQffOZRNL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melora Walters</name>
+        <role>Secretary #2 (uncredited)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/55UsAueo3kpbuQNJ302EjWfyHMT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Conrad Brooks</name>
+        <role>Bartender (uncredited)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/ccuggOAsOHthPN1kdhDbhH69Xwn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Amendolia</name>
+        <role>Salesman (uncredited)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/yC43rKJ5adkOy68uLi9R0aBzLNs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reid Cruickshanks</name>
+        <role>Stage Guard (uncredited)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lionel Decker</name>
+        <role>Executive #1 (uncredited)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/xV8jzujHjKYnj1gfFfr3vWiyG0N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edmund L. Shaff</name>
+        <role>Executive #2 (uncredited)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/bhCmAkrf6Uywg5vx0D1uqpLUGJu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gene LeBell</name>
+        <role>Ring Announcer (uncredited)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/f5p6gWqunqhK4clAgG1agI3Xzhp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobby Slayton</name>
+        <role>TV Show Host (uncredited)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gretchen Becker</name>
+        <role>TV Host&apos;s Assistant (uncredited)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Rice</name>
+        <role>Conservative Man (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/olYzjAsd8kMHpgjHoWd7kDp2wCs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catherine Butterfield</name>
+        <role>Conservative Wife (uncredited)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/bVGA8lxuiNxMBDD5DQKj0IMlNCD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Portser</name>
+        <role>Backer&apos;s Wife (uncredited)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/cdvLW75rV6RYuSM6TD4hWrRV7Qa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>King Cotton</name>
+        <role>Hick Backer (uncredited)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/mqWzftkzR3muixC2C8P4F6jq4wF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Hood</name>
+        <role>Southern Backer (uncredited)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Zk7fUvXqCCDHPBKWalqHqhuX09.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Barry</name>
+        <role>Valet (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/4e6T3cZL6V8clMj9mTGQndQ9OsB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ralph Monaco</name>
+        <role>Waiter (uncredited)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/6FkczvJnlLUWuNLDuB6Lmt0PQxW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Russell</name>
+        <role>Busboy (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregory Walcott</name>
+        <role>Potential Backer (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/fzEZM9TbG88zFA37jFszPEn20Kt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles C. Stevenson Jr.</name>
+        <role>Another Backer (uncredited)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/k9k7r2av6IOCMQKOTyPFJt4j1gB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rance Howard</name>
+        <role>Old Man McCoy (uncredited)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vasek Simek</name>
+        <role>Professor Strowski (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/rilqGvic4w4s1gTpTCTJUXNuwo6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vinny Argiro</name>
+        <role>TV Horror Show Director (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Korla Pandit</name>
+        <role>Indian Musician (uncredited)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/hwqKeTIdOUB5NXHLD0hDWBA9aah.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patti Tippo</name>
+        <role>Nurse (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/68mCQgI46gAO4YdVnbaZGnXW8gZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Baker</name>
+        <role>Doctor (uncredited)</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louis Lombardi</name>
+        <role>Rental House Manager (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/cYxbGCEf0mnsACuxCIX0faCjGUQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesse Hernandez</name>
+        <role>Wrestling Opponent (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/zbE4ZQ9K7mJx5xGCExNzKjVvKry.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Boyce</name>
+        <role>Theatre Manager (uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/7lqkifKFP8uFrrduJleDcN7bV9J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Ryan Ganger</name>
+        <role>Angry Kid (uncredited)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/9jShESJ4IFPSWJRFmJHdQQ7BGn5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Holliday</name>
+        <role>Tourist (uncredited)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/w5TdBu9cdFXHA1zlLMwIdKOcbUe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Bertelsen</name>
+        <role>Tough Boy (uncredited)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/vSlRndjzrZhicsVsWqlmckwDlYv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Drescher</name>
+        <role>Photographer #1 (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/4XxvgYMkKdWVwokFW3zt9Wpgsd1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ric Mancini</name>
+        <role>Photographer #2 (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Riordan</name>
+        <role>Pilot / Strapping Young Man (uncredited)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/xZMVjM2pmgkBJMl6OPEPySagouT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mickey Cottrell</name>
+        <role>Hammy Alien (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/p9qp6XcXXCgidPxI5tr7T3wANEH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lena Banks</name>
+        <role>Sexy Pedestrian (uncredited)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maurice LaMarche</name>
+        <role>Orson Welles (voice) (uncredited)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ada Tai</name>
+        <role>Vampira&apos;s Friend (uncredited)</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/hRZ6bVvs7JG1DCPpGL4CrCZfoAk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arlene Tai</name>
+        <role>Vampira&apos;s Friend (uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/w2WS4Nolb1MD67GIvVpBJueQQ7P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rayder Woods</name>
+        <role>Car Vandal (uncredited)</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/oZwX6n5sr7DAYiCiuoHgl7DI1uU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ralph Moratz</name>
+        <role>Extra (uncredited)</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/ax2d7RI6kcHIzV6PBnoE7hafNbs.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-24 03:59:37</dateadded>
+</movie>

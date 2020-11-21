@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Breakin&apos; 2: Electric Boogaloo</title>
+    <originaltitle>Breakin&apos; 2: Electric Boogaloo</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>3681</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.000000</value>
+            <votes>51</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>The dance crew from &quot;Breakin&apos;&quot; bands together to save a community center from a greedy developer bent on building a shopping center in its place.</plot>
+    <tagline>They&apos;re Back... For Everyone Who Believes In the Beat.</tagline>
+    <runtime>93</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/dMyUiGhcCE467A3sfYBg5sJQ7PA.jpg">https://image.tmdb.org/t/p/original/dMyUiGhcCE467A3sfYBg5sJQ7PA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/vWUzNwn6LmaE6l64rQPTxRF7mI.jpg">https://image.tmdb.org/t/p/original/vWUzNwn6LmaE6l64rQPTxRF7mI.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/q5zhNf6vS9NZN5QW9Zx251qrtlt.jpg">https://image.tmdb.org/t/p/original/q5zhNf6vS9NZN5QW9Zx251qrtlt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vfNjviAhaDKapf65nuB3xo9iSFu.jpg">https://image.tmdb.org/t/p/original/vfNjviAhaDKapf65nuB3xo9iSFu.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iy7vybBK8pRUKaip9sIfUbxl3Fd.jpg">https://image.tmdb.org/t/p/original/iy7vybBK8pRUKaip9sIfUbxl3Fd.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0086999</id>
+    <uniqueid type="imdb" default="true">tt0086999</uniqueid>
+    <uniqueid type="tmdb">17464</uniqueid>
+    <genre>Drama</genre>
+    <genre>Música</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Breakin&apos; Collection</name>
+        <overview>break dancing and music dominate this series</overview>
+    </set>
+    <credits>Allen DeBevoise</credits>
+    <credits>Charles Parker</credits>
+    <credits>Jan Ventura</credits>
+    <credits>Julie Reichert</credits>
+    <director>Sam Firstenberg</director>
+    <premiered>1984-12-21</premiered>
+    <year>1984</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cannon Group</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9YaNKBmRNvY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>mpeg4</codec>
+                <aspect>4.000000</aspect>
+                <width>576</width>
+                <height>432</height>
+                <durationinseconds>5632</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lucinda Dickey</name>
+        <role>Kelly</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/hZGNDZfmie8PGwS4yu3KfEiNgt9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adolfo Quinones</name>
+        <role>Ozone</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tSc60ecTxyYtLXfFHI4vKY2ojys.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Chambers</name>
+        <role>Turbo</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qrEIrI0o6upnQl4yjJGAABVmdXg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Caesar</name>
+        <role>Byron</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/bvG5atyW7fSFCr2HGmOyQE461JA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susie Coelho</name>
+        <role>Rhonda</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jo De Winter</name>
+        <role>Mrs. Bennett</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Christy Ewing</name>
+        <role>Mr. Bennett</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Notario</name>
+        <role>Strobe</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sabrina García</name>
+        <role>Lucia</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lu Leonard</name>
+        <role>Head Nurse</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ken Olfson</name>
+        <role>Randall</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter MacLean</name>
+        <role>Mr. Douglas</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/y50RozZ4AHmt10TSo4PuVs4BsTS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Herb Mitchell</name>
+        <role>Stanley</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Cort</name>
+        <role>Howard Howard</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ice-T</name>
+        <role>rapper</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/iqyAw0iTgESyykWIUtMP0CoP88J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimberly Spak</name>
+        <role>Girl (as Kimberly Ann Miller)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/ssqG7XZDHNHPHpyLUtdXjfXT4Bj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amelia Kinkade</name>
+        <role>Foxy Nurse Dancer</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Gross</name>
+        <role>Juggler</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/6e0re2uk35cCFsgcsd7jvhfLKgy.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-16 20:31:32</dateadded>
+</movie>

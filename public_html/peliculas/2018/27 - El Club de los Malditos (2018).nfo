@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>27: El  Club de los Malditos</title>
+    <originaltitle>27: El club de los malditos</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.600000</value>
+            <votes>349</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>3.700000</value>
+            <votes>13</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La muerte de un músico en circunstancias sospechosas lleva a un detective alcohólico y a una fanática de la música a investigar por qué 27 es una edad fatal para el rock.</plot>
+    <tagline></tagline>
+    <runtime>82</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg">https://image.tmdb.org/t/p/original/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/u8je2ja7jxTqJU3hiSXTlkUE4lf.jpg">https://image.tmdb.org/t/p/original/u8je2ja7jxTqJU3hiSXTlkUE4lf.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7319532</id>
+    <uniqueid type="imdb" default="true">tt7319532</uniqueid>
+    <uniqueid type="tmdb">496208</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <genre>Crimen</genre>
+    <country>Argentina</country>
+    <credits>Alex Cox</credits>
+    <credits>Nicanor Loreti</credits>
+    <director>Nicanor Loreti</director>
+    <premiered>2018-01-04</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M_DFaRuroTo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>759.000000</aspect>
+                <width>1280</width>
+                <height>854</height>
+                <durationinseconds>4937</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Diego Capusotto</name>
+        <role>Martín Lombardo</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/b6yLiKzLXZ9rg5ldnQPnvrueR58.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naiara Awada</name>
+        <role></role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/oPuJhl8AApHeXke5TPfThCMfeKD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andres Bagg</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Aráoz</name>
+        <role></role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/l7KyBVCCPVIRmrYuHPI6sXkI9Ji.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:22:29</dateadded>
+</movie>

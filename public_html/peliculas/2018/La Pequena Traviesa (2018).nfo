@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Pequeña Traviesa</title>
+    <originaltitle>Liliane Susewind - Ein tierisches Abenteuer</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>412</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>15</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>¡Liliane puede hablar con los animales! Pero, excepto por sus padres y su abuela Gerti, nadie lo sabe, este talento especial suyo ha causado bastantes problemas en el pasado. Cuando conoce al distante y misterioso Jess, lentamente comienza a confiar en él. Junto con él y sus nuevos amigos del grupo de estudio del zoológico, inicia una búsqueda del bebé elefante Ronni, que ha sido secuestrado por un ladrón de animales.</plot>
+    <tagline></tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j4P27Cw27Xf7Fcg5xGqaIzsi5im.jpg">https://image.tmdb.org/t/p/original/j4P27Cw27Xf7Fcg5xGqaIzsi5im.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/99sWfYNx0pGnBinuRNIUkrdaNPe.jpg">https://image.tmdb.org/t/p/original/99sWfYNx0pGnBinuRNIUkrdaNPe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vlSeZqSFojm6Hh2fxTdvU9XCRGu.jpg">https://image.tmdb.org/t/p/original/vlSeZqSFojm6Hh2fxTdvU9XCRGu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ic35QjcEjYawKbnxvjpm60oiSWT.jpg">https://image.tmdb.org/t/p/original/ic35QjcEjYawKbnxvjpm60oiSWT.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1WXtjBR5HhDSXpUy0axh6M9hB71.jpg">https://image.tmdb.org/t/p/original/1WXtjBR5HhDSXpUy0axh6M9hB71.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5368108</id>
+    <uniqueid type="imdb" default="true">tt5368108</uniqueid>
+    <uniqueid type="tmdb">505204</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <genre>Fantasía</genre>
+    <genre>Crimen</genre>
+    <country>Germany</country>
+    <credits>Katrin Milhahn</credits>
+    <credits>Antonia Rothe-Liermann</credits>
+    <credits>Matthias Dinter</credits>
+    <credits>Beate Fraunholz</credits>
+    <credits>Betty Platz</credits>
+    <director>Joachim Masannek</director>
+    <premiered>2018-05-10</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Dreamtool Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bi9zx3GRqRo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5807</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>deu</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Malu Leicher</name>
+        <role>Liliane Susewind</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/l6SYC7Fo1TgPvzqjvj7jCQr6AJM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christoph Maria Herbst</name>
+        <role>Toni</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8v3lDa0QCJlDtOx9flqlMNIA3uf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Beck</name>
+        <role>Ferdinand</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pndqeDdwxLCHOscrIPzbMOQcFw6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aylin Tezel</name>
+        <role>Vanessa</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/z4tLRgC0tg0aOQDuW8Mp2XyPmLy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meret Becker</name>
+        <role>Oberst Essig</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/yPi5MesrPi9z1AQIiCVXNTV9c5U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peri Baumeister</name>
+        <role>Regina</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/bfWBGT1b8kB22hhUc4WQWWUvzln.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Kissiov</name>
+        <role>Jess</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 17:06:48</dateadded>
+</movie>

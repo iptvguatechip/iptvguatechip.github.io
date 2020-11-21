@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Dirt</title>
+    <originaltitle>The Dirt</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>38236</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>692</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Basada en la autobiografía publicada por el grupo Mötley Crüe en 2001, esta obra refleja la historia de fama, sexo, drogas y rock &apos;n roll, así como el precio del exceso que tuvieron que pagar sus miembros.</plot>
+    <tagline>Their Music Made Them Famous, Their Lives Made Them Infamous</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg">https://image.tmdb.org/t/p/original/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pKDeOsHmizaLzGJfN7CZYuMZMO7.jpg">https://image.tmdb.org/t/p/original/pKDeOsHmizaLzGJfN7CZYuMZMO7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jhg3lBy84UwKwlvomkEgr0nOjl2.jpg">https://image.tmdb.org/t/p/original/jhg3lBy84UwKwlvomkEgr0nOjl2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7nsydjvqDLTeCrwiMTFgjZgEKtM.jpg">https://image.tmdb.org/t/p/original/7nsydjvqDLTeCrwiMTFgjZgEKtM.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lFLwxSd9JReOBBxoUwQFBANcyIl.jpg">https://image.tmdb.org/t/p/original/lFLwxSd9JReOBBxoUwQFBANcyIl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hslCBzXxCOJW12MBlr2lGyU5gmQ.jpg">https://image.tmdb.org/t/p/original/hslCBzXxCOJW12MBlr2lGyU5gmQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4Sq0olvBykdTaXaPlbHKh9YUHvw.jpg">https://image.tmdb.org/t/p/original/4Sq0olvBykdTaXaPlbHKh9YUHvw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z7lEs4K3CJ5PvwDbKrL44YNP0PX.jpg">https://image.tmdb.org/t/p/original/z7lEs4K3CJ5PvwDbKrL44YNP0PX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0800325</id>
+    <uniqueid type="imdb" default="true">tt0800325</uniqueid>
+    <uniqueid type="tmdb">327331</uniqueid>
+    <genre>Drama</genre>
+    <genre>Música</genre>
+    <genre>Historia</genre>
+    <country>United States of America</country>
+    <credits>Rich Wilkes</credits>
+    <credits>Tom Kapinos</credits>
+    <credits>Amanda Adelson</credits>
+    <director>Jeff Tremaine</director>
+    <premiered>2019-03-22</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>10th Street Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-NOp5ROn1HE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6481</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Douglas Booth</name>
+        <role>Nikki Sixx</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/3IQQB5SIMyF5d6Tu4pMKU2FQehP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Machine Gun Kelly</name>
+        <role>Tommy Lee</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sIMKmVbR6kTyBnLzmJTaDdZB1as.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iwan Rheon</name>
+        <role>Mick Mars</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5af7sYrJcVmOcQhMxcNLZHlUZyi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Webber</name>
+        <role>Vince Neil</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ldOZipwbPQP7AXoQTQHXQymwu9q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Cavalero</name>
+        <role>Ozzy Osbourne</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rebekah Graf</name>
+        <role>Heather Locklear</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wYxnuf3PyCC7bCEKJfTVHlHfUBH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pete Davidson</name>
+        <role>Tom Zutaut</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uBD338aWiGTcdcaAF5z5HnRGTg8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Gehring</name>
+        <role>David Lee Roth</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/QjJ8ib1qPSKrU0bRn8FIp4FgwL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elena Evangelo</name>
+        <role>Voula Bass</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Chrest</name>
+        <role>David Bass</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/Lu2MRQTBAR3eCYG3af3020RRoN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney Dietz</name>
+        <role>Athena Lee</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rkUXtYIYoBAR8RsABLWutKJFZ7x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leven Rambin</name>
+        <role>Sharise</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/sO3P6LX42339crEYyR9FPSUYwqC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katherine Neff</name>
+        <role>Lovey</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kamryn Ragsdale</name>
+        <role>Skylar Neil</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vince Mattis</name>
+        <role>Young Nikki</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/jEjeTlmp0JarQRlqLn6IiRInfVk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Costabile</name>
+        <role>Doc McGhee</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/nLlPiOgJuyONZBlbuqxzJNUpgo7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Hodson</name>
+        <role>Randy Ferrana</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Covert</name>
+        <role>Allen Kovac</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/ohrItHEKx65mG1ns3F1dDofbync.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike R. Moreau</name>
+        <role>Mr. Ruddell</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Max Milner</name>
+        <role>Razzle</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathryn Morris</name>
+        <role>Deana</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/k5m4ijRTc8Z0dqZvsXfuFISHJ4u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Vincent Valbiro</name>
+        <role>John Corabi</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexanne Wagner</name>
+        <role>Tom Zutaut&apos;s Girlfriend</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/nQcLlNXBsSSjkaq8Xo6yh0xuIyQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brittany Furlan</name>
+        <role>Biker Chick</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/8zpNgunMi8490mwwv4oSSw9nYGJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Underwood</name>
+        <role>Gino (as Matthew Clinton Underwood)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carol Ann Scruggs</name>
+        <role>Dottie</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jordan Lane Price</name>
+        <role>Roxy</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/xx9vCcHFpf9me7EdwFX6jjU78hN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iris D&apos;Aquin</name>
+        <role>Skylar, Age 2</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lyra D&apos;Aquin</name>
+        <role>Skylar, Age 2</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alyssa Marie Stilwell</name>
+        <role>Kayla (as Alyssa Stillwell)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 22:32:42</dateadded>
+</movie>

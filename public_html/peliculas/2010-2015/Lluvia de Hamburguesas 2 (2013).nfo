@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Lluvia de Hamburguesas 2</title>
+    <originaltitle>Cloudy with a Chance of Meatballs 2</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>88999</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>2159</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de la desastrosa tormenta de alimentos en la primera película, Flint y sus amigos se ven obligados a abandonar la ciudad. Flint acepta la invitación de su ídolo Chester V para unirse a The Live Corp Company, que ha sido encargado de limpiar la isla, y donde los mejores inventores en el mundo crean tecnologías para el mejoramiento de la humanidad. Cuando Flint descubre que su máquina sigue funcionando y ahora crea bestias mutantes como mermeladas vivas, tacodiles hambrientos, gambas y tartes de manzana, él y sus amigos deben regresar para salvar al mundo.</plot>
+    <tagline>Algo grande sobro...</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pRAzOs9cZN8LlhaCKo6LQ0bSfyi.jpg">https://image.tmdb.org/t/p/original/pRAzOs9cZN8LlhaCKo6LQ0bSfyi.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/17u7by5qciz7BcClqc0tKgz8UM3.jpg">https://image.tmdb.org/t/p/original/17u7by5qciz7BcClqc0tKgz8UM3.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pS0NWs2NubpxV7fc4B9T4hK8SWb.jpg">https://image.tmdb.org/t/p/original/pS0NWs2NubpxV7fc4B9T4hK8SWb.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sHE3N1YLwfucHTqOKn89WQTOVYY.jpg">https://image.tmdb.org/t/p/original/sHE3N1YLwfucHTqOKn89WQTOVYY.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/c39WE5AHP0ScjH7hIFReOycI5gd.jpg">https://image.tmdb.org/t/p/original/c39WE5AHP0ScjH7hIFReOycI5gd.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/eANL41F9Zp1xHMD6VnHnD3QS7ui.jpg">https://image.tmdb.org/t/p/original/eANL41F9Zp1xHMD6VnHnD3QS7ui.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rsekKK5ZtdFhV42QQKl6hQOJHgV.jpg">https://image.tmdb.org/t/p/original/rsekKK5ZtdFhV42QQKl6hQOJHgV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg">https://image.tmdb.org/t/p/original/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l1o3J00LWiPOklNzi4elOh30xL8.jpg">https://image.tmdb.org/t/p/original/l1o3J00LWiPOklNzi4elOh30xL8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xulYFn79oolqHbfFrZBd2G1TAnQ.jpg">https://image.tmdb.org/t/p/original/xulYFn79oolqHbfFrZBd2G1TAnQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oLQ0lpGhkATyncn4YADmBGsg7I6.jpg">https://image.tmdb.org/t/p/original/oLQ0lpGhkATyncn4YADmBGsg7I6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pvV9IrPCsddT90LgPSBpTOSHcYa.jpg">https://image.tmdb.org/t/p/original/pvV9IrPCsddT90LgPSBpTOSHcYa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tT2DN1tWk1zpCxqvaaNY8yP8Awn.jpg">https://image.tmdb.org/t/p/original/tT2DN1tWk1zpCxqvaaNY8yP8Awn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yA7QOsiWHCQh9q9kJv9PxbKtgUQ.jpg">https://image.tmdb.org/t/p/original/yA7QOsiWHCQh9q9kJv9PxbKtgUQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/akGcl3CO4gsd3uywNmQQq1jJiwQ.jpg">https://image.tmdb.org/t/p/original/akGcl3CO4gsd3uywNmQQq1jJiwQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b3O21HGwMtfhngV6htJTosKWPzq.jpg">https://image.tmdb.org/t/p/original/b3O21HGwMtfhngV6htJTosKWPzq.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i9LjD038ZRnEkWFSFidhNKyARIN.jpg">https://image.tmdb.org/t/p/original/i9LjD038ZRnEkWFSFidhNKyARIN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vWriOBVlgW0XWdgbOiijhyLW7B8.jpg">https://image.tmdb.org/t/p/original/vWriOBVlgW0XWdgbOiijhyLW7B8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7CTVjHA2CHDD21JBBykCujJtTFO.jpg">https://image.tmdb.org/t/p/original/7CTVjHA2CHDD21JBBykCujJtTFO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wbclM5LSPgfIejHBbxgJ7YRraLC.jpg">https://image.tmdb.org/t/p/original/wbclM5LSPgfIejHBbxgJ7YRraLC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/spfmCaHtRYkkZV2dSZZZum0PYWj.jpg">https://image.tmdb.org/t/p/original/spfmCaHtRYkkZV2dSZZZum0PYWj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9RioCcSm0jEg0xOI6OLBbZXzhSl.jpg">https://image.tmdb.org/t/p/original/9RioCcSm0jEg0xOI6OLBbZXzhSl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lprVIIVJhOb8KKRbO4tzFFV9nin.jpg">https://image.tmdb.org/t/p/original/lprVIIVJhOb8KKRbO4tzFFV9nin.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jjiJ1f5B973rgSEUhk72CwyWMsJ.jpg">https://image.tmdb.org/t/p/original/jjiJ1f5B973rgSEUhk72CwyWMsJ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1985966</id>
+    <uniqueid type="imdb" default="true">tt1985966</uniqueid>
+    <uniqueid type="tmdb">109451</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Lluvia de Hamburguesas - Colección</name>
+    </set>
+    <credits>John Francis Daley</credits>
+    <credits>Erica Rivinoja</credits>
+    <credits>Jonathan M. Goldstein</credits>
+    <director>Cody Cameron</director>
+    <director>Kris Pearn</director>
+    <premiered>2013-09-26</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Sony Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DoCkA8DlIwQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>80.000000</aspect>
+                <width>1280</width>
+                <height>528</height>
+                <durationinseconds>5689</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bill Hader</name>
+        <role>Flint Lockwood (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/8LiP5wHNq3QpwoARquhkGcPSgjM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Faris</name>
+        <role>Sam Sparks (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Caan</name>
+        <role>Tim Lockwood (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bGyOCCOIgcIyKjOGLoXoyp0XWHf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Forte</name>
+        <role>Chester V (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kphnirb7YggSVEhGI47kACxaIJQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Samberg</name>
+        <role>Baby Brent (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/y6VcPyshsr6SMx97fg515NoNGRr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Bratt</name>
+        <role>Manny (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neil Patrick Harris</name>
+        <role>Steve (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/oyy0Enz4ZX8KYRYihgSgOA18Xc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terry Crews</name>
+        <role>Earl Devereaux (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/pxTY4SglLo5hFcMH00MxPeC5u55.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristen Schaal</name>
+        <role>Barb (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/7dy6AKXVqYVizR0nXFFaHvnIuJZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cody Cameron</name>
+        <role>Barry/ Dill Pickle (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/9mbcBkcoY64szMdBROVEQE7mn75.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Sturm</name>
+        <role>Sentinel Louise (voice)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kris Pearn</name>
+        <role>Sentinel Peter / Labcoat Jenny (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/9n4eSesg9gGZNrnYDhr6LIVbPZC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Kellman</name>
+        <role>Fintly McCallahan / Idea Pants Guy (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/c5LqdP9ouyqaZeOhF9D05PjOSeu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Khamani Griffin</name>
+        <role>Cal Devereaux (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/pm5JqurSjiugKk8kJ16LbsG4cuz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bridget Hoffman</name>
+        <role>Young Flint (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/fmA0h836dBXd6Uhh3kqfmbG3X0O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Al Roker</name>
+        <role>Patrick Patrickson (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/nf2ibHNfjPZV8LXoffjJcmMXXD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Alterman</name>
+        <role>Additional Voices (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/9R2n0Af956rnRUTQxE2H7v0JKF9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Cowgill</name>
+        <role>Additional Voices (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/A3OFXT1LRCzIjvV7VXe4SDTg5U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eddie Frierson</name>
+        <role>Additional Voices (voice)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elisa Gabrielli</name>
+        <role>Additional Voices (voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYVa8kVL0Qgf1yNmMf5KFM2HFHN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackie Gonneau</name>
+        <role>Additional Voices (voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/zsIdE3WAyJR3WbMbeYg0OEx9wJJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tania Gunadi</name>
+        <role>Additional Voices (voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/wrMb0ca8398ZrojtU6R0Qc3N8u7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendy Hoffman</name>
+        <role>Additional Voices (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/b6iEpJUO6qJfsmfMcGzSKxQZA7U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walter Jones</name>
+        <role>Additional Voices (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/jOognMsA7bIVbFOaiTFNEXrRPXA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Lambert</name>
+        <role>Additional Voices (voice)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/s3vG2h1Kk2jrsBirUbHHkPKtubH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Menville</name>
+        <role>Additional Voices (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/siBtL81DEUWujwhvvnA4r3NJpcJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Sheinkopf</name>
+        <role>Additional Voices (voice)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/45GqZe2bSSRbxUl5syyUbJkzfhF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Siragusa</name>
+        <role>Additional Voices (voice)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQQBeNiWO0lMYhTeniIYxc5iyXJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marina Squerciati</name>
+        <role>Additional Voices (voice)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/j8OI9j2HUnKCIWgu8DBn7Mm3ryl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Stables</name>
+        <role>Additional Voices (voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/oF8rpGncdE7y1FTpkQKvGsm5XQ8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Sweet</name>
+        <role>Additional Voices (voice)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maddie Taylor</name>
+        <role>Additional Voices (voice)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Z0OQoVzqXsGyCcb9em44qxTJDZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>June Christopher</name>
+        <role>Additional Voices (voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/f2JzxHGRfS0TL6kysHfVfaAeruP.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:35</dateadded>
+</movie>

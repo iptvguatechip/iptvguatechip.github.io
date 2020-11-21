@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Las manos del diablo</title>
+    <originaltitle>Frailty</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>76219</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>721</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un hombre aparece en la oficina del FBI en Dallas, presentándose como Fenton Meiks y pidiendo hablar explícitamente con Wesley Doyle, el encargado del caso del asesino en serie de &quot;La Mano de Dios&quot;. Fenton le explica a Doyle que su hermano Adam era el asesino que nunca fue encontrado, y a partir de entonces comienza a contar su historia, la cual revelará grandes secretos sobre el pasado de su padre, personaje clave en toda la historia.</plot>
+    <tagline>No Soul Is Safe.</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hER3sVCZ9cZRBO0KNI7NbtiLacn.jpg">https://image.tmdb.org/t/p/original/hER3sVCZ9cZRBO0KNI7NbtiLacn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jid7dyfHa6ApZSTweC3T3nllWjh.jpg">https://image.tmdb.org/t/p/original/jid7dyfHa6ApZSTweC3T3nllWjh.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0264616</id>
+    <uniqueid type="imdb" default="true">tt0264616</uniqueid>
+    <uniqueid type="tmdb">12149</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <genre>Crimen</genre>
+    <country>Germany</country>
+    <credits>Brent Hanley</credits>
+    <director>Bill Paxton</director>
+    <premiered>2001-11-17</premiered>
+    <year>2001</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cinerenta Medienbeteiligungs KG</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b8-l6pN0mUQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>5986</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bill Paxton</name>
+        <role>Father Meeks</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/aLdNe6mt1cSi2zWlUYRregzfis5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew McConaughey</name>
+        <role>Fenton Meeks</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sY2mwpafcwqyYS1sOySu1MENDse.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Powers Boothe</name>
+        <role>FBI-Agent Wesley Doyle</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qk1KVY5N83MsO4Qvg4W1JA8SNFH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt O&apos;Leary</name>
+        <role>Young Fenton</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xTjZWML92P7dMrlFTdyHIfaDgTv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Sumpter</name>
+        <role>Young Adam</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/bApc0wbQ8O1DHt3AdLAM5hECmXX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Askew</name>
+        <role>Sheriff Smalls</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/fZnBGTtY24YAaebGdlRA2gMeYS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Levi Kreis</name>
+        <role>Adam Meeks</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/9kqQNXdA1r6U2PmFdBd907Rhnzs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derk Cheetwood</name>
+        <role>Agent Griffin Hull</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Missy Crider</name>
+        <role>Becky Meeks</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/rDPVqnIvk5KPan2pFo8PCaZX7B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Davidson</name>
+        <role>Brad White</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cynthia Ettinger</name>
+        <role>Cynthia Harbridge</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/a7FYGMGrK0exoAAhi6nY95dEuZl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gwen McGee</name>
+        <role>Operator</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/4DNpaqk6l8xa7qCmoAKi9RC6CSN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Tilney</name>
+        <role>Teacher</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-10 16:10:19</dateadded>
+</movie>

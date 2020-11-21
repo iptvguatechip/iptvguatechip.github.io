@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Verano en Febrero</title>
+    <originaltitle>Summer in February</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>3837</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>81</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una verdadera historia de amor, libertad y escándalo entre la colonia de artistas Edwardianos de Cornwall.</plot>
+    <tagline>A true tale of love, liberty and scandal amongst the Edwardian artists&apos; colony in Cornwall</tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vNpaAztktMnnjjalcefsFYVLnzK.jpg">https://image.tmdb.org/t/p/original/vNpaAztktMnnjjalcefsFYVLnzK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vxJG3oSmCb1FaI5IbERzfaq9eMU.jpg">https://image.tmdb.org/t/p/original/vxJG3oSmCb1FaI5IbERzfaq9eMU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iEm68YrSEP04nAWBccOH6eRO5l0.jpg">https://image.tmdb.org/t/p/original/iEm68YrSEP04nAWBccOH6eRO5l0.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2184287</id>
+    <uniqueid type="imdb" default="true">tt2184287</uniqueid>
+    <uniqueid type="tmdb">180951</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United Kingdom</country>
+    <credits>Jonathan Smith</credits>
+    <director>Christopher Menaul</director>
+    <premiered>2013-06-13</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Marwood Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O-lLMwD7dXw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6062</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Dominic Cooper</name>
+        <role>AJ Munnings</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/bz2nzQ1lDiu62R0e4GOncuq1hIk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Browning</name>
+        <role>Florence Carter-Wood</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fa1Kyj02wxwcdS6EHb2i27TNXvU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Stevens</name>
+        <role>Gilbert Evans</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ioq5zfiwSZbPRWY8fVUO8bWRBC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hattie Morahan</name>
+        <role>Laura Knight</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kw8mzoZtk67ggHHIU1rvNcaXeKW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mia Austen</name>
+        <role>Dolly</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/z3dC7sFPw4tBAFCx3VjC3G5v7oD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaun Dingwall</name>
+        <role>Harold Knight</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/p675jI1p45GkJQd7yHT30fnnvCH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Deacon</name>
+        <role>Joey Carter-Wood</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Maloney</name>
+        <role>Colonel Paynter</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/sE5K1f3TW1foDTT6yrGaeW4grun.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Farrell</name>
+        <role>Mr. Carter-Wood</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/5W1m0oVHKb9AE1r6L3mdO2crrZC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Ward-Thomas</name>
+        <role>Frank</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4PZd7ZpCiunrKk54Dh1j1X08AfM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua James</name>
+        <role>Bertie</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/vicMUVIdLPgWqpdwzc8w0FRPY2f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ollie Marsden</name>
+        <role>Walter</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roger Ashton-Griffiths</name>
+        <role>Jory</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/fwVK6FD82EANGLXlAu8ulXZB86q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Camille O&apos;Sullivan</name>
+        <role>Gypsy Woman</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Syms</name>
+        <role>Vicar</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xUnoRksPWyvQ2MfbOUZLU0ODgPR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard de Lisle</name>
+        <role>Butler</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stuart Davidson</name>
+        <role>Horse Race Spectator</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/Wti4IHoN7Dl207OzQtDAqry9Wa.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 08:04:39</dateadded>
+</movie>

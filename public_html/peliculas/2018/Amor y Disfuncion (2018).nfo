@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Amor y Disfunción</title>
+    <originaltitle>Social Animals</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.200000</value>
+            <votes>1624</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>55</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Zoe es una chica que trata de mantener su cabeza cuerda tras un negocio fallido y una desastrosa vida amorosa. Es en este momento cuando conoce a Paul, pero el hecho de que él esté casado y con hijos devasta a Zoe, aunque, tras el paso del tiempo, acabará decidiendo primar su vida por encima de todo y tratará de luchar por lo que quiere.</plot>
+    <tagline>Love is never picture perfect</tagline>
+    <runtime>83</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zrG3h7pMP33Wpgiz4zPF2ccptGV.jpg">https://image.tmdb.org/t/p/original/zrG3h7pMP33Wpgiz4zPF2ccptGV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/45QgvkuwZF8mffzDcK3wZSpNpA0.jpg">https://image.tmdb.org/t/p/original/45QgvkuwZF8mffzDcK3wZSpNpA0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4ZTBxHt2iRHUI7i1rrQ0xB2cJYx.jpg">https://image.tmdb.org/t/p/original/4ZTBxHt2iRHUI7i1rrQ0xB2cJYx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jwktEAYJ8z0j6eGpaQhTMszeVtx.jpg">https://image.tmdb.org/t/p/original/jwktEAYJ8z0j6eGpaQhTMszeVtx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4TKljbTmBzH9GArZMQXzFUoWyII.jpg">https://image.tmdb.org/t/p/original/4TKljbTmBzH9GArZMQXzFUoWyII.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ovNIZ0mzLwFmaaQLDwo8e5syPWp.jpg">https://image.tmdb.org/t/p/original/ovNIZ0mzLwFmaaQLDwo8e5syPWp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/igCfFq5CcWxu6KjvkkpIn0yTjdr.jpg">https://image.tmdb.org/t/p/original/igCfFq5CcWxu6KjvkkpIn0yTjdr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6YNGo7tEenX3oHk86rpl4bFBU7x.jpg">https://image.tmdb.org/t/p/original/6YNGo7tEenX3oHk86rpl4bFBU7x.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rImnqIqrO70DB0TSchWOJx5qOPO.jpg">https://image.tmdb.org/t/p/original/rImnqIqrO70DB0TSchWOJx5qOPO.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5639898</id>
+    <uniqueid type="imdb" default="true">tt5639898</uniqueid>
+    <uniqueid type="tmdb">506407</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Theresa Bennett</credits>
+    <director>Theresa Bennett</director>
+    <premiered>2018-06-01</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cranium Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EiFGL9OM0fs</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5023</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language></language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Noël Wells</name>
+        <role>Zoe</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gbC5YAulfHHp56oLkFcb6tPFbYE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Radnor</name>
+        <role>Paul</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/uraUtmQtOMvxZxlMg9Qe9Umf1b5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carly Chaikin</name>
+        <role>Claire</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/aRlhLkM1BK0vL6jCbVJ9pImdfNU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samira Wiley</name>
+        <role>Lana</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aya Cash</name>
+        <role>Jane</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kanvrW5ZdAS2MFmS0Pj9pSdR7p9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fortune Feimster</name>
+        <role>Sarah-Beth</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/aCV6S7Tuh9iUmF9on6EwaXC3rCI.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:01:07</dateadded>
+</movie>

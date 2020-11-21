@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El atentado del siglo: Utoya</title>
+    <originaltitle>Utøya 22. juli</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>11770</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.300000</value>
+            <votes>189</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El 22 de julio de 2011, más de 500 jóvenes en un campamento de verano en una isla cercana a Oslo, (Noruega) fueron atacados por un extremista fuertemente armado. Ese mismo día, más temprano, colocó una bomba en un edificio del Gobierno en Oslo antes de dirigirse a la isla de Utøya. Los padres están conmocionados por el atentado en Oslo, pero los jóvenes les aseguran que no hay peligro porque ellos están lejos del incidente. De repente, todo cambia al escucharse disparos y Kaja, una de las adolescentes de la isla, tratará de sobrevivir minuto por minuto.</plot>
+    <tagline>The day that changed us forever</tagline>
+    <runtime>144</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zlVpeGjVi5bNG3bmTnhwOm7WVI.jpg">https://image.tmdb.org/t/p/original/zlVpeGjVi5bNG3bmTnhwOm7WVI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4CUOdKnuoDS4zQQDsp4xy9FTT2c.jpg">https://image.tmdb.org/t/p/original/4CUOdKnuoDS4zQQDsp4xy9FTT2c.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg">https://image.tmdb.org/t/p/original/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u6xTCfujjhm5HvvVEGdYFxjs9Em.jpg">https://image.tmdb.org/t/p/original/u6xTCfujjhm5HvvVEGdYFxjs9Em.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z26E8i9Zw9QaPAyfRND5sU2Qrr1.jpg">https://image.tmdb.org/t/p/original/z26E8i9Zw9QaPAyfRND5sU2Qrr1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1fOTMp9cDqMyQCOtnojl4tagEfN.jpg">https://image.tmdb.org/t/p/original/1fOTMp9cDqMyQCOtnojl4tagEfN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg">https://image.tmdb.org/t/p/original/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7959216</id>
+    <uniqueid type="imdb" default="true">tt7959216</uniqueid>
+    <uniqueid type="tmdb">500006</uniqueid>
+    <genre>Drama</genre>
+    <country>Norway</country>
+    <credits>Siv Rajendram Eliassen</credits>
+    <credits>Anne Bache-Wiig</credits>
+    <director>Erik Poppe</director>
+    <premiered>2018-03-09</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paradox Produksjon</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Kucbq-42tbQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>8640</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Andrea Berntzen</name>
+        <role>Kaja</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wex1cSFLVPgZO86M4eiupXIjC1h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aleksander Holmen</name>
+        <role>Magnus</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/plb15K7RsviWYTr9qOGsF6snfGP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brede Fristad</name>
+        <role>Petter</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2iiiXXJm0UrHevN2WdEtba7sbh9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elli Rhiannon Müller Osbourne</name>
+        <role>Emilie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/FjgEWPnTSNfN5IdPyIdCRn2FdN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sorosh Sadat</name>
+        <role>Issa</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ada Eide</name>
+        <role>Caroline</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jenny Svennevig</name>
+        <role>Oda</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gP22kUl9wPaKBwRdoS6tZYIcfSQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ingeborg Enes</name>
+        <role>Kristine</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mariann Gjerdsbakk</name>
+        <role>Silje</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Sang Tran</name>
+        <role>Even</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Torkel D. Soldal</name>
+        <role>Herman</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/c6PI5B2N4SQNiwgX1CWJ5PQKNIe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Magnus Moen</name>
+        <role>Tobias</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tamanna Agnihotri</name>
+        <role>Halima</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-14 08:10:31</dateadded>
+</movie>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Lost River</title>
+    <originaltitle>Lost River</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>16948</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>439</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A single mother is swept into a dark underworld, while her teenage son discovers a road that leads him to a secret underwater town.</plot>
+    <tagline>Dive deep into the underwater town</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/paG0O9cVcoQcXpNG8Nf0AnL7VWE.jpg">https://image.tmdb.org/t/p/original/paG0O9cVcoQcXpNG8Nf0AnL7VWE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1Ie2adFIkq7ji7dd5W3QxB0fleh.jpg">https://image.tmdb.org/t/p/original/1Ie2adFIkq7ji7dd5W3QxB0fleh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/suM5CI75qqJ3AsU89fbxOIZ0pR4.jpg">https://image.tmdb.org/t/p/original/suM5CI75qqJ3AsU89fbxOIZ0pR4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kU6G8XathSTW0pJeCLAZs18Nw93.jpg">https://image.tmdb.org/t/p/original/kU6G8XathSTW0pJeCLAZs18Nw93.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/Aeeuj2WHDe9JQHtx7rt203Rq28T.jpg">https://image.tmdb.org/t/p/original/Aeeuj2WHDe9JQHtx7rt203Rq28T.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eJSSHp3K6ww1uBKEL80vrgJG3Xu.jpg">https://image.tmdb.org/t/p/original/eJSSHp3K6ww1uBKEL80vrgJG3Xu.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ylHKm9OVP405whyuxDXk9hIRjCA.jpg">https://image.tmdb.org/t/p/original/ylHKm9OVP405whyuxDXk9hIRjCA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w4jnaICpqdPFKmp72msIB0MQQj7.jpg">https://image.tmdb.org/t/p/original/w4jnaICpqdPFKmp72msIB0MQQj7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/caegYiPeedk7lHp8k8ONcWJ2Vrk.jpg">https://image.tmdb.org/t/p/original/caegYiPeedk7lHp8k8ONcWJ2Vrk.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2366608</id>
+    <uniqueid type="imdb" default="true">tt2366608</uniqueid>
+    <uniqueid type="tmdb">167810</uniqueid>
+    <genre>Fantasía</genre>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Ryan Gosling</credits>
+    <director>Ryan Gosling</director>
+    <premiered>2015-04-08</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Bold Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2Hb6T8RdXsY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5702</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Christina Hendricks</name>
+        <role>Billy</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/fqQWrKDhOTAPjjNTHSU4tBfq5NJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Saoirse Ronan</name>
+        <role>Rat</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/4plcgNpHArZUTiYqgpQdGw4PZdT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eva Mendes</name>
+        <role>Cat</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/3mlMH6a26FSdBDWTjznSOKLBLDp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Smith</name>
+        <role>Bully</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/fKUYro4v4mX8CF46bURyM83wJo3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Mendelsohn</name>
+        <role>Dave</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iain De Caestecker</name>
+        <role>Bones</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/kZragNGDCYOTcf9I9gnnDXw35Mr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reda Kateb</name>
+        <role>Cab Driver</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/mvDuT7covYkAjK2Ix2VHJcvPyE0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barbara Steele</name>
+        <role>Belladonna</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/m5rKaeUo5kwTBqZpBonzfPwkuIn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Landyn Stewart</name>
+        <role>Franky</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rob Zabrecky</name>
+        <role>MC</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shannon Plumb</name>
+        <role>Fanny</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/aw2MvUrUCx1Zt1ZswCTnWwndKZp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Torrey Wigfield</name>
+        <role>Face</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Misty Robinette</name>
+        <role>Misty</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Holly Schlegel</name>
+        <role>Holly</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas McDonald</name>
+        <role>Skip</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Larry Mongo</name>
+        <role>Larry</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Skrok</name>
+        <role>Demolition Guy</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aris Costner</name>
+        <role>Marylou</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>K.T. Almujahid</name>
+        <role>Gas Station Attendant</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph Norman</name>
+        <role>Mr. Detroit</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angela Hearts-Glass</name>
+        <role>Teacher</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dorothy Bennich</name>
+        <role>Janet &amp; Mariella</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darnell James</name>
+        <role>Security Guard</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexis Mabry-Hart</name>
+        <role>Moon Girl</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Burke</name>
+        <role>Musician (uncredited)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron Causey</name>
+        <role>BBW Member (uncredited)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nesti Gee</name>
+        <role>Cab Driver (uncredited)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Hill</name>
+        <role>BBW Member (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Garrett Thierry</name>
+        <role>Nightclub Patron (uncredited)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carey Torrice</name>
+        <role>Waitress (uncredited)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 07:53:47</dateadded>
+</movie>

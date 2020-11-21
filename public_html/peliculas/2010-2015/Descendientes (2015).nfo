@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Los Descendientes</title>
+    <originaltitle>Descendants</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>15632</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>1648</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un reino idílico actual donde el benévolo hijo adolescente del Rey Adán y la Reina Belle ofrece una oportunidad de redención para los vástagos problemáticos de los villanos clásicos de Disney: Cruella De Vil (Carlos), Maléfica (Mal), la Reina Malvada (Evvie) y Jafar (Jay).</plot>
+    <tagline>Ellos no son malos, solo nacieron lejos</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/dw02BxDYnmqW4h0t0qA0T3hd5MZ.jpg">https://image.tmdb.org/t/p/original/dw02BxDYnmqW4h0t0qA0T3hd5MZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pfZBF0UgNgmpg73T8zWXrQGtN3K.jpg">https://image.tmdb.org/t/p/original/pfZBF0UgNgmpg73T8zWXrQGtN3K.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/zUe8p4Le3a5ff6eJaG9ovR8Zf63.jpg">https://image.tmdb.org/t/p/original/zUe8p4Le3a5ff6eJaG9ovR8Zf63.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/9VQJQjtMPSsLwz7BlxYicLn5mR5.jpg">https://image.tmdb.org/t/p/original/9VQJQjtMPSsLwz7BlxYicLn5mR5.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/oaVuKBRyxcJ8oT9z9rToNWfQu5H.jpg">https://image.tmdb.org/t/p/original/oaVuKBRyxcJ8oT9z9rToNWfQu5H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg">https://image.tmdb.org/t/p/original/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg">https://image.tmdb.org/t/p/original/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/whJSn9DHdtOeVSPfMKqTFItgteN.jpg">https://image.tmdb.org/t/p/original/whJSn9DHdtOeVSPfMKqTFItgteN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/64aIhRzrDgh7n9wdMM04nC4coPd.jpg">https://image.tmdb.org/t/p/original/64aIhRzrDgh7n9wdMM04nC4coPd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2USWJuhQM6ODiq0nUDVCPpItfPQ.jpg">https://image.tmdb.org/t/p/original/2USWJuhQM6ODiq0nUDVCPpItfPQ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3gc2SsIrwIpqUpnXqOHfCCMhFWE.jpg">https://image.tmdb.org/t/p/original/3gc2SsIrwIpqUpnXqOHfCCMhFWE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xFoMA3kPhYv6yM8wR7lYel2CrjN.jpg">https://image.tmdb.org/t/p/original/xFoMA3kPhYv6yM8wR7lYel2CrjN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yR0n4Mo7Pltcuy6JRtyt4kkMlIX.jpg">https://image.tmdb.org/t/p/original/yR0n4Mo7Pltcuy6JRtyt4kkMlIX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tTRobx54822mSvevVqqK0RaoXVj.jpg">https://image.tmdb.org/t/p/original/tTRobx54822mSvevVqqK0RaoXVj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wy3ItrIw4DmLFxvFK5LM6FPwdQw.jpg">https://image.tmdb.org/t/p/original/wy3ItrIw4DmLFxvFK5LM6FPwdQw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jAnInulAvOsOIFK7IaLGOkpPZEv.jpg">https://image.tmdb.org/t/p/original/jAnInulAvOsOIFK7IaLGOkpPZEv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/y0ludgr1EvyXcT1lv2M0m621LQ6.jpg">https://image.tmdb.org/t/p/original/y0ludgr1EvyXcT1lv2M0m621LQ6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wODrMjnLWNmk2KWcc4w5MAI44F4.jpg">https://image.tmdb.org/t/p/original/wODrMjnLWNmk2KWcc4w5MAI44F4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gYGSM5HBDoIKmZJucBrfvUoH1dG.jpg">https://image.tmdb.org/t/p/original/gYGSM5HBDoIKmZJucBrfvUoH1dG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/80UKV72ixwzqLy8JjTbuC6eKWIJ.jpg">https://image.tmdb.org/t/p/original/80UKV72ixwzqLy8JjTbuC6eKWIJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pxUrMCjie7ClUanb4Fyps5bqWlH.jpg">https://image.tmdb.org/t/p/original/pxUrMCjie7ClUanb4Fyps5bqWlH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dXfWMP8Qww8VbJGVj3EDcfeQvWX.jpg">https://image.tmdb.org/t/p/original/dXfWMP8Qww8VbJGVj3EDcfeQvWX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AqrYGayn7x0EJyHKZohsB9A711U.jpg">https://image.tmdb.org/t/p/original/AqrYGayn7x0EJyHKZohsB9A711U.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kHfvsp2PdTDsIYCi3oKSJQAPmh9.jpg">https://image.tmdb.org/t/p/original/kHfvsp2PdTDsIYCi3oKSJQAPmh9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tIidVfl8XglF8DiRoUdRKL9dCE2.jpg">https://image.tmdb.org/t/p/original/tIidVfl8XglF8DiRoUdRKL9dCE2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3440298</id>
+    <uniqueid type="imdb" default="true">tt3440298</uniqueid>
+    <uniqueid type="tmdb">277217</uniqueid>
+    <genre>Familia</genre>
+    <genre>Música</genre>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <genre>Película de TV</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Descendientes - Colección</name>
+        <overview>Disney Descendants</overview>
+    </set>
+    <credits>Sara Parriott</credits>
+    <credits>Josann McGibbon</credits>
+    <director>Kenny Ortega</director>
+    <premiered>2015-07-31</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Disney Channel</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=t4UUQqefajc</trailer>
+    <actor>
+        <name>Dove Cameron</name>
+        <role>Mal</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/3axjaPMPDgd3iLmSc9BGBwEFI8b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melanie Paxson</name>
+        <role>The Fairy Godmother</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8jwzVaD3ezjAjYkOcSUQo2rpURS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Booboo Stewart</name>
+        <role>Jay</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/9izCNJ5kTuDaMyyi2sM2EhSc4VB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sofia Carson</name>
+        <role>Evie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/pYFbiWARphyYNykxjOWeSdjSb3u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mitchell Hope</name>
+        <role>Ben</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oENPvMMblZYzEd4tGJ6VGaxsg6q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brenna D&apos;Amico</name>
+        <role>Jane</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/2sKU6P5RsAg2YocLXOtcQUiDFp4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Jeffery</name>
+        <role>Princess Audrey</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/hIzMVZrC5dI5738z8uS7qjRD6Ab.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zachary Gibson</name>
+        <role>Doug</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/mu5EhKIEPW4KVMWn826YOmEdQcy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jedidiah Goodacre</name>
+        <role>Prince Chad Charming</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/c7XLTdVJwjnwaHdkWxN3Ykg7uOM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dianne Doan</name>
+        <role>Lonnie</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/1qOHNQerubLL28fkAX2swY9bAIz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Payne</name>
+        <role>King Beast</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/oaKJV67XtJNQLtSGlO1YVveGqly.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keegan Connor Tracy</name>
+        <role>Belle</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/i1FYzgF6nGXtZnH9AhiMbzDr64g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron Boyce</name>
+        <role>Carlos De Vil</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/iXaJs5Brr4WT2aRaI5Bl7diP6tM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendy Raquel Robinson</name>
+        <role>Cruella de Vil</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/3yaBYcN0BtlX9rTaatBQJxXOVPx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maz Jobrani</name>
+        <role>Jafar</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/vyAvi8bmwMUPKnIDijx9KXrjySJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathy Najimy</name>
+        <role>The Evil Queen</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristin Chenoweth</name>
+        <role>Maleficent</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/5qiqiOGh8n2RsnVHXDy3o0Qlrnt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaughnessy Redden</name>
+        <role>Limo Driver</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/17EzEOgieGBSCMTg0DL5rCOyTsU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reese Alexander</name>
+        <role>Coach Jenkins</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/5HXo2nv3MZxJzScZBuBL6dYILvX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Hibbard</name>
+        <role>Museum Guard</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/1O93k2Ziy86Sn4QIUxkHbfMAzxF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wesley Salter</name>
+        <role>Photographer</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/joh7flzW6bmMnw1EEUS8fCWe4Ef.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judith Maxie</name>
+        <role>Queen Leah</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/zIc0D2UMBxn2R6O4SJL8WSMZ6x5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Lawson</name>
+        <role>Royal Tailor</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/ewtIfsp0MI6mVp4jHHcLdHLF728.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Bennett</name>
+        <role>Snow White</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/7R0gGXuxVbW5Em0Eij78GIFhltw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Holmes</name>
+        <role>Mr. Deley</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/giErOv0CzwiNfW8YKwiiDKA7cma.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Schaad</name>
+        <role>Tourney Announcer</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Lagasse</name>
+        <role>Footman #1</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/bzZhgWoF9veiXdcmvCBGaTL9QXf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Addy Chan</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/etuVedrT1JcLxuzOH2jb8x4DQAP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny De Matos</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Devin Jameson</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>J.P. Dubé</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shane Simpson</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyler Layton-Olson</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/3G91qeWlV3RWCQeZuWzXop3Pkhr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Giroux</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/yWpk9CMAd5n0eMDGleHZzZWi0XS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Algae Kounkou</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Mortensen</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/b3Sn0TfvOKFZbF8gfKkdU36fv0M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kayla Wallace</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/ePl7sXtyWIQsWsylyQBTxYsouKF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kiara Gudgeon</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/cy2vjyzRbwCU5YhmBNpF7HaUmpR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louise Hradsky</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/58t23I6i5zpjCmGhvJQJw6KsJcG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megan Serena Trainer</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Samuels</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Oleksiuk</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/7LtzgBtJU0nR6BZSqPVVMGpMYes.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Konno</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/ocM4XoluOnvAsl7lYKNhzjW5gG1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tatiana Parker</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor James</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/sMMCf0O7GcbJZoxmyWAbU6CsN6B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Riccio</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Navid Charkhi</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/sr5BmpuyWFQLDQUwCSeM3rxaZuK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dwayne Gulston</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marlyse Joe</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesse Devlin</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/n9DrLQ7BgBkUpWE8Z4gtxEYxGK7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morgan Tanner</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/lue0MqKFGEycTVqa09QHEoI8R6d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brittany Gumundson</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle Dawley</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Diedre Barnes</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Winnie Chang</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Desirée Manning</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/5zb5hrzXMf6PxUs4mQ1GxMzinsw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyal Legend</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/yczCfZE3pjodc6uk0Sogha80bAc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Audessa Parafina</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/QtLTqa2SkEITkI2TLwYaypL7Gt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ralph Escamillan</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/nkc3tAazIsKMr8bOUSTMJ2u19HS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Ward</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Green</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Ritter</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Bm0tP8H2ujBgD20QBDyZ4UEx45.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Castle Rock</name>
+        <role>Dancer and Chorus Performer</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/6zHhz99FqGuKlfyWuu0hoczLE3Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard McBride</name>
+        <role>Custodian / Dancer and Chorus Performer</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jasmine Chan</name>
+        <role>Cheerleader</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tessa Netting</name>
+        <role>Student</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/pTKGQOpaMTqlIt9zXbt7wyxlski.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Tamacas Perla</name>
+        <role>Coronation Participant</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Salina Marie Carter</name>
+        <role>Broken Arm Girl (uncredited)</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/gEBXif3j4zcBM4u4jT87I5eAT41.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nemo Cartwright</name>
+        <role>Maleficent&apos;s Thug (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/h9NXiSENNDKTke1Lo86p8fwsWfr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vicky Lambert</name>
+        <role>Teacher (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/mfY8t8FcDePNFJsygJbReJohg6i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Lewis</name>
+        <role>Prince Ben (singing voice) (uncredited)</role>
+        <order>70</order>
+        <thumb>https://image.tmdb.org/t/p/original/eDezpheuBwKDs2ANDXTck5IAX7s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lachlan MacDonald</name>
+        <role>Student (uncredited)</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/3zeSX4IiOFWWsvrA8oZtFTHCSFO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amro Majzoub</name>
+        <role>Royal Attendant (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/3SHmelruRFOYviyq1npiydzFBEx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alain Mickelson</name>
+        <role>Coronation Participant (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Weston Mueller</name>
+        <role>Grumpy Student (uncredited)</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/j0n9XWqkDniOebIHRphUJWRzA0m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward Park</name>
+        <role>Dancer and Chorus Performer (uncredited)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jacqueline Ryan</name>
+        <role>Coronation Royal (uncredited)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Stillwell</name>
+        <role>Happy Student (uncredited)</role>
+        <order>77</order>
+        <thumb>https://image.tmdb.org/t/p/original/i7edLItnAkpYcqRNwyRfnNzDVgq.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 20:45:48</dateadded>
+</movie>

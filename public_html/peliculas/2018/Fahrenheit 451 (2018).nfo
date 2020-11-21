@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Fahrenheit 451</title>
+    <originaltitle>Fahrenheit 451</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.900000</value>
+            <votes>17108</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>544</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Guy Montag, un bombero encargado de quemar los libros por orden del gobierno. Un día conoce a Clarisse McClellan, una chica que vive al lado de su casa, la cual lo hace reflexionar acerca de si es feliz o no. Confuso, sobre si los libros son buenos o no, decide robar uno cuando van a quemar una casa. Días más tarde Clarisse desaparece. Nueva adaptación de la aclamada novela distópica de Ray Bradbury.</plot>
+    <tagline>Knowledge is a dangerous thing</tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8NetSYBOdRAgcp6it0ldZmNPUqH.jpg">https://image.tmdb.org/t/p/original/8NetSYBOdRAgcp6it0ldZmNPUqH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7XAQd44NUWSl11k7tmYbFp7RHgW.jpg">https://image.tmdb.org/t/p/original/7XAQd44NUWSl11k7tmYbFp7RHgW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/urH9H50gKbUK8U6qTVd89SLQPjx.jpg">https://image.tmdb.org/t/p/original/urH9H50gKbUK8U6qTVd89SLQPjx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wrT1ZihPWS7LHYJlu7qRJHErDRi.jpg">https://image.tmdb.org/t/p/original/wrT1ZihPWS7LHYJlu7qRJHErDRi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/psoxp5zdyFz5YpuKgH0RMlUL5NC.jpg">https://image.tmdb.org/t/p/original/psoxp5zdyFz5YpuKgH0RMlUL5NC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iKHAAYW5xaRfe3s1Bdlxu9FoxKc.jpg">https://image.tmdb.org/t/p/original/iKHAAYW5xaRfe3s1Bdlxu9FoxKc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1bIRYxGCb5u1V4mBDVM2k7RcpZp.jpg">https://image.tmdb.org/t/p/original/1bIRYxGCb5u1V4mBDVM2k7RcpZp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sVCCUJjqsNkiHQ8vKNSFpjACuZp.jpg">https://image.tmdb.org/t/p/original/sVCCUJjqsNkiHQ8vKNSFpjACuZp.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7oy4miyq4WYYy0xtX6lbNVPrEsr.jpg">https://image.tmdb.org/t/p/original/7oy4miyq4WYYy0xtX6lbNVPrEsr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nB9FcVkOX8qSRawZWaDDMPIfCCS.jpg">https://image.tmdb.org/t/p/original/nB9FcVkOX8qSRawZWaDDMPIfCCS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ynAkcG2Qt4eogXXG8e4hMTsBjMv.jpg">https://image.tmdb.org/t/p/original/ynAkcG2Qt4eogXXG8e4hMTsBjMv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/Ae1YIPccZWsZzmymXj02DMWL1Uh.jpg">https://image.tmdb.org/t/p/original/Ae1YIPccZWsZzmymXj02DMWL1Uh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ahYq6wm0XI8tkhC99VQyNvmGLsW.jpg">https://image.tmdb.org/t/p/original/ahYq6wm0XI8tkhC99VQyNvmGLsW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hwkDfpFjDM8GarZ01tOzLqujo06.jpg">https://image.tmdb.org/t/p/original/hwkDfpFjDM8GarZ01tOzLqujo06.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hzVCHroqeBnP5tZBqcKCc38NrCr.jpg">https://image.tmdb.org/t/p/original/hzVCHroqeBnP5tZBqcKCc38NrCr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mJ6wHYJUw44hTLIWz5d4K6nauQh.jpg">https://image.tmdb.org/t/p/original/mJ6wHYJUw44hTLIWz5d4K6nauQh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uRa9GmdtogQxFShldEOOSFbnPUg.jpg">https://image.tmdb.org/t/p/original/uRa9GmdtogQxFShldEOOSFbnPUg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jnsGbV60wrfSr7IlMMdGRsNruT5.jpg">https://image.tmdb.org/t/p/original/jnsGbV60wrfSr7IlMMdGRsNruT5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v5Fk1sYomJgbvyAbnLK1aiL7ToO.jpg">https://image.tmdb.org/t/p/original/v5Fk1sYomJgbvyAbnLK1aiL7ToO.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 16</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0360556</id>
+    <uniqueid type="imdb" default="true">tt0360556</uniqueid>
+    <uniqueid type="tmdb">401905</uniqueid>
+    <genre>Drama</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Ramin Bahrani</credits>
+    <credits>Amir Naderi</credits>
+    <director>Ramin Bahrani</director>
+    <premiered>2018-05-12</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>HBO Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ek0HkV7y4w8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6058</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael B. Jordan</name>
+        <role>Guy Montag</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kfcn0yyEdN2aJfVaxW0NIoKVF4J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Shannon</name>
+        <role>Captain Beatty</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sofia Boutella</name>
+        <role>Clarisse McClellan</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mm3OBNZC32yRm7FGdkF8opVGnb7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Khandi Alexander</name>
+        <role>Toni Morrison</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/lpeq1v2I7Ix4wrXaKJCBg7llWz7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lilly Singh</name>
+        <role>Raven</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/tB2zfHstQpwxFgQ73rCFRYLIaom.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Donovan</name>
+        <role>Commissioner Nyari</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy McQueen</name>
+        <role>Gustavo</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/iRxLhLk1brm3RbtiKNyhlJKI2jH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Taylor</name>
+        <role>Fireman Douglas</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Keir Dullea</name>
+        <role>Historian</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/dL9i0nCk2fCgInZNaYVjGck2IBp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grace Lynn Kung</name>
+        <role>Chairman Mao</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/57LglZCKA8d2Q5kzHOiD8rykx0p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jane Moffat</name>
+        <role>Sam Shepard</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/x8hRTny8olUJYGyH7K3zDUUHIqk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Pingue</name>
+        <role>Wayne Anderson</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cA2OocnwkH9bO1rT6TcH3daB6r4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanne Boland</name>
+        <role>Clarisse&apos;s Neighbor</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/wc2xDWNJmWYORfMQoMYXOUJoTfa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Drew Nelson</name>
+        <role>Bartender</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/dNmHU6mdRparyLX02jBCNn1asSe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Tompa</name>
+        <role>Angry Eel</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/nqEA0F4aXIxD0R6QsTV54pNbKW9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raoul Bhaneja</name>
+        <role>Bobby Gosh</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/pAnGUdL3AKHuigruHQW5hMwn79R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynne Griffin</name>
+        <role>Old Woman / Grapes of Wrath</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tim Post</name>
+        <role>Protesting Eel</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/kk45jSIOmAw63x5mGpr7md4Itpb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Zolghadri</name>
+        <role>Clifford</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/xaWmwBLJNQhm8Nis0Etce5QBF1U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Saad Siddiqui</name>
+        <role>Fireman Stone</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/xUsZ9SqGgn6cLeQUF0s0JgJhSw3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Alfredo Ojeda</name>
+        <role>Angry Eel (uncredited)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle Roy</name>
+        <role>Eel</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Gleason</name>
+        <role>Baseball Fan</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/6OS7P2aogWPu04BSVcuFctHPy9X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Vercillo</name>
+        <role>Firefighter</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYpU35aME20vls0lAYnwMIrebU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cindy Katz</name>
+        <role>Yuxie (voice)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mayko Nguyen</name>
+        <role>Newscaster</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/ywp3CzNX8Nbcxfq2vWs5ueKN6m8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katherine Cullen</name>
+        <role>Girl Eel</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edsson Morales</name>
+        <role>Guy Eel</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/2GHwQxsONwIbsEFFvnYPHrhUXtg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chad Camilleri</name>
+        <role>Jeep Driver</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/81VFjI3OBVKfEqKqrZ8ETOyQwST.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Baker</name>
+        <role>Reciting Child #1</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/PvDRVKrx6EPdqyLPnQV95z7Rak.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathanial Buzzanga-Silveira</name>
+        <role>Reciting Child #2</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Flint</name>
+        <role>Reciting Child #3</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luke Flint</name>
+        <role>Reciting Child #4</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Davies</name>
+        <role>Young Montag</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Warren Belle</name>
+        <role>Montag&apos;s Father</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/iMTNJdVjII2v5hsPlozIsQmWNvG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Malakai Fox</name>
+        <role>Neighbor #1</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marni Hogg</name>
+        <role>Neighbor #2</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alison Smiley</name>
+        <role>Neighbor #3</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/qT5QK8S8Rb7bM6gNDj50OV7RMnD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Thorne</name>
+        <role>Neighbor #4</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marissa Kate Wilson</name>
+        <role>Neighbor #5</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Gravelle</name>
+        <role>Teen in Clothing Store</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Gillies</name>
+        <role>Man in Shadows</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/u2kf1FH3GsniNA5QwPOCx0xzfiT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Glenn Kelly</name>
+        <role>Fireman Freeman</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Schindelhauer</name>
+        <role>Singing Fireman #1</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/66ILY8GmZjbMAh2ih4sqTWfCIiF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Teel</name>
+        <role>Singing Firemen #2</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachary Wiseman</name>
+        <role>Singing Fireman #3</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Yarwood</name>
+        <role>Singing Fireman #4</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Edgecombe</name>
+        <role>Singing Fireman #5</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brett Kingswell</name>
+        <role>Singing Fireman #6</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Duane Murray</name>
+        <role>Singing Fireman #7</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/hT3xbEShfQ1KPmfwhlY5k0FfmbW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ted Whittall</name>
+        <role>Major Ron Curtis</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/s0TGUQmboEWXgf3yv8qlKoZbyjL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Spencer</name>
+        <role>Store Owner</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Dykstra</name>
+        <role>Van Gogh</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/uekJrIRpmjPDVH6qj9xUVabnb3q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Jones</name>
+        <role>James Baldwin</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/aQP8a4iVUwShbZWwb9DXiCVkU8d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keliyah Ogiamien</name>
+        <role>Chimamanda Ngozi Adichie</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 19:06:38</dateadded>
+</movie>

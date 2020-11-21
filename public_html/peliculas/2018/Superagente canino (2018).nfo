@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Superagente canino</title>
+    <originaltitle>Show Dogs</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.800000</value>
+            <votes>4120</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>133</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de su fallido intento para rescatar a un bebé de panda robado, el oficial canino Max (un solitario y fuerte Rottweiler) deberá trabajar junto a Frank (un agente humano del FBI) e infiltrarse en el siguiente objetivo de los ladrones: un certamen canino en Las Vegas. Los dos agentes se encontrarán inmersos en un mundo perruno con pedicuras, botox, depilaciones brasileñas y bocas antincendios chapadas en oro. Si quieren rescatar al panda deberán dejar a un lado su machismo y aprender a trabajar como compañeros.</plot>
+    <tagline>Unleashed and undercover</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1kSUUNCHLIjT6BwXxZXAvgd7mL3.jpg">https://image.tmdb.org/t/p/original/1kSUUNCHLIjT6BwXxZXAvgd7mL3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bjEycu8KILhluH1gUb4nicxuz4s.jpg">https://image.tmdb.org/t/p/original/bjEycu8KILhluH1gUb4nicxuz4s.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2dvxCBUfDG2cAdkA921rERxhtcp.jpg">https://image.tmdb.org/t/p/original/2dvxCBUfDG2cAdkA921rERxhtcp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rrYK5z0Oh0E06wqOuVJ1kwDSNd7.jpg">https://image.tmdb.org/t/p/original/rrYK5z0Oh0E06wqOuVJ1kwDSNd7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sloQyeaRnJB3JnhDkcPVh92NtOS.jpg">https://image.tmdb.org/t/p/original/sloQyeaRnJB3JnhDkcPVh92NtOS.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pk1zexoUCtjFs761W48QyIPzwCj.jpg">https://image.tmdb.org/t/p/original/pk1zexoUCtjFs761W48QyIPzwCj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ppkNob9aXgsLlxu9eml700X4OWF.jpg">https://image.tmdb.org/t/p/original/ppkNob9aXgsLlxu9eml700X4OWF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6jNackbDC9FKDHTH5rQbSQoa2Uq.jpg">https://image.tmdb.org/t/p/original/6jNackbDC9FKDHTH5rQbSQoa2Uq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5691024</id>
+    <uniqueid type="imdb" default="true">tt5691024</uniqueid>
+    <uniqueid type="tmdb">425148</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Crimen</genre>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Marc Hyman</credits>
+    <credits>Max Botkin</credits>
+    <director>Raja Gosnell</director>
+    <premiered>2018-05-10</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Riverstone Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wBdVmAt9ScE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5445</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Will Arnett</name>
+        <role>Frank</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/cXupYqk2ERP13XBkw816skYdVDO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ludacris</name>
+        <role>Max (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/erkJijujhe48vhJ8iCEtVpNEeVn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natasha Lyonne</name>
+        <role>Mattie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ao3Tao5nCrJGvNiFyFrzZs0Iyzg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordin Sparks</name>
+        <role>Daisy (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/dwTzkn7gAo6J5bfmnmbCp5TVmEn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Iglesias</name>
+        <role>Sprinkles (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/n4RRL96ftX4dYWSZyEiakbpHnz1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaquille O&apos;Neal</name>
+        <role>Karma (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/lSl3ZH4BHKrDoEZNIksPw87zaSb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Omar Chaparro</name>
+        <role>Señor Gabriel</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/jlkwvIMFKUOSfsKelfmghxYmCcV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stanley Tucci</name>
+        <role>Philippe (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/y5D26OXjx83B3R48nckJMp7yQ29.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oliver Tompsett</name>
+        <role>Chauncey</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andy Beckwith</name>
+        <role>Berne</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/xUeWqBLO6CTJ1iFsyc71dJViUrf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>RuPaul</name>
+        <role>Persephone (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/c30bvYjCcBwggtrOrZaudXhVudt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Cumming</name>
+        <role>Dante (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cXbcMoCtS8947or9K5cOQev1Mmj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anders Holm</name>
+        <role>Pigeon (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/pbwticlBP5oIpGdK7uwj01tg0Ha.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blake Anderson</name>
+        <role>Pigeon (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/6CAisTFUOPulSKZvDSSptZ6D299.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Delia Sheppard</name>
+        <role>Socialite Faye</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/dckAPVdj0wheGY74rFcuFmSoaAE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Micucci</name>
+        <role>Pigeon (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/10FRMebTRHAgkxqhJ3Egq1liICF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bern Collaço</name>
+        <role>Shadowy Buyer</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/ziLGGjo5GWzYDL8H4MUquoFj8r0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kerry Shale</name>
+        <role>Klaus Hochauser</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/7IrOqC44j27MtUGjn3UwB2FRFWK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cristina Dohmen</name>
+        <role>Kristina Fernandes</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/mvlAWWZjq9OISpv3T6xAZbumrV6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Eghan</name>
+        <role>Businessman</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/nTNg1qxJBc2JASmwdOIgVwM0zFB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clem So</name>
+        <role>The Chinese Businessman</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/xVu9ibcd3Kyu7uPlKy1huymmhQt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diogo Mesquita</name>
+        <role></role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>João Araújo</name>
+        <role></role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paulo Duarte Ribeiro</name>
+        <role></role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sofia Brito</name>
+        <role></role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 22:23:21</dateadded>
+</movie>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Chaperone</title>
+    <originaltitle>The Chaperone</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>1074</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>13</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A principios de 1920, una mujer de Kansas ve cómo su vida cambia para siempre cuando acompaña a un joven bailarín a la ciudad de Nueva York en busca de fama.</plot>
+    <tagline>One trip can change everything</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AsZpUFmfik2RzwzkavV56Ut2Xf0.jpg">https://image.tmdb.org/t/p/original/AsZpUFmfik2RzwzkavV56Ut2Xf0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tu8VIrkJ8LTyrrT9wT9Nhix2VG7.jpg">https://image.tmdb.org/t/p/original/tu8VIrkJ8LTyrrT9wT9Nhix2VG7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qeNz1JBqsJT9W4n5NW9w0fe2mpj.jpg">https://image.tmdb.org/t/p/original/qeNz1JBqsJT9W4n5NW9w0fe2mpj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/luEPPNXCf98TobF29dvOV2OMvYJ.jpg">https://image.tmdb.org/t/p/original/luEPPNXCf98TobF29dvOV2OMvYJ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vIFmal61qtLDEjYoHeN6rzQubjj.jpg">https://image.tmdb.org/t/p/original/vIFmal61qtLDEjYoHeN6rzQubjj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6VdPwUtoHyUPHDWzHVmPiBz46P7.jpg">https://image.tmdb.org/t/p/original/6VdPwUtoHyUPHDWzHVmPiBz46P7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/y8MeWjHGDrYYSg97gH0r6WP3ody.jpg">https://image.tmdb.org/t/p/original/y8MeWjHGDrYYSg97gH0r6WP3ody.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2690226</id>
+    <uniqueid type="imdb" default="true">tt2690226</uniqueid>
+    <uniqueid type="tmdb">476344</uniqueid>
+    <genre>Drama</genre>
+    <country>Australia</country>
+    <credits>Julian Fellowes</credits>
+    <director>Michael Engler</director>
+    <premiered>2018-09-23</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fibonacci Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=STwiLcUMibE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6480</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language></language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Elizabeth McGovern</name>
+        <role>Norma</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/ihYdCKyr3JPz74tPuvkn1WSNh9b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haley Lu Richardson</name>
+        <role>Louise Brooks</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/tSoX3nWJxzZP1IK5W2s4UVy7HUw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victoria Hill</name>
+        <role>Myra Brooks</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vXFx0i9tlqUTTkqaqGzse7oaXtJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Campbell Scott</name>
+        <role>Alan Carlisle</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/3b9B8Bnqr4rVqIuR9rHkOz2q2ma.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Géza Röhrig</name>
+        <role>Joseph</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/3XrYcL5wC1wQnmqJautgZK3XuiM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blythe Danner</name>
+        <role>Mary O&apos;Dell</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Dx9iCenZvT0wNRgMN4huVSbfxC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miranda Otto</name>
+        <role>Ruth St. Dennis</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Grimes</name>
+        <role>Ms. Burton</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/pffo65aK1jZ7uIo0n5hj6Ost3Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt McGrath</name>
+        <role>Raymond</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/lYdLQvcAYb7PFu37RrjdLZjn49Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Burnap</name>
+        <role>Floyd</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Hoag</name>
+        <role>Jack</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/6MRoXEPuWedoNFR3bEELeVSDvwz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyler Weaks</name>
+        <role>Howard Carlisle</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/6cqblmg1wwznZWtyDRsGQSdWgMF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ellen Toland</name>
+        <role>Greta</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/2TrodeIklZvlNKJjMFgH3jkahrd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Fairchild</name>
+        <role>Ted Shawn</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/lMtJBHuWKnxS4fFmJue6Pt27Sxb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Hudock</name>
+        <role>Norman Ross</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Garfanti</name>
+        <role>Cafe Patron</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/n6qlIdY3AW4C2JLXf1VFG1yZdkX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Hampe</name>
+        <role>Earl Carlisle</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruben Navarro</name>
+        <role>Train Station Father</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kate Abbruzzese</name>
+        <role>Gypsy Woman</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daphne Gaines</name>
+        <role>Della</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vinson German</name>
+        <role>Music Hall Man</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susan J. Jacks</name>
+        <role>Nun on Train</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Noelle Cappuzzo</name>
+        <role>Student Dancer</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daisy Pugh-Weiss</name>
+        <role>Young Greta</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Walker</name>
+        <role>Leonard Brooks</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/nMrU2O3KedJ1FPnT5W6ybSzyrh6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stan Demidoff</name>
+        <role>Flower Seller</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/jMx4NPGLx72G62ghEmGgNinn8ob.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cilda Shaur</name>
+        <role>Second Woman</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/wTpl5zyh8ZoiUZ2VArlEhBVcnU6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Geraghty</name>
+        <role>Taxi Driver</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>McLean Peterson</name>
+        <role>Walker</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Collin Jeffery</name>
+        <role>Martin</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:16:28</dateadded>
+</movie>

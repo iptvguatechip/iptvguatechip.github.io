@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Blue Ruin</title>
+    <originaltitle>Blue Ruin</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>65725</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>958</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>When the quiet life of a beach bum is upended by dreadful news, he sets off for his childhood home to carry out an act of vengeance. However, he proves an inept assassin and finds himself in a brutal fight to protect his estranged family.</plot>
+    <tagline>Revenge comes home</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/q0itEsso2drJXqH9kfdidxIT5dF.jpg">https://image.tmdb.org/t/p/original/q0itEsso2drJXqH9kfdidxIT5dF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zB7cPKOyAsXRnnDWJ7luhhFcvbo.jpg">https://image.tmdb.org/t/p/original/zB7cPKOyAsXRnnDWJ7luhhFcvbo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rZzbEi1w2J8NWmrCG57PrbGTrLz.jpg">https://image.tmdb.org/t/p/original/rZzbEi1w2J8NWmrCG57PrbGTrLz.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AcEBzrNmY60gJplQnp3tYw33vu1.jpg">https://image.tmdb.org/t/p/original/AcEBzrNmY60gJplQnp3tYw33vu1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2359024</id>
+    <uniqueid type="imdb" default="true">tt2359024</uniqueid>
+    <uniqueid type="tmdb">188166</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Jeremy Saulnier</credits>
+    <director>Jeremy Saulnier</director>
+    <premiered>2013-09-09</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paradise City</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qYpuju1NGdA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5424</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Macon Blair</name>
+        <role>Dwight Evans</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/8IhZDzUIljLk6AZRXlB07sD06T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Devin Ratray</name>
+        <role>Ben Gaffney</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/gb0IIdsnvOG2j0Dt1FSSsCQZXt6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Hargreaves</name>
+        <role>Sam Evans</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/yLc5pYveTbr3tljz6J3r7DE450s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Kolack</name>
+        <role>Teddy Cleland</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2GcLah1FKoTzJwoVSmdIEAvWwJt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eve Plumb</name>
+        <role>Kris Cleland</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/6GpcQ7EbdTTbkCst6lPTBBKjQ7e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stacy Rock</name>
+        <role>Hope Cleland</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David W. Thompson</name>
+        <role>William</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/12HxscNCdWQTzweC6kjgRqETzzD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brent Werzner</name>
+        <role>Carl Cleland</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sandy Barnett</name>
+        <role>Wade Cleland Jr.</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/m2NePlde2I8SSGpcu1DVDWk2Ehc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sidné Anderson</name>
+        <role>Officer Eddy</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ECvJJA6o7oazDulqKLA32TCvqX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bonnie Johnson</name>
+        <role>Margaret Gaffney</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ydaiber Orozco</name>
+        <role>Amanda</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel L. Kelly</name>
+        <role>Large Man</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erica Genereux Smith</name>
+        <role>Rock Girl</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Abigail Horton</name>
+        <role>Babysitter</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/g4f0dwIrYoc2Bqc5fvaPs7FTW3R.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-25 13:03:34</dateadded>
+</movie>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Una cuestión de fe</title>
+    <originaltitle>A Question of Faith</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>963</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.700000</value>
+            <votes>56</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un conductor adolescente descuidado, un niño de doce años y un joven cantante enfrentan crisis en sus vidas. A medida que sus respectivos padres comienzan a cuestionar su fe, una cadena de eventos los reúne sin saberlo.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4DwBNsU23aI3A83Mtpj2QDmmXAH.jpg">https://image.tmdb.org/t/p/original/4DwBNsU23aI3A83Mtpj2QDmmXAH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mwVkW7sHqhPGdsZa5nb4X3J36vC.jpg">https://image.tmdb.org/t/p/original/mwVkW7sHqhPGdsZa5nb4X3J36vC.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/slo4uAwTb08rAq99pgLbV30oZzo.jpg">https://image.tmdb.org/t/p/original/slo4uAwTb08rAq99pgLbV30oZzo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qQvWzZSiJZrmguga5d3GU9tE5Lh.jpg">https://image.tmdb.org/t/p/original/qQvWzZSiJZrmguga5d3GU9tE5Lh.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6054650</id>
+    <uniqueid type="imdb" default="true">tt6054650</uniqueid>
+    <uniqueid type="tmdb">467433</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Ty Manns</credits>
+    <director>Kevan Otto</director>
+    <premiered>2017-09-29</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Silver Lining Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QzNuMWxPo80</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>6225</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Richard T. Jones</name>
+        <role>David Newman</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/hdko2C45Wr5G03Z8JwGjWMynP84.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Fields</name>
+        <role>Theresa Newman</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/MYOL9TGBy4xVT9zvDOpIPcO8uV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>C. Thomas Howell</name>
+        <role>John Danielson</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jbe1EIWMlIvnIJjPX5H5hAVLBbJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Renee O&apos;Connor</name>
+        <role>Mary Danielson</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/vrhotcdzXbPuYRJlzI8YDxZIkt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>T.C. Stallings</name>
+        <role>Cecil King</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wwEICxvAoZkL6WrTl4ABMhlfPEM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaci Velasquez</name>
+        <role>Katie Hernandez</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/yysCvqZuRoAwRKSMCBq2FRAoJM3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Thompson</name>
+        <role>Michelle Danielson</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregory Alan Williams</name>
+        <role>Farnsworth Newman</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3IM9qtI4c4zgraPNtRI3kCPivAo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen Valero</name>
+        <role>Maria Hernandez</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donna Biscoe</name>
+        <role>Patricia Newman</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/edkQKepb7ze6LKFMHC2ahAwO0Wh.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:40:55</dateadded>
+</movie>

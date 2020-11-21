@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Pepe, una vida suprema</title>
+    <originaltitle>El Pepe, una vida suprema</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>1374</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.600000</value>
+            <votes>25</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El documental examina qué hace a José &quot;Pepe&quot; Mujica diferente: un hombre humilde que se convirtió en presidente de Uruguay manteniéndose firme con sus ideales y a su vez aceptando el cambio. Es la historia de un activista político y ex militante de la guerrilla de la izquierda latinoamericana. Orgulloso de su pasado, pero lejano a dormirse en los laureles, es un hombre que se atreve a soñar con un mundo mejor.</plot>
+    <tagline></tagline>
+    <runtime>73</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/awSwUBuCLrnWTZKN5H6gnW8qF3c.jpg">https://image.tmdb.org/t/p/original/awSwUBuCLrnWTZKN5H6gnW8qF3c.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/r7dGZ3o9bfzCwY616eszq714jSx.jpg">https://image.tmdb.org/t/p/original/r7dGZ3o9bfzCwY616eszq714jSx.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8900434</id>
+    <uniqueid type="imdb" default="true">tt8900434</uniqueid>
+    <uniqueid type="tmdb">538620</uniqueid>
+    <genre>Documental</genre>
+    <country>Argentina</country>
+    <director>Emir Kusturica</director>
+    <premiered>2019-10-13</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>K&amp;S Films</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4389</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>lat</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>José Mujica</name>
+        <role>Himself</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wDhN7llv11O96xqE1bNlxzinWQ0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emir Kusturica</name>
+        <role>Himself</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/4TVOxbLhi8DXD89B7oY1Ji0XPnu.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:29:59</dateadded>
+</movie>

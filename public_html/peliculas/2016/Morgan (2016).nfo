@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Morgan</title>
+    <originaltitle>Morgan</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>38702</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>1032</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una compañía tecnológica crea una inteligencia artificial, sin ser conscientes de su verdadero potencial. Cuando las cosas comienzan a salirse de su control, deciden contratar a una especialista para determinar si acabar con la criatura o mantenerla encendida.</plot>
+    <tagline>Don&apos;t let it out</tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bSr5KovEHFFvIfeYjpGkbWFGc0m.jpg">https://image.tmdb.org/t/p/original/bSr5KovEHFFvIfeYjpGkbWFGc0m.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg">https://image.tmdb.org/t/p/original/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2Ci7ykt5p1kY7Eqrmsn0zkeXiTY.jpg">https://image.tmdb.org/t/p/original/2Ci7ykt5p1kY7Eqrmsn0zkeXiTY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1WpDZ9UYgat7IkwMrlrNVYkUfa8.jpg">https://image.tmdb.org/t/p/original/1WpDZ9UYgat7IkwMrlrNVYkUfa8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vRKFf0JqQfcJfG04LBR6LBssyew.jpg">https://image.tmdb.org/t/p/original/vRKFf0JqQfcJfG04LBR6LBssyew.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xOQNxYSeioRJ06sg6Ev6mhcOkPI.jpg">https://image.tmdb.org/t/p/original/xOQNxYSeioRJ06sg6Ev6mhcOkPI.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oh79Gio9FDZDqzCMqfgaMJq4o9v.jpg">https://image.tmdb.org/t/p/original/oh79Gio9FDZDqzCMqfgaMJq4o9v.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/veKJaZUI9jauL23OPqhdofTuCrT.jpg">https://image.tmdb.org/t/p/original/veKJaZUI9jauL23OPqhdofTuCrT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fxqgUjeRdhbEtbtIITQgVaVDFtw.jpg">https://image.tmdb.org/t/p/original/fxqgUjeRdhbEtbtIITQgVaVDFtw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/72wBdpY5FDfBVOgcjSAwBUzoNak.jpg">https://image.tmdb.org/t/p/original/72wBdpY5FDfBVOgcjSAwBUzoNak.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tZogNrvhSOMNpxR76mfV740Z75J.jpg">https://image.tmdb.org/t/p/original/tZogNrvhSOMNpxR76mfV740Z75J.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4520364</id>
+    <uniqueid type="imdb" default="true">tt4520364</uniqueid>
+    <uniqueid type="tmdb">377264</uniqueid>
+    <genre>Terror</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Seth W. Owen</credits>
+    <director>Luke Scott</director>
+    <premiered>2016-09-01</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TSG Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rqmHSR0bFU8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5512</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kate Mara</name>
+        <role>Lee Weathers</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/lzbWAI16nuekDM4AAESBCnDUmcf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anya Taylor-Joy</name>
+        <role>Morgan</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1zA5GuTcciupj4PsNoV2YemB0Wm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rose Leslie</name>
+        <role>Dr. Amy Menser</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2nvuHudgrf8FCwLz81ONCByJNd3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toby Jones</name>
+        <role>Dr. Simon Ziegler</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/eOZe7EZ0Ojq8PaIn1HLVex5dZwc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boyd Holbrook</name>
+        <role>Skip Vronsky</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/531YOKa2usleWCA55t6Db4MZhT3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Jason Leigh</name>
+        <role>Dr. Kathy Grieff</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/7CpqvYVCI6Sq07zgQYxHRydevpk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Giamatti</name>
+        <role>Dr. Alan Shapiro</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Yeoh</name>
+        <role>Dr. Lui Cheng</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/qVPB4XGLqEAaXNMuvLgz8gAwONJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Spruell</name>
+        <role>Jim Bryce</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/mV62no6D4yYtYS4A6dkHCGPTugZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Aris</name>
+        <role>David Chance</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/46T3x7CePc22Z5KvkR4OulmVORU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Sullivan</name>
+        <role>Dr. Darren Finch</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/5I4pxgfl5agN38qrZqtFf8TlkUh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vinette Robinson</name>
+        <role>Dr. Brenda Finch</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8hhfJbSfsD4T8o82bHuR1kIElpJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Asprey</name>
+        <role>Executive Assistant</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/jqMqy8X5fCN0jTojTLZMVG8ftKK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yare Michael Jegbefume</name>
+        <role>Ted Brenner</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Cox</name>
+        <role>Jim Bryce</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/zNWIyHnNTyfwfWmxeo8QEh33Ar5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Crispian Belfrage</name>
+        <role>Charles Grimes</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/a7TALOuiI7QZZOUeIFPYOWUaDQC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amybeth McNulty</name>
+        <role>Morgan (age 10)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/4fXgRoQhCWUe79U1J6uEcxpxPgj.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 16:33:41</dateadded>
+</movie>

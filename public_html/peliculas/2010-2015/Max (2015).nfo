@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Max</title>
+    <originaltitle>Max</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>25485</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>542</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un perro que ayudó a los soldados norteamericanos en Afganistán regresa a los Estados Unidos y es adoptado por la familia de su adiestrador, después de sufrir una experiencia traumática.</plot>
+    <tagline>Mejor amigo. Héroe. Marine.</tagline>
+    <runtime>110</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/jE0FdVwbsGVrwCPizLWwH82QfpB.jpg">https://image.tmdb.org/t/p/original/jE0FdVwbsGVrwCPizLWwH82QfpB.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bITkGtRSVTjBRR0ZLUtqf97zEFu.jpg">https://image.tmdb.org/t/p/original/bITkGtRSVTjBRR0ZLUtqf97zEFu.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qbJr2cGWenjfqq4dZhfRA0cEtkA.jpg">https://image.tmdb.org/t/p/original/qbJr2cGWenjfqq4dZhfRA0cEtkA.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/55dGibKCqypWoOIQDMn0PAK12xF.jpg">https://image.tmdb.org/t/p/original/55dGibKCqypWoOIQDMn0PAK12xF.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/2xAzPC7hTJKSx4TXHKjdlzkGOI0.jpg">https://image.tmdb.org/t/p/original/2xAzPC7hTJKSx4TXHKjdlzkGOI0.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/m4VcrFz31Rh11m9WGu5MgbEGEye.jpg">https://image.tmdb.org/t/p/original/m4VcrFz31Rh11m9WGu5MgbEGEye.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iXnAwLT3OPWfeaqpPVIsbfu3OIH.jpg">https://image.tmdb.org/t/p/original/iXnAwLT3OPWfeaqpPVIsbfu3OIH.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/phB8F1XeMhBEk6CbKMYgm6SIphi.jpg">https://image.tmdb.org/t/p/original/phB8F1XeMhBEk6CbKMYgm6SIphi.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3369806</id>
+    <uniqueid type="imdb" default="true">tt3369806</uniqueid>
+    <uniqueid type="tmdb">272878</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Max Collection</name>
+        <overview>Film series following a former military dog, Max, after his return home from Afghanistan.</overview>
+    </set>
+    <credits>Sheldon Lettich</credits>
+    <credits>Boaz Yakin</credits>
+    <director>Boaz Yakin</director>
+    <premiered>2015-06-26</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Reel Chefs Catering</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6EPPMCwD5bw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6658</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Thomas Haden Church</name>
+        <role>Ray</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/VP6VDYL0OEDwSbTRysiJ0kAGxI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Wiggins</name>
+        <role>Justin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/mmTI0LbdPHMiPL9ihTaZ3Ag3elY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Graham</name>
+        <role>Pamela</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/3leQVZnthAZwngH7HAD6T7qfsVu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robbie Amell</name>
+        <role>Kyle Wincott</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mia Xitlali</name>
+        <role>Carmen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/gu3lL84ZDwuMM5Zx16lI6roH8dI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Kleintank</name>
+        <role>Tyler Harne</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Hernandez</name>
+        <role>Sergeant Reyes</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/86mlhxglLYYCac1CWWj4s9uR9U9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Julian Soria</name>
+        <role>Emilio</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/vcBpEeJLPtOuSnrSuV7oUJKSuY7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zeeko Zaki</name>
+        <role>Afghan Interpreter</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/fB4KwSSBM159ae5tl8GGpbcYlSj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edgar Arreola</name>
+        <role>Cartel leader</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/pUvpVhpU3c68v6qWE1Vysq1MGQY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Brunetti</name>
+        <role>Alpha Team Leader</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Davis</name>
+        <role>Police Officer</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/thSH5TatER5b1WbgFpGt5YDdOu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miles Mussenden</name>
+        <role>Captain</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nazareth Dairian</name>
+        <role>Afghan Village Man</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ethan Alexander McGee</name>
+        <role>Bike Kid</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rgpTNNI9kZ1cAJ6Z1n0yy2q4a0J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos</name>
+        <role>Max</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dejon LaQuake</name>
+        <role>Chuy</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Owen Harn</name>
+        <role>Stack</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6ZmP06Wk6SOqUPi67pcttA6rgc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Borgnis</name>
+        <role>Mourner</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Matheny</name>
+        <role>Parade Colonel</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pete Burris</name>
+        <role>S-2 Major</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/9FfIl5oggZOkQNzXakbBqAHXSam.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marlo Scheitler</name>
+        <role>Neigbor</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Raymond W. Beal</name>
+        <role>Animal Control Handler #1 / Marine</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joan Q. Scott</name>
+        <role>Blue-haired Lady</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrene Ward-Hammond</name>
+        <role>Receptionist</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/w47gGojio6d18H52DZqamcNA0bL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Gregg</name>
+        <role>Latino Kid</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/5IiSdwRrc79FfJvRnscmKmaW5UP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas La Marche</name>
+        <role>Bike Teen #1</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Schuler</name>
+        <role>Bike Teen #2</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Naim Alherimi</name>
+        <role>Afghan Village Man</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/3BK1rV9i4iEpcGfiVgtkaDuhBix.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Gonzalez</name>
+        <role>Cartel Guy</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David J. Flores</name>
+        <role>Bike Kid</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Khamary Grant</name>
+        <role>Bike Kid</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hayley Joplin</name>
+        <role>Bike Park Teen</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Archulet</name>
+        <role>Highway Patrol Officer</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 12:40:37</dateadded>
+</movie>

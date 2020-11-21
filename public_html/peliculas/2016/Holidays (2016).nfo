@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Holidays</title>
+    <originaltitle>Holidays</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>10121</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.000000</value>
+            <votes>325</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Antología de terror que reúne una serie de relatos cortos, cada uno inspirado en una celebración distinta, entre la que encontramos Navidad, San Valentín o Pascua. Pero todos con el punto en común de darle una vuelta escalofriante a las tradiciones y el folclore.</plot>
+    <tagline>Every one has a dark side.</tagline>
+    <runtime>104</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qndlHSuAaGwBKpWAUt6gX3RRuzb.jpg">https://image.tmdb.org/t/p/original/qndlHSuAaGwBKpWAUt6gX3RRuzb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bmTMBmpLNP9BmayAFQDS3em27Vh.jpg">https://image.tmdb.org/t/p/original/bmTMBmpLNP9BmayAFQDS3em27Vh.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j0WqwIfrrzDgvnEBXbzM41ulpWY.jpg">https://image.tmdb.org/t/p/original/j0WqwIfrrzDgvnEBXbzM41ulpWY.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4419364</id>
+    <uniqueid type="imdb" default="true">tt4419364</uniqueid>
+    <uniqueid type="tmdb">323262</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <credits>Kevin Smith</credits>
+    <credits>Scott Stewart</credits>
+    <credits>Nicholas McCarthy</credits>
+    <credits>Kevin Kölsch</credits>
+    <credits>Gary Shore</credits>
+    <credits>Sarah Adina Smith</credits>
+    <credits>Dennis Widmyer</credits>
+    <credits>Anthony Scott Burns</credits>
+    <director>Kevin Smith</director>
+    <director>Scott Stewart</director>
+    <director>Nicholas McCarthy</director>
+    <director>Kevin Kölsch</director>
+    <director>Gary Shore</director>
+    <director>Sarah Adina Smith</director>
+    <director>Dennis Widmyer</director>
+    <director>Anthony Scott Burns</director>
+    <director>Adam Egypt Mortimer</director>
+    <premiered>2016-04-22</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Distant Corners Entertainment Group Inc.</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bc4NJKDxV4Y</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6259</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Harley Quinn Smith</name>
+        <role>Holly</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/nsYy6hebJpIwPjS4AcuheKguklC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lorenza Izzo</name>
+        <role>Jean</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cGjEIwvt4YUOqX0twIMcnzjMKmZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seth Green</name>
+        <role>Pete Gunderson</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clare Grant</name>
+        <role>Sara Gunderson</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/nw5JGazQoxlXKiVkBc8NtNNNg6N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ruth Bradley</name>
+        <role>Elizabeth Cullen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/gVMEQWvnyaj2tcOCzHtqU7ASAfM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jocelin Donahue</name>
+        <role>Carol</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/eQXBzPjo9K8MG9TVOoQDNoHEFwv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madeleine Coghlan</name>
+        <role>Maxine</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6LAp7Ncc0xI8jVPpsuxg5HfJI1p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sophie Traub</name>
+        <role>Kate</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/3GXIPgLkHUmIepwpTFJIKsIJfJP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harley Morenstein</name>
+        <role>Ian</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3MA0w9xqYB6hU0bp0NlJHo0qfYo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Bowen</name>
+        <role>Reggie</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/lNXmfBRcs7PuLOQoPi0TduMARcG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Campion</name>
+        <role>The Man</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4tlbi3o1KeFfwckgKEwcE4r4hfP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Peters</name>
+        <role>Coach Rockwell</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/A8uebBEdc7jyVmruFdJ7CVUam4K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ava Acres</name>
+        <role>Girl</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/tfsaNumpB2qFbHlf68hhbUAWQKs.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 11:29:07</dateadded>
+</movie>

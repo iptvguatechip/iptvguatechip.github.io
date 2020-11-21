@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Chica Danesa</title>
+    <originaltitle>The Danish Girl</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>161172</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.600000</value>
+            <votes>4579</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Drama basado en la verdadera historia de una pareja de artistas daneses, Einar y Gerda Wegener. La vida de este matrimonio dio un giro cuando Einar sustituyó a la modelo femenina que su mujer, Gerda, tenía que pintar. Cuando los retratos resultan ser un éxito, ella anima a su marido a adoptar una apariencia femenina. Lo que comenzó como un juego llevó a Einar a una metamorfosis que puso en riesgo el amor de su esposa</plot>
+    <tagline>Encuentra el valor para ser tú mismo</tagline>
+    <runtime>119</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8XubRv1OkM2RkksxVpkG8qoROM8.jpg">https://image.tmdb.org/t/p/original/8XubRv1OkM2RkksxVpkG8qoROM8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sptk8AiL73TWTodXPSFyMQKG8lT.jpg">https://image.tmdb.org/t/p/original/sptk8AiL73TWTodXPSFyMQKG8lT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mXZZIacI5FC8thzSC0lgQBQ2uAX.jpg">https://image.tmdb.org/t/p/original/mXZZIacI5FC8thzSC0lgQBQ2uAX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wfoFuLp4ZCAJdVbiWc4sq2H5UOF.jpg">https://image.tmdb.org/t/p/original/wfoFuLp4ZCAJdVbiWc4sq2H5UOF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3jSlfR4DbYE9T0yD3Idrnkq5LUR.jpg">https://image.tmdb.org/t/p/original/3jSlfR4DbYE9T0yD3Idrnkq5LUR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eO7fjZoxGxQhqTaKITowl8fmkWU.jpg">https://image.tmdb.org/t/p/original/eO7fjZoxGxQhqTaKITowl8fmkWU.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/reOdKBPXT9TpwyYnGGyKxG3jXe6.jpg">https://image.tmdb.org/t/p/original/reOdKBPXT9TpwyYnGGyKxG3jXe6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yMhanEYEA0oUVEbXSoB5ng0slmK.jpg">https://image.tmdb.org/t/p/original/yMhanEYEA0oUVEbXSoB5ng0slmK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6YDT8nKlyWJt0Psdzb8eVbdbh2F.jpg">https://image.tmdb.org/t/p/original/6YDT8nKlyWJt0Psdzb8eVbdbh2F.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nf63r2aVmOCyuZFnSvVXSq58XYd.jpg">https://image.tmdb.org/t/p/original/nf63r2aVmOCyuZFnSvVXSq58XYd.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0810819</id>
+    <uniqueid type="imdb" default="true">tt0810819</uniqueid>
+    <uniqueid type="tmdb">306819</uniqueid>
+    <genre>Drama</genre>
+    <country>Germany</country>
+    <credits>Lucinda Coxon</credits>
+    <director>Tom Hooper</director>
+    <premiered>2015-01-01</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pretty Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ENiuBpdrnZ8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>7178</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eddie Redmayne</name>
+        <role>Einar Wegener / Lili Elbe</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alicia Vikander</name>
+        <role>Gerda Wegener</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9pmHTbXeRxUF51jJKthmHI49u9z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthias Schoenaerts</name>
+        <role>Hans Axgil</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/56abqjiihp8XS2kiktfRHXNat7w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Whishaw</name>
+        <role>Henrik Sandahl</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2GBtQ6scGeSHkX1urOP1EJbmksx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Koch</name>
+        <role>Dr. Kurt Warnekros</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/4YFk0qauux4jn68mvIfd5EEtG2v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pip Torrens</name>
+        <role>Dr. Jens Hexler</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/2CMGIZ0hXTB4FcCXGlfVGaHGBBm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Woodeson</name>
+        <role>Dr. Buson</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/g8sVxrMjLAWEde8TZaa42e2Lr42.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Heard</name>
+        <role>Ulla</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/1cb5mGzGB6Sj2JPkWt9W16B19Bf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emerald Fennell</name>
+        <role>Elsa</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/tTdP13xdWKErPO8zQOO8fjtppT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Schiller</name>
+        <role>Rasmussen</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/hzaZSk4J0C78bU3zlqLjCruNGBQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Pettigrew</name>
+        <role>Niels</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophie Kennedy Clark</name>
+        <role>Ursula</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miltos Yerolemou</name>
+        <role>Dr. Mai</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/nYG77CEtQ2dkptZtafBupVzmpVn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Graf</name>
+        <role>Henri</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/hFChx0koIR61uAaeYDVZA3EOs4G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tusse Silberg</name>
+        <role>Older Woman</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/sofDsjadyHeRiafPclN4i6TChir.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claus Bue</name>
+        <role>Man at Window</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/4Fs6UdZFkqEI4ERoEYsGIHeT77J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Krag</name>
+        <role>Stage Doorman</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angela Curran</name>
+        <role>Dresser</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/AqFDvbVtDQYojX0ndD7vHi1gql3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pixie</name>
+        <role>Hvappe (dog)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Dixon</name>
+        <role>Fonnesbech</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/rhMlmS9dE6pyy4qnZGRzlRrGlhh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Bigley</name>
+        <role>Man in Gallery</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/fqRomZYLJatugmtuCdQHvnI9u14.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nancy Crane</name>
+        <role>American Woman</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/nWdjMa7DCZRuKuDHc7f8X4sJBmn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicola Sloane</name>
+        <role>Brothel Madame</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/blWSecB0y80tJCfLEdd3sfIC23f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sonya Cullingford</name>
+        <role>Striptease Artist</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/mAh2P0M7ON9t7WzlVf4EYoUzDR7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clare Fettarappa</name>
+        <role>Receptionist</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/m2eRNhCBsx30PRfzEa79aloWW7H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victoria Emslie</name>
+        <role>Gallery Employee</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Raphael Acloque</name>
+        <role>Man in Park 1</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/8VPBcWlkqaQai3lM2qbGa5JH45K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Devrient</name>
+        <role>Man in Park 2</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/9cJBKPY3q2dGuDCrcopVbzTNgVE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cosima Shaw</name>
+        <role>Hospital Receptionist</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/nfOwflFM8WiNj5xKZidA8WRG1TE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Root</name>
+        <role>Nurse</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/OI0sAvj2oisk1BFqg8YHE921Vc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Issy van Randwyck</name>
+        <role>Manageress</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aisha Fabienne Ross</name>
+        <role>Shop Assistant 1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Holly Weston</name>
+        <role>Shop Assistant 2</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/1FHYscfFGgGZ0lAEeTIzztKF234.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eleanor Hafner</name>
+        <role>Shop Assistant 3</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maya Lindh</name>
+        <role>Shop Assistant 4</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Clay</name>
+        <role>Scent Customer</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erich Redman</name>
+        <role>Concierge</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/zotYaC5idW2MKufFjp4plvELCJP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Philip Arditti</name>
+        <role>Dr. McBride</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/3H72KNDJxGSeYuCzd3PwJZLeXZu.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 09:04:42</dateadded>
+</movie>

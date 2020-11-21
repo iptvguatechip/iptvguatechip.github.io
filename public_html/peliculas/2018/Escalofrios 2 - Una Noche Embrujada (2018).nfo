@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Escalofríos 2: Una Noche Embrujada</title>
+    <originaltitle>Goosebumps 2: Haunted Halloween</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>17384</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>882</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Segunda parte de la película Pesadillas (2015), que fue la adaptación cinematográfica de Goosebumps, la serie de libros de terror escritos por R. L. Stine, personaje que en esta película se convertía en uno de los protagonistas cuando las criaturas fantásticas salidas de su mente se volvían reales y eran liberados por error.</plot>
+    <tagline>Halloween comes to life.</tagline>
+    <runtime>89</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/yOeEWiYcSPt7ljBnzvx8ZOpZO1r.jpg">https://image.tmdb.org/t/p/original/yOeEWiYcSPt7ljBnzvx8ZOpZO1r.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/yPCRkqQpvQXuhFHIngKFATriPS2.jpg">https://image.tmdb.org/t/p/original/yPCRkqQpvQXuhFHIngKFATriPS2.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/p6M5HI4zEyUWI3BhEPry66SRuEp.jpg">https://image.tmdb.org/t/p/original/p6M5HI4zEyUWI3BhEPry66SRuEp.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/53cKG49j56mbAXFNlAL0ouly5td.jpg">https://image.tmdb.org/t/p/original/53cKG49j56mbAXFNlAL0ouly5td.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/hMOwqSghhz4AStkXxCjL1BjXdV0.jpg">https://image.tmdb.org/t/p/original/hMOwqSghhz4AStkXxCjL1BjXdV0.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/23AaJZytYFbxsP0AJUdOMy7hpUo.jpg">https://image.tmdb.org/t/p/original/23AaJZytYFbxsP0AJUdOMy7hpUo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pPCgjYPQGWdIBRL05N6PVZOeOZL.jpg">https://image.tmdb.org/t/p/original/pPCgjYPQGWdIBRL05N6PVZOeOZL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pWWTCAzCSSH46uvguPEKycrCvSU.jpg">https://image.tmdb.org/t/p/original/pWWTCAzCSSH46uvguPEKycrCvSU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3UQcJ4F1nOfJgnUAs1WdWimNqkG.jpg">https://image.tmdb.org/t/p/original/3UQcJ4F1nOfJgnUAs1WdWimNqkG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg">https://image.tmdb.org/t/p/original/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kOrUF0EH2C3KHoI7tqANZMFZaTN.jpg">https://image.tmdb.org/t/p/original/kOrUF0EH2C3KHoI7tqANZMFZaTN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8bcpki9GfXdXj9esFpPtlate8v0.jpg">https://image.tmdb.org/t/p/original/8bcpki9GfXdXj9esFpPtlate8v0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v8nuZvunMpUnOXP80QLkJ35vSPZ.jpg">https://image.tmdb.org/t/p/original/v8nuZvunMpUnOXP80QLkJ35vSPZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pMi5ldebPxCrTt0BINMNFWowhe2.jpg">https://image.tmdb.org/t/p/original/pMi5ldebPxCrTt0BINMNFWowhe2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uhCzXYNS4bGMCKrkc2IF69wBdvz.jpg">https://image.tmdb.org/t/p/original/uhCzXYNS4bGMCKrkc2IF69wBdvz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uUU9Dq6onorrb6vYD7mWBWHLzdu.jpg">https://image.tmdb.org/t/p/original/uUU9Dq6onorrb6vYD7mWBWHLzdu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1oXi5B1i49fAzSmXw5JoWnn3xe3.jpg">https://image.tmdb.org/t/p/original/1oXi5B1i49fAzSmXw5JoWnn3xe3.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h5BvesqaxL7V3vl1CmaR8waGyiM.jpg">https://image.tmdb.org/t/p/original/h5BvesqaxL7V3vl1CmaR8waGyiM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sgNoTdQF4Dpd8R7BI6dZmXzJ5l.jpg">https://image.tmdb.org/t/p/original/sgNoTdQF4Dpd8R7BI6dZmXzJ5l.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9ucgBHDmA6B07pjcNCFFZHrINMT.jpg">https://image.tmdb.org/t/p/original/9ucgBHDmA6B07pjcNCFFZHrINMT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ykFsEAWPWGiRzWOMmPjEVVOGKiX.jpg">https://image.tmdb.org/t/p/original/ykFsEAWPWGiRzWOMmPjEVVOGKiX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lwJhI7CgM6y8NZxBz0UKy57U6qc.jpg">https://image.tmdb.org/t/p/original/lwJhI7CgM6y8NZxBz0UKy57U6qc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/whNdTPXlKjAr9kh4GyyzEkLf9Rz.jpg">https://image.tmdb.org/t/p/original/whNdTPXlKjAr9kh4GyyzEkLf9Rz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9xYg9ScjGaO2HrLfOfYZirTrB3o.jpg">https://image.tmdb.org/t/p/original/9xYg9ScjGaO2HrLfOfYZirTrB3o.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fZcBAHecB5G8ZUFnJAid2IScjUN.jpg">https://image.tmdb.org/t/p/original/fZcBAHecB5G8ZUFnJAid2IScjUN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bpun8PbmV7C3d2AO4roafF2GSCA.jpg">https://image.tmdb.org/t/p/original/bpun8PbmV7C3d2AO4roafF2GSCA.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 7</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5664636</id>
+    <uniqueid type="imdb" default="true">tt5664636</uniqueid>
+    <uniqueid type="tmdb">442062</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <genre>Familia</genre>
+    <genre>Terror</genre>
+    <country>United Kingdom</country>
+    <set>
+        <name>Escalofríos - Colección</name>
+    </set>
+    <credits>Rob Lieber</credits>
+    <director>Ari Sandel</director>
+    <premiered>2018-10-11</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Columbia Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dLGF2M-qwFo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5388</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jeremy Ray Taylor</name>
+        <role>Sonny Quinn</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/y2xGTq2EIftn7enUhUxUkCHdA0e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Iseman</name>
+        <role>Sarah Quinn</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5JVhacnNhqLcWpGPH1fqL7Ovq7g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Caleel Harris</name>
+        <role>Sam</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZi0NxCQsQSEakTuOg75qukIGW6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendi McLendon-Covey</name>
+        <role>Kathey Quinn</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/gBVheNdkfDMPtC7S3XGhz2YTrms.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Jeong</name>
+        <role>Mr. Chu</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qyQjrabai21fueat4oPVylRbBwC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Parnell</name>
+        <role>Walter</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/aGzA5l9S89qLkhpSdjmkerFdZt0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryce Cass</name>
+        <role>Tyler</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/x3XazffrdFKYbC0lahwgPokXt59.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peyton Wich</name>
+        <role>Tommy</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/52101r7ph1aiJtlZ2pIXD5L7BKV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shari Headley</name>
+        <role>Mrs. Carter</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/yliVRnLEmPH0Nzh78TzY1GfE8ZA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Finlayson</name>
+        <role>Cooper</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/gODR2r8l8zsEbvfDQlibYoFOabo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Jose Vasquez</name>
+        <role>Derek</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/tA2bNlyyUX1VxMt3x458cmpxeS0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney Lauren Cummings</name>
+        <role>Jess</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/ouFMM5k42VzYs4NUQAo6Zil9fBJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessi Goei</name>
+        <role>Maya</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/yjzt9K0guO54ZWyhRuU3xTYVSTN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Drew Scheid</name>
+        <role>Tyler&apos;s Crew</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/pAJVhACBtGVARuj9EGq3TJYovWa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyler Silva</name>
+        <role>Tyler&apos;s Crew</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sydney Bullock</name>
+        <role>Vanessa</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/kH01VhaMPf4czUPl1XZ0TrNMu4O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Looney</name>
+        <role>Terrified Parent Monster-Mr. Rennie</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/gvE2miAXqwqDdwVhCECVRRDNj3Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kendrick Cross</name>
+        <role>Sam&apos;s Father</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/tYaCFGV5EuxZpj2NOh2oDJ0yDyZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deja Dee</name>
+        <role>Mrs. Hoover</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/alr4mjTZswekqHkuU7kZ6asFMvP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brick Jackson</name>
+        <role>Paramedic- TJ</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/q1ednlR6sI8RfjHpFclpbHEMfzR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Krishnan Viren Patel</name>
+        <role>Pharmacist</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hallie Jackson</name>
+        <role>Nana</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>R.L. Stine</name>
+        <role>Science Award Presenter-Principal Harrison</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katharine C. Lumpkin</name>
+        <role>Monster Bride</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kent Wagner</name>
+        <role>Dead Pirate</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/7zOEfg5uSZSjE8uzOYqRG1htqtY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marsha Shackelford</name>
+        <role>Cyborg</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Barry W. Jerald Jr.</name>
+        <role>Alien</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mary Tricia Froedge</name>
+        <role>Mummy</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Hunt</name>
+        <role>Mummy</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Skyler</name>
+        <role>Mummy</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grace Toso</name>
+        <role>Mummy</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Calvin Wickham</name>
+        <role>Mummy</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor Williams</name>
+        <role>Mummy</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Iyani Gwendolyn</name>
+        <role>Day of the Dead Lady</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cheniqua Litchmore</name>
+        <role>Day of the Dead Lady</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hali J. Ross</name>
+        <role>Day of the Dead Lady</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Marri</name>
+        <role>Goblin</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cody Jenkins</name>
+        <role>Goblin</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sherri Millican</name>
+        <role>Banshee</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Millican</name>
+        <role>Red Haired Ghoul</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph N. Hardin</name>
+        <role>Vampire</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex T. Hill</name>
+        <role>Scarecrow</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Bladon</name>
+        <role>Royal Mummy</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mick Wingert</name>
+        <role>Slappy (voice)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/xMT6toE5LU4NwTSb5rfeATQEE77.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Black</name>
+        <role>R. L. Stine (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Braylon Andrews</name>
+        <role>Club Goer / Highschool Student (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kaitlyn Bishop</name>
+        <role>Middle School Student (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jasmine Bolton</name>
+        <role>Middle School Kid (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/7ShIXAWkL90f8lrPpQug22CgVMJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raphael Dante&apos; Carr Jr.</name>
+        <role>Trick or Treater (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darin De Paul</name>
+        <role>Terry / Angry Pumpkin (voice) (uncredited)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/vGzewVsLWtXyEU7X3iNdjWEd6y9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suehyla El-Attar</name>
+        <role>Teacher in Hole (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/d7vKO2lk8ojTaleeLU8yjhpFGFb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gavrielle Anne Fontanilla</name>
+        <role>Trick or Treater (uncredited)</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/oDfPYSkoc4iaZLKiAhSGxKSkqWg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natsuki Hirota</name>
+        <role>Party Goer (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lacy Hudson</name>
+        <role>Trick-or-Treater (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Catherine Jerald</name>
+        <role>Monster (uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/ofA9VjDxk9EorFDsYFAFNCLXQmf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sawyer D. Jones</name>
+        <role>Trick-or-Treater (uncredited)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ewvtkottv2lwen5P1hchEmoIyj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Serene Lee-Sng</name>
+        <role>School Teacher (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natalya MacDonald-Risner</name>
+        <role>Cowgirl Trick-or-Treater (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gracie Marcellus</name>
+        <role>Middle Schooler (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/6hvWOtg5ls9wdtj6huRnWe8da7k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaun McMillan</name>
+        <role>Middle School Principal (uncredited)</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/yzclgaMAoAY9oGcHWmKEt9cwfl0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben O&apos;Brien</name>
+        <role>(uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 08:05:13</dateadded>
+</movie>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El buen amigo gigante</title>
+    <originaltitle>The BFG</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>76209</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>2421</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Sophie, una pequeña niña que vive en un orfanato, se encuentra con un gigante amigable quien, a pesar de tener una apariencia intimidante, resulta ser tierno y amable, pero su problema es que no es aceptado por el resto de los gigantes, ya que se rehúsa a comer niños.</plot>
+    <tagline>El mundo es más grande de lo que puedes imaginar.</tagline>
+    <runtime>117</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sglHfkazJxsIWHPlHrzb60mULLI.jpg">https://image.tmdb.org/t/p/original/sglHfkazJxsIWHPlHrzb60mULLI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8r35yW59Vz7ONOz9hQRQcUfwYGX.jpg">https://image.tmdb.org/t/p/original/8r35yW59Vz7ONOz9hQRQcUfwYGX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4zawxGJIH43DcoGG9Ui0WoIcrQC.jpg">https://image.tmdb.org/t/p/original/4zawxGJIH43DcoGG9Ui0WoIcrQC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uBO5cofZbPt7OSUCdESxmMh01to.jpg">https://image.tmdb.org/t/p/original/uBO5cofZbPt7OSUCdESxmMh01to.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ny2mbM6krh6C63TiV8e33eF3Gcd.jpg">https://image.tmdb.org/t/p/original/ny2mbM6krh6C63TiV8e33eF3Gcd.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg">https://image.tmdb.org/t/p/original/tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fK6WqZlv3gHA1Lp9pqvIqlKNWkt.jpg">https://image.tmdb.org/t/p/original/fK6WqZlv3gHA1Lp9pqvIqlKNWkt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1PxYJhsL6ZTWekXSd2nGSEOIrTO.jpg">https://image.tmdb.org/t/p/original/1PxYJhsL6ZTWekXSd2nGSEOIrTO.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3691740</id>
+    <uniqueid type="imdb" default="true">tt3691740</uniqueid>
+    <uniqueid type="tmdb">267935</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Familia</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <credits>Melissa Mathison</credits>
+    <director>Steven Spielberg</director>
+    <premiered>2016-06-01</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Walt Disney Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y3cszA2z3qA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>7026</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ruby Barnhill</name>
+        <role>Sophie</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/d8LDhalriew8t5tOKNg73hsa2UJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Rylance</name>
+        <role>The BFG</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/gpnwdLoAbhAKwXQzJ04ga7UeJhs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Hall</name>
+        <role>Mary</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/cVZaQrUY7F5khCBYdKDlEppHnQi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jemaine Clement</name>
+        <role>Fleshlumpeater</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Hader</name>
+        <role>Bloodbottler</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8LiP5wHNq3QpwoARquhkGcPSgjM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penelope Wilton</name>
+        <role>The Queen</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/7sXOk96XiaeqI5ARr8tnBQHQGCf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marilyn Norry</name>
+        <role>Matron</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/geSDvvFEqdEyJT8djVmwJNo6bjq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Shields</name>
+        <role>General #1</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/5nob0kb7labA1LDHHD3kSvotaAG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Frewer</name>
+        <role>General #2</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/5yQeoDfwsSOnO8H2g8UjPLg6buG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geoffrey Wade</name>
+        <role>General #3</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rafe Spall</name>
+        <role>Mr. Tibbs</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haig Sutherland</name>
+        <role>Danish Father</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/o6wu1HoDk1xnqPHZorW7OmERhnj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Emmet Tracy</name>
+        <role>Footman #1</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/tJUSztVpizjsXLpqvEVwSq91isp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Godley</name>
+        <role>Manhugger / Lout #1</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/xOM0zOb2KZ2q8M6lRrDo9bEBeJE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Bacon</name>
+        <role>Bonecruncher / Lout #2</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/jLZf3A03e6kYeNL04kkWqOGfhLh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Moniz de Sa</name>
+        <role>Meatdripper / Lout #3</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/zBpvfgFPswSxiBfQ2smtcjaweTg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ólafur Darri Ólafsson</name>
+        <role>Maidmasher / Cook</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/qNs7mUyqWFRocJ4X22Zy1fAhL4x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Adamthwaite</name>
+        <role>Butcher Boy / Danish Driver</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/zp4yxJOWk9wrX929gJDU7a8FBmD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabrielle Rose</name>
+        <role>Cook</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/obWfgaR4YBk648USvpLrJC64DVU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucia Ryan</name>
+        <role>Orphan Girl #1 / Sophie Understudy</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Torrance</name>
+        <role>Orphan Girl #2</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Graham Curry</name>
+        <role>Palace Guardsman</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Holmes</name>
+        <role>Childchewer / Pub Landlord</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/giErOv0CzwiNfW8YKwiiDKA7cma.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Gibbs</name>
+        <role>Gizzardgulper / Late Night Walker</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/xELcByhsytE0b6pAXGvrEAhSc17.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Callum Seagram Airlie</name>
+        <role>Danish Boy</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/i9kzWXWld03UOJSNM04TZDbr8iO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shauna Hansen</name>
+        <role>Danish Boy&apos;s Mother</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/2B8SMB3pITNPOXej6mYyQXqXIoD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Denise Jones</name>
+        <role>Danish Driver&apos;s Wife</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Samples</name>
+        <role>Palace Staff #2 (aka Footman)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/8KgitCzelxYDaP8y7XCea87eB4x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Thompson</name>
+        <role>Palace Staff #3 (aka Footman)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/wVhHq48NsFwKk4eeXbGtu6A41f0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Barnhill</name>
+        <role>Palace Staff #4 (aka Footman</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/gw594eJ6IbpCe7AIKuUHrA7i0wL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gintare Beinoraviciute</name>
+        <role>Bus Passenger</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/ucqzg2TRwwr5p8D8aktYQjGmSLT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerardo Barcala</name>
+        <role>English Palace Livery Footman</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Simona Hughes</name>
+        <role>Householder</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 13:41:21</dateadded>
+</movie>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La serpiente a la sombra del águila</title>
+    <originaltitle>蛇形刁手</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>10492</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.300000</value>
+            <votes>185</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un anciano profesor de artes marciales conserva la tradición de la lucha de la cobra, y consigue formar un discípulo que además, observando la lucha entre una cobra y un gato, incorporará el estilo garra de gato.</plot>
+    <tagline></tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rHRIajKl7NPnoFVpbO1xaCJRnnh.jpg">https://image.tmdb.org/t/p/original/rHRIajKl7NPnoFVpbO1xaCJRnnh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/betMGUqsNqUScIbWT3rZzBjNWwj.jpg">https://image.tmdb.org/t/p/original/betMGUqsNqUScIbWT3rZzBjNWwj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5hEsqxJ6zsM02DixlhVANQlYwB6.jpg">https://image.tmdb.org/t/p/original/5hEsqxJ6zsM02DixlhVANQlYwB6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dKQfokUzHE40rq7SLBPhTDFDRZK.jpg">https://image.tmdb.org/t/p/original/dKQfokUzHE40rq7SLBPhTDFDRZK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mZq3IreWQQgjwIpMj8AUBAkAUH0.jpg">https://image.tmdb.org/t/p/original/mZq3IreWQQgjwIpMj8AUBAkAUH0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dzWDeUTOfJARLvHb0KERao8TclX.jpg">https://image.tmdb.org/t/p/original/dzWDeUTOfJARLvHb0KERao8TclX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aRLvVZy8FkWiY4MTNJ5gq0qGAT6.jpg">https://image.tmdb.org/t/p/original/aRLvVZy8FkWiY4MTNJ5gq0qGAT6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/znlGpn2tYIByo9upC27gnNWSM6j.jpg">https://image.tmdb.org/t/p/original/znlGpn2tYIByo9upC27gnNWSM6j.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kyWBkI94uT3pmAdbdqdSQ96Qxt9.jpg">https://image.tmdb.org/t/p/original/kyWBkI94uT3pmAdbdqdSQ96Qxt9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kTnq1qcqr3l5StRJ5XexCNtr1SO.jpg">https://image.tmdb.org/t/p/original/kTnq1qcqr3l5StRJ5XexCNtr1SO.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/l4AQWbf41kb13gaXRx1pYHMVjTl.jpg">https://image.tmdb.org/t/p/original/l4AQWbf41kb13gaXRx1pYHMVjTl.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0078252</id>
+    <uniqueid type="imdb" default="true">tt0078252</uniqueid>
+    <uniqueid type="tmdb">11537</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <country>Hong Kong</country>
+    <credits>Yuen Woo-ping</credits>
+    <credits>Ng See-Yuen</credits>
+    <credits>Chi Yuan Hsi</credits>
+    <credits>Huo An Hsi</credits>
+    <credits>Clifford Choi Gai-Gwong</credits>
+    <credits>Siao Lung</credits>
+    <director>Yuen Woo-ping</director>
+    <premiered>1978-03-01</premiered>
+    <year>1978</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Seasonal Film Corporation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3N4yqM70-zk</trailer>
+    <actor>
+        <name>Jackie Chan</name>
+        <role>Chien Fu</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuen Siu-Tien</name>
+        <role>Beggar, Pai Chang Tien</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/lGd4ZuaXzHUbLENA2e1NQboworG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hwang Jang-Lee</name>
+        <role>Master Shang Kuan Yin</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ksSt9P765Py3wVOGvkT4n1GN8Ba.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Shek</name>
+        <role>Teacher Li</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/zFckxqvmGjjb6lYlYaNfy5ahWTJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roy Horan</name>
+        <role>Priest</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fung Hak-On</name>
+        <role>Master Chao Chi-Chih</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charlie Chan Yiu-Lam</name>
+        <role>Master Hung</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tino Wong Cheung</name>
+        <role>Three Provinces Champ</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/d6z2HPsLNi5LwR1U5bsl5sKR00w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Chan Lung</name>
+        <role>Teacher Lian</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/VQRxO73m8sfl4ckcOKRQueY0kU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hsu Hsia</name>
+        <role>Su Chen</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5vWxf1UQAoTwyOW89usriVdKoRz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fung Ging-Man</name>
+        <role>Teacher Chui</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chiang Kam</name>
+        <role>Tao Kuei</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 13:16:47</dateadded>
+</movie>

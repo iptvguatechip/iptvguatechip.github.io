@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Victor Frankenstein</title>
+    <originaltitle>Victor Frankenstein</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>51652</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>1478</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Desde la perspectiva de Igor, vemos los oscuros orígenes del joven asistente, su amistad redentora con el joven estudiante de medicina Viktor Von Frankenstein, y nos convertimos en testigos de la aparición de cómo Frankenstein se convirtió en el hombre - y la leyenda - que conocemos hoy en día.</plot>
+    <tagline>Descubre el origen del monstruo y su creación</tagline>
+    <runtime>109</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg">https://image.tmdb.org/t/p/original/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/20HjY4vlGqVjXoyap7N6TJYJTCB.jpg">https://image.tmdb.org/t/p/original/20HjY4vlGqVjXoyap7N6TJYJTCB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1spNsnJ9UTqShChGd2ei1gKTacr.jpg">https://image.tmdb.org/t/p/original/1spNsnJ9UTqShChGd2ei1gKTacr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/24sfqzZTi8A2cXvbGhFcf5QoHvK.jpg">https://image.tmdb.org/t/p/original/24sfqzZTi8A2cXvbGhFcf5QoHvK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bYUmSLPtWylFKbEBHOXT1kt9l5b.jpg">https://image.tmdb.org/t/p/original/bYUmSLPtWylFKbEBHOXT1kt9l5b.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8kJNwEkHIg4NePpFbYFwR8NC4UM.jpg">https://image.tmdb.org/t/p/original/8kJNwEkHIg4NePpFbYFwR8NC4UM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/f6uydDk9lUSdkmnSOnajavX7bVQ.jpg">https://image.tmdb.org/t/p/original/f6uydDk9lUSdkmnSOnajavX7bVQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8rcFFf2Sr3NEWqc0dD9cQAxAbYb.jpg">https://image.tmdb.org/t/p/original/8rcFFf2Sr3NEWqc0dD9cQAxAbYb.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1976009</id>
+    <uniqueid type="imdb" default="true">tt1976009</uniqueid>
+    <uniqueid type="tmdb">228066</uniqueid>
+    <genre>Drama</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United Kingdom</country>
+    <credits>Max Landis</credits>
+    <director>Paul McGuigan</director>
+    <premiered>2015-11-10</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Davis Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FBu6QtbTau4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>6589</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>James McAvoy</name>
+        <role>Victor Von Frankenstein</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/vB6qYlFXgONGVwwxWXE4gf0F8SQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Radcliffe</name>
+        <role>Igor</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/k5ROulKM24IJtv0jcRj1berhd8I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Brown Findlay</name>
+        <role>Lorelei</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xrvuOGSkS0ufxQohk2DhUV57QmE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Scott</name>
+        <role>Roderick Turpin</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/8qyt6HheUQvLwargYvs5EcsceGz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Dance</name>
+        <role>Frankenstein</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nENJ1857GJWdRY7JGhyiROoI2rN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louise Brealey</name>
+        <role>Sexy Society Girl</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/c7K2WWGZVA4tKWT0gBcPoLwmz3C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Gatiss</name>
+        <role>Dettweiler</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gArcjHkpBIYcM5coW19rzULsFhB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Freddie Fox</name>
+        <role>Finnegan</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/7ZlFtKmlEea0997qT4UWMOwmy3N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bronson Webb</name>
+        <role>Rafferty</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/foMvmr6ch16GGM1L413KA9UQKIO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Callum Turner</name>
+        <role>Alistair</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/s0QRTZUN2chqHLQdCtKP22CvCsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Mays</name>
+        <role>Barnaby</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spencer Wilding</name>
+        <role>Nathaniel / Prometheus 2</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/uF8steIdtweWGf4IvoXWhrafIk6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guillaume Delaunay</name>
+        <role>Prometheus 1</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Valene Kane</name>
+        <role>Mrs. Winthrop</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qO978VX2GqT81tkapFoyPBs1r6U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alistair Petrie</name>
+        <role>Chief Inspector</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rCGlytQY6cpDj3px2acSxlX24Il.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Schiller</name>
+        <role>Dr. Clive</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/hzaZSk4J0C78bU3zlqLjCruNGBQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Di Botcher</name>
+        <role>Older Nun</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/9XjytRm7nzzMhNR1koRjZ3YtW8i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert J. Fraser</name>
+        <role>Livery Man (uncredited)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 20:08:54</dateadded>
+</movie>

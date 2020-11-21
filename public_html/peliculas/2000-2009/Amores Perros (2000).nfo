@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Amores Perros</title>
+    <originaltitle>Amores perros</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.100000</value>
+            <votes>220843</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.600000</value>
+            <votes>1476</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En Ciudad de México, un fatal accidente automovilístico afecta trágicamente a tres personas. Octavio, un adolescente, decide escaparse con Susana, la esposa de su hermano; el Cofí, su perro, se convierte en el instrumento para conseguir el dinero necesario para la fuga. Al mismo tiempo, Daniel, un hombre maduro deja a su esposa y a sus hijos para irse a vivir con Valeria, una hermosa modelo. El mismo día en que celebran su nueva vida, el destino hace que Valeria sea víctima de un trágico accidente</plot>
+    <tagline>Love. Betrayal. Death.</tagline>
+    <runtime>154</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uoObXx53SjSLLtAavMSIe02zizs.jpg">https://image.tmdb.org/t/p/original/uoObXx53SjSLLtAavMSIe02zizs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bVK4CPluBY9LFkzCAwhG5Fs04HE.jpg">https://image.tmdb.org/t/p/original/bVK4CPluBY9LFkzCAwhG5Fs04HE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n3QrQvLM7lZ9AGExvG89OREkCXW.jpg">https://image.tmdb.org/t/p/original/n3QrQvLM7lZ9AGExvG89OREkCXW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oHI1rpKfou94r05G24SbS9zn6mi.jpg">https://image.tmdb.org/t/p/original/oHI1rpKfou94r05G24SbS9zn6mi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7djMbf8jtYGoJxq6ANK7t3wn6K7.jpg">https://image.tmdb.org/t/p/original/7djMbf8jtYGoJxq6ANK7t3wn6K7.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg">https://image.tmdb.org/t/p/original/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/k5o8gaxUtz1QOtpRgaxcyfiEfbM.jpg">https://image.tmdb.org/t/p/original/k5o8gaxUtz1QOtpRgaxcyfiEfbM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3YzVtvNERQOIJXnrcWv3xhj5EMT.jpg">https://image.tmdb.org/t/p/original/3YzVtvNERQOIJXnrcWv3xhj5EMT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eOjRuLQ7ChUNKeKyCZV5j94MkPQ.jpg">https://image.tmdb.org/t/p/original/eOjRuLQ7ChUNKeKyCZV5j94MkPQ.jpg</thumb>
+    </fanart>
+    <mpaa>Rated C</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0245712</id>
+    <uniqueid type="imdb" default="true">tt0245712</uniqueid>
+    <uniqueid type="tmdb">55</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>Mexico</country>
+    <credits>Guillermo Arriaga</credits>
+    <director>Alejandro González Iñárritu</director>
+    <premiered>2000-06-16</premiered>
+    <year>2000</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Altavista Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XToRtfQbeHg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>9249</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Gael García Bernal</name>
+        <role>Octavio</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6rTzWV80Z8AZbF6o3io1sYVOGhI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Bauche</name>
+        <role>Susana</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1WQaHygZ1AsRxDBcPmxL0fSLNri.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Goya Toledo</name>
+        <role>Valeria</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ygZpmXYB1fDSnpeJx1PadEQLgA5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Álvaro Guerrero</name>
+        <role>Daniel</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/fA6I8WQTZXlU9WHwDVGsgNLjbKC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilio Echevarría</name>
+        <role>El Chivo</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/akCnmsqWGgxIGslTFlcEe78uxdr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge Salinas</name>
+        <role>Luis</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/aHJ068a090hteLXtaCf6vfQyqv1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Murray</name>
+        <role>Gustavo</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Humberto Busto</name>
+        <role>Jorge</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/uFFwrUoVjd2jpcx0Wu4CP1xy5fu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerardo Campbell</name>
+        <role>Mauricio</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iRQdFVRSkt3hgXiu1KDr9yu6tdi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosa María Bianchi</name>
+        <role>Tía Luisa</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/sTHKx5UvklFgF3uRqHDFmm3vUzz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dunia Saldívar</name>
+        <role>Mama Susana</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adriana Barraza</name>
+        <role>Mama Octavio</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/1aE7wu22bdgVTa0PMKXbAOSLiZn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Sefami</name>
+        <role>Leonardo</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZMnTk0xHbckmLKgt18eCIUeV0n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lourdes Echevarría</name>
+        <role>Maru</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marco Pérez</name>
+        <role>Ramiro</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laura Almela</name>
+        <role>Julieta</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gustavo Sánchez Parra</name>
+        <role>Jarocho</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/ymg31PTbKfOxE7jV4QSgtCZKPbg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dagoberto Gama</name>
+        <role>Alvaro</role>
+        <order>17</order>
+        <thumb>https://www.thetvdb.com/banners/actors/564665.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Ostap</name>
+        <role>El jaibo</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patricio Castillo</name>
+        <role>Doctor</role>
+        <order>19</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BYjkwNWUzZTMtYmI0Ni00MDY3LTg4OTEtMjJmMWE5ZDgyOTQzXkEyXkFqcGdeQXVyMTk4MDgwNA@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto Medina</name>
+        <role>Conductor de T.V.</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/lRJQrbL02GuH9JPoerx9kFuE4Sv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Samperio</name>
+        <role>Hombre deshuesadero</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mauricio Martínez</name>
+        <role>Judicial</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ricardo Dalmacci</name>
+        <role>Andrés Salgado</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gustavo Muñoz</name>
+        <role>El Chispas</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-21 09:47:27</dateadded>
+</movie>

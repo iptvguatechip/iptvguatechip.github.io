@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Venga el domingo</title>
+    <originaltitle>Come Sunday</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>1922</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>39</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El evangelista Carlton Pearson es condenado al ostracismo por su iglesia por predicar esto no hay Infierno.</plot>
+    <tagline>Believer. Preacher. Heretic.</tagline>
+    <runtime>105</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ubMFT42itwYEPhyU9xwsvq8eIhC.jpg">https://image.tmdb.org/t/p/original/ubMFT42itwYEPhyU9xwsvq8eIhC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cz6i5cm5kYGSXgVXqDU0nFEPnwV.jpg">https://image.tmdb.org/t/p/original/cz6i5cm5kYGSXgVXqDU0nFEPnwV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gxNhSzLfWXmInaidgSp57ww5WoG.jpg">https://image.tmdb.org/t/p/original/gxNhSzLfWXmInaidgSp57ww5WoG.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vIZrKlcDYZTfYcp60H0YwW2MISV.jpg">https://image.tmdb.org/t/p/original/vIZrKlcDYZTfYcp60H0YwW2MISV.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1690967</id>
+    <uniqueid type="imdb" default="true">tt1690967</uniqueid>
+    <uniqueid type="tmdb">430446</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Marcus Hinchey</credits>
+    <director>Joshua Marston</director>
+    <premiered>2018-01-21</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Endgame Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pVQFWvm_fbU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6326</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Chiwetel Ejiofor</name>
+        <role>Carlton Pearson</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Sheen</name>
+        <role>Oral Roberts</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Glover</name>
+        <role>Gilbert Pearson</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Condola Rashad</name>
+        <role>Gina Pearson</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tRG8AEfQczExg4cjLMfMdWKxUaq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Segel</name>
+        <role>Henry</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lcAoILbiybmS6ftQCaD9h9O626u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lakeith Stanfield</name>
+        <role>Reggie</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5AykKpsH8DMxIm144ET7fVVTQfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joni Bovill</name>
+        <role>Yvette Flunder</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tracey Bonner</name>
+        <role>Kiesha</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Selena Anduze</name>
+        <role>Claire</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/15m6yIUm9NxFIwkVLR92Thri7nf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tonea Stewart</name>
+        <role>Lillie Ruth Pearson</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/wWmYTgwq6Llqhy4IoLC6FCUFQlq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Masset</name>
+        <role>John Heines</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/vMJACG1phniCBDjIX3rqtQEDVD1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ric Reitz</name>
+        <role>Richard Roberts</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/PILYr8ZQsCop1Yz5UQ1FOeh2h5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roxzane T. Mims</name>
+        <role>Minnie</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/iPtTY8hpCm5FLcMFi062HHj59OO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Lutz</name>
+        <role>Pat Robertson</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/5rBEuRt4bi4Cvad8cwCo8CXuV4w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Cotter</name>
+        <role>John Felton</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dustin Lewis</name>
+        <role>Ron</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stacey Sargeant</name>
+        <role>Nicky Brown</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clark Harris</name>
+        <role>Ben Sands</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nic Starr</name>
+        <role>Terry Allen</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Trayce Malachi</name>
+        <role>Julian Peterson</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/ic6ryDH7tNQXkgkdlCwURZcxMCK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason E. Brooks</name>
+        <role>Kevin</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beverly Bowens</name>
+        <role>Jenelle</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cecil M. Henry</name>
+        <role>Bishop</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>A.J. Johnson</name>
+        <role>Lady Bishop</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/y8c4fHbscVdGFWgr92fS71InB3Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Kayode-Patrick Johnson</name>
+        <role>Young Bishop</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 07:47:59</dateadded>
+</movie>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>100 días de soledad</title>
+    <originaltitle>100 días de soledad</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>291</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>10</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>José Díaz se recluye en su cabaña en el Parque Natural de Redes (Asturias) durante un largo periodo de cien días, siendo autosuficiente y desconectándose absolutamente del mundo real y sus avances. No tiene electricidad, ni móvil, ni televisión, ni ordenador, ni reloj... Sólo el hombre con la naturaleza.</plot>
+    <tagline></tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/Ye8VzQ9XYcDWEJhqoDkUOWRzu2.jpg">https://image.tmdb.org/t/p/original/Ye8VzQ9XYcDWEJhqoDkUOWRzu2.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/crAE3Me0SgUyhWHA3yOg2bcQNIp.jpg">https://image.tmdb.org/t/p/original/crAE3Me0SgUyhWHA3yOg2bcQNIp.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8156742</id>
+    <uniqueid type="imdb" default="true">tt8156742</uniqueid>
+    <uniqueid type="tmdb">534110</uniqueid>
+    <genre>Documental</genre>
+    <genre>Drama</genre>
+    <country>Spain</country>
+    <credits>Gerardo Olivares</credits>
+    <credits>José Díaz Martínez</credits>
+    <director>Gerardo Olivares</director>
+    <director>José Díaz Martínez</director>
+    <premiered>2018-07-06</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gbc-hYgUVfA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>5609</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>José Díaz</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:22:29</dateadded>
+</movie>

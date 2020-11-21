@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Dragon Ball: La leyenda de Shen Long</title>
+    <originaltitle>ドラゴンボール 神龍の伝説</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>2230</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>152</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un nuevo relato de los orígenes de Dragon Ball, esta es una versión diferente de la reunión de Goku, Bulma, Oolong y Yamcha. Todos están buscando las esferas del dragón por diferentes razones cuando se cruzan con un rey malvado llamado Gourmeth, que también está buscando las esferas del dragón.</plot>
+    <tagline>Primera Pelicula</tagline>
+    <runtime>50</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8N1nLnRbwErhuIMekAqER0uBuf0.jpg">https://image.tmdb.org/t/p/original/8N1nLnRbwErhuIMekAqER0uBuf0.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6odEQL3yNyBI3GDcUuIujEo639M.jpg">https://image.tmdb.org/t/p/original/6odEQL3yNyBI3GDcUuIujEo639M.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/i5ECrR2zT7GQl0J8WdyGTm9D6d6.jpg">https://image.tmdb.org/t/p/original/i5ECrR2zT7GQl0J8WdyGTm9D6d6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mxDiaqvep05Z9E4nwEzcXDCuAlP.jpg">https://image.tmdb.org/t/p/original/mxDiaqvep05Z9E4nwEzcXDCuAlP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bNyCoSkJ41uEeya5IW9LQLgq064.jpg">https://image.tmdb.org/t/p/original/bNyCoSkJ41uEeya5IW9LQLgq064.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dZCWRFJnwyxYOhzAhf7Xyru4moB.jpg">https://image.tmdb.org/t/p/original/dZCWRFJnwyxYOhzAhf7Xyru4moB.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3ZaiWLU8Z9M4tlY2hv95CTCKMAF.jpg">https://image.tmdb.org/t/p/original/3ZaiWLU8Z9M4tlY2hv95CTCKMAF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8gc00CJuQKNToUJq1cAmTtb4zmc.jpg">https://image.tmdb.org/t/p/original/8gc00CJuQKNToUJq1cAmTtb4zmc.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0142251</id>
+    <uniqueid type="imdb" default="true">tt0142251</uniqueid>
+    <uniqueid type="tmdb">39144</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <genre>Ciencia ficción</genre>
+    <country>Japan</country>
+    <set>
+        <name>Dragon Ball - Colección</name>
+    </set>
+    <credits>Akira Toriyama</credits>
+    <credits>Toshiki Inoue</credits>
+    <credits>Yoshifumi Yûki</credits>
+    <director>Daisuke Nishio</director>
+    <premiered>1986-12-20</premiered>
+    <year>1986</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Bird Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4mNiz5FR6no</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>3014</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>lat</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>jpn</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Masako Nozawa</name>
+        <role>Son Gokû (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiromi Tsuru</name>
+        <role>Buruma (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naoki Tatsuta</name>
+        <role>Ûron (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/iYGYNGRoQv0yRwKhisqfk5ARVTE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naoko Watanabe</name>
+        <role>Pûaru (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9rFZCi66XyZsVEPU1ZlBmScrHBY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tōru Furuya</name>
+        <role>Yamucha (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/eEGny7OZvUEFtB74e33Z19UitPE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kōhei Miyauchi</name>
+        <role>Kame Sen&apos;nin (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ov1UMNf85T4ZFQSAN57KlcuTeDZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mami Koyama</name>
+        <role>Pasuta (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/t5LGiaUxOhqoApmJumZOv0wDnLh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tomiko Suzuki</name>
+        <role>Panji (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/wngJTGZ4I0jiK6RyL1RvLqGIDRv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenji Utsumi</name>
+        <role>Shenlong (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shozo Iizuka</name>
+        <role>Panji no chichi (voice)</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Reiko Suzuki</name>
+        <role>Panji no haha (voice)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daisuke Gouri</name>
+        <role>Umigame (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/g5OeBa8Rww8VNZiJuU7RhZxodwc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryōichi Tanaka</name>
+        <role>Untenshu (voice)</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michitaka Kobayashi</name>
+        <role>Untenshu (voice)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kôji Totani</name>
+        <role>Heishi (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rdZcTXJy59lMQqDIZZt0nW00tgv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masaharu Satō</name>
+        <role>Murabito (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/lSmnhprafAe4RI27AZMzDpQ3Rjz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazumi Tanaka</name>
+        <role>Murabito (voice)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Masato Hirano</name>
+        <role>Murabito (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/bdfnMwZUKBKsdqKferD7P7LoglG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jōji Yanami</name>
+        <role>Narrator (voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/eO3PiUqjdzmAasku8QMv2eR45Lo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gorō Naya</name>
+        <role>Bongo (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/v5R3cjPEVeLRPWlZPziYP8ooV5w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shûichirô Moriyama</name>
+        <role>Gurumesu (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/8p1YNl2vaBoWGXE1R6DWfZ1eNo0.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:35</dateadded>
+</movie>

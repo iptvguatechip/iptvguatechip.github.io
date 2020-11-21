@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Modern Life Is Rubbish</title>
+    <originaltitle>Modern Life Is Rubbish</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>818</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>41</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Unidos por su amor a la música, la relación de 10 años de Liam y Natalie llega a un punto de inflexión. Deciden separarse, pero a la hora de repartirse los discos, la banda sonora de sus vidas les vuelve a unir.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iyrfnxxynxyeaVrsdTvbX38fFaa.jpg">https://image.tmdb.org/t/p/original/iyrfnxxynxyeaVrsdTvbX38fFaa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r4RRYRUu4XhryMdYNzfdvjwIRJW.jpg">https://image.tmdb.org/t/p/original/r4RRYRUu4XhryMdYNzfdvjwIRJW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rEyvWU0TSEHAT0IgS27lXkQZONe.jpg">https://image.tmdb.org/t/p/original/rEyvWU0TSEHAT0IgS27lXkQZONe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1g5iImu1PSlPnxgHAzhW6GQMaOw.jpg">https://image.tmdb.org/t/p/original/1g5iImu1PSlPnxgHAzhW6GQMaOw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n4joECdL9wKvJRO8eENN7l56Key.jpg">https://image.tmdb.org/t/p/original/n4joECdL9wKvJRO8eENN7l56Key.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ekoeLcG4cCfnCikUnBaOs8q6wAv.jpg">https://image.tmdb.org/t/p/original/ekoeLcG4cCfnCikUnBaOs8q6wAv.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e1MSX0LPQm0UINnKg4Wl9nXwhg4.jpg">https://image.tmdb.org/t/p/original/e1MSX0LPQm0UINnKg4Wl9nXwhg4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tO7BKu1x7HShez8fJWp2gftl0fz.jpg">https://image.tmdb.org/t/p/original/tO7BKu1x7HShez8fJWp2gftl0fz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7RiPzVl4tnz2Tk70nLHUeeB9qLK.jpg">https://image.tmdb.org/t/p/original/7RiPzVl4tnz2Tk70nLHUeeB9qLK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rf92BlHgBD3XGtKHpGEO14NyQhw.jpg">https://image.tmdb.org/t/p/original/rf92BlHgBD3XGtKHpGEO14NyQhw.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2385752</id>
+    <uniqueid type="imdb" default="true">tt2385752</uniqueid>
+    <uniqueid type="tmdb">412003</uniqueid>
+    <genre>Romance</genre>
+    <genre>Música</genre>
+    <country>United Kingdom</country>
+    <director>Daniel Gill</director>
+    <premiered>2017-06-22</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Serotonin Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7W5R2f6UO0k</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>319.000000</aspect>
+                <width>1914</width>
+                <height>1032</height>
+                <durationinseconds>6232</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Freya Mavor</name>
+        <role>Natalie</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/1YK67UVVUrUgmnfsWhF3Y1GgN6c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Whitehouse</name>
+        <role>Liam</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fshtlXkovFcKh54Uf9moadtm0jr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Hart</name>
+        <role></role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Riley</name>
+        <role>Adrian</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessie Cave</name>
+        <role>Kerry</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Will Merrick</name>
+        <role>Olly</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/Al2mGwKBUX5FoUshdI2rVls71uu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Mackintosh</name>
+        <role>Lenny</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vDA4mmVe0XMnqd6qMyGWI8bUEeC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sorcha Cusack</name>
+        <role>Mary</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/fx1pP6u555MJ5qCOt80OHmHROVY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Milne</name>
+        <role>Gus</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daisy Bevan</name>
+        <role>Layla</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/yMZrlOPLxwqNl666zdiKYxR5CBq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Matthewson</name>
+        <role>Ben</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/f34Fhxq5km18ethb3vQzDV1DHFC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lily-Rose Aslandogdu</name>
+        <role>Sally Jones</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emma Bryant</name>
+        <role>Emma</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/dfxmulN8qcydNG19Pm9eh6DcupR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darren Higham</name>
+        <role>Solomon</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:44</dateadded>
+</movie>

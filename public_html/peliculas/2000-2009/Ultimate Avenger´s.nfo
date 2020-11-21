@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Los Últimos Vengadores</title>
+    <originaltitle>Ultimate Avengers: The Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>11854</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>227</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando un misil nuclear se disparó a Washington en 1945, Captain America logró hacerlo detonar en la atmósfera superior. Pero entonces se cayó millas en las profundidades heladas del Atlántico del Norte, donde permaneció perdido durante más de sesenta años. Pero ahora, con el mundo que está enfrente del mismo mal, Captain America se debe levantar otra vez como nuestra última esperanza de la supervivencia.</plot>
+    <tagline></tagline>
+    <runtime>72</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bOXJmKCHKtqJILiJ5womPDigEoc.jpg">https://image.tmdb.org/t/p/original/bOXJmKCHKtqJILiJ5womPDigEoc.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/9DA9dxRE0fRlpl4amBmLCjQdZay.jpg">https://image.tmdb.org/t/p/original/9DA9dxRE0fRlpl4amBmLCjQdZay.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iMCkGHVrYRdqKROPRPmVaJVSlg3.jpg">https://image.tmdb.org/t/p/original/iMCkGHVrYRdqKROPRPmVaJVSlg3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vd7GyPkDvDDfvcxgWAfkGpKiAkH.jpg">https://image.tmdb.org/t/p/original/vd7GyPkDvDDfvcxgWAfkGpKiAkH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9zJILsQeg49QGMO8hwV65GHfdI8.jpg">https://image.tmdb.org/t/p/original/9zJILsQeg49QGMO8hwV65GHfdI8.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/p5uTZHrXwWX0j9dYZK8yx22sO7T.jpg">https://image.tmdb.org/t/p/original/p5uTZHrXwWX0j9dYZK8yx22sO7T.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0491703</id>
+    <uniqueid type="imdb" default="true">tt0491703</uniqueid>
+    <uniqueid type="tmdb">14609</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Ultimate Avengers - Colección</name>
+        <overview>When a nuclear missile was fired at Washington in 1945, Captain America managed to detonate it in the upper atmosphere. But then he fell miles into the icy depths of the North Atlantic, where he remained lost for over sixty years. But now, with the world facing the very same evil, Captain America must rise again as our last hope for survival.</overview>
+    </set>
+    <credits>Greg Johnson</credits>
+    <director>Curt Geda</director>
+    <director>Steven E. Gordon</director>
+    <director>Bob Richardson</director>
+    <premiered>2006-02-21</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Marvel Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IQ9QjHVaurM</trailer>
+    <actor>
+        <name>Justin Gross</name>
+        <role>Captain America</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grey DeLisle</name>
+        <role>The Wasp</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/oOEZHnPBW8K86xUp3vqosexfgyP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Massee</name>
+        <role>Bruce Banner</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/swlvVVcDhaJztxr3fgB04YGoX6I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Olivia d&apos;Abo</name>
+        <role>Black Widow</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc Worden</name>
+        <role>Iron Man</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/d91IoBbnS5HX2I8lzGosvc39PgS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nan McNamara</name>
+        <role>Dr. Betty Ross</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nolan North</name>
+        <role>Giant Man</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andre Ware</name>
+        <role>Nick Fury</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Boat</name>
+        <role>Thor</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fred Tatasciore</name>
+        <role>The Hulk</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/busoEz4khUJ0hOoKHexjXwGrsit.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 18:33:40</dateadded>
+</movie>

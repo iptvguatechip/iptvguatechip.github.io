@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Newness</title>
+    <originaltitle>Newness</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>13278</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>388</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En Los Angeles, dos millenials empiezan una relación que pondrá a prueba sus límites emocionales y físicos, ya que la tentación de ligar por internet no es fácil de resistir.</plot>
+    <tagline></tagline>
+    <runtime>117</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j6P9ErPK3PgX56nZukGGgTvSaUC.jpg">https://image.tmdb.org/t/p/original/j6P9ErPK3PgX56nZukGGgTvSaUC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iIYM07Egdt3a4JSqnjdhDZcz0dn.jpg">https://image.tmdb.org/t/p/original/iIYM07Egdt3a4JSqnjdhDZcz0dn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rKi7JsLfc1W8blLDvXPj1ItNhmz.jpg">https://image.tmdb.org/t/p/original/rKi7JsLfc1W8blLDvXPj1ItNhmz.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fvFrMDT1aKd1bap493IT2KqTLC7.jpg">https://image.tmdb.org/t/p/original/fvFrMDT1aKd1bap493IT2KqTLC7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tOBQsIikE6HyJ3il16TBgGpbmTl.jpg">https://image.tmdb.org/t/p/original/tOBQsIikE6HyJ3il16TBgGpbmTl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/10R9WFtCNmqNNuHZU0BC7G3hhpV.jpg">https://image.tmdb.org/t/p/original/10R9WFtCNmqNNuHZU0BC7G3hhpV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gN72pP8YxwdPPRTxyg7OL4l0EQg.jpg">https://image.tmdb.org/t/p/original/gN72pP8YxwdPPRTxyg7OL4l0EQg.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6408226</id>
+    <uniqueid type="imdb" default="true">tt6408226</uniqueid>
+    <uniqueid type="tmdb">434203</uniqueid>
+    <genre>Romance</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Ben York Jones</credits>
+    <director>Drake Doremus</director>
+    <premiered>2017-11-03</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lost City</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EtBhKTuPjEk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>479.000000</aspect>
+                <width>1916</width>
+                <height>796</height>
+                <durationinseconds>7025</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Nicholas Hoult</name>
+        <role>Martin Hallock</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yFDOsethQcoguEjOJp7JH2sFpI3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laia Costa</name>
+        <role>Gabi Silva</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vzUcJQtmB4sOR6G35ylziNu7JJ5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Huston</name>
+        <role>Larry Bejerano</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney Eaton</name>
+        <role>Blake Beeson</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jmDszxVsDdNf2ZUCqRkWPu5ltv3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Gray Gubler</name>
+        <role>Paul</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/tHjIUjHFjl4Kzc4XQ7JSd1EHYSU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pom Klementieff</name>
+        <role>Bethany</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Henwick</name>
+        <role>Joanne</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Selby</name>
+        <role>Artie Hallock</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/w7OUsn0tXFV3p056704eP7DkrcP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amanda Serra</name>
+        <role>Jeannie Hallock</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Albert Hammond Jr.</name>
+        <role>Roland</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lianna Swearingen</name>
+        <role>Angelica</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elsa Cocquerel</name>
+        <role>Claire</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/pUfoHoXNdnHNtipfTzxNDlDCxBj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Zovatto</name>
+        <role>Oren</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/6B9hny2s7frxtbRqrHqOT7ESB4A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Edelstein</name>
+        <role>Angeleno</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQN5B3T2fepG81NFBD7Y2ODoGKv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kai Lennox</name>
+        <role>Bret Jackson</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/bpwqiHG7FXsUmHyyFlQopQSpJIg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Stokes</name>
+        <role>Robert Cartwright</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/fHG16DkHbVnf9hU4ApOhaXKX9XN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eva Ceja</name>
+        <role>Nicole Cartwright</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maya Stojan</name>
+        <role>Quinn</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/rD5sgPmijZG7FCmsJ0W48FGyW9U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamil Walker Smith</name>
+        <role>Dominic</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/6JFyY8IUHxdndhHbnUgpItNvdvS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nansia Movidi</name>
+        <role>Melissa</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Lees</name>
+        <role>Nathaniel Bizmark</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/y62pNZXBBAHo7HtIHPrLQrNXDjW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucius Baybak</name>
+        <role>Michael</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emily Ruhl</name>
+        <role>Date</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jodie Turner-Smith</name>
+        <role>Statuesque Woman</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/801hOIFSiYfakVDkX0U3vEAHAMt.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 19:04:59</dateadded>
+</movie>

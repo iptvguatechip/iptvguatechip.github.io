@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Interestelar</title>
+    <originaltitle>Interstellar</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.600000</value>
+            <votes>1472591</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.300000</value>
+            <votes>24078</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.</plot>
+    <tagline>La humanidad nació en la Tierra. Nunca estuvo destinada a morir aquí.</tagline>
+    <runtime>169</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d1QKiYtceF3GDtxvTFXFAqwwah9.jpg">https://image.tmdb.org/t/p/original/d1QKiYtceF3GDtxvTFXFAqwwah9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fbUwSqYIP0isCiJXey3staY3DNn.jpg">https://image.tmdb.org/t/p/original/fbUwSqYIP0isCiJXey3staY3DNn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9kmFzQjRdEjSpjVQeGlvmHAzaPw.jpg">https://image.tmdb.org/t/p/original/9kmFzQjRdEjSpjVQeGlvmHAzaPw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg">https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mS4EvhsrT0SQZOlWrQEzWI5KiUa.jpg">https://image.tmdb.org/t/p/original/mS4EvhsrT0SQZOlWrQEzWI5KiUa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/th5UkDLIa7yyma9UYDAWaIgDh6z.jpg">https://image.tmdb.org/t/p/original/th5UkDLIa7yyma9UYDAWaIgDh6z.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bzONet3OeCTz5q9WOkGjVpOHMSR.jpg">https://image.tmdb.org/t/p/original/bzONet3OeCTz5q9WOkGjVpOHMSR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iawqQdFKI7yTUoSkDNP8gyV3J3r.jpg">https://image.tmdb.org/t/p/original/iawqQdFKI7yTUoSkDNP8gyV3J3r.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oVQkW4kJ7P9HZZzMEHWGGRlv5hO.jpg">https://image.tmdb.org/t/p/original/oVQkW4kJ7P9HZZzMEHWGGRlv5hO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/e1pkIN4dPjug8rk75BRVukyIXAn.jpg">https://image.tmdb.org/t/p/original/e1pkIN4dPjug8rk75BRVukyIXAn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AtOL7JqNBGELgBA87gSHNcfzSD.jpg">https://image.tmdb.org/t/p/original/AtOL7JqNBGELgBA87gSHNcfzSD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5qhJeFztZ2N31T7TvG7j6M1sOtj.jpg">https://image.tmdb.org/t/p/original/5qhJeFztZ2N31T7TvG7j6M1sOtj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nrSaXF39nDfAAeLKksRCyvSzI2a.jpg">https://image.tmdb.org/t/p/original/nrSaXF39nDfAAeLKksRCyvSzI2a.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qDSDtonrb6LfVOJXBbpZJNLjr2L.jpg">https://image.tmdb.org/t/p/original/qDSDtonrb6LfVOJXBbpZJNLjr2L.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xdAzr43DN4BNMUomn8kgMsGUc7Y.jpg">https://image.tmdb.org/t/p/original/xdAzr43DN4BNMUomn8kgMsGUc7Y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hDO9K7NLSUHTis7QDeEdH64KEJ2.jpg">https://image.tmdb.org/t/p/original/hDO9K7NLSUHTis7QDeEdH64KEJ2.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xJHokMbljvjADYdit5fK5VQsXEG.jpg">https://image.tmdb.org/t/p/original/xJHokMbljvjADYdit5fK5VQsXEG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg">https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/27IQ08XLxw2Gaj5zoOmJWmq4nNy.jpg">https://image.tmdb.org/t/p/original/27IQ08XLxw2Gaj5zoOmJWmq4nNy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xnAdZe8wg9aeRSxcJksPlGk68cL.jpg">https://image.tmdb.org/t/p/original/xnAdZe8wg9aeRSxcJksPlGk68cL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg">https://image.tmdb.org/t/p/original/pbrkL804c8yAv3zBZR4QPEafpAR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wQxPlS65wgy6Ik7N80bsMpAkjyf.jpg">https://image.tmdb.org/t/p/original/wQxPlS65wgy6Ik7N80bsMpAkjyf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eZm0fWJtVftiqs5kKOOzke8nJIR.jpg">https://image.tmdb.org/t/p/original/eZm0fWJtVftiqs5kKOOzke8nJIR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg">https://image.tmdb.org/t/p/original/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hiU41Xve67Ay3lOwBYTuZSV5ssO.jpg">https://image.tmdb.org/t/p/original/hiU41Xve67Ay3lOwBYTuZSV5ssO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wqBlk1ejN71gzKvlbXYrC1FfdsY.jpg">https://image.tmdb.org/t/p/original/wqBlk1ejN71gzKvlbXYrC1FfdsY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9mmkq59uRuJWDFz9UHeX5ATNJYf.jpg">https://image.tmdb.org/t/p/original/9mmkq59uRuJWDFz9UHeX5ATNJYf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8q9wSh1w7plE7oHliG8Dfzbi5fg.jpg">https://image.tmdb.org/t/p/original/8q9wSh1w7plE7oHliG8Dfzbi5fg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pZvZjxPFfWWIwtPQodsNygQ6u5Z.jpg">https://image.tmdb.org/t/p/original/pZvZjxPFfWWIwtPQodsNygQ6u5Z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1pjMhcDSlWT7hYzxB38wwlp7Wc6.jpg">https://image.tmdb.org/t/p/original/1pjMhcDSlWT7hYzxB38wwlp7Wc6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i2gJQtnkLA2SpU9cRvkbuLOoW1I.jpg">https://image.tmdb.org/t/p/original/i2gJQtnkLA2SpU9cRvkbuLOoW1I.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fVqnP29dhGPt2fKtMv7iJq5vAEw.jpg">https://image.tmdb.org/t/p/original/fVqnP29dhGPt2fKtMv7iJq5vAEw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dA7nf1oYlutAcvlwQe0Lw7B6HnV.jpg">https://image.tmdb.org/t/p/original/dA7nf1oYlutAcvlwQe0Lw7B6HnV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5C3RriLKkIAQtQMx85JLtu4rVI2.jpg">https://image.tmdb.org/t/p/original/5C3RriLKkIAQtQMx85JLtu4rVI2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b3JtLWrdiJFCN8r9zuftgty8ddD.jpg">https://image.tmdb.org/t/p/original/b3JtLWrdiJFCN8r9zuftgty8ddD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pOvgpLgOO84GTqgwFpE5W4OBIBa.jpg">https://image.tmdb.org/t/p/original/pOvgpLgOO84GTqgwFpE5W4OBIBa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/46LvLzMD19tzyoPc7HUf4PPvi62.jpg">https://image.tmdb.org/t/p/original/46LvLzMD19tzyoPc7HUf4PPvi62.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vXMNOMkRhqrtsSZY6nCGCMkRslM.jpg">https://image.tmdb.org/t/p/original/vXMNOMkRhqrtsSZY6nCGCMkRslM.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0816692</id>
+    <uniqueid type="imdb" default="true">tt0816692</uniqueid>
+    <uniqueid type="tmdb">157336</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United Kingdom</country>
+    <credits>Christopher Nolan</credits>
+    <credits>Jonathan Nolan</credits>
+    <director>Christopher Nolan</director>
+    <premiered>2014-11-05</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Legendary Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UoSSbmD9vqc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1280</width>
+                <height>536</height>
+                <durationinseconds>10143</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>lat</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Matthew McConaughey</name>
+        <role>Joseph &quot;Coop&quot; Cooper</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/sY2mwpafcwqyYS1sOySu1MENDse.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Chastain</name>
+        <role>Murphy &quot;Murph&quot; Cooper</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/ArD58MbiD6jpLTcc64ngbB9dKbv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Hathaway</name>
+        <role>Dr. Amelia Brand</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/tLelKoPNiyJCSEtQTz1FGv4TLGc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Caine</name>
+        <role>Professor John Brand</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/klNx4UqkcE9u7P3vsg20AKwgplw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Casey Affleck</name>
+        <role>Tom Cooper</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/hcggAadv5SwdhoAb4yYMoAFYdWK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Foy</name>
+        <role>Young Murph Cooper</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/u6Dt9C6VwWt4kRTGEcr3p2shxgt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothée Chalamet</name>
+        <role>Young Tom Cooper</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8jNFfNmqHVqLHnGnxgu7y8xgRIa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Irwin</name>
+        <role>TARS (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/1WFpZzRfium0G6w7PkaGoEXSWYk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Damon</name>
+        <role>Dr. Mann</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Gyasi</name>
+        <role>Dr. Romilly</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/4TRVaSURuH2t1fWldTt4n008RP5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ellen Burstyn</name>
+        <role>Old Murph Cooper</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/cAR8sU569iSJqLy1PwtcBT1syjJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Lithgow</name>
+        <role>Donald</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wes Bentley</name>
+        <role>Dr. Doyle</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/oDjtxTiEuCdyrcAtlCOEWUjhsaT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Topher Grace</name>
+        <role>Getty</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Oyelowo</name>
+        <role>Principal</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYMhOxFoMVedBL4LlnF27nWp2OE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Devane</name>
+        <role>NASA Board Member</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/7MGLsJXn3URkYeZzqzAcgpYXFum.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Stewart</name>
+        <role>CASE (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/vZm8QSMhDq6GMZgdgV3uIxi44TR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Collette Wolfe</name>
+        <role>Ms. Kelly</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/cNmVXFsRjWI0b35goXfu3y2Azls.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leah Cairns</name>
+        <role>Lois Cooper</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/pdPcPWuPcheSRPwJFmnMI66XTn5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Russ Fega</name>
+        <role>Crew Chief</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/d0W7kq97Ul8Iz5LZIVNDKxSly8M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lena Georgas</name>
+        <role>Nurse Practitioner</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/hdKb1VvkvFgUpFa3moaiBH3bcPy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Hephner</name>
+        <role>Doctor</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/qlIzEnBEuLT9ofE1PCGKKHHGga2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elyes Gabel</name>
+        <role>Administrator</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brooke Smith</name>
+        <role>Nurse</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/bBWxi3qVAC15mzYFE4YgpOjWB5Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liam Dickinson</name>
+        <role>Coop</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francis X. McCarthy</name>
+        <role>Boots</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Borba</name>
+        <role>Smith</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Flora Nolan</name>
+        <role>Girl on Truck</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Patrick Brown</name>
+        <role>NASA Employee (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristian Van der Heyden</name>
+        <role>Scientist (uncredited)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Casimir Dyniewicz</name>
+        <role>NASA Inspector (uncredited)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/mKyQgxWJL1nXgeuGF7glofpH62d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Oliveira</name>
+        <role>Astronaut (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Irving</name>
+        <role>Popcorn Seller (uncredited)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Michael Helisek</name>
+        <role>Construction Boss (uncredited)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Hardy</name>
+        <role>NASA Scientist (uncredited)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Griffen Fraser</name>
+        <role>Boy on Truck</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-02 10:09:06</dateadded>
+</movie>

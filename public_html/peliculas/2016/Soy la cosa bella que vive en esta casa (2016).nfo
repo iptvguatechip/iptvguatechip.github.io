@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Soy la cosa bella que vive en esta casa</title>
+    <originaltitle>I Am the Pretty Thing That Lives in the House</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.500000</value>
+            <votes>12673</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.300000</value>
+            <votes>382</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Lily (Ruth Wilson), una enfermera muy asustadiza, entra a vivir en una casa llena de secretos. Su trabajo es atender a una escritora de novelas de terror muy desmejorada.</plot>
+    <tagline></tagline>
+    <runtime>89</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fcZrsT7JNpHjgkh1rGaqeWefkYk.jpg">https://image.tmdb.org/t/p/original/fcZrsT7JNpHjgkh1rGaqeWefkYk.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vTfQfWUaj4QUJFvtCUHShIxrIuW.jpg">https://image.tmdb.org/t/p/original/vTfQfWUaj4QUJFvtCUHShIxrIuW.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5059406</id>
+    <uniqueid type="imdb" default="true">tt5059406</uniqueid>
+    <uniqueid type="tmdb">407559</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Oz Perkins</credits>
+    <director>Oz Perkins</director>
+    <premiered>2016-09-10</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Eggplant Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NRP-4f_vyrY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5345</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ruth Wilson</name>
+        <role>Lily</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ku1rEYRy1WIqxvcZ6lSQaopBbdV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paula Prentiss</name>
+        <role>Iris Blum</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/h7xNNLdKuEQYBy3UXXGnqd3VsxP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucy Boynton</name>
+        <role>Polly Parsons</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/znBMEv0NmBewhZWHUopmzEIYVyY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Balaban</name>
+        <role>Mr. Waxcap</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/lYwYgrOiPDD9Q4rCPXm1h2Bjmbt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erin Boyes</name>
+        <role>Young Iris</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/xvtkUVuGSK1gFpc39vIWZuXfl0O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Milne</name>
+        <role>Edward Bird</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 13:59:28</dateadded>
+</movie>

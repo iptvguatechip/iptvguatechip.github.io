@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El arte de robar</title>
+    <originaltitle>The Art of the Steal</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>23086</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>366</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El célebre ladrón de arte Crunch Calhoun intenta mantenerse alejado de la vida criminal, pero una oportunidad difícil de rechazar lo lleva a contactar a su antigua banda para dar un último gran golpe.</plot>
+    <tagline>It takes a great artist to pull off the perfect con</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4R6ojBfyO8fj3WszLE9rog5qR4W.jpg">https://image.tmdb.org/t/p/original/4R6ojBfyO8fj3WszLE9rog5qR4W.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2BpctzF4gAYVIanZOof2qNzge4M.jpg">https://image.tmdb.org/t/p/original/2BpctzF4gAYVIanZOof2qNzge4M.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vzAOHT5z3J6xL5UebQPEnjqLpxD.jpg">https://image.tmdb.org/t/p/original/vzAOHT5z3J6xL5UebQPEnjqLpxD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zZ24Ahl1mzMY5ylf4zjA6Hp2Uer.jpg">https://image.tmdb.org/t/p/original/zZ24Ahl1mzMY5ylf4zjA6Hp2Uer.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fg5ZMBnZ5sXZ9QFL85nbXpIHF2y.jpg">https://image.tmdb.org/t/p/original/fg5ZMBnZ5sXZ9QFL85nbXpIHF2y.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2172985</id>
+    <uniqueid type="imdb" default="true">tt2172985</uniqueid>
+    <uniqueid type="tmdb">209247</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Crimen</genre>
+    <country>Canada</country>
+    <credits>Jonathan Sobol</credits>
+    <director>Jonathan Sobol</director>
+    <premiered>2013-09-11</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Sony Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qe0OU2ZibFI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5414</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kurt Russell</name>
+        <role>Crunch Calhoun</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Dillon</name>
+        <role>Nicky Calhoun</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wVoSUexYH79igPgxIXKWRlV2uBk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Baruchel</name>
+        <role>Francie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/hTg6RJMxpxcsYzmdre81TznDATZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Welsh</name>
+        <role>&apos;Uncle&apos; Paddy MacCarthy</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/AvYhww5a8TPmMEHqFsvZpyztV5Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Diamantopoulos</name>
+        <role>Guy de Cornet</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/t1jxWnGMkCTJ8kpvxdHlxNhlBt5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katheryn Winnick</name>
+        <role>Lola</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rwZAopZovcxCsgi22nazgamsPht.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Jones</name>
+        <role>Interpol Agent Bick</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gvvCYf3zBlJhJbVv2l0Ya2eRk5W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terence Stamp</name>
+        <role>Samuel Winter</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/v0htmOknJWTMWmt4DIhZlc0VC7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Devon Bostick</name>
+        <role>Ponch</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/lL0yRbFsSWw8HULM5eZ2EOqFO2G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karyn Dwyer</name>
+        <role>Ginger</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Pingue</name>
+        <role>Carmen</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/cA2OocnwkH9bO1rT6TcH3daB6r4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen McHattie</name>
+        <role>Dirty Ernie</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/zqOwiEDXYM9AKQgHGJGeIp7QkPh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eugene Lipinski</name>
+        <role>Bartkowiak</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/n9SC7Ka8pVcSZnJadTpSFswBNyo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elle Downs</name>
+        <role>Female Border Guard</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/hZvRorNZM47kOq1W8Ll3KBtFFJY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dax Ravina</name>
+        <role>Sunny</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rob de Leeuw</name>
+        <role>Van Der Beer</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/mu8WsXUpMcrvD5DtqTbia50AiSU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Dyson</name>
+        <role>Ranking Officer</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jasmin Geljo</name>
+        <role>Detective Brodowski</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vieslav Krystyan</name>
+        <role>Detective Kumik</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/ur43zLCVyU0XQmF5pGwCKnbKmsi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Lerinman</name>
+        <role>Belly dancer</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/hBO7CdeCM0ouj8NkByjqgxja0jk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan C. Peterson</name>
+        <role>Reverend Herman Headly</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/uyEcK0UVFK4uRVi9na8sKwvrfJY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Camilla Scott</name>
+        <role>Olga Something-Long</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jon Steinberg</name>
+        <role>Stoned Ice cream truck driver</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan Carlos Velis</name>
+        <role>The Construction Worker</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/zIrl9gmXA5pQYcuR4DhWPejH5Su.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Wilmot</name>
+        <role>Detroit Border Guard</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott McCrickard</name>
+        <role>Beefy Man #1</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>K. Trevor Wilson</name>
+        <role>Beefy Guy #2</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Collins</name>
+        <role>Crunch Calhoun&apos;s cellmate</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/ai7hzoOJyJIi5umEdU1tP4PowvK.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 08:13:40</dateadded>
+</movie>

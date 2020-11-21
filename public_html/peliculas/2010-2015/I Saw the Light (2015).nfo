@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>I Saw the Light</title>
+    <originaltitle>I Saw the Light</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>6232</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>117</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Singer and songwriter Hank Williams rises to fame in the 1940s, but alcohol abuse and infidelity take a toll on his career and marriage to fellow musician Audrey Mae Williams.</plot>
+    <tagline>The story of Hank Williams</tagline>
+    <runtime>124</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bmWSCkItpRW2DkSwPKakyr0DNNw.jpg">https://image.tmdb.org/t/p/original/bmWSCkItpRW2DkSwPKakyr0DNNw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4XbU9NEQU1vodzy6LqmRcwDY5Z3.jpg">https://image.tmdb.org/t/p/original/4XbU9NEQU1vodzy6LqmRcwDY5Z3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4v6ZwZpDZpjkBcQMALoQ6MgcPtG.jpg">https://image.tmdb.org/t/p/original/4v6ZwZpDZpjkBcQMALoQ6MgcPtG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/daubERxp0KKpwKQzDkkC3hjOX69.jpg">https://image.tmdb.org/t/p/original/daubERxp0KKpwKQzDkkC3hjOX69.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ySMSjVHM9svuEUSHzzbGG5syNtL.jpg">https://image.tmdb.org/t/p/original/ySMSjVHM9svuEUSHzzbGG5syNtL.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1490785</id>
+    <uniqueid type="imdb" default="true">tt1490785</uniqueid>
+    <uniqueid type="tmdb">297806</uniqueid>
+    <genre>Drama</genre>
+    <genre>Música</genre>
+    <country>United States of America</country>
+    <credits>Marc Abraham</credits>
+    <director>Marc Abraham</director>
+    <premiered>2016-02-05</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Bron Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6H0cA-YxRwM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7443</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tom Hiddleston</name>
+        <role>Hank Williams</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/mclHxMm8aPlCPKptP67257F5GPo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Olsen</name>
+        <role>Audrey Mae Williams</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wIU675y4dofIDVuhaNWPizJNtep.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Krumholtz</name>
+        <role>James Dolan</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6M2kk44Z1DyUhuVGyy2UDbCKZuM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bradley Whitford</name>
+        <role>Fred Rose</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maddie Hasson</name>
+        <role>Billie Jean</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qZ5Lns6i4R9xAzDpTEEUBy36q30.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Pais</name>
+        <role>Dore Schary</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/x9YUvAuOvp4EX0t4hI57cL8unI8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wrenn Schmidt</name>
+        <role>Bobbie Jett</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/4zi3u7pbYWk1HapRlw0Db5t1Lb9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cherry Jones</name>
+        <role>Lillie Williams</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/eAq9waPDjKV9kaKiiCT5x7vR0o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Chrest</name>
+        <role>Oscar Davis</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/Lu2MRQTBAR3eCYG3af3020RRoN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wayne Pére</name>
+        <role>Toby Marshall</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/ppVRC4a061nwAOBerUhg0E9sUDJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James DuMont</name>
+        <role>WB Nowlin</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8DLNFj3a4SJWdtw5daPBQm0qrOO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Talbert</name>
+        <role>Cliff Rogers</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/4OHHVt0BtpfSYcOTbQTejplFEtD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Candice Harrison</name>
+        <role>Roadhouse Patron</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cory Hart</name>
+        <role>Back Pain Doctor</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>NM Garcia</name>
+        <role>Ryman Auditorium / Cow Coliseum Gal</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caroline Hebert</name>
+        <role>Ellie</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/un3ZS9OxeVFmFTCWxyHyz36Ytv8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Lebrun</name>
+        <role>Concert attendant</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Casey Bond</name>
+        <role>Jerry Rivers</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/3KyE5lCtGy87wDL76awMuSpEG94.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Brady</name>
+        <role>Sammy Pruett</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elliott Grey</name>
+        <role>Banker</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/eZjFgbAWvGKesqj74Sj3T3BwyDn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Marie Palmer</name>
+        <role></role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/LYEnyNrJ6mS2tsFKlh7XAVV0iu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Amaya</name>
+        <role></role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Caperton</name>
+        <role>Campbell</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erica Curtis</name>
+        <role></role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jayson Warner Smith</name>
+        <role>Hank Snow</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/ilGnY7Alf1WG5yBi2IHvnlI40At.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bethany Blakey</name>
+        <role>Female passerby</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Denise Gossett</name>
+        <role>Mrs. Jones</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/ySWQ2ZMIiYhODJy3WPcSu46L0xK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Heskey</name>
+        <role>StageHand Supervisor</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Teague</name>
+        <role>Pedestrian</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Skyler Davenport</name>
+        <role>Hospital Nurse / MGM Pedestrian</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Allison Claye</name>
+        <role>Concert goer</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Chulew</name>
+        <role>Performer / Hotel Bar Patron</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/csHJLrC3AHCO7e9ib7N8tgMf00L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Douglas M. Griffin</name>
+        <role>Howard Pill</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/nCq4E6erWLPxC5woxQJu46mqyr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mattie Liptak</name>
+        <role>Charles Carr</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jillian Batherson</name>
+        <role>Bar Woman</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gretchen Koerner</name>
+        <role>Bar Waitress</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/6D7LrZnGCtBoh2i7nXWW3i8KyU5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryan Michael Hall</name>
+        <role>Musician</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Jackson</name>
+        <role>Boyette</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amanda Joy Erickson</name>
+        <role>Patron</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cody Daniel</name>
+        <role>Ronald</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-02 10:06:30</dateadded>
+</movie>

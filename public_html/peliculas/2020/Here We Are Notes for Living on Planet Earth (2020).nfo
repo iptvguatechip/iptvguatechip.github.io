@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Aquí estamos: notas para vivir en el planeta Tierra</title>
+    <originaltitle>Here We Are: Notes for Living on Planet Earth</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>459</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.900000</value>
+            <votes>41</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un niño de siete años descubre las maravillas de nuestro planeta cuando visita una misteriosa exposición en vísperas del Día de la Tierra. Basada en el libro de Oliver Jeffers.</plot>
+    <tagline></tagline>
+    <runtime>36</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uO0j4ORswLf5xgz249V8LKDM5XP.jpg">https://image.tmdb.org/t/p/original/uO0j4ORswLf5xgz249V8LKDM5XP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qHbhZ44I5UJ9JUHRANwtjbwzXnX.jpg">https://image.tmdb.org/t/p/original/qHbhZ44I5UJ9JUHRANwtjbwzXnX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tZWgclntziFRPQg0u0nI2FU4nYg.jpg">https://image.tmdb.org/t/p/original/tZWgclntziFRPQg0u0nI2FU4nYg.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eiPFrqwkcPhTMy0bBuC3EuuaYL9.jpg">https://image.tmdb.org/t/p/original/eiPFrqwkcPhTMy0bBuC3EuuaYL9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4zigtjiVJXmATdSIpit2R3ERzj7.jpg">https://image.tmdb.org/t/p/original/4zigtjiVJXmATdSIpit2R3ERzj7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bb36lUC4UKidMLxcXGJdEGA1jqb.jpg">https://image.tmdb.org/t/p/original/bb36lUC4UKidMLxcXGJdEGA1jqb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/moL9MKyQRQ8Ku4Mjl6dZl8Y6ph8.jpg">https://image.tmdb.org/t/p/original/moL9MKyQRQ8Ku4Mjl6dZl8Y6ph8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qulWYG9FmT2Vtc7wxkGKkAN5yiR.jpg">https://image.tmdb.org/t/p/original/qulWYG9FmT2Vtc7wxkGKkAN5yiR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x5W4EbOOEKkctVDPu4MeSIXL1lm.jpg">https://image.tmdb.org/t/p/original/x5W4EbOOEKkctVDPu4MeSIXL1lm.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt11692010</id>
+    <uniqueid type="imdb" default="true">tt11692010</uniqueid>
+    <uniqueid type="tmdb">664850</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>United Kingdom</country>
+    <credits>Philip Hunt</credits>
+    <credits>Luke Matheny</credits>
+    <director>Philip Hunt</director>
+    <premiered>2020-04-17</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Studio AKA</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2M3Q4-zCTHc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>2164</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>atmos</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>atmos</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Meryl Streep</name>
+        <role>Narrator</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xqL5IJxV0fDeD3OfkS3eWqwJoGV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Tremblay</name>
+        <role>Finn (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ngQAfH1GuKhnMSOQNm9zo7aWiqO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris O&apos;Dowd</name>
+        <role>Finn&apos;s Dad (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhfgliN8DInDVBliPq7JDeKNCvz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ruth Negga</name>
+        <role>Finn&apos;s Mum (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ufeuqsOIHzcPNn4IcZt85iWsGVd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juju Zhang</name>
+        <role>Sumiko (voice)</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emma Lau</name>
+        <role>Sumiko&apos;s Mum (voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vincent Lai</name>
+        <role>Sumiko&apos;s Dad (voice)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Crystal Claire Simmonds</name>
+        <role>Museum Guard (voice)</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rob Rackstraw</name>
+        <role>Crowd Voice (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/o7gnJtIcrYG57AlC9exYldUQqwb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lizzie Waterworth</name>
+        <role>Crowd Voice (voice)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-19 19:10:49</dateadded>
+</movie>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El cazador de sueños</title>
+    <originaltitle>Dreamcatcher</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>88111</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>1191</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Unos amigos en un viaje de campamento descubren que el pueblo en el que están de vacaciones está siendo plagado de manera inusual por alienígenas parásitos del espacio exterior.</plot>
+    <tagline>A circle of friendship. A web of mystery. A pattern of fear.</tagline>
+    <runtime>133</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cowaegRAMrtDDhEeElTboH3OXU4.jpg">https://image.tmdb.org/t/p/original/cowaegRAMrtDDhEeElTboH3OXU4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3IZmxKu5BU8DPnWSj3Wvja0DoyM.jpg">https://image.tmdb.org/t/p/original/3IZmxKu5BU8DPnWSj3Wvja0DoyM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nxwRecjTAizQDS7rzttWDNt2aIe.jpg">https://image.tmdb.org/t/p/original/nxwRecjTAizQDS7rzttWDNt2aIe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rz9s0U0xygmpXLk7QSsMz9jrNUd.jpg">https://image.tmdb.org/t/p/original/rz9s0U0xygmpXLk7QSsMz9jrNUd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/k5Vd45sB7yA2VXsXYxTvL6sERU2.jpg">https://image.tmdb.org/t/p/original/k5Vd45sB7yA2VXsXYxTvL6sERU2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7SZczLmgsEsy7kEZfZN17GH1EJZ.jpg">https://image.tmdb.org/t/p/original/7SZczLmgsEsy7kEZfZN17GH1EJZ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/k54tQoywgT4biKYyCXCkEM0dX00.jpg">https://image.tmdb.org/t/p/original/k54tQoywgT4biKYyCXCkEM0dX00.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2NslMU17WZqHF7AnjIBpu9VuKh0.jpg">https://image.tmdb.org/t/p/original/2NslMU17WZqHF7AnjIBpu9VuKh0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gOrSgSZqTOu6hVKGCcbo1jHIRat.jpg">https://image.tmdb.org/t/p/original/gOrSgSZqTOu6hVKGCcbo1jHIRat.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0285531</id>
+    <uniqueid type="imdb" default="true">tt0285531</uniqueid>
+    <uniqueid type="tmdb">6171</uniqueid>
+    <genre>Drama</genre>
+    <genre>Terror</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>William Goldman</credits>
+    <credits>Lawrence Kasdan</credits>
+    <director>Lawrence Kasdan</director>
+    <premiered>2003-03-21</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Kasdan Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J_lC07NtrnI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>8025</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Morgan Freeman</name>
+        <role>Col. Abraham Curtis</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIciQWr8VwKoR8TmAw1owaiZFyb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Jane</name>
+        <role>Dr. Henry Devlin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9frnlc2zoDcoeqZALB6aeYSQddl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Lee</name>
+        <role>Joe &apos;Beaver&apos; Clarenden</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Damian Lewis</name>
+        <role>Gary &apos;Jonesy&apos; Jones</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qm4M15FTUmuf1j8Kp3M7p0LaqC2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothy Olyphant</name>
+        <role>Pete Moore</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Sizemore</name>
+        <role>Lt. Owen Underhill</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/soINOuacuiThRb2LyPD4tTWve7C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donnie Wahlberg</name>
+        <role>Douglas &apos;Duddits&apos; Cavell</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/9IMR2PKHzqIXWVKmYrCAl0bA3Af.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mikey Holekamp</name>
+        <role>Young Henry</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6dFV5dGWlXJbNYuoIQFYScgSgBf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reece Thompson</name>
+        <role>Young Beaver</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/xA212pV7L7FcF6yxO24RGEOiHWb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Giacomo Baessato</name>
+        <role>Young Jonesy</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/rP05o4fGbVA6BWJOrSBASUIsR1u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel Palmer</name>
+        <role>Young Pete</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/7wTnhFIZ3Mjj9i0H6BXMnNlfKFy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Robb</name>
+        <role>Young Duddits</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rosemary Dunsmore</name>
+        <role>Roberta Cavell</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/uR570A4TxJhfWMuNh9S9JlnwBlx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael O&apos;Neill</name>
+        <role>General Matheson</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/u9Ejl9iS4ZJ36Y653UCe8huLaOn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Keenleyside</name>
+        <role>Rick McCarthy</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/qBqgDpVvswaZFB4zS9r9bVgW9Sh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>C. Ernst Harth</name>
+        <role>Barry Neiman</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/nfzcKTUxR3UQV2o6N9CdijYx1EA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Dobson</name>
+        <role>Stranger on Curb</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/i0jG4WjVHd1Wcs5K4hOGEF9CoPn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ty Olsson</name>
+        <role>Army Truck Driver</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/9KnJ0453movkUNTYuucHXCFVbU0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Daingerfield</name>
+        <role>Conklin</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jvjsW7Qd7w7WWhtxRqUzuUAZepE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Campbell Lane</name>
+        <role>Old Man Gosselin</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/qK8GdBBGLnVZf1TKD7Sghq1gc0H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ingrid Kavelaars</name>
+        <role>Trish</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darrin Klimek</name>
+        <role>Maples</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/fCQj1JKAnY8UZek1K052N9uppmg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bailee Reid</name>
+        <role>Rachel</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevan Ohtsji</name>
+        <role>Tracking Technician</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/wif0qBL0gbAvTOz181vmjNsTaWR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcy Goldberg</name>
+        <role>EMT #1</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/jr2m670eSekvXE5eH5NoXFhej2p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dion Johnstone</name>
+        <role>EMT #2</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/oVz7FrBnUFqNTysFXEAnuS9tmqv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shauna Kain</name>
+        <role>Josie Rinkenhauer</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/anzGZh8CyzNcjnmyqdJw5bZvwcx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Lawrence</name>
+        <role>Edwards</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/aFAfFIKB10Kem86i5KbAfdUByLK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Walker</name>
+        <role>Helicopter Sentry</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/sKwlZwTKjKHWlwu7rrbPsxglxno.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Kasdan</name>
+        <role>Defuniak</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/nfQVySjVuLdqqL8jLSdfqzRG6Z2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carolyn Tweedle</name>
+        <role>Woman in Crowd</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 08:24:50</dateadded>
+</movie>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Modo avión</title>
+    <originaltitle>Modo Avião</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.000000</value>
+            <votes>1951</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>523</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Como castigo por chocar su auto mientras hablaba por su teléfono celular, una influencer digital debe ir a vivir a la granja de su abuelo para someterse a una &quot;desintoxicación digital&quot; sin señal de teléfono celular y sin selfies...</plot>
+    <tagline>Modo avión</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hDZBhyl83F07syVhQ0q21NBZSCC.jpg">https://image.tmdb.org/t/p/original/hDZBhyl83F07syVhQ0q21NBZSCC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mTTn0Sycnawhqoog4m7caE7A2zZ.jpg">https://image.tmdb.org/t/p/original/mTTn0Sycnawhqoog4m7caE7A2zZ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9OaIWmWI7Ph3jqj235zQIrh5yVd.jpg">https://image.tmdb.org/t/p/original/9OaIWmWI7Ph3jqj235zQIrh5yVd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/N4CfPya7VqppmSE5Tx7MGrrpTm.jpg">https://image.tmdb.org/t/p/original/N4CfPya7VqppmSE5Tx7MGrrpTm.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10731748</id>
+    <uniqueid type="imdb" default="true">tt10731748</uniqueid>
+    <uniqueid type="tmdb">652483</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Romance</genre>
+    <country>Brazil</country>
+    <credits>Renato Fagundes</credits>
+    <credits>Alice Name-Bomtempo</credits>
+    <director>César Rodrigues</director>
+    <premiered>2020-01-23</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>A Fabrica</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2Jn3s33ca44</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.900000</aspect>
+                <width>1920</width>
+                <height>960</height>
+                <durationinseconds>5792</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>lat</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>por</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Larissa Manoela</name>
+        <role>Ana</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vS3qaA4b2t5Y14boSioChrq1JPV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erasmo Carlos</name>
+        <role>Germano</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/oI3EW0nVUFx099XZ3xOnJzslOaD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>André Luiz Frambach</name>
+        <role>João</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rza8Eq9aJXrSNOYo8LTSu4ewKPl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katiuscia Canoro</name>
+        <role>Carola</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/7hKuPRlTx5NA3TwUgDrThXyQ0JX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danielle Ornelas</name>
+        <role>Antônia</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8m0McvV4yTAU7nV0cRIQEbNLvY7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sílvia Lourenço</name>
+        <role>Laura</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uu1r60Q9N8eXhx0zVtLz4bdo3Xo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michel Bercovitch</name>
+        <role>Inácio</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/2FWmZRKhXWwUwM1tno1uX6SDAfF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariana Amâncio</name>
+        <role>Rebeca</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/pQ8posK59JLEjF5m4fZFbtY8w8J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nayobe Nzainab</name>
+        <role>Julia</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phellyx Moura</name>
+        <role>Fausto</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-25 12:04:51</dateadded>
+</movie>

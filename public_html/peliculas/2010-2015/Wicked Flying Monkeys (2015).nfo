@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Guardianes de Oz</title>
+    <originaltitle>Wicked Flying Monkeys</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.500000</value>
+            <votes>216</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>11</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>No hay sinopsis en su idioma</plot>
+    <tagline></tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jFXjoiype6DvaKZhQTbvh8mlmzI.jpg">https://image.tmdb.org/t/p/original/jFXjoiype6DvaKZhQTbvh8mlmzI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3b0TKLknhquhLoolavZVGxScKbT.jpg">https://image.tmdb.org/t/p/original/3b0TKLknhquhLoolavZVGxScKbT.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9AHoyKsBKaQKIjR60ETU4xBceSI.jpg">https://image.tmdb.org/t/p/original/9AHoyKsBKaQKIjR60ETU4xBceSI.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3633118</id>
+    <uniqueid type="imdb" default="true">tt3633118</uniqueid>
+    <uniqueid type="tmdb">268689</uniqueid>
+    <genre>Fantasía</genre>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <country>Mexico</country>
+    <credits>Doug Langdale</credits>
+    <director>Alberto Mar</director>
+    <premiered>2015-03-26</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Ánima Estudios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hoHXo1ohleA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5137</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Loreto Peralta</name>
+        <role>Gabby</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/q2eRmxzBy9ENUf4izK6xbbrW7JE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susana Zabaleta</name>
+        <role>Eveline</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ldcAGfPgqRpB5R38qVm2O8DPVRH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maya Tremblay</name>
+        <role>Mildew</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mikey Bolts</name>
+        <role>Ozzy</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/so3yQiyH35MW3Xz6NPfbeW24Fgp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erik Braa</name>
+        <role>Goliath</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Liliana Barba Meinecke</name>
+        <role>Glinda</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-03 12:44:43</dateadded>
+</movie>

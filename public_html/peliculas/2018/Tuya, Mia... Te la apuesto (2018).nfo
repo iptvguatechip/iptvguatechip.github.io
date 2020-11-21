@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Tuya, Mía... Te la apuesto</title>
+    <originaltitle>Tuya, Mia, Te la apuesto</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.500000</value>
+            <votes>243</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>6</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Mariano, un fanático de la selección mexicana de fútbol, está seguro de que él es el talismán del equipo y que, si no acude al estadio, pierden. Cuando su amado tío muere, tiene que decidir si ir al funeral o ir a ver jugar a México</plot>
+    <tagline></tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qnUg7sAJKkrRyOtNhW53vWc4ZKu.jpg">https://image.tmdb.org/t/p/original/qnUg7sAJKkrRyOtNhW53vWc4ZKu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x14xmEfMi8zwW3FTdlmfpnbrTmc.jpg">https://image.tmdb.org/t/p/original/x14xmEfMi8zwW3FTdlmfpnbrTmc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c9qGjJ9wDZNKT5aqmrrNXR7632C.jpg">https://image.tmdb.org/t/p/original/c9qGjJ9wDZNKT5aqmrrNXR7632C.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ugJXv1qfiHTSuboIyMoOHMhxHER.jpg">https://image.tmdb.org/t/p/original/ugJXv1qfiHTSuboIyMoOHMhxHER.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9Epqva6J7JkUrrrfszPfSXxWRgQ.jpg">https://image.tmdb.org/t/p/original/9Epqva6J7JkUrrrfszPfSXxWRgQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nlACHKHMKXll9wct6XiXFg4V3f5.jpg">https://image.tmdb.org/t/p/original/nlACHKHMKXll9wct6XiXFg4V3f5.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8007436</id>
+    <uniqueid type="imdb" default="true">tt8007436</uniqueid>
+    <uniqueid type="tmdb">510262</uniqueid>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <credits>Dago García</credits>
+    <credits>José Luis Varela</credits>
+    <credits>Felipe Salamanca</credits>
+    <director>Rodrigo Triana</director>
+    <premiered>2018-03-22</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9vYfXvbMH6E</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5461</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Adrián Uribe</name>
+        <role>Mariano</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/4OhSV7of2ezbPYebnXpkCtqQ4YS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Sefami</name>
+        <role>Tío Pedro</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZMnTk0xHbckmLKgt18eCIUeV0n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Manuel Vesga</name>
+        <role>Poncho</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julieth Restrepo</name>
+        <role>Luz Dary</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/bOjARRcPvy2YrP442CVXjjIjhiU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teresa Monroy</name>
+        <role>Lupita</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alicia Sandoval</name>
+        <role>Dolores</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:29</dateadded>
+</movie>

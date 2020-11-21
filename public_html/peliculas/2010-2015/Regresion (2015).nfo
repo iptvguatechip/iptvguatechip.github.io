@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Regresión</title>
+    <originaltitle>Regression</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>36592</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>1333</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Minnesota, 1990. El detective Bruce Kenner (Ethan Hawke) investiga el caso de la joven Angela (Emma Watson), que acusa a su padre, John Gray (David Dencik), de haber abusado de ella. Cuando John, de forma inesperada y sin recordar lo sucedido, admite su culpa, el reconocido psicólogo Dr. Raines (David Thewlis) se incorpora al caso para ayudarle a revivir sus recuerdos reprimidos. Lo que descubren desenmascara una siniestra conspiración.</plot>
+    <tagline>Fear always finds its victim</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg">https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yV8uE9TEEVRxnIFOnSzNV4ITFUT.jpg">https://image.tmdb.org/t/p/original/yV8uE9TEEVRxnIFOnSzNV4ITFUT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg">https://image.tmdb.org/t/p/original/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cN7iXL3KXnroaSGJkLIeCCfurpJ.jpg">https://image.tmdb.org/t/p/original/cN7iXL3KXnroaSGJkLIeCCfurpJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1sV1LqpeluhQ4Fticu1KHpUWqXl.jpg">https://image.tmdb.org/t/p/original/1sV1LqpeluhQ4Fticu1KHpUWqXl.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6KaZMu4VcE7G9Ekswe1l2J8R6cr.jpg">https://image.tmdb.org/t/p/original/6KaZMu4VcE7G9Ekswe1l2J8R6cr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cDJfp99EiRfKxsQnjiMIMtvgWxG.jpg">https://image.tmdb.org/t/p/original/cDJfp99EiRfKxsQnjiMIMtvgWxG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xNwqA8aPHwYgSC7HIeOPnyzFyFX.jpg">https://image.tmdb.org/t/p/original/xNwqA8aPHwYgSC7HIeOPnyzFyFX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pYr7HL3peZQZRaAYqwWT6Ax4DAx.jpg">https://image.tmdb.org/t/p/original/pYr7HL3peZQZRaAYqwWT6Ax4DAx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/82pIGwRwS0sg1hdSRvKgN5LctOX.jpg">https://image.tmdb.org/t/p/original/82pIGwRwS0sg1hdSRvKgN5LctOX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3319920</id>
+    <uniqueid type="imdb" default="true">tt3319920</uniqueid>
+    <uniqueid type="tmdb">241257</uniqueid>
+    <genre>Terror</genre>
+    <genre>Misterio</genre>
+    <genre>Suspense</genre>
+    <genre>Crimen</genre>
+    <country>Canada</country>
+    <credits>Alejandro Amenábar</credits>
+    <director>Alejandro Amenábar</director>
+    <premiered>2015-10-01</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>The Weinstein Company</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dRGUD-YDxMw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6370</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ethan Hawke</name>
+        <role>Bruce Kenner</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Watson</name>
+        <role>Angela Gray</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Thewlis</name>
+        <role>Professor Kenneth Raines</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lothaire Bluteau</name>
+        <role>Reverend Murray</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/d7861HYA8NKxorco4wijxjZAvqz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Ashmore</name>
+        <role>George Nesbitt</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/mxr5s0mVsV0eEI7JhdcMVRatEh9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dale Dickey</name>
+        <role>Rose Gray</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/588WXHw17JYi2rAqIVQXzgYENu3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Dencik</name>
+        <role>John Gray</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2BPsGhw8lGhe6HNs1aLu4Q1XeVn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Devon Bostick</name>
+        <role>Roy Gray</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/lL0yRbFsSWw8HULM5eZ2EOqFO2G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter MacNeill</name>
+        <role>Cleveland</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iAsm9OtWorwMybLopEZ8iix6bxa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Butcher</name>
+        <role>Brody</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqQBmOIZ0ddv0H9P26OWiSchbnA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Neayem</name>
+        <role>Charlie Klemme</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1HA5cQCXLRZDShexHIse8LhVyCO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Abrams</name>
+        <role>Farrell</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/JBmN6Byyo1QSKIagjbCrTFX96I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catherine Disher</name>
+        <role>Kate</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/eGhy61rRUoEw8QiVehbOy04q7ZY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Richings</name>
+        <role>Tom</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ia2Xo99pxLX3sxZ0jVcj7eai56l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristian Bruun</name>
+        <role>Andrew</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/u7KaOAPNYGsOskBfofst3obZNQQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendy Lyon</name>
+        <role>Norma</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/rrr1YWLm7szPDca25pvuHhJ8vKK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maura Grierson</name>
+        <role>TV Reporter</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/j9mGAdrcxXQBiMEhyDIA4YtLp51.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Garrow</name>
+        <role>TV Presenter</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/gWu8E3zYnwBVa5zTZzQP3JO1uLI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janet Porter</name>
+        <role>S. Cooper</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/4dgZ2QZHUPoLwnkhrKFe4ACmTZ0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deborah Grover</name>
+        <role>Old Woman</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/mx7GmqGQYWS8Ml2WXHbBfLVxilg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lenno Britos</name>
+        <role>Driver</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/rXfSjOKYTrGdb0vCIAzQ9jQeWUB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pamela MacDonald</name>
+        <role>Woman with Grocery Cart</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/gN3YavIyc4DX5ccDivnOd2WJ2NT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Goran Stjepanovic</name>
+        <role>Satanist</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/hB485b13bTjImNr88iyGwa0tCRN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Preston Rogers</name>
+        <role>Satanist</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/6eVau2kFnU15T7D35OCt1uk5cIl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heather Lapine</name>
+        <role>Satanist</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/cx23V484SSFHHtAYs04krvHgYMf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carrie Eklund</name>
+        <role>Satanist</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/sc54UZjQ63vAfYXD5pyzzSs2OF5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Griffin</name>
+        <role>Doctor</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/gKn5N5D9oYvUAqzRzoHqdQuAOh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Hughes</name>
+        <role>TV Voice Over (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/uaXZGVIwNd4OpxOvZvh4KceYDDL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Spencer</name>
+        <role>Satanist (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Noah Segura</name>
+        <role>Reverend Simmons (uncredited)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Attila Sebesy</name>
+        <role>Cult Member (uncredited)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alli McLaren</name>
+        <role>Girl (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Kerfoot</name>
+        <role>Praying Girl (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:41:08</dateadded>
+</movie>

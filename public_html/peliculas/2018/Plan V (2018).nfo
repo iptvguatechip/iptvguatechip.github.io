@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Plan V</title>
+    <originaltitle>Plan V</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.200000</value>
+            <votes>216</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.300000</value>
+            <votes>20</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Paula se prepara para darle una sorpresa de aniversario a su novio Chema, un famoso actor de novelas. Pero la sorpresa es suya al darse cuenta que éste la engaña con su representante: Marcelo. Paula, en compañía de sus amigas Fernanda y Jennifer llegan a la conclusión de que lo que ella necesita, para sacarse la desilusión, es un &quot;virgen&quot; que seguramente la valorará. Es así como surge, entre las tres amigas, el &quot;Plan V&quot;.</plot>
+    <tagline>Si eres virgen, espéranos</tagline>
+    <runtime>92</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o7kbjvvOesIC0eEbV3ctH690Mho.jpg">https://image.tmdb.org/t/p/original/o7kbjvvOesIC0eEbV3ctH690Mho.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5coBYBNcLRL99SCVxkgrJVQTAvy.jpg">https://image.tmdb.org/t/p/original/5coBYBNcLRL99SCVxkgrJVQTAvy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8q8T4zC0P8VfNfjKuZDLLboLBpm.jpg">https://image.tmdb.org/t/p/original/8q8T4zC0P8VfNfjKuZDLLboLBpm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jwXRKqahxNIbuVsp65vakJfAeXZ.jpg">https://image.tmdb.org/t/p/original/jwXRKqahxNIbuVsp65vakJfAeXZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7217826</id>
+    <uniqueid type="imdb" default="true">tt7217826</uniqueid>
+    <uniqueid type="tmdb">470541</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Romance</genre>
+    <country>Mexico</country>
+    <director>Fez Noriega</director>
+    <premiered>2018-08-17</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kH6D_N5oDRc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5576</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Natasha Dupeyrón</name>
+        <role>Paula</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/norVvKedZvGGrwwnsl8aHA95Xrc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Gerard</name>
+        <role>Jennifer</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bQWPSxOZnIbosMCZeA5puMI7LNX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Gabriela de Faría</name>
+        <role>Fernanda</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mMxLRggKxuQrwgtMpK3HMwhEmmH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamara Vallarta</name>
+        <role>Laurentina</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/d8Ez1AyVv3jyumkD6aRqtpegjdc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Pablo Minor</name>
+        <role>Luis</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arath de la Torre</name>
+        <role>Profesor Limón</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/qB6D0UxHUDZFpzUm9kWfKugblau.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Holt</name>
+        <role>Malcolm</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Carlos Femat</name>
+        <role>Chema</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/CPJsOLgpuxz3LFrcSeVd89NCep.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 13:23:23</dateadded>
+</movie>

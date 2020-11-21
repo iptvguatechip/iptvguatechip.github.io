@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>¿Conoces a Tomás?</title>
+    <originaltitle>¿Conoces a Tomás?</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>196</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>11</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Leo le promete a su novia Fer que será más responsable y se ofrece a cuidar de su hermano Tomás mientras ella practica una cirugía. Pero Leo y su amigo Chris rompen la promesa y deciden llevarse a Tomás a la boda de un famoso productor donde tocarán junto con sus excéntricas coristas y, sobre todo, descubrirán lo especial que es Tomás.</plot>
+    <tagline></tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2OfdMLI6eQvwGuuc3lBJo5a2nTV.jpg">https://image.tmdb.org/t/p/original/2OfdMLI6eQvwGuuc3lBJo5a2nTV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8gjLH7QJN6jIdv02A6IETFbLRF6.jpg">https://image.tmdb.org/t/p/original/8gjLH7QJN6jIdv02A6IETFbLRF6.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5vVQflVZ0yxkK8jh0Wg8UDzSBWz.jpg">https://image.tmdb.org/t/p/original/5vVQflVZ0yxkK8jh0Wg8UDzSBWz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/p5QWHNlqthqNKlSgYiQKdE5amso.jpg">https://image.tmdb.org/t/p/original/p5QWHNlqthqNKlSgYiQKdE5amso.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1Wvtd8G5KInnAmrKxIIJq3bCVwI.jpg">https://image.tmdb.org/t/p/original/1Wvtd8G5KInnAmrKxIIJq3bCVwI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v9J2M6s3twExvP67226dED9rNlx.jpg">https://image.tmdb.org/t/p/original/v9J2M6s3twExvP67226dED9rNlx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1rvU6MIXjwdfYw96pApQfqpTTnX.jpg">https://image.tmdb.org/t/p/original/1rvU6MIXjwdfYw96pApQfqpTTnX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tG7xqj9l8u8wdk7XJRiKpN8AO13.jpg">https://image.tmdb.org/t/p/original/tG7xqj9l8u8wdk7XJRiKpN8AO13.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9078972</id>
+    <uniqueid type="imdb" default="true">tt9078972</uniqueid>
+    <uniqueid type="tmdb">554572</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>Mexico</country>
+    <credits>María Torres</credits>
+    <credits>Enrique Vázquez</credits>
+    <director>María Torres</director>
+    <premiered>2019-07-26</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=960MhoyTqOw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5443</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Leonardo Ortizgris</name>
+        <role></role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/mRf9qNpaslCjoGWKNTWQolKIVVh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hoze Meléndez</name>
+        <role>Thomás</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sTSmKSwuRFgJF1j2BmO7CB7rdqv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcela Guirado</name>
+        <role></role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bVmrudESsPf89PtuCkWOiAmbwum.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Evoli</name>
+        <role>Roxanna</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/p78WRIhibZZumXaMRqEoQmWjCJw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carolina Molva</name>
+        <role>Novia</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/45DIJ6MwFGUHtotjbb1CTsJeZtX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Pablo Medina</name>
+        <role></role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/i5p0CRkTVePhDZk9lhOfYrIESap.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martha Claudia Moreno</name>
+        <role></role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6nHilL0TGRpYuD4EXYElute7H8G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Estrada</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pamela Almanza</name>
+        <role></role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/h6VgbR19K7fRjr2sS3FL9gVMazj.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-05 19:03:04</dateadded>
+</movie>

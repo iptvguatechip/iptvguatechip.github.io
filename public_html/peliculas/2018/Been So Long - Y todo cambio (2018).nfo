@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Been So Long: Y todo cambió</title>
+    <originaltitle>Been So Long</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>886</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>40</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Simone es una joven madre soltera de Londres que, durante una noche que sale por Camden Town, conoce y se enamora de Raymond, un atractivo desconocido que no quiere comentar su pasado.</plot>
+    <tagline>Soul. Mates.</tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bcRWfy52zCivMslO0noORHtibrN.jpg">https://image.tmdb.org/t/p/original/bcRWfy52zCivMslO0noORHtibrN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a3dqNHMfbVxiiRafVLay87JljK7.jpg">https://image.tmdb.org/t/p/original/a3dqNHMfbVxiiRafVLay87JljK7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/A7YPgkOkFcWJsHntXzPRFpln0II.jpg">https://image.tmdb.org/t/p/original/A7YPgkOkFcWJsHntXzPRFpln0II.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uuexlPWWsV3nbEkuIaYKWa9Nv6P.jpg">https://image.tmdb.org/t/p/original/uuexlPWWsV3nbEkuIaYKWa9Nv6P.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sOlaj91ZLKs548nIj96T68gZrqE.jpg">https://image.tmdb.org/t/p/original/sOlaj91ZLKs548nIj96T68gZrqE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mWM77fOouZA2zk3hlo7mc1UqDdC.jpg">https://image.tmdb.org/t/p/original/mWM77fOouZA2zk3hlo7mc1UqDdC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/83n0nO1mQCt9UysUsf3OiiqkQgj.jpg">https://image.tmdb.org/t/p/original/83n0nO1mQCt9UysUsf3OiiqkQgj.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1682886</id>
+    <uniqueid type="imdb" default="true">tt1682886</uniqueid>
+    <uniqueid type="tmdb">462469</uniqueid>
+    <genre>Drama</genre>
+    <genre>Música</genre>
+    <genre>Romance</genre>
+    <country>United Kingdom</country>
+    <credits>Che Walker</credits>
+    <director>Tinge Krishnan</director>
+    <premiered>2018-10-12</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>British Film Institute</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tflC2Jr6scs</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6010</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michaela Coel</name>
+        <role>Simone</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbN1F0R8DMUh6IYwl0owyD8LukN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arinzé Kene</name>
+        <role>Raymond</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bD8kUAc3ZEkz08dWszWnqcAQify.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ronke Adekoluejo</name>
+        <role>Yvonne</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/19quyDxWFDLE33eq0HzO1hsflHi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George MacKay</name>
+        <role>Gil</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/8jMcabHSg3RylERrf3WYcip2ptn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Dempsie</name>
+        <role>Kestrel</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lnR0AMIwxQR6zUCOhp99GnMaRet.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Norris</name>
+        <role>Barney</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arsher Ali</name>
+        <role>Jake</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/aJuC920mFXOsyt5hKdcOS8H4UXQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Thomas</name>
+        <role>Wendell</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/rdNgke4IL7x3mORHKE8HtbOAF8F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sophia La Porta</name>
+        <role>Willesden</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rakie Ayola</name>
+        <role>Martina</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frieda Thiel</name>
+        <role>Makeda</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/yb5LZ0v7dhYuZbXHQTlpn1ifDY5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Forbes</name>
+        <role>Conrad</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/fuMUmFRoiYCDwzGriK1M5PKUfLU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jo Martin</name>
+        <role>Vivienne</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/9QQycTj056llWBbkuoDf8NBSXhn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Genevieve Barr</name>
+        <role>Artemis</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jamilla Wingett</name>
+        <role>Aravind</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Junade Khan</name>
+        <role>Guy</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:22:48</dateadded>
+</movie>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ashby</title>
+    <originaltitle>Ashby</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>14649</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>338</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un chico de diecisiete años de edad, Ed Wallis, comienza una amistad con su vecino, Ashby, un asesino de la CIA retirado que sólo tiene unos pocos meses de vida, y que antes de morir quiere redimirse matando a sus antiguos jefes.</plot>
+    <tagline>Life is about knowing how to take a hit.</tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bij7LIvlhoLnMDmnsxOFrZ5ta94.jpg">https://image.tmdb.org/t/p/original/bij7LIvlhoLnMDmnsxOFrZ5ta94.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cUj7Yaf8pa0ZXK0yzdEIbBJCNg0.jpg">https://image.tmdb.org/t/p/original/cUj7Yaf8pa0ZXK0yzdEIbBJCNg0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hQDEvfqoYD33JnMWKccVDeWOkVG.jpg">https://image.tmdb.org/t/p/original/hQDEvfqoYD33JnMWKccVDeWOkVG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8lAHmyawDWoOc3UNbMu7036e7hV.jpg">https://image.tmdb.org/t/p/original/8lAHmyawDWoOc3UNbMu7036e7hV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nvxkR2PX4n3E5T1y25N1wtZhyVT.jpg">https://image.tmdb.org/t/p/original/nvxkR2PX4n3E5T1y25N1wtZhyVT.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/21IMO1CC5V6VuHoM7MSg3pr61DA.jpg">https://image.tmdb.org/t/p/original/21IMO1CC5V6VuHoM7MSg3pr61DA.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3774466</id>
+    <uniqueid type="imdb" default="true">tt3774466</uniqueid>
+    <uniqueid type="tmdb">330112</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Tony McNamara</credits>
+    <director>Tony McNamara</director>
+    <premiered>2015-04-19</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Metrol Technology</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J4QAQVWvFcE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6180</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Mickey Rourke</name>
+        <role>Ashby Holt</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nat Wolff</name>
+        <role>Ed Wallis</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/oqDJSGjomTiOkgfFGHTQsIPFPyt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Roberts</name>
+        <role>Eloise</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/87w6fTvmJTQScgKKJFS91hYJ33a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Silverman</name>
+        <role>June Wallis</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/g5G711XyVokJm2RoItpkaHa8mkQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Aalderks</name>
+        <role>Valchek</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/aSlWbM7hebFWr6RpElosedCogCR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seth Dousman</name>
+        <role>Garry Smits</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Dunn</name>
+        <role>Coach Bruton</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/5V5WZRoeCLMTTppfhsng1XFI9iR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zachary Knighton</name>
+        <role>Father Ted</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/dtpt1IvPKHaEQmakARofIGhrJOL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Lerner</name>
+        <role>Entwhistle</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/2b1PLnbBU1zdz06AXNGSAo226Is.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Enos III</name>
+        <role>Coach Wally</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4OtSbi1QxeuOgOVskiduUycj88V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Coulter</name>
+        <role>Peter Black</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/5bK6a5Cfy5DxVoNpzt4nbhUUW85.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Nowicki</name>
+        <role>Kenrick</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/ofZ5mxqPaMaKkOdmEovbJjXHk5Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Davis</name>
+        <role>Mr. Mark</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/thSH5TatER5b1WbgFpGt5YDdOu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Lesser</name>
+        <role>Doctor</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xGE70TVAE472lDRyDwMFwD3JoDk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Audrey Reid Couch</name>
+        <role>McCall</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Rolfes</name>
+        <role>Jerry</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/v0HbDVGF7nUBW4O8pdwQe760i70.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Roten</name>
+        <role>Eric</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 07:31:15</dateadded>
+</movie>

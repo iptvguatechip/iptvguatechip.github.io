@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Orgullo, Prejuicio y Zombies</title>
+    <originaltitle>Pride and Prejudice and Zombies</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>50808</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>1531</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Pride and Prejudice and Zombies explorará la complicada historia de Elizabeth Bennet por encontrar el amor, la cual se dificultará aún más por el estallido de una epidemia que resucitará a los muertos.</plot>
+    <tagline>Bloody lovely.</tagline>
+    <runtime>107</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b7U8g9mA7spCFnsdZSxcInD8A5q.jpg">https://image.tmdb.org/t/p/original/b7U8g9mA7spCFnsdZSxcInD8A5q.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg">https://image.tmdb.org/t/p/original/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uvu0Xf5LRSS68DIEtR04V8CCAyt.jpg">https://image.tmdb.org/t/p/original/uvu0Xf5LRSS68DIEtR04V8CCAyt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3gHbUKuACHT7QVuFKSSAKdbi5Nz.jpg">https://image.tmdb.org/t/p/original/3gHbUKuACHT7QVuFKSSAKdbi5Nz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nmp1QVvkF3SXYpGEb7r0w6pgO1S.jpg">https://image.tmdb.org/t/p/original/nmp1QVvkF3SXYpGEb7r0w6pgO1S.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/71rk8PFpikRNNk8RJguodLgoiuS.jpg">https://image.tmdb.org/t/p/original/71rk8PFpikRNNk8RJguodLgoiuS.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1HdBV5te8Hjj093JlnX4kmZBOqN.jpg">https://image.tmdb.org/t/p/original/1HdBV5te8Hjj093JlnX4kmZBOqN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/exohKsOrkiR8HeKBk3obtcqNPuE.jpg">https://image.tmdb.org/t/p/original/exohKsOrkiR8HeKBk3obtcqNPuE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ld9gXxcJoc1JF0SriRiHvIdK6yh.jpg">https://image.tmdb.org/t/p/original/ld9gXxcJoc1JF0SriRiHvIdK6yh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/keAlEnrPxd1S5zgSvtmXYFwU8Dc.jpg">https://image.tmdb.org/t/p/original/keAlEnrPxd1S5zgSvtmXYFwU8Dc.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1374989</id>
+    <uniqueid type="imdb" default="true">tt1374989</uniqueid>
+    <uniqueid type="tmdb">58431</uniqueid>
+    <genre>Romance</genre>
+    <genre>Terror</genre>
+    <genre>Comedia</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Burr Steers</credits>
+    <director>Burr Steers</director>
+    <premiered>2016-02-04</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Screen Gems</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y5N7OyoTCXg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6452</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lily James</name>
+        <role>Elizabeth Bennet</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/sOyEG5H6MRSokyKO5qnNT3wIC2h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Riley</name>
+        <role>Fitzwilliam Darcy</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wLFM6CyVQgXx24ou244MYDa6ouh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Huston</name>
+        <role>George Wickham</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/i0Fxf1WQNzFHZO1Yk42UJxgy1rI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bella Heathcote</name>
+        <role>Jane Bennet</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ohysJ8CJTAi2Vp5qBkByn98LANi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Douglas Booth</name>
+        <role>Charles Bingley</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/3IQQB5SIMyF5d6Tu4pMKU2FQehP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Smith</name>
+        <role>Parson Collins</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/fKUYro4v4mX8CF46bURyM83wJo3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Dance</name>
+        <role>Mr. Bennet</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/nENJ1857GJWdRY7JGhyiROoI2rN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lena Headey</name>
+        <role>Lady Catherine de Bourgh</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/xR2IBnBlUdyBe5hecaVdtRuQqUE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suki Waterhouse</name>
+        <role>Kitty Bennet</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/gR3TLPDvqkrwIKJBw9Mx3VhhM2G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Greenwell</name>
+        <role>Caroline Bingley</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/3c7zvchL0X6i3ptUgQk7WnJnZQQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aisling Loftus</name>
+        <role>Charlotte Lucas</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/jGLbxrvZ0KSz6rP8K5Mr9fmp9cn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hermione Corfield</name>
+        <role>Cassandra Featherstone</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/rX45K3pfyXDXruVRmlDmvMzCLvF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sally Phillips</name>
+        <role>Mrs. Bennet</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/xLEMZhksdCEO8HUhQLNetkETLdr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dolly Wells</name>
+        <role>Mrs. Featherstone</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/gYwusRdT9iX3Ba32jwFZS9fY180.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ellie Bamber</name>
+        <role>Lydia Bennet</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9j6D1LH5C0CLtKXfmKo34T6G63.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Oliva</name>
+        <role>Wilhelm</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/2pcbjP2VLRJZSIsEeyFNeXAN6fJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Millie Brady</name>
+        <role>Mary Bennet</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/zxnoycINYChamvWM6smZCNGWy2C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jess Radomska</name>
+        <role>Annabelle Netherfield</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/yH9mnfx9YeWGqt1VlYZSzdiwrpv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pooky Quesnel</name>
+        <role>Aunt Phillips</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/gULckuxXu4dvOviDGQqySAKfjWL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morfydd Clark</name>
+        <role>Georgina</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/rVc9M8pojcY7aHyKpx3iCZKWYIs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janet Henfrey</name>
+        <role>Dowager</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Qu5XwphEhpLjdAPaTBIoQs0uKB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Scott</name>
+        <role>Penny McGregor</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/sGFEjsVuZH3Z7PxSWGyZzoSb5IY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Callender</name>
+        <role>Subordinate Officer</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/uSPMw13prQl5UwJPpYRj5MjzpD5.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 14:00:14</dateadded>
+</movie>

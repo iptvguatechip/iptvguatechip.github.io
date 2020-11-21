@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Fantasma de Clara</title>
+    <originaltitle>Clara&apos;s Ghost</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.300000</value>
+            <votes>264</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>5</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Carla, una mujer frustrada por el comportamiento de su familia, busca consuelo, consejo y apoyo en el fantasma que la está atormentando.</plot>
+    <tagline>Family can be haunting.</tagline>
+    <runtime>92</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vxzYb31A8Q5pGdJCCYJiqx9GmDo.jpg">https://image.tmdb.org/t/p/original/vxzYb31A8Q5pGdJCCYJiqx9GmDo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tW5DsNJZlG18wYDdOxoflqTd8Yw.jpg">https://image.tmdb.org/t/p/original/tW5DsNJZlG18wYDdOxoflqTd8Yw.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/exa8O0Z9T9LHiQLftDGpX8iIGvx.jpg">https://image.tmdb.org/t/p/original/exa8O0Z9T9LHiQLftDGpX8iIGvx.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7562932</id>
+    <uniqueid type="imdb" default="true">tt7562932</uniqueid>
+    <uniqueid type="tmdb">489996</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Familia</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Bridey Elliott</credits>
+    <director>Bridey Elliott</director>
+    <premiered>2018-09-22</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Smudge Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mm16F8A7pdI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>4.000000</aspect>
+                <width>1440</width>
+                <height>1080</height>
+                <durationinseconds>5560</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Paula Niedert Elliott</name>
+        <role>Clara Reynolds</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/77Yg6nu3IzouGEWHLt3BGVTpuPr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abby Elliott</name>
+        <role>Julie Reynolds</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/v7h08EsTce2pLHkZiaFe1QRuYbU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bridey Elliott</name>
+        <role>Riley Reynolds</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/nqT9bxNGU94wMqkYrg6RJzV0nrQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Elliott</name>
+        <role>Ted Reynolds</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/oQ4ZuOGoZ5dPDiLxri6ZPQLewAU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isidora Goreshter</name>
+        <role>Adelia</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/rLy8wmjYw7LewisNawiuRuMtJCu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haley Joel Osment</name>
+        <role>Joe</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jft0dGgR5bJ6mR7QRYriMVBC6QH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brett Davis</name>
+        <role>Driver</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:53:34</dateadded>
+</movie>

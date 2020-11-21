@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Shaft</title>
+    <originaltitle>Shaft</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>43031</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>1022</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Puede que John John (JJ) sea un experto en ciberseguridad con una licenciatura en el MIT, pero para descubrir la verdad que se esconde tras la inesperada muerte de su mejor amigo necesita un tipo de ayuda que sólo su padre le puede proporcionar. Aunque ha estado ausente durante casi toda la infancia de JJ, John Shaft acepta ayudar a su hijo a investigar en las calles infestadas de heroína de Harlem. Pese a que la placa del FBI que porta JJ contrasta con el estilo de &quot;tipo duro&quot; de su padre, no cabe duda de que son padre e hijo. Además, Shaft tiene sus propios motivos para colaborar con la investigación y algunos casos abiertos que desea solucionar por las buenas... o por las malas</plot>
+    <tagline>Más Shaft del que puedes manejar</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/iNs3WpagrJ4tDoR9paeasEt7CmQ.jpg">https://image.tmdb.org/t/p/original/iNs3WpagrJ4tDoR9paeasEt7CmQ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/hK9ASFeu7ba6PVWrKkyqjaLvk4V.jpg">https://image.tmdb.org/t/p/original/hK9ASFeu7ba6PVWrKkyqjaLvk4V.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kfZqwGuvEBAysAbCsa0QLKoSYR.jpg">https://image.tmdb.org/t/p/original/kfZqwGuvEBAysAbCsa0QLKoSYR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/joNpwk3wQXpiv6d2bPemjWj3CBd.jpg">https://image.tmdb.org/t/p/original/joNpwk3wQXpiv6d2bPemjWj3CBd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eIIcQK0TKL7RJPLa9T3kXz9gAfz.jpg">https://image.tmdb.org/t/p/original/eIIcQK0TKL7RJPLa9T3kXz9gAfz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zTRwkCxkaNiy2ZKAoWXixu7SNjx.jpg">https://image.tmdb.org/t/p/original/zTRwkCxkaNiy2ZKAoWXixu7SNjx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qOUn8Cfq8xhPYYta8EgjcqX4zuC.jpg">https://image.tmdb.org/t/p/original/qOUn8Cfq8xhPYYta8EgjcqX4zuC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hyv93ggy1MZoUVgkiCV6GaJsIbV.jpg">https://image.tmdb.org/t/p/original/hyv93ggy1MZoUVgkiCV6GaJsIbV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gWHSx9JeT8IaMterqS9AZrxWzod.jpg">https://image.tmdb.org/t/p/original/gWHSx9JeT8IaMterqS9AZrxWzod.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xCmrARxj3DFKk6ojSRbMwEbvDt4.jpg">https://image.tmdb.org/t/p/original/xCmrARxj3DFKk6ojSRbMwEbvDt4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ygguanFWPsMbI9rELD6xaXqFOME.jpg">https://image.tmdb.org/t/p/original/ygguanFWPsMbI9rELD6xaXqFOME.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z5toXAGl5yYL9RJRbCp7trdTpeT.jpg">https://image.tmdb.org/t/p/original/z5toXAGl5yYL9RJRbCp7trdTpeT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wMLRMBeO6zDS1S6nwagEFXt6pkb.jpg">https://image.tmdb.org/t/p/original/wMLRMBeO6zDS1S6nwagEFXt6pkb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y1zuFneastGatezGUeIPJ0GKd5J.jpg">https://image.tmdb.org/t/p/original/y1zuFneastGatezGUeIPJ0GKd5J.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x39ki1EW56kEIEKlv1yGMHuLPdy.jpg">https://image.tmdb.org/t/p/original/x39ki1EW56kEIEKlv1yGMHuLPdy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rZ46NWvzcko9IrjJO2shO4hr81c.jpg">https://image.tmdb.org/t/p/original/rZ46NWvzcko9IrjJO2shO4hr81c.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kBuenNbs1SidHPxJuMyMU8JMboI.jpg">https://image.tmdb.org/t/p/original/kBuenNbs1SidHPxJuMyMU8JMboI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/103d4ObBCWbB6PtOOjZ7C1FSpVl.jpg">https://image.tmdb.org/t/p/original/103d4ObBCWbB6PtOOjZ7C1FSpVl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kLNjGeYufVQbjqMS4Vlhil0cF2p.jpg">https://image.tmdb.org/t/p/original/kLNjGeYufVQbjqMS4Vlhil0cF2p.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jhwSYGRToxBn4vsnmviFQUy2KBB.jpg">https://image.tmdb.org/t/p/original/jhwSYGRToxBn4vsnmviFQUy2KBB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z758zu6lOoFIPdAS1c0csBl0MGH.jpg">https://image.tmdb.org/t/p/original/z758zu6lOoFIPdAS1c0csBl0MGH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e0J2BWY1AMjMUQGL2GEReN1oQrS.jpg">https://image.tmdb.org/t/p/original/e0J2BWY1AMjMUQGL2GEReN1oQrS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oN2ALvrnYxXPjNKJyHtDYir1O3e.jpg">https://image.tmdb.org/t/p/original/oN2ALvrnYxXPjNKJyHtDYir1O3e.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/k24JkCFlS8FFpUPztBKlJNnhxTE.jpg">https://image.tmdb.org/t/p/original/k24JkCFlS8FFpUPztBKlJNnhxTE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4zkrmmVXJKmVQTkc7x4l7hwfE5O.jpg">https://image.tmdb.org/t/p/original/4zkrmmVXJKmVQTkc7x4l7hwfE5O.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iBW3nRykmJNPcyeZikaMUDtRisR.jpg">https://image.tmdb.org/t/p/original/iBW3nRykmJNPcyeZikaMUDtRisR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2JS5guOh3hj3WgMhbMHPZDSU1HJ.jpg">https://image.tmdb.org/t/p/original/2JS5guOh3hj3WgMhbMHPZDSU1HJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9APUvWhHMzLxkbTjwTXwldv9ixL.jpg">https://image.tmdb.org/t/p/original/9APUvWhHMzLxkbTjwTXwldv9ixL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jdplaXJS6RpUeJ4MpD1eCIL0SEY.jpg">https://image.tmdb.org/t/p/original/jdplaXJS6RpUeJ4MpD1eCIL0SEY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5fyFeCzV8N6N3F3cgcSPqZ96hjE.jpg">https://image.tmdb.org/t/p/original/5fyFeCzV8N6N3F3cgcSPqZ96hjE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/biKrsG2M4ZYoOTiq9D47xwKCjTP.jpg">https://image.tmdb.org/t/p/original/biKrsG2M4ZYoOTiq9D47xwKCjTP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hAlVzlRsbHWBiJhqbQ52LDdGq0f.jpg">https://image.tmdb.org/t/p/original/hAlVzlRsbHWBiJhqbQ52LDdGq0f.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4463894</id>
+    <uniqueid type="imdb" default="true">tt4463894</uniqueid>
+    <uniqueid type="tmdb">486131</uniqueid>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Shaft (Reboot) - Colección</name>
+    </set>
+    <credits>Alex Barnow</credits>
+    <credits>Kenya Barris</credits>
+    <credits>Eric Stull</credits>
+    <director>Tim Story</director>
+    <premiered>2019-06-14</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Davis Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lD41XdWcmbY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>6720</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Samuel L. Jackson</name>
+        <role>John Shaft</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXN4Gw9tZJVKrLJHde2IcUHmV3P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessie T. Usher</name>
+        <role>JJ Shaft</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bkFM2GHKU1rr6CRCgeaojY1TDCS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Regina Hall</name>
+        <role>Maya Babanikos</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/zY1IoUVTghMBNUnbqGzjN5AfjA6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Shipp</name>
+        <role>Sasha Arias</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/6i9eya2lz8ylJBE9OGpPi7Dy2b2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Roundtree</name>
+        <role>John Shaft, Sr.</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cF7WMpXLQb6pKHconoUXQ46irQE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Preston Carter</name>
+        <role>Young JJ</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wrtrt2cpMOR3DCvrlz8EcgydaVN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nyah Marie Johnson</name>
+        <role>Young Sasha</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gozSyDcxfUAqDTSFMMDN9Urv17s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Lauria</name>
+        <role>Major Gary Cutworth</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/2n6JEP2OueaYrMvRIVM3t6dPo3w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Titus Welliver</name>
+        <role>Special Agent Vietti</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Method Man</name>
+        <role>Freddie P.</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/mYJFxOcrda410rS5JHPf0nPuimZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isaach De Bankolé</name>
+        <role>Pierro &apos;Gordito&apos; Carrera</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/tIihjWrBfzZahWaAwf8XFuYO0JS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Avan Jogia</name>
+        <role>Karim Hassan</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joey Mekyten</name>
+        <role>Young Karim</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/60KhXe0dxhfLeqt1xsC9EqEM0RH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Vélez</name>
+        <role>Bennie Rodriguez</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/w8Z6hiipTD5zXl4fnUpBImru85S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robbie Jones</name>
+        <role>Sergeant Keith Williams</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/tGJMX67VyOMKcnLkVrx9tPnUxAB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Dominguez</name>
+        <role>Staff Sergeant Eddie Dominguez</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xCkeSnyuMDtKpLXsTKeZC9yV5vw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leland L. Jones</name>
+        <role>Ron</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chivonne Michelle</name>
+        <role>Baby</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/Av9vxYHOhDKD3xb9yKMvExYhrsP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tashiana Washington</name>
+        <role>Sugar</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/uJCh64StaR9tjwWHfT1OcG6obM5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrienne C. Moore</name>
+        <role>Ms. Pepper</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/sn8I8wdcXkD01SJR5yksM9RROm5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Casselberry</name>
+        <role>Manuel &quot;Manny&quot; Orozco</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/oDaDxzQsiAsE5fMr5HtoGT51Irl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Almeera Jiwa</name>
+        <role>Anam</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/pqGbm61Y09RKERbnFYfq6jGY5E9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amato D&apos;Apolito</name>
+        <role>Farik Bahar</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/386Z7UCOThX8vMmWTgbc92Db3lr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jalyn Hall</name>
+        <role>Harlem Kid</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/5gOL83JcSc3CvOvscSqWIarCLGJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sylvia Jefferies</name>
+        <role>Once Beautiful Woman</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/hajHcvChIaX7EtVsD5DPr0rnM1i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Whit Coleman</name>
+        <role>Butch Lesbian Girl</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/3z52r2fxeHoClprDPfkBsIDxMS0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Philip Fornah</name>
+        <role>Jacked Dude</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/mH6UjRLpoHkwwDzCMkzXfyFAlje.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laticia Lee</name>
+        <role>Cocktail Waitress</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/xgNQhFKi6r51e1HyZBPc2UOiApI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan King Scales</name>
+        <role>Male Secretary</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/o9toRyPBw8TJVfXfpESzXilNVL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tywayne Wheatt</name>
+        <role>Portly Doorman</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/B5uYol2eM6W4xaTmTTtBWI15l2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenny Barr</name>
+        <role>Cop (Thomas)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Dunston</name>
+        <role>News Anchor</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/btQz8LHn39lqk2e5SFKoPWfka8O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sawyer Schultz</name>
+        <role>Mike Mitchell</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/ZyykF06ZGhueU71jxAoyogXGxL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Esmeree Sterling</name>
+        <role>Cute Bartender</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/t7ytI6iuKTiC8rWpa6thPIF4qsX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jose Miguel Vasquez</name>
+        <role>FBI Employee</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/cv9kMHjsttfgJLy8gPRWdnEwic.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel &apos;G-Rod&apos; Rodriguez</name>
+        <role>Goon</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/t7GOyMDDMYWRwnQveCEUFDSapk7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keith Brooks</name>
+        <role>Drunk Disorderly Man</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/kXwYsvD7mL5np9j2qfHnQW4RJjj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>DominiQue MrsGiJane Williams</name>
+        <role>Beautiful Woman</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Shikany</name>
+        <role>Older Man in Mosque</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucia Scarano</name>
+        <role>Lady in Line</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greta Quispe</name>
+        <role>Employee</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/AgpK6EzaI2WNxXPLW74le36ES4F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heather Seiffert</name>
+        <role>Hostess</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Green</name>
+        <role>Hallway Man</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/9QUDEyCSDlzAdCl0zweSzDUSyqr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dorothi Fox</name>
+        <role>Old Lady Neighbor</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shakur Sozahdah</name>
+        <role>Worshiper</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Milton Saul</name>
+        <role>New York Pedestrian (uncredited)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/2hwSDWQd1O1vIPeFxTrhW0gzkjq.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 22:03:40</dateadded>
+</movie>

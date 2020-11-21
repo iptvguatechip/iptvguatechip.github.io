@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ahí está el detalle</title>
+    <originaltitle>Ahí está el detalle</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.100000</value>
+            <votes>1109</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.900000</value>
+            <votes>51</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La confusión entre el perro &quot;Bobby&quot; y un gángster del mismo nombre desencadena una serie de enredos entre un celoso marido, su nerviosa esposa, una pícara criada, una esposa abandonada con ocho hijos y el singular Cantinflas.</plot>
+    <tagline></tagline>
+    <runtime>112</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/udMhIkYPB6NebQrcGgRsuUtG1Kg.jpg">https://image.tmdb.org/t/p/original/udMhIkYPB6NebQrcGgRsuUtG1Kg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/slrUO2rzfJUEDWkqKM0tOLRhABA.jpg">https://image.tmdb.org/t/p/original/slrUO2rzfJUEDWkqKM0tOLRhABA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6WPBWuH2DuXICkmIYhCLN1eaoJ4.jpg">https://image.tmdb.org/t/p/original/6WPBWuH2DuXICkmIYhCLN1eaoJ4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2ZWXkzj1lOrw7GMbliyNYcivBIG.jpg">https://image.tmdb.org/t/p/original/2ZWXkzj1lOrw7GMbliyNYcivBIG.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7Pp23NSPgDjsYULtBBGhjDctdEs.jpg">https://image.tmdb.org/t/p/original/7Pp23NSPgDjsYULtBBGhjDctdEs.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0032186</id>
+    <uniqueid type="imdb" default="true">tt0032186</uniqueid>
+    <uniqueid type="tmdb">69060</uniqueid>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <credits>Juan Bustillo Oro</credits>
+    <credits>Humberto Gómez Landero</credits>
+    <director>Juan Bustillo Oro</director>
+    <premiered>1940-09-11</premiered>
+    <year>1940</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Grovas-Oro Films</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Cantinflas</name>
+        <role>Cantinflas</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/iASObohpLJzqYQM6bQzyup3QvEs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Pardavé</name>
+        <role>Cayetano Lastre</role>
+        <order>1</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNGZmMTg5MTYtNTEzNy00NTY0LThkNWItMjYyNTAxYjJmN2JiXkEyXkFqcGdeQXVyNzA4ODc3ODU@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara García</name>
+        <role>Clotilde Regalado</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ea1aZzvYzFckP0yX1fkVOats56W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sofía Álvarez</name>
+        <role>Dolores del Paso de Lastre</role>
+        <order>3</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNTE0MzcxZGEtYjQzYy00MWVjLWEwNmMtNDJlMjBlMTYyODNiXkEyXkFqcGdeQXVyMTk4MDgwNA@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dolores Camarillo</name>
+        <role>Paz &apos;Pacita&apos;</role>
+        <order>4</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNDVkMTEyZDUtYWU0Zi00YzNlLWI4MDUtM2NjMjdlYjlkNWFjXkEyXkFqcGdeQXVyMTk4MDgwNA@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manuel Noriega</name>
+        <role>Juez</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio R. Frausto</name>
+        <role>Defensor</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Agustín Isunza</name>
+        <role>Fiscal</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio Bravo</name>
+        <role>Bobby Lechuga, el Fox Terrier</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francisco Jambrina</name>
+        <role>Leonardo del Paso</role>
+        <order>9</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZGRhZjMyOGQtOTFlMi00YjU4LTgyMGMtYmYxOWE1MDIwNDdkXkEyXkFqcGdeQXVyMTk4MDgwNA@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Coss</name>
+        <role>Magistrado</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Arozamena</name>
+        <role>Juez sordo</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rafael Icardo</name>
+        <role>Comisario tonto</role>
+        <order>12</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMDY1MmZmOTItY2Y2NC00ZDRlLTg5MTUtZDIyMTc1YTQ1YTA0XkEyXkFqcGdeQXVyMTk4MDgwNA@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfredo Varela</name>
+        <role>Escribiente</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ángel T. Sala</name>
+        <role>Inspector</role>
+        <order>14</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMTcyNjgwMjY0OV5BMl5BanBnXkFtZTcwMTU3NzY5Mg@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Estanislao Schillinsky</name>
+        <role>Ayudante del juez sordo</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Narciso Busquets</name>
+        <role>Hijo de Cantinflas</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/b1Rz1CgpMzfhRC82TdlnXW0rpQS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Langler</name>
+        <role>Policía</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wilfrido Moreno</name>
+        <role>Extra</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-10-23 20:00:14</dateadded>
+</movie>

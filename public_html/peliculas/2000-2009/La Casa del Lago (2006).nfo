@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La casa del lago</title>
+    <originaltitle>The Lake House</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.800000</value>
+            <votes>138528</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>1781</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En 2006 la Dra. Kate Forster abandona la casa que ha estado alquilando junto al lago para trasladarse a Chicago. Al marcharse deja una nota en el buzón para el nuevo inquilino con la intención de que le remita las cartas que puedan llegar a su nueva dirección y además le advierte de que las huellas de perro que hay en la entrada ya estaban allí cuando ella llegó. Dos años antes, en 2004, el arquitecto Alex Wyler llega a la casa del lago y encuentra la carta que Kate había dejado en el buzón. Al leerla Alex se sorprende, ya que la casa está abandonada y no hay huellas de perro en la entrada.</plot>
+    <tagline>How do you hold on to someone you&apos;ve never met?</tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zE2QSywfJvaFLRFkxbGLhdibEnx.jpg">https://image.tmdb.org/t/p/original/zE2QSywfJvaFLRFkxbGLhdibEnx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cZpUqD6RaDjtHTbKD062oTiSFmR.jpg">https://image.tmdb.org/t/p/original/cZpUqD6RaDjtHTbKD062oTiSFmR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rOLpLUBKP2fUIshS93Cv4DkNzrU.jpg">https://image.tmdb.org/t/p/original/rOLpLUBKP2fUIshS93Cv4DkNzrU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tHpc1118dYWLnHZleGhwZxRbpae.jpg">https://image.tmdb.org/t/p/original/tHpc1118dYWLnHZleGhwZxRbpae.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pPXRw8EXYLzEEludpVapYTSrjOG.jpg">https://image.tmdb.org/t/p/original/pPXRw8EXYLzEEludpVapYTSrjOG.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/27BUhE6bYl7Wo7sHgmQa0DrezWX.jpg">https://image.tmdb.org/t/p/original/27BUhE6bYl7Wo7sHgmQa0DrezWX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nZOd4tzvH65DGM7uDpnRJRia3Dk.jpg">https://image.tmdb.org/t/p/original/nZOd4tzvH65DGM7uDpnRJRia3Dk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uObdpm2mpub5cvyOLXmRp95KjGR.jpg">https://image.tmdb.org/t/p/original/uObdpm2mpub5cvyOLXmRp95KjGR.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0410297</id>
+    <uniqueid type="imdb" default="true">tt0410297</uniqueid>
+    <uniqueid type="tmdb">2044</uniqueid>
+    <genre>Romance</genre>
+    <genre>Drama</genre>
+    <genre>Misterio</genre>
+    <country>United States of America</country>
+    <credits>David Auburn</credits>
+    <credits>Kim Eun-jeong</credits>
+    <credits>Yeo Ji-na</credits>
+    <director>Alejandro Agresti</director>
+    <premiered>2006-06-16</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Sound for Film</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V02lqEpbk2Y</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1280</width>
+                <height>544</height>
+                <durationinseconds>5913</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language>por</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Keanu Reeves</name>
+        <role>Alex Wyler</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rRdru6REr9i3WIHv2mntpcgxnoY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandra Bullock</name>
+        <role>Kate Forster</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Plummer</name>
+        <role>Simon Wyler</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ebon Moss-Bachrach</name>
+        <role>Henry Wyler</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4GLrwqbd6e8LOWT8fzzaDohNsNA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willeke van Ammelrooy</name>
+        <role>Kate&apos;s Mother</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/aXwDoxmfLO7aBvJLDADODBhubqU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Walsh</name>
+        <role>Morgan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/6rOQgNjIJUqXDiM06K2hrL68Eky.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shohreh Aghdashloo</name>
+        <role>Anna Klyczynski</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vuE7zU05kmnalORwIzVTi8uIMRA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynn Collins</name>
+        <role>Mona</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ailMJrDO8hskoFjhWcX1zZVc4f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Bacarella</name>
+        <role>Mulhern</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iMvu8lPSr5nG2youh11S1RgrvTW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin M. Brennan</name>
+        <role>Waiter</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/sa5YpRx93XJuF62Nw80EiQ1dVCU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Caeti</name>
+        <role>Cove Patron</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/jdrvLhL7RLifB2AIje4cwLVEMKc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aliyah Carr</name>
+        <role>Girl Patient</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Clark</name>
+        <role>Nurse Practitioner</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jacob D. Dumelle</name>
+        <role>Patient on Gurney</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/5mTbmFlTqDEOoprFgl46fBjUXxg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Elias</name>
+        <role>Doug</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lori Ann Gerdisch</name>
+        <role>I.C.U. Nurse</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/gjtW648EQRNvQGKwqWMiYco3f3w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cynthia Kaye McWilliams</name>
+        <role>Vanessa Vanderbeck</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/cHc9xD68PKvE20dJERcuK2Et2z3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>India Neilan</name>
+        <role>Hostess</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/12D0tFNuaNobxxNkb235c4nUllv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mia Park</name>
+        <role>Receptionist</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/v4F3Qoflx8zwfAl9fKKX1KKb5cL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacqueline Williams</name>
+        <role>Madhvi Patel</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/1AcxysNCkYYh1AfZSDYUnuB3xpM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peggy Roeder</name>
+        <role>Attendant</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/btbLJGcch9lFNmupBFAKMTTP99M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Wells</name>
+        <role>Costello</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/fptkzhmhfLN9eN0RmTXsFFnu5m8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffini Funches</name>
+        <role>Young Nurse</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/gz2yf6LvjtZ1jnjh9ZOIjXghk0S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Kern</name>
+        <role>Nurse</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/cGxmiM0TY9Ibi3jWa8qhJHJGqak.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Andrew Gorman</name>
+        <role>Cove Bartender</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/7xHTl0KTx26OaLE1WK585XMIfjV.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-21 09:58:33</dateadded>
+</movie>

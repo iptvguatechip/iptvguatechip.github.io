@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Scary Movie</title>
+    <originaltitle>Scary Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>229990</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>4479</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Siguiendo los talones de las populares películas de terror adolescente-grito, con una comedia espeluznante y sátira mordaz. Marlon y Shawn Wayans, Shannon Elizabeth y Carmen Electra participan en el lanzamiento de algunos de los éxitos de taquilla más grandes de Hollywood, como Scream, Sé lo que hiciste el verano pasado, The Matrix, American Pie y The Blair Witch Project.</plot>
+    <tagline>No mercy. No shame. No sequel.</tagline>
+    <runtime>88</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8ds74cRhyAza3WcDVT8rZycwSC9.jpg">https://image.tmdb.org/t/p/original/8ds74cRhyAza3WcDVT8rZycwSC9.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zHy065u9JCDHA9IJ93MK7isSSMw.jpg">https://image.tmdb.org/t/p/original/zHy065u9JCDHA9IJ93MK7isSSMw.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/2hkIqzjLdvGW8BZwFDlFm90NzVA.jpg">https://image.tmdb.org/t/p/original/2hkIqzjLdvGW8BZwFDlFm90NzVA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rFOREADs0En0sdyj149V4E7n9aV.jpg">https://image.tmdb.org/t/p/original/rFOREADs0En0sdyj149V4E7n9aV.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/nsD3xlHagixzVYaE57EESeVYro7.jpg">https://image.tmdb.org/t/p/original/nsD3xlHagixzVYaE57EESeVYro7.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lTshS6rPLet95jFUjnRyk8GBsxk.jpg">https://image.tmdb.org/t/p/original/lTshS6rPLet95jFUjnRyk8GBsxk.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/s7QtA2jroTQjM8uQ11NL5zDqYO9.jpg">https://image.tmdb.org/t/p/original/s7QtA2jroTQjM8uQ11NL5zDqYO9.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1ad9GiUwLCFX3UA85B3w4aANpUW.jpg">https://image.tmdb.org/t/p/original/1ad9GiUwLCFX3UA85B3w4aANpUW.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/p2Q7ONxfe5o6FfmAHpxz31amwxi.jpg">https://image.tmdb.org/t/p/original/p2Q7ONxfe5o6FfmAHpxz31amwxi.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/qPRZ1HpvpPM81cBTwNKXlqtH9MT.jpg">https://image.tmdb.org/t/p/original/qPRZ1HpvpPM81cBTwNKXlqtH9MT.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rpzbedRGnWd5YzZZmgG6H076AzJ.jpg">https://image.tmdb.org/t/p/original/rpzbedRGnWd5YzZZmgG6H076AzJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fHWR3YplPQWciYzxEity2kyDoDn.jpg">https://image.tmdb.org/t/p/original/fHWR3YplPQWciYzxEity2kyDoDn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gFTvas8iofLZkeYeQ38F5pVuZuY.jpg">https://image.tmdb.org/t/p/original/gFTvas8iofLZkeYeQ38F5pVuZuY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lRQiJXETkCnVVurHmglNvMXrZOx.jpg">https://image.tmdb.org/t/p/original/lRQiJXETkCnVVurHmglNvMXrZOx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i3a1GtprypwL3spy6irzZrwrGrR.jpg">https://image.tmdb.org/t/p/original/i3a1GtprypwL3spy6irzZrwrGrR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xtYr6LWiOvH6869kYzfLc3FUHLJ.jpg">https://image.tmdb.org/t/p/original/xtYr6LWiOvH6869kYzfLc3FUHLJ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7nXYjP2337JzIAlpgWP6SYGviUg.jpg">https://image.tmdb.org/t/p/original/7nXYjP2337JzIAlpgWP6SYGviUg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7hRKltRLfOiyv1giLbL86A281vS.jpg">https://image.tmdb.org/t/p/original/7hRKltRLfOiyv1giLbL86A281vS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1t0gQctFUXdnrwHJkxLqgSbr6B8.jpg">https://image.tmdb.org/t/p/original/1t0gQctFUXdnrwHJkxLqgSbr6B8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v7Vpqyepu54v0chKrbLECYfg8Vk.jpg">https://image.tmdb.org/t/p/original/v7Vpqyepu54v0chKrbLECYfg8Vk.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0175142</id>
+    <uniqueid type="imdb" default="true">tt0175142</uniqueid>
+    <uniqueid type="tmdb">4247</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Scary Movie - Colección</name>
+    </set>
+    <credits>Marlon Wayans</credits>
+    <credits>Shawn Wayans</credits>
+    <credits>Buddy Johnson</credits>
+    <credits>Phil Beauman</credits>
+    <credits>Jason Friedberg</credits>
+    <credits>Aaron Seltzer</credits>
+    <director>Keenen Ivory Wayans</director>
+    <premiered>2000-07-07</premiered>
+    <year>2000</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Brad Grey Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3iy0pE1FBkc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>64.000000</aspect>
+                <width>1280</width>
+                <height>540</height>
+                <durationinseconds>5297</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Anna Faris</name>
+        <role>Cindy Campbell</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carmen Electra</name>
+        <role>Drew Decker</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wpSCUNmxRMxHOhXJDZGCMxyMidb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Sheridan</name>
+        <role>Doofy Gilmore</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pNP7NGCjfSn6nHpoLbCOf7RsexL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shannon Elizabeth</name>
+        <role>Buffy Gilmore</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/52HNFkJEJTpt1scah5dvm3QzIDs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Abrahams</name>
+        <role>Bobby Prinze</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lB4qv4fTjP02m7w19TFXc29yLUd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Regina Hall</name>
+        <role>Brenda Meeks</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zY1IoUVTghMBNUnbqGzjN5AfjA6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marlon Wayans</name>
+        <role>Shorty Meeks</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cheri Oteri</name>
+        <role>Gail Hailstorm</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/A56szuLpt2yttvnHB49KNUZmD4b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn Wayans</name>
+        <role>Ray Wilkins</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/Cat25uXhB680QLmvg9Tu16W563.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keenen Ivory Wayans</name>
+        <role>Slave</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/e9XRdXolDV8RjGPHPXH6IISDTSP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marissa Jaret Winokur</name>
+        <role>Garage Victim</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/9a8Phgwhrjw4e2Fng1ItNDL7QS0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kurt Fuller</name>
+        <role>The Sheriff</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/kV02XLACLFd1YYQdSOgqy6lFmQ3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lochlyn Munro</name>
+        <role>Greg Phillippe</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Ducommun</name>
+        <role>Cindy&apos;s Dad</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/usW5QTa85JuonyRktb3s5HjDD84.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lloyd Berry</name>
+        <role>Homeless Man</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Joffre</name>
+        <role>Cameraman Kenny</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David L. Lander</name>
+        <role>Principal Squiggy</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/d5GwxPlO2cEyCsBZ73ZcvcJGRvY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Coffield Park</name>
+        <role>Teacher</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/AdJuvk2jrU0rbLGmq2PsQoJCTxI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Trevor Roberts</name>
+        <role>Dookie</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/vDMVg8qjuBJMKjtBYpFizHPm3MW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jayne Trcka</name>
+        <role>Miss Mann</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jbJhPpkBA4IDqvJGx7ospexqTBZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen Kruper</name>
+        <role>Drew&apos;s Mom</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/GrlrdWJPTbX3h9efs9131Y7m4i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tanja Reichert</name>
+        <role>Miss Congeniality</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kendall Saunders</name>
+        <role>Miss Thing</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Glynis Davies</name>
+        <role>Buffy&apos;s Mom</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Van der Veen</name>
+        <role>Woman in Theatre</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/bZOOJ1NGBeLi2FfnV8Hou3H6I7I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Anne Lee</name>
+        <role>Reporter (uncredited)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank B. Moore</name>
+        <role>Not Drew&apos;s Boyfriend</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Giacomo Baessato</name>
+        <role>Trick or Treater #1</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/rP05o4fGbVA6BWJOrSBASUIsR1u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle Graham</name>
+        <role>Trick or Treater #2</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leanne Santos</name>
+        <role>Trick or Treater #3</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark McConchie</name>
+        <role>Drew&apos;s Dad</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Paxman</name>
+        <role>Annoying Guy</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Robson</name>
+        <role>KOMQ Reporter</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/mPFjykB0witOxH5UBabl3mltdZ2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susan Shears</name>
+        <role>Female Reporter</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Bryant</name>
+        <role>Black TV Reporter</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/enc6Lz5tsntLpWGjbzMgOk1DHvv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrea Nemeth</name>
+        <role>Heather</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/2TBl0xFjRE15jGTRmTNH7EGwnmL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Bruhnanski</name>
+        <role>Road Victim</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Reg Tupper</name>
+        <role>Beauty Pageant MC</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Babe Dolan</name>
+        <role>Grandma</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Neale</name>
+        <role>Policeman #1</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/ocfzTEZ2kWiQ32FPEwQeB2VQlSb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nels Lennarson</name>
+        <role>Policeman #2</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/lWsQopdsGhBoTeZphWwK9RL0Ya8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicola Crosbie</name>
+        <role>Reporter</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Bliss</name>
+        <role>Reporter #2</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/26Ms6gQlbfxAzdrSTKfkcMoJrov.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Wilding</name>
+        <role>Shorty&apos;s Roomate</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Hanlon</name>
+        <role>Suicidal Teacher</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/lxTLpjXbMF8J566HSfCj4DtmK9P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ted Cole</name>
+        <role>Older Man in Theater</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/dwX4Qg5kGF9568VkMnFuRlsLCAK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doreen Ramus</name>
+        <role>Old Lady in Theatre</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lee R. Mayes</name>
+        <role>Amistad II Captain</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Hoeppner</name>
+        <role>Whipmaster</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Shepard</name>
+        <role>Young Man in Theatre</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dexter Bell</name>
+        <role>Shorty&apos;s Friend</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/kAwa1CrvqdfN6Wz0DAexcpxgm9h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ted Gill</name>
+        <role>Store Clerk</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Keilty</name>
+        <role>Killer Ghost (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Van Der Beek</name>
+        <role>Dawson Leary (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/5CzRqYzRMNevIu6rB8gUFKpsKZL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Hawkes</name>
+        <role>Warren (uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/vcUxVM6pIeTL7VzfMnL3pcdv0sJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Hansen</name>
+        <role>Stoner (uncredited)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/jcAcIuEXKeNID6Zsg6NeDPdbgEu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Art Hives</name>
+        <role>Teacher (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bruce Mahler</name>
+        <role>Homey (uncredited)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/abOhMKaG271Uhc2HxsHX0EJ4url.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zahf Paroo</name>
+        <role>Principal (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aubrey Tennant</name>
+        <role>Underwear Norseman (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-01 21:05:40</dateadded>
+</movie>

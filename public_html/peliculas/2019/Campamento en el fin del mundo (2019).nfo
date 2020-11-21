@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Campamento en el fin del mundo</title>
+    <originaltitle>Rim of the World</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.200000</value>
+            <votes>17997</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>623</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Atrapados en un campamento de verano durante un ataque alienígena, cuatro adolescentes muy diversos se embarcan en una peligrosa misión por salvar el mundo.</plot>
+    <tagline>Saving the world is alien to them</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1oqJfb51ctdDWglqRuSYkuOF5Uu.jpg">https://image.tmdb.org/t/p/original/1oqJfb51ctdDWglqRuSYkuOF5Uu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg">https://image.tmdb.org/t/p/original/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aDROeNsoFx1saORBUYAiBf7GFTj.jpg">https://image.tmdb.org/t/p/original/aDROeNsoFx1saORBUYAiBf7GFTj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AsYcUflAwW8y9wKfWTTB6XNLgI1.jpg">https://image.tmdb.org/t/p/original/AsYcUflAwW8y9wKfWTTB6XNLgI1.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wsjcWHezujlzhBpED3KXq3JkxmB.jpg">https://image.tmdb.org/t/p/original/wsjcWHezujlzhBpED3KXq3JkxmB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1f7kMbB84GYUIzyLBp25mQMAvEU.jpg">https://image.tmdb.org/t/p/original/1f7kMbB84GYUIzyLBp25mQMAvEU.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 12</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8179388</id>
+    <uniqueid type="imdb" default="true">tt8179388</uniqueid>
+    <uniqueid type="tmdb">531306</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Aventura</genre>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Zack Stentz</credits>
+    <director>McG</director>
+    <premiered>2019-05-24</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Wonderland Sound and Vision</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z9TrXxTK-lA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.000000</aspect>
+                <width>1920</width>
+                <height>960</height>
+                <durationinseconds>5948</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jack Gore</name>
+        <role>Alex</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/o2jZrgP7SlHYWLpj0h0SDkkJ0ni.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miya Cech</name>
+        <role>ZhenZhen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/dpWo4h5r5Dw9xWA0rnB9XUgLtlg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Flores Jr.</name>
+        <role>Dariush</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/s8PluqqANOF7O1tn60TKDByfcDC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alessio Scalzotto</name>
+        <role>Gabriel</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2aPjx9gy3IIg6gOcoSiAgasa7ZS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Bachelor</name>
+        <role>Logan</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/dReXjimiVOydELw2ASQwRcStkbo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Annabeth Gish</name>
+        <role>Grace</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wfUaE95xUJ3Kh5okDpUMZNmbcom.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott MacArthur</name>
+        <role>Lou Gates</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/xfbp7uWujYAqlgWHkwGGEmQKNgg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean S. Jagger</name>
+        <role>Captain Hawking</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/lLLLqscRNnbFC7GQNqYIQ5WsoCJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Beach</name>
+        <role>General Khoury</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynn Collins</name>
+        <role>Major Collins</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ailMJrDO8hskoFjhWcX1zZVc4f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Theune</name>
+        <role>Head Counselor</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/zNadeApQk3UBQL6I4gEORdeDng6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Cavalero</name>
+        <role>Conrad</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carl McDowell</name>
+        <role>Carl</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/vv9cbS4TX1mrjmpDym8EEUlXD2r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Punam Patel</name>
+        <role>Angeline</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/hhe8txYC96LH5lJbe5VwNKi852n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Rogel</name>
+        <role>Customs Official</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/ovEb11Bf7mOep29LdhRlDR63Z7f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Wylde</name>
+        <role>Uncle Chris</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/eS2Gv7lBrwNYeifgV23Jwm5HSZL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rudy Mancuso</name>
+        <role>Wes</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/6PtUsjNCYOIN7PjvQin8ck4vfjd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amanda Cerny</name>
+        <role>Lucy</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/i3G9NPcE3CKHxEVNHzL6UVbALIj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allan Graf</name>
+        <role>Taxi Driver</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/7PktaLsyJLCSHncMNxg92c6LkCX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron Fuller</name>
+        <role>Young Soldier</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/qdQSgq8QB1LJ7BvJpWzqPEISk83.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Gore</name>
+        <role>Alex&apos;s Dad</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Parros</name>
+        <role>Dariush&apos;s Dad</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/qpHzJyegJwPBrgLarsl1qeUasaP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Annie Cavalero</name>
+        <role>Zip Line Counselor</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerry Westcott</name>
+        <role>Flight Attendant (uncredited)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/a6LkiANuO65XXjAUVvHcxhN9Twz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Papajohn</name>
+        <role>Jenkins (uncredited)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/9nVHCoYxCpGh9pO00xp7SybWd7b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrea Susan Bush</name>
+        <role>Camp Counselor (uncredited)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Ashton</name>
+        <role>Additional Voices (voice)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Fors</name>
+        <role>Additional Voices (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZuAdf50vu237WYIKryYCLUDiD4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willow Geer</name>
+        <role>Additional Voices (voice)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/kreFbFc095mvIRI89FIHUlWOBuo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Collyer</name>
+        <role>Additional Voices (voice)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Evan Kishiyama</name>
+        <role>Additional Voices (voice)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/tL0bxnvJNvCWbysjQuh6lcboJGx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Pace</name>
+        <role>Additional Voices (voice)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andre Robinson</name>
+        <role>Additional Voices (voice)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/vnmmrFaNhozGInZeYGMe4hlxmVo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Shannon</name>
+        <role>Additional Voices (voice)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/x4KF7zBFNoUYwnk0TbqRIrwbZ5n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Wagner</name>
+        <role>Additional Voices (voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/y8cne8m3YGU9AIw1bqtk2Dhcqpk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nora Wyman</name>
+        <role>Additional Voices (voice)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 17:47:46</dateadded>
+</movie>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Batman vs Dos-Caras</title>
+    <originaltitle>Batman vs. Two-Face</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.100000</value>
+            <votes>3158</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>101</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Harvey Dent, el fiscal de distrito de Ciudad Gótica, es mutilado en un accidente de laboratorio. A partir de ese momento comienzan los crímenes de Dos Caras. Batman y Robin deberán descubrir su identidad y detenerlo.</plot>
+    <tagline>Batman vs Dos-Caras</tagline>
+    <runtime>72</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6iXSL4m8s0dEJ88grAJIZ7Ynb0a.jpg">https://image.tmdb.org/t/p/original/6iXSL4m8s0dEJ88grAJIZ7Ynb0a.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/cqTHdZABOzqQq0dT2hbc9h6MAT4.jpg">https://image.tmdb.org/t/p/original/cqTHdZABOzqQq0dT2hbc9h6MAT4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg">https://image.tmdb.org/t/p/original/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7MFq3I1ESHGMYhXWubQtMmTFvJm.jpg">https://image.tmdb.org/t/p/original/7MFq3I1ESHGMYhXWubQtMmTFvJm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/olwINcffzDRt8MMCamlptD3Hbjj.jpg">https://image.tmdb.org/t/p/original/olwINcffzDRt8MMCamlptD3Hbjj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zuBoGr3DiGMjNC6W02YbtbeW0E1.jpg">https://image.tmdb.org/t/p/original/zuBoGr3DiGMjNC6W02YbtbeW0E1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4xFlvdymCBqyBN8Ab5i69Sgqk7m.jpg">https://image.tmdb.org/t/p/original/4xFlvdymCBqyBN8Ab5i69Sgqk7m.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e4EFU3Ht6ayijrvwOlZF032BWF3.jpg">https://image.tmdb.org/t/p/original/e4EFU3Ht6ayijrvwOlZF032BWF3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6Ljr6v5vyhwv5tIKSGvOEDSGISW.jpg">https://image.tmdb.org/t/p/original/6Ljr6v5vyhwv5tIKSGvOEDSGISW.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6142314</id>
+    <uniqueid type="imdb" default="true">tt6142314</uniqueid>
+    <uniqueid type="tmdb">464882</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Batman (Adam West) Animación - Colección</name>
+        <overview>Animated movies based on the TV-Series with Adam West as Batman.</overview>
+    </set>
+    <credits>Michael Jelenic</credits>
+    <credits>James Tucker</credits>
+    <director>Rick Morales</director>
+    <premiered>2017-11-14</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DC Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5VD0kfTeznE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4328</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Adam West</name>
+        <role>Bruce Wayne / Batman (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Burt Ward</name>
+        <role>Dick Grayson / Robin (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9mXSBunzhcx239hy23s7dQrKcP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Shatner</name>
+        <role>Harvey Dent / Two-Face (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7lsjbNFMGj3kYYWoMk1LNnl4p5P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Newmar</name>
+        <role>Catwoman (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/1VJkHq8I1gfh3wBcUZMBSs0anu8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Bergman</name>
+        <role>Joker (voice) / Bookworm (voice) / Desmond Dumas (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9f1B7I6Ba3rxGYpMM2cmVtF8puu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sirena Irwin</name>
+        <role>Dr. Harleen Quinzel (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/pK2OgTLhjCMJdTySlztR8ojxbtq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Lennon</name>
+        <role>Chief O&apos;Hara (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Meriwether</name>
+        <role>Lucilee Diamond (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/8KMAQXWV3dUBThivDqvpiUjAM8B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Salyers</name>
+        <role>Penguin (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/7h5yGKp6eROxRrzTkHE6FeKicmT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynne Marie Stewart</name>
+        <role>Aunt Harriet (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/yVUrboiJ4Mqz7M4bqvUjwV8alf7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Ward</name>
+        <role>Commissioner Gordon (voice) / Hugo Strange (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/yQklzBUmaHbcS00DXq73J1HYUrE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Weber</name>
+        <role>Alfred Pennyworth (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8FtkapenCOpe39eE1sQus5WLWAq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wally Wingert</name>
+        <role>Riddler (voice) / King Tut (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/5B9STa1OwelvyUs37SWUIFzhIhB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurice LaMarche</name>
+        <role>Egghead (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:02</dateadded>
+</movie>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Tierra de zombies</title>
+    <originaltitle>Zombieland</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.600000</value>
+            <votes>514322</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.300000</value>
+            <votes>8814</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un tímido estudiante tratando de alcanzar a su familia en Ohio, un tipo duro armado tratando de encontrar el último Twinkie, y un par de hermanas tratando de llegar a un parque de diversiones se unen para viajar a través de un Estados Unidos lleno de zombis.</plot>
+    <tagline>¡Podrías ser un Zombie sin pulso si no te gusta esta película!</tagline>
+    <runtime>86</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/weGOxlTBLGdKpJvn7mmld6vK8Oo.jpg">https://image.tmdb.org/t/p/original/weGOxlTBLGdKpJvn7mmld6vK8Oo.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/5NWIBp6qpcMWWrn9PaNSxL2NLPH.jpg">https://image.tmdb.org/t/p/original/5NWIBp6qpcMWWrn9PaNSxL2NLPH.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/eujHHruaX4Lcv2uBtRpWYEsCUw3.jpg">https://image.tmdb.org/t/p/original/eujHHruaX4Lcv2uBtRpWYEsCUw3.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sTm75karIcufoqrOR2MflJGnF16.jpg">https://image.tmdb.org/t/p/original/sTm75karIcufoqrOR2MflJGnF16.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/n6XNnXTMZVTttt338CrBkfKPuOd.jpg">https://image.tmdb.org/t/p/original/n6XNnXTMZVTttt338CrBkfKPuOd.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/w8gUU1xsfjRHIjdK6W1SZsWRHsS.jpg">https://image.tmdb.org/t/p/original/w8gUU1xsfjRHIjdK6W1SZsWRHsS.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/zTFuxHhZhtZeYETHK84H7fV0lAM.jpg">https://image.tmdb.org/t/p/original/zTFuxHhZhtZeYETHK84H7fV0lAM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/X8UWnlba9KY92Ubg21YbPLs1wU.jpg">https://image.tmdb.org/t/p/original/X8UWnlba9KY92Ubg21YbPLs1wU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg">https://image.tmdb.org/t/p/original/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nI9fjmrc6BzJ6CFAnedoh1lMuXS.jpg">https://image.tmdb.org/t/p/original/nI9fjmrc6BzJ6CFAnedoh1lMuXS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u9HlOuLJeY4vmquIJLWT8eV26oX.jpg">https://image.tmdb.org/t/p/original/u9HlOuLJeY4vmquIJLWT8eV26oX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nDzYfYPlJA9j7ZtK6AVKFTiIGXz.jpg">https://image.tmdb.org/t/p/original/nDzYfYPlJA9j7ZtK6AVKFTiIGXz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zJkH5HPiCSeQht1UqsCfeSrVok1.jpg">https://image.tmdb.org/t/p/original/zJkH5HPiCSeQht1UqsCfeSrVok1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yt6O2ElgjVtMTDxigdxwigiUE6v.jpg">https://image.tmdb.org/t/p/original/yt6O2ElgjVtMTDxigdxwigiUE6v.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3BhtfoyKorNMQgb4HOT1AlZxEK5.jpg">https://image.tmdb.org/t/p/original/3BhtfoyKorNMQgb4HOT1AlZxEK5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6mzeji9w6EDsyKpC8MBzPs6qu8Y.jpg">https://image.tmdb.org/t/p/original/6mzeji9w6EDsyKpC8MBzPs6qu8Y.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oihWVx3imvRKujnGmSDYhfG1gI5.jpg">https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fEW8LcXrB4wlx38FZwUN1KWqjGx.jpg">https://image.tmdb.org/t/p/original/fEW8LcXrB4wlx38FZwUN1KWqjGx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aoSpIvujFibJPtNMcZnLlHYUhhu.jpg">https://image.tmdb.org/t/p/original/aoSpIvujFibJPtNMcZnLlHYUhhu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oD6mFTHUIBIJlXoc72ZRSLDpMv3.jpg">https://image.tmdb.org/t/p/original/oD6mFTHUIBIJlXoc72ZRSLDpMv3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xlZlSylzQYzKS0CzxjJaF7YxvX5.jpg">https://image.tmdb.org/t/p/original/xlZlSylzQYzKS0CzxjJaF7YxvX5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xvlFnRXMEXLnyc9VlETmOkZoKcr.jpg">https://image.tmdb.org/t/p/original/xvlFnRXMEXLnyc9VlETmOkZoKcr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2IzdwA5Sx90MyseDVkdjNK51xb6.jpg">https://image.tmdb.org/t/p/original/2IzdwA5Sx90MyseDVkdjNK51xb6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rBGwWjg4irAPAuEmWC3xXVT55g9.jpg">https://image.tmdb.org/t/p/original/rBGwWjg4irAPAuEmWC3xXVT55g9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5ysGQkMluC1cfctPo58ArrgEelK.jpg">https://image.tmdb.org/t/p/original/5ysGQkMluC1cfctPo58ArrgEelK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dxytfkVx2p0Q3YUdki20oTbQXn3.jpg">https://image.tmdb.org/t/p/original/dxytfkVx2p0Q3YUdki20oTbQXn3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/urT1GpHzqlXDCcCxr8CsW6Jyymh.jpg">https://image.tmdb.org/t/p/original/urT1GpHzqlXDCcCxr8CsW6Jyymh.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1156398</id>
+    <uniqueid type="imdb" default="true">tt1156398</uniqueid>
+    <uniqueid type="tmdb">19908</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Zombieland - Colección</name>
+    </set>
+    <credits>Rhett Reese</credits>
+    <credits>Paul Wernick</credits>
+    <director>Ruben Fleischer</director>
+    <premiered>2009-10-07</premiered>
+    <year>2009</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pariah</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VBqlyQDvLaM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1280</width>
+                <height>536</height>
+                <durationinseconds>5218</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jesse Eisenberg</name>
+        <role>Columbus</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Woody Harrelson</name>
+        <role>Tallahassee</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/gaibtvUFIlwHzRvNKV5UfrR4GCM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abigail Breslin</name>
+        <role>Little Rock</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/oOFCyH2uS6639w0XVR6DtimfNYb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Stone</name>
+        <role>Wichita</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Heard</name>
+        <role>406</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/1cb5mGzGB6Sj2JPkWt9W16B19Bf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Murray</name>
+        <role>Bill Murray</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek Graf</name>
+        <role>Clown Zombie</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wwa2VZwRjXYrXv5kdhj9dIgQn8I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Price</name>
+        <role>Sprint Zombie (uncredited)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike White</name>
+        <role>Gas Station Attendant (uncredited)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victory Van Tuyl</name>
+        <role>Bubby &amp; Pee Paw&apos;s Granddaughter (uncredited)</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blaise Corrigan</name>
+        <role>Groom (uncredited)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/2rwaMR4WJLBnZDYTd95XDTS46MV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Sebek</name>
+        <role>Businesswoman Zombie (uncredited)</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christina Klein</name>
+        <role>Zombie (uncredited)</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amir Kovacs</name>
+        <role>Zombie (uncredited)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shaun Michael Lynch</name>
+        <role>Cardio Zombie (uncredited)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lynn McArthur</name>
+        <role>Girl on Cell Phone (uncredited)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/3FXKVodJx1u9jc4DiRs3iDa5QKn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jade Moser</name>
+        <role>Yellow Truck Girl (uncredited)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melanie Booth</name>
+        <role>Hippie Girl (uncredited)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/xiQz5kKrWu5HOYSKqkcEb5XHFyw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elle Alexander</name>
+        <role>Zombie Meter Maid (uncredited)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/6MZFAolCYO4Gq3GyhdRbvf1XbhN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Burns</name>
+        <role>Bicycle Zombie (uncredited)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jRdboYzMeSkRU1kzybGw28FloVv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sydnie Dawson</name>
+        <role>Princess Zombie (uncredited)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/A9EEMHhldeii3bBw9AbKqyvWsiQ.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 07:10:40</dateadded>
+</movie>

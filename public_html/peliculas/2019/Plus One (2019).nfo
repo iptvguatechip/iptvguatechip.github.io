@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Plus One</title>
+    <originaltitle>Plus One</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>7604</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>130</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Ha llegado el gran momento del año: la época de las bodas. Una oscura y al mismo tiempo adorable parte de la vida adulta. Durante un verano en el que prácticamente se celebra una boda a la semana, dos amigos del la universidad, Ben (Jack Quaid) y Alice (Maya Erskine) realizan un pacto para sobrevivir juntos a la matanza. A medida que celebran un brindis tras otro, la pareja descubre un mundo de solteros mientras buscan una distracción para pasar o el rato.</plot>
+    <tagline>10 Weddings, 1 Summer, No One Can Survive Alone</tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4w3bCp5UkLeemdq8MBNlyA3Zl2J.jpg">https://image.tmdb.org/t/p/original/4w3bCp5UkLeemdq8MBNlyA3Zl2J.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qG9BjH2nhFpyddNU3oDKfWXTXXf.jpg">https://image.tmdb.org/t/p/original/qG9BjH2nhFpyddNU3oDKfWXTXXf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eGkqSUMkL61tt6196gcJ71CPt82.jpg">https://image.tmdb.org/t/p/original/eGkqSUMkL61tt6196gcJ71CPt82.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9wCuT4tcjJkx70oqo5veyISkyDn.jpg">https://image.tmdb.org/t/p/original/9wCuT4tcjJkx70oqo5veyISkyDn.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9TL90eOg7KfaJOqYSgimZ6yXnRJ.jpg">https://image.tmdb.org/t/p/original/9TL90eOg7KfaJOqYSgimZ6yXnRJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rbdRycI6VRrtP4ig7VLWWrJS0ML.jpg">https://image.tmdb.org/t/p/original/rbdRycI6VRrtP4ig7VLWWrJS0ML.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7645122</id>
+    <uniqueid type="imdb" default="true">tt7645122</uniqueid>
+    <uniqueid type="tmdb">508101</uniqueid>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Jeff Chan</credits>
+    <credits>Andrew Rhymer</credits>
+    <director>Jeff Chan</director>
+    <director>Andrew Rhymer</director>
+    <premiered>2019-08-08</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Red Hour Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RZSeK851vZY</trailer>
+    <actor>
+        <name>Maya Erskine</name>
+        <role>Alice</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/w38pRqT38KYiPWO5L1Ex5jBw1Ge.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Quaid</name>
+        <role>Ben</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/c06rdofVnM7rIv7ATsrxfLGz5yo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ed Begley Jr.</name>
+        <role>Chuck</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mmGS9QQLlTfe3aT8WERMLsIBnZU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beck Bennett</name>
+        <role>Matt</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xbcVvJ1a7qUIdyYb4PJewFlNFu4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosalind Chao</name>
+        <role>Angela</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ejUMD59T6txpKmNqIBroXBjyDHx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Perrey Reeves</name>
+        <role>Gina</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zkppOuOlGMP59ulwKdqC2tlg07B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Finn Wittrock</name>
+        <role>Steve</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6QOOIy1M8gDSF7tcEYqSpFomC7q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maya Kazan</name>
+        <role>Shaina</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6QQZ5taw1TKCLyzHYd5OkKXMk46.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Bass</name>
+        <role>Cartelli</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/2eo9pMyPhA9mBaSrNlD6UP3Nkyw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessy Hodges</name>
+        <role>Amanda</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/cRGqWZqxxqomvtRvxdVninq6P0k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Konkle</name>
+        <role>Jenna</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria Park</name>
+        <role>Lily Mori</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/fkTro9Cai2A1eq2x99prnCwyAm8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Anfanger</name>
+        <role>Derrick</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkUM0vAGO2K91r1ewxn5Lqjkc8h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kiersten Armstrong</name>
+        <role>Marissa</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/tNeV5lFzP1iRHHJ0sQ6JPP3Lazs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Bartels</name>
+        <role>Ellie</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/1yCROd3owsR5d3AcKzWPf0ba8yD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Bays</name>
+        <role>Uncle Davis</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/4FgZuJesfFEH0wUcvuKba03vE0d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Bell</name>
+        <role>Perfect Maid of Honor</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/44pK49GPg93it63ALnw91Z0waK2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scarlett Bermingham</name>
+        <role>Maggie</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/lihRb0LJbJDisBV13Y4tFbGc6GT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaxy Boyd</name>
+        <role>Receptionist</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christine Bullen</name>
+        <role>Passive Aggressive Maid of Honor</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachelle Carson</name>
+        <role>Janice</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/5tpeZSpWrLLOy65PiO39jT33zzC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Chiou</name>
+        <role>Nate</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Felisha Cooper</name>
+        <role>Kara</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ieWJgyB55bL217MiyFpJezGGz3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Juliet Ford</name>
+        <role>Bridesmaid</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/bgdzFUldR1imzcVsEednhR0jLDs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Kyle Goodman</name>
+        <role>Brett</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/9FuXR9JlYtlybTVDT1toCbgaVYK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allan Havey</name>
+        <role>Hannon</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/sSacPgmV3r5n3cWTMyVvW9pNkBS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leah Henoch</name>
+        <role>Kelly</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/vAOr97CFNxIELYtYZ8OAPs1cDuA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brianne Howey</name>
+        <role>Jess Ramsey</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/zhiXsq3JoviKE4QABPyJyRPe4Vy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Jenkins</name>
+        <role>Nick</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/dSalINCQn5moWpPCMzPMJ7JZWYM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhomeyn Johnson</name>
+        <role>Hapless Father</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emma Koenig</name>
+        <role>Anne</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kelsey Kummerl</name>
+        <role>Wedding Guest</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katie Rose Law</name>
+        <role>Friendly Younger Sister</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/xiqSyyopf6VhPjuGtYaxxbg1BwH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Lyke</name>
+        <role>Pete</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bart McCarthy</name>
+        <role>Groundskeeper</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/ddMRjOGx2RZAGmbZkfCfFDU4mV3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian McElhaney</name>
+        <role>Bartender</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caitlin McGee</name>
+        <role>Jackie</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/60xwyNLBX9LCvlCwN0luop7xa6q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Reinhardt</name>
+        <role>Paul</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Schroeder</name>
+        <role>Unprepared Best Man</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/uAcJjchAqgcCRSYZkRtW6S1drIG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Betsy Sodaro</name>
+        <role>Grumpy Maid of Honor</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/9bMACXZdz4QHMc9Ew4WYIYVL5VH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Theune</name>
+        <role>Wacky Photographer</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/zNadeApQk3UBQL6I4gEORdeDng6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Virtue</name>
+        <role>Officiant</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/etCc7aFC9gOzOctFERT7e6qC83C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katerina Vlasenko</name>
+        <role>Bridesmaid</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Ward</name>
+        <role>Trevor</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/u39Ff2dEEnnkLgaAC37boeZXAE3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Time Winters</name>
+        <role>Mr. Riccardi</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patrick Woodall</name>
+        <role>Josh</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachael Wotherspoon</name>
+        <role>Bridesmaid</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/jShVbCkuz8MGiWhUJ9QH0fGbrHx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Yi</name>
+        <role>Mitch Mori</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/m7nvQ2EZ1D1S500qDmYeoOdv3Ge.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant O&apos;Brien</name>
+        <role>Greg</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/upEXnZz7nLUi2qpAJPdAq3LQ8gj.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 09:42:07</dateadded>
+</movie>

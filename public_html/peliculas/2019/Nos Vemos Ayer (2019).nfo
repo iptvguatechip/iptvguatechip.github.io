@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Nos Vemos Ayer</title>
+    <originaltitle>See You Yesterday</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>8794</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>349</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>C.J. y Sebastián son mejores amigos y prodigios de la ciencia, obsesionados con su último invento: unas mochilas que permiten viajar en el tiempo. Cuando Calvin, el hermano mayor de C.J., muere tras un encuentro con la policía, los amigos deciden usar su proyecto inconcluso en un intento desesperado por salvarlo.</plot>
+    <tagline>Going back is the only way forward</tagline>
+    <runtime>87</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg">https://image.tmdb.org/t/p/original/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w4jvEMphDoIhYmf0mR17KYzutoo.jpg">https://image.tmdb.org/t/p/original/w4jvEMphDoIhYmf0mR17KYzutoo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sxB5kyUK4VfbfF60Ocklqe06O3p.jpg">https://image.tmdb.org/t/p/original/sxB5kyUK4VfbfF60Ocklqe06O3p.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cAc3Q2yPsa8cH6z6rU9IZVltZW2.jpg">https://image.tmdb.org/t/p/original/cAc3Q2yPsa8cH6z6rU9IZVltZW2.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4VNpU3Hjjslfd5CY0Ywr7zSgObM.jpg">https://image.tmdb.org/t/p/original/4VNpU3Hjjslfd5CY0Ywr7zSgObM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lK7IphewdNxLYXZB1sDh99lgHoM.jpg">https://image.tmdb.org/t/p/original/lK7IphewdNxLYXZB1sDh99lgHoM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zVL1yX2jIjuAVqZFzyEhWGeD95O.jpg">https://image.tmdb.org/t/p/original/zVL1yX2jIjuAVqZFzyEhWGeD95O.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8743064</id>
+    <uniqueid type="imdb" default="true">tt8743064</uniqueid>
+    <uniqueid type="tmdb">582607</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Drama</genre>
+    <genre>Aventura</genre>
+    <genre>Crimen</genre>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <director>Stefon Bristol</director>
+    <premiered>2019-05-03</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>40 Acres &amp; A Mule Filmworks</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wNn36BY1efQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5232</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eden Duncan-Smith</name>
+        <role>Claudette &apos;CJ&apos; Walker</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/42okRfxwBy7DUUckG62Ff0kj2yL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dante Crichlow</name>
+        <role>Sebastian J. Thomas</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8cJmXdHXhAUuEkWvvPSpqVoJ9KW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Astro</name>
+        <role>Calvin Walker</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/dqS3kBv2DpiAMPv5J6ZIl2v3ik3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marsha Stephanie Blake</name>
+        <role>Phaedra Walker</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rmt9fiHA9i0A3pFuguhtODdXFIH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Myra Lucretia Taylor</name>
+        <role>Gloria Thomas</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/2NGOMDMn6Iyben80LuZhp6ZGZ8W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wavyy Jonez</name>
+        <role>Dennis Owens</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hBE36xe0IuMzRp4JP4Ah8jGPdGm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Damaris Lewis</name>
+        <role>Candice</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2oQlRFPKOgKo8NR92IFktpo6XT6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boma Akpore</name>
+        <role>Funeral attendee</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/qpOBCTUkt4dABtREJb56hwg8L4k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manny Ureña</name>
+        <role>Officer Perez</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/wPaMxvrD8YdFgLNquyCf26fNiEz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taliyah Whitaker</name>
+        <role>Zora</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/kFaqCqqwYh2CqBEJbHP5mLsk5FZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brett G. Smith</name>
+        <role>Officer Bryce</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8RRgSih61bQKT9D7OocQ2idM67.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Khail Bryant</name>
+        <role>Tiffany</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Johnathan Nieves</name>
+        <role>Eduardo</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/8rqku45BpqvJd6K9ilBFa9nCPNz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael J. Fox</name>
+        <role>Mr. Lockhart</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Unterman</name>
+        <role>Mr. Lockhart</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/pqe0lerYoEGcaXYHO6BkWcglZuM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ejyp Johnson</name>
+        <role>Rosco</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/l2gpHX55LAQizSpymzLgRj6Qncu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Arce Jr.</name>
+        <role>Carlito</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/vVpfODYs1HlDoknjrCtGPggV3T9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrice Bell</name>
+        <role>Kimberly</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/4Lso9ENFC75BT5v9W8t61eGz8cW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barrington Walters Jr.</name>
+        <role>Keith</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/iMvbg6IWDSCW5TG6CJ39sQT436W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Waliek Crandall</name>
+        <role>Simpson</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Monique Robinson</name>
+        <role>Shellon</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Allen Holloway</name>
+        <role>Ray</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 21:54:32</dateadded>
+</movie>

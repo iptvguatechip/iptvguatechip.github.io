@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Búnker</title>
+    <originaltitle>PMC: 더 벙커</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>900</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.400000</value>
+            <votes>63</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un capitán y su equipo de doce soldados se infiltran en un búnker subterráneo para destruir un objetivo en la zona desmilitarizada de Corea.</plot>
+    <tagline>Take Point</tagline>
+    <runtime>125</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u9xBvG0BE2yf1L9KknQEnQl6CfF.jpg">https://image.tmdb.org/t/p/original/u9xBvG0BE2yf1L9KknQEnQl6CfF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9YNAY1f2uQiroOLSng34Bvi75OX.jpg">https://image.tmdb.org/t/p/original/9YNAY1f2uQiroOLSng34Bvi75OX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/btTWLoxtaaikS2zoPc6pmB6aon5.jpg">https://image.tmdb.org/t/p/original/btTWLoxtaaikS2zoPc6pmB6aon5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3f5mDtIKgCIgpzb4ktGFsaxKIwD.jpg">https://image.tmdb.org/t/p/original/3f5mDtIKgCIgpzb4ktGFsaxKIwD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ugaIj3iQ6AoaQ3K52ltZtEnCxLE.jpg">https://image.tmdb.org/t/p/original/ugaIj3iQ6AoaQ3K52ltZtEnCxLE.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/y5ul2qyntneMQTXmCQqfGtp8qVZ.jpg">https://image.tmdb.org/t/p/original/y5ul2qyntneMQTXmCQqfGtp8qVZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d6STwqdD31dYHChZLzosAZxAgzX.jpg">https://image.tmdb.org/t/p/original/d6STwqdD31dYHChZLzosAZxAgzX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3F2J0OWPSH64RkLx53v4lRyAEbr.jpg">https://image.tmdb.org/t/p/original/3F2J0OWPSH64RkLx53v4lRyAEbr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4m5Uc7Z38kv0qV6kf65tuEfsLDU.jpg">https://image.tmdb.org/t/p/original/4m5Uc7Z38kv0qV6kf65tuEfsLDU.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7156436</id>
+    <uniqueid type="imdb" default="true">tt7156436</uniqueid>
+    <uniqueid type="tmdb">557972</uniqueid>
+    <genre>Acción</genre>
+    <country>South Korea</country>
+    <credits>Kim Byung-woo</credits>
+    <director>Kim Byung-woo</director>
+    <premiered>2018-12-26</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CJ Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lhn090icbpM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>7503</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>kor</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ha Jung-woo</name>
+        <role>Ahab</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ju4wHzFZsfj46sMFJMA3mnHZMWc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Sun-kyun</name>
+        <role>Yoon Ji-eui</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/93p1N6AhKLUnwOBdTJLweuC4qXF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Ehle</name>
+        <role>L&apos;agent Mackenzie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rmHaDj5xQu3ZPoI5XWgA5BZj3zH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Durand</name>
+        <role>Markus</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/Aajju2i04laxJl02FM5cSTRCKvq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kang Shin-chul</name>
+        <role>Choi Yi-hyeon</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/v9uk9IlrD6RtMiCP0eHFB7zdTIs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spencer Daniels</name>
+        <role>Logan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/yFePed7zzGyvdoU1c3XdilsHw1r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Malik Yoba</name>
+        <role>Gerald</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/u3lvFmLNa0Nty4LkdwpbgfBFJiM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Juaquin</name>
+        <role>Jose</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jorge-Luis Pallo</name>
+        <role>Pedro</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/9cw97jnvm7SvnCTNBWZHXt4clfu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Bosley</name>
+        <role>Dmitri</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Curtis Brown</name>
+        <role>McGregor</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbMhXK1U9zZXcPHQKAoJ677qeak.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shin Hyun-bin</name>
+        <role>Lee Ji-su</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/z20Q2MtHGiGcGbvUB8bSVWLmwEY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seon Uk-hyeon</name>
+        <role>King</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Lyons</name>
+        <role>Nelson</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Warzecha Wyka</name>
+        <role>JP</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Meixner</name>
+        <role>Marcel</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Covalschi Liviu</name>
+        <role>Carlos</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yaqub Khurram</name>
+        <role>Samir</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kade Vu</name>
+        <role>BAO</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lee Sang-won</name>
+        <role>Aide</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Min Moo-je</name>
+        <role>Aide</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/h5M6ICxiWF2URqUcwzANeoFPJAk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andreas Fronk</name>
+        <role>Alligator 47 Captain</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/lFPWRxiqquHNfLT9Mb0EUMwJ0z5.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:13:23</dateadded>
+</movie>

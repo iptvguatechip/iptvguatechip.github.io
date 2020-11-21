@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Triple 9</title>
+    <originaltitle>Triple 9</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>64732</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>1529</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una banda de criminales y policías corruptos planean el asesinato de un oficial de policía para llevar a cabo su mayor atraco en toda la ciudad.</plot>
+    <tagline>Nunca olvides de qué lado estás.</tagline>
+    <runtime>115</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7PIPr0X5kmiigySp2szq12bkira.jpg">https://image.tmdb.org/t/p/original/7PIPr0X5kmiigySp2szq12bkira.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hMW4p1CBF8Q94PqQk8b2EyT4IJk.jpg">https://image.tmdb.org/t/p/original/hMW4p1CBF8Q94PqQk8b2EyT4IJk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4k6r1lZmyFbGokaDHsG2LaBKmK7.jpg">https://image.tmdb.org/t/p/original/4k6r1lZmyFbGokaDHsG2LaBKmK7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gPkQrY8auxnTAQP8nAeS8UtUp19.jpg">https://image.tmdb.org/t/p/original/gPkQrY8auxnTAQP8nAeS8UtUp19.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jgpXnAFSPIWmj88wDtQujnmbA3T.jpg">https://image.tmdb.org/t/p/original/jgpXnAFSPIWmj88wDtQujnmbA3T.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1KPA8zAkhEMIr85pa2QEsVjQM4e.jpg">https://image.tmdb.org/t/p/original/1KPA8zAkhEMIr85pa2QEsVjQM4e.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6V3SHoxhwXpf4SjKRqI3tKyaBAe.jpg">https://image.tmdb.org/t/p/original/6V3SHoxhwXpf4SjKRqI3tKyaBAe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3MDr59yNse48mF4EtUPcJvdUH1q.jpg">https://image.tmdb.org/t/p/original/3MDr59yNse48mF4EtUPcJvdUH1q.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lIYgfpeOWVwekgSOocXz6tk9z8n.jpg">https://image.tmdb.org/t/p/original/lIYgfpeOWVwekgSOocXz6tk9z8n.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nTw1hNGkVufIPqjt5AHInBWySnk.jpg">https://image.tmdb.org/t/p/original/nTw1hNGkVufIPqjt5AHInBWySnk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aqYQBbsnKhEhBOZYGAvacLq3KLp.jpg">https://image.tmdb.org/t/p/original/aqYQBbsnKhEhBOZYGAvacLq3KLp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aD3TJ9i9vRPlEllGlTutnqv2VIC.jpg">https://image.tmdb.org/t/p/original/aD3TJ9i9vRPlEllGlTutnqv2VIC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mkMYelhKmGmpkvrz68RsiQOfXzm.jpg">https://image.tmdb.org/t/p/original/mkMYelhKmGmpkvrz68RsiQOfXzm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iKgURay3HDe8Pd55G8g5dy3I6xh.jpg">https://image.tmdb.org/t/p/original/iKgURay3HDe8Pd55G8g5dy3I6xh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dydep9RCwalMTugPnaRoU83y2gI.jpg">https://image.tmdb.org/t/p/original/dydep9RCwalMTugPnaRoU83y2gI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nfv3zcZJ2tNpkgJ44IuNvN6or6f.jpg">https://image.tmdb.org/t/p/original/nfv3zcZJ2tNpkgJ44IuNvN6or6f.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9SQO2eTv0E0oX82wXyTNgADt3Sw.jpg">https://image.tmdb.org/t/p/original/9SQO2eTv0E0oX82wXyTNgADt3Sw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mgfhB6eho78PhU1jN7oPPT9RBXq.jpg">https://image.tmdb.org/t/p/original/mgfhB6eho78PhU1jN7oPPT9RBXq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1aczUuQkcImTCbfso1Z1tKc1j8H.jpg">https://image.tmdb.org/t/p/original/1aczUuQkcImTCbfso1Z1tKc1j8H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cx60R8vdiitUSVimgnMzyHzyKCb.jpg">https://image.tmdb.org/t/p/original/cx60R8vdiitUSVimgnMzyHzyKCb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dnuTvJNFkchVUAmQHejZgRARZLx.jpg">https://image.tmdb.org/t/p/original/dnuTvJNFkchVUAmQHejZgRARZLx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/raYiCPMIqkNTEtACS8CLfxMXYMv.jpg">https://image.tmdb.org/t/p/original/raYiCPMIqkNTEtACS8CLfxMXYMv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5Qj83y3LXBkYMlP4uosi9vTASwg.jpg">https://image.tmdb.org/t/p/original/5Qj83y3LXBkYMlP4uosi9vTASwg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n5IoyKcd15HjDnc3btbZGEmyHI7.jpg">https://image.tmdb.org/t/p/original/n5IoyKcd15HjDnc3btbZGEmyHI7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kQY3cX8DhNtWDXoYfXnqp3imZ1U.jpg">https://image.tmdb.org/t/p/original/kQY3cX8DhNtWDXoYfXnqp3imZ1U.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i2U2jvMBdkrgecQji9Bj6GlmLaR.jpg">https://image.tmdb.org/t/p/original/i2U2jvMBdkrgecQji9Bj6GlmLaR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/p01c4KaaI8oqmKQqfrQiqYlHR6W.jpg">https://image.tmdb.org/t/p/original/p01c4KaaI8oqmKQqfrQiqYlHR6W.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xwmWhW5liu3ID4f3yW77DM60GjL.jpg">https://image.tmdb.org/t/p/original/xwmWhW5liu3ID4f3yW77DM60GjL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x5P7D2Wn7ZATavYNjuCOkL9BBQl.jpg">https://image.tmdb.org/t/p/original/x5P7D2Wn7ZATavYNjuCOkL9BBQl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nFhvyTt5xjg3NEcOmU0MIiChyCx.jpg">https://image.tmdb.org/t/p/original/nFhvyTt5xjg3NEcOmU0MIiChyCx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mCIN603EHQ5NUUIi3vDFP0y8A7B.jpg">https://image.tmdb.org/t/p/original/mCIN603EHQ5NUUIi3vDFP0y8A7B.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1712261</id>
+    <uniqueid type="imdb" default="true">tt1712261</uniqueid>
+    <uniqueid type="tmdb">146198</uniqueid>
+    <genre>Acción</genre>
+    <genre>Suspense</genre>
+    <genre>Misterio</genre>
+    <country>United States of America</country>
+    <credits>Matt Cook</credits>
+    <director>John Hillcoat</director>
+    <premiered>2016-02-19</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Surefire Capital</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e69UeN9s11w</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6946</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Chiwetel Ejiofor</name>
+        <role>Michael Atwood</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Casey Affleck</name>
+        <role>Chris Allen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/hcggAadv5SwdhoAb4yYMoAFYdWK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Mackie</name>
+        <role>Marcus Belmont</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Woody Harrelson</name>
+        <role>Sergeant Detective Jeffrey Allen</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/gaibtvUFIlwHzRvNKV5UfrR4GCM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Paul</name>
+        <role>Gabe Welch</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/u8UdsB9yenM4uHEjmce4nkBn48X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Winslet</name>
+        <role>Irina Vlaslov</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gal Gadot</name>
+        <role>Elena Vlaslov</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/fysvehTvU6bE3JgxaOTRfvQJzJ4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norman Reedus</name>
+        <role>Russel Welch</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teresa Palmer</name>
+        <role>Michelle Allen</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbGnqOmLieJctfjmdcWIVQTiwhT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Kenneth Williams</name>
+        <role>Sweet Pea</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/qlgS26SCTGKO9wvyR7BIGh81BaE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clifton Collins Jr.</name>
+        <role>Jorge Rodriguez</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/ceryVVubF74pgu13Y0KUqIzxOae.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Ang</name>
+        <role>Trina Ling</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/tDMYQX3cq7AQtKJh8kn7E7CyMze.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terri Abney</name>
+        <role>Leah Green</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/p7WkBwGtt4smtQAVtpVK87rXuq1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terence Rosemore</name>
+        <role>Joshua Parks</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkCnp88TUDNyUaXD6QlcHXYjNTn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Babara</name>
+        <role>Ben Feldman</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/nvhKQdgkUmjvbswqHbU3RLftCbb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Belevtsov</name>
+        <role>Yussel Gotlib</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/8oghqsjK6Pyvc1r9Zndilgl3EOV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Da Silva Jr.</name>
+        <role>Luis Pinto</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/ajavEvDuNcinuw3BJ80OE0sEU5Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Casselberry</name>
+        <role>Gomez</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/oDaDxzQsiAsE5fMr5HtoGT51Irl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>E. Roger Mitchell</name>
+        <role>Smith</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/pO6VnkbMz9559l5qJChLxrChaIp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blake McLennan</name>
+        <role>Felix Atwood</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/w80B4apHVoMTS64sld1QN0ZnHVT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Harding</name>
+        <role>Walter Sims</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/nC93hMQj4hp0BbKoSbAvF9vxM8o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Labrandon Shead</name>
+        <role>Sgt. Pete Nelson</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/ooyEXD2wHeTdBInSJmFYhxd3TbL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Armando Alonzo</name>
+        <role>Emilio</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/vNs79EJusfYK4SqKrlWG2Br9Enf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen Kaia Livers</name>
+        <role>Shanice</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/hUlqVCOtsnwSwm1e6gU6PjtHfgB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Eyez</name>
+        <role>Ispuk Member</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hakim Callender</name>
+        <role>Banger</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/8juuZZDPPU3cz7mSAskoDtg57F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Aviles</name>
+        <role>Fernando Rivera</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/hQe0XB5Ol8RWAkj5rVGGNK4xBpK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandra Lopez Pavesi</name>
+        <role>Rivera&apos;s Baby Mama</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mary Rachel Dudley</name>
+        <role>Police Pathologist</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andre Pushkin</name>
+        <role>Beaten Man in Trunk</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/goyqk1ki9XDevC5xXkYUNkS4HUK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalie Shaheen</name>
+        <role>Beaten Woman in Trunk</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/dzWF8vSO5a43IOYxmRBmrehVDF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Napolitano</name>
+        <role>DHS Guard</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/1dc8qPC8O0Rt8YMik9mtnvfHP4g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Degree</name>
+        <role>DHS Guard</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kurt Yaeger</name>
+        <role>Wounded DHS Guard</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christine Horn</name>
+        <role>Female Security Guard</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/pjLRUglYTx9yVQ9gHSWbN8ET7to.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Rivera</name>
+        <role>Gawking Neighbor</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/i4Aeo0Y8IUtYXh8IZPBITFDLlgh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Rosero</name>
+        <role>Young Boy</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/5us73nL5JiHTmWxaNCFQcWd5Ig4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Gutowski</name>
+        <role>Photo Vassili</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cierra Tramaine Butler</name>
+        <role>Cop Party Girl</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vanchester Gee Wright</name>
+        <role>Auto Shop Worker</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christiana Simonds</name>
+        <role>Christina</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Pitts</name>
+        <role>Major Crimes Detective</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/yKxag5eLZJ2Oex5bj8RXWIR3LnC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Armad</name>
+        <role>Banger at Shootout</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Grant</name>
+        <role>Cop Covered in Paint</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Pavesi</name>
+        <role>Beaten Man in Trunk</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jaime Sukonnik</name>
+        <role>Beaten Woman in Trunk</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Igor Komar</name>
+        <role>Vassili</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/mu2g818uQq0b775JfPfNHLDslzh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zack Sali</name>
+        <role>Michael Double</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Valeriya Khlystova</name>
+        <role>Blonde Double</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Caudill</name>
+        <role>Cellmate</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Lacroix</name>
+        <role>Russian Guard #1</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dimiter D. Marinov</name>
+        <role>Driver</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/e3SuZocZ8zecdupC4UzMugudz2a.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 13:17:52</dateadded>
+</movie>

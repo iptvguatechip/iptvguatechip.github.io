@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Sully: Hazaña en el Hudson</title>
+    <originaltitle>Sully</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>232729</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>5023</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Chesley “Sully” Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, al poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</plot>
+    <tagline>La historia detrás del milagro en el Hudson.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dT3AMK35Uq8FUFjCXJwZJKtfaJp.jpg">https://image.tmdb.org/t/p/original/dT3AMK35Uq8FUFjCXJwZJKtfaJp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eqp90qXvu5SZq4HF0iQfbOtsKkT.jpg">https://image.tmdb.org/t/p/original/eqp90qXvu5SZq4HF0iQfbOtsKkT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5L29r3uwDe49XDMaK2xDkDht9t0.jpg">https://image.tmdb.org/t/p/original/5L29r3uwDe49XDMaK2xDkDht9t0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fS6QGBHnbdOHxn6vgaWowQWZ1sw.jpg">https://image.tmdb.org/t/p/original/fS6QGBHnbdOHxn6vgaWowQWZ1sw.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/phWZP5FESItyhQcqk6sWz35nUtP.jpg">https://image.tmdb.org/t/p/original/phWZP5FESItyhQcqk6sWz35nUtP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ij6MhCDKFDv8lQOP3dHyE89PU8S.jpg">https://image.tmdb.org/t/p/original/ij6MhCDKFDv8lQOP3dHyE89PU8S.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ny2NOyYyC0h4cOpP8z2pHDm2Glj.jpg">https://image.tmdb.org/t/p/original/ny2NOyYyC0h4cOpP8z2pHDm2Glj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fB5NJXEFv2zF9KkrnZtHnJfVhHM.jpg">https://image.tmdb.org/t/p/original/fB5NJXEFv2zF9KkrnZtHnJfVhHM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sKh5tBOT5mWGFXTxFYUHbpI3D0S.jpg">https://image.tmdb.org/t/p/original/sKh5tBOT5mWGFXTxFYUHbpI3D0S.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x4tnywLA8LY3jsRCbw4Ewj1nDL6.jpg">https://image.tmdb.org/t/p/original/x4tnywLA8LY3jsRCbw4Ewj1nDL6.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3263904</id>
+    <uniqueid type="imdb" default="true">tt3263904</uniqueid>
+    <uniqueid type="tmdb">363676</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <country>United States of America</country>
+    <credits>Todd Komarnicki</credits>
+    <director>Clint Eastwood</director>
+    <premiered>2016-09-07</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Malpaso Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w9bSO1hPq7w</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5750</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tom Hanks</name>
+        <role>Chesley &apos;Sully&apos; Sullenberger</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Eckhart</name>
+        <role>Jeff Skiles</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/u9daQmQQU10r3l6R2NW5UVWyeKv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Linney</name>
+        <role>Lorraine Sullenberger</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Gunn</name>
+        <role>Elizabeth Davis</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/adppyeu1a4REN3khtgmXusrapFi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Autumn Reeser</name>
+        <role>Tess Soza</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ftDOWocmtT9YSZhV6bVrbsywIad.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Holt McCallany</name>
+        <role>Mike Cleary</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NvOcP35qv5UHWEdpqAvQrKnQQz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike O&apos;Malley</name>
+        <role>Charles Porter</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/blpOdhEfAn9llt8gyYwIbqyaT2y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamey Sheridan</name>
+        <role>Ben Edwards</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/9NYC3VL2D58NfPoqpMy6e0Y9XpQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerry Ferrara</name>
+        <role>Michael Delaney</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/yGziAkYkdtBmYolQg7MNkK5XP7J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Molly Hagan</name>
+        <role>Doreen Welsh</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/m5pL170dlh7ex4lTESAK5kKARde.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Adler</name>
+        <role>Jimmy Stefanik</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/tOW5l3r73G6odIZsAKNgRUhFkMI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Huntington</name>
+        <role>Jeff Kolodjay</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/2g45h4mb0zjDxyhrl3pJF2mQaGC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wayne Bastrup</name>
+        <role>Brian Kelly</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/rFHuxgeU67BxPy5MkvWhR7POX0u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valerie Mahaffey</name>
+        <role>Diane Higgins</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/d4Oc12PuuhTevEGjKEhs95XrVIl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Kober</name>
+        <role>L. T. Cook</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rSHfqqDdNCBbia04NqxIB2U19wM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Bauer</name>
+        <role>Larry Rooney</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Couric</name>
+        <role>Herself</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/t9oLqo7SBvuWFGAjYJ0ZfnGBjBX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Rapaport</name>
+        <role>Pete the Bartender</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/wwU5txjrn8hjC8ALtIbyQykOPVk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Lombardi</name>
+        <role>Himself</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cooper Thornton</name>
+        <role>Jim Whitaker</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/nYShKHwMiOfobqhgTgYVF0hs4VJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noelle Fink</name>
+        <role>Emma Cowan</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doris McCarthy</name>
+        <role>Passenger 12B</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqHrbT8exZoyS2w7dmLGzmBldV8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Purva Bedi</name>
+        <role>Gurisman</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/oppODJvFwISpFnOfhSc2sB2b4Zq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Curry</name>
+        <role>Rob Kolodjay</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/afWbFCCDysdG0yY7xqzfp8XVZIE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Roberts</name>
+        <role>Luis Salerno</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Graham Sibley</name>
+        <role>Carlo Alfonso</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/j9F88r1UV9H2dkkpzIaCgmU86x4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ann Cusack</name>
+        <role>Donna Dent</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/vM2ZwKY3C1NZARrzQB7ch7n638T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patch Darragh</name>
+        <role>Patrick</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/pLYaRnY2l61DphIUYZvLSlZZfGJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaun Rey</name>
+        <role>EMT</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shane P. Allen</name>
+        <role>Rescued Passenger</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Michael Woods</name>
+        <role>EMT</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tommy McInnis</name>
+        <role>EMT</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marc Chouen</name>
+        <role>ESU</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jane Gabbert</name>
+        <role>Sheila Dail</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blake Jones</name>
+        <role>Sully (16 Years Old)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kamron Leal</name>
+        <role>Reporter</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laura Lundy Wheale</name>
+        <role>Reporter</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Joseph Donlan</name>
+        <role>Passager secouru</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kelly L. Moran</name>
+        <role>Pam Seagle</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ashley Austin Morris</name>
+        <role>Emily - Gate Attendant</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/A2sTTptRO4MufJon9tEf0jWAHWZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Van Vliet</name>
+        <role></role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/cORD85MPcWlPS7BkoNwLKPwxVmW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynn Marocola</name>
+        <role>NYC Police Officer  (uncredited)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/EUCiWK7SMchKLqeVZYobZTw3qL.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 16:24:19</dateadded>
+</movie>

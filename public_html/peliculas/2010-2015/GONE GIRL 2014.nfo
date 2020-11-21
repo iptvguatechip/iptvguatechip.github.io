@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Perdida</title>
+    <originaltitle>Gone Girl</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.100000</value>
+            <votes>842321</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.900000</value>
+            <votes>13277</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Con la desaparición de su esposa convirtiéndose en el foco de un circo mediático intenso, un hombre ve el foco de atención cuando se sospecha que no es inocente.</plot>
+    <tagline>Te darás cuenta lo importante que era, cuando esté...</tagline>
+    <runtime>149</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg">https://image.tmdb.org/t/p/original/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fzilMI8ajJmC5GSR1JqLmDdj1PB.jpg">https://image.tmdb.org/t/p/original/fzilMI8ajJmC5GSR1JqLmDdj1PB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tQf4DUygWo64AOuqgk4jEDCE3Ws.jpg">https://image.tmdb.org/t/p/original/tQf4DUygWo64AOuqgk4jEDCE3Ws.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qymaJhucquUwjpb8oiqynMeXnID.jpg">https://image.tmdb.org/t/p/original/qymaJhucquUwjpb8oiqynMeXnID.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg">https://image.tmdb.org/t/p/original/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xpA0q0DJWKe7AY63pVPZbGLwuo5.jpg">https://image.tmdb.org/t/p/original/xpA0q0DJWKe7AY63pVPZbGLwuo5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yOGG2o157R4b5XpfiRVRrVqMRIx.jpg">https://image.tmdb.org/t/p/original/yOGG2o157R4b5XpfiRVRrVqMRIx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/72GKFc1jwMObrziYzcbIOKLsIr2.jpg">https://image.tmdb.org/t/p/original/72GKFc1jwMObrziYzcbIOKLsIr2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n9wBQ9loiC1KUAoJ7WcqASvCiAJ.jpg">https://image.tmdb.org/t/p/original/n9wBQ9loiC1KUAoJ7WcqASvCiAJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rrCizjAFXlLqEmipMDceYwf5rbw.jpg">https://image.tmdb.org/t/p/original/rrCizjAFXlLqEmipMDceYwf5rbw.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x9ezMgOtDPqHatHDvxEG0ILb6Ie.jpg">https://image.tmdb.org/t/p/original/x9ezMgOtDPqHatHDvxEG0ILb6Ie.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h2JaQWLKhapm7AuSViJwGiv8ngC.jpg">https://image.tmdb.org/t/p/original/h2JaQWLKhapm7AuSViJwGiv8ngC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/znsgNAo52yCTtkHfmF1N0vIfj6D.jpg">https://image.tmdb.org/t/p/original/znsgNAo52yCTtkHfmF1N0vIfj6D.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6WUC6yVzfyZmlWPSgj0yB3WvrG3.jpg">https://image.tmdb.org/t/p/original/6WUC6yVzfyZmlWPSgj0yB3WvrG3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1mzisKntcKHEG3RoTGXIIHgmJV7.jpg">https://image.tmdb.org/t/p/original/1mzisKntcKHEG3RoTGXIIHgmJV7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ti1KYVpKiuBCPtTVMDJ9aAyqXp3.jpg">https://image.tmdb.org/t/p/original/ti1KYVpKiuBCPtTVMDJ9aAyqXp3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2JXoeqbcXZxIb99zA4BTwmK1dDC.jpg">https://image.tmdb.org/t/p/original/2JXoeqbcXZxIb99zA4BTwmK1dDC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mfl6xZKlCTm2xM65V9zoZeNDEmU.jpg">https://image.tmdb.org/t/p/original/mfl6xZKlCTm2xM65V9zoZeNDEmU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xISE4M4IhCFgd9oOEFKYfkknumg.jpg">https://image.tmdb.org/t/p/original/xISE4M4IhCFgd9oOEFKYfkknumg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg">https://image.tmdb.org/t/p/original/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2267998</id>
+    <uniqueid type="imdb" default="true">tt2267998</uniqueid>
+    <uniqueid type="tmdb">210577</uniqueid>
+    <genre>Misterio</genre>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Gillian Flynn</credits>
+    <director>David Fincher</director>
+    <premiered>2014-10-01</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Regency Enterprises</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UXyP5leMzf8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>192.000000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>8941</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ben Affleck</name>
+        <role>Nick Dunne</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WE5VNhTkiyus0xqUWdL9wNyl0P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosamund Pike</name>
+        <role>Amy Elliott Dunne</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Dickens</name>
+        <role>Detective Rhonda Boney</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYIQGHeSIt4G2tLrLt61FJ2CD7h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyler Perry</name>
+        <role>Tanner Bolt</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5bbMzlH63dLVYoMYWm61sv1Y3fW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neil Patrick Harris</name>
+        <role>Desi Collins</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oyy0Enz4ZX8KYRYihgSgOA18Xc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carrie Coon</name>
+        <role>Margo Dunne</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/19BIUqUTq4dXCCes7L1UP4ypqfQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Fugit</name>
+        <role>Detective Jim Gilpin</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bsONcodcqRKV97p1Oo1jcPkEnDA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Clennon</name>
+        <role>Rand Elliott</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/p8TcS7O7xtCCW8MlnalFiwZomkX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Banes</name>
+        <role>Marybeth Elliott</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/bSYs9z8Su9Ewg71XO8LdiNu2OwU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Missi Pyle</name>
+        <role>Ellen Abbott</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/qIeLygSouOCNuESQMvf2Pz9mft.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Ratajkowski</name>
+        <role>Andie Fitzgerald</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/f4BrGsuqzcjEdb0GfWvZuG4vqJo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Casey Wilson</name>
+        <role>Noelle Hawthorne</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/otuslEZ8j4oCgATIRuV3mKu8Fzw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lola Kirke</name>
+        <role>Greta</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/xXEBb9OoET7SgtkSmh1XtMs5YKC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boyd Holbrook</name>
+        <role>Jeff</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/531YOKa2usleWCA55t6Db4MZhT3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scoot McNairy</name>
+        <role>Tommy O&apos;Hara</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/ttVt0Q7exExZNqcLbhqVJFyXKpY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sela Ward</name>
+        <role>Sharon Schieber</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/3tXSYEmrsL1Yx2nCkv5p6KmdmmP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Norris</name>
+        <role>Police Officer</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/lLYYGvExYbvVlKw80DRGBpd6Yy9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie McShane</name>
+        <role>Donnelly</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/wojvRZMpAwytyoFTMFOpvZ26qJq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonard Kelly-Young</name>
+        <role>Bill Dunne</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathleen Rose Perkins</name>
+        <role>Shawna Kelly</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/eadwymh7rkBDbCFPvTbFztq0kWd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pete Housman</name>
+        <role>Walter</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lynn Adrianna</name>
+        <role>Kelly Capitono</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cyd Strittmatter</name>
+        <role>Maureen Dunne</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/hVnxIvsUjFRwaW9tjMd8mUg4O8G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ricky Wood</name>
+        <role>Jason</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donna Rusch</name>
+        <role>Lauren Nevens</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Atteberry</name>
+        <role>FBI</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darin Cooper</name>
+        <role>Mustached Man</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/aWT5WT8hCtK7YrRLKyTVbJqpTur.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Campbell</name>
+        <role>Above-It-All Journalist</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brett Leigh</name>
+        <role>Nervous Intern</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio St. James</name>
+        <role>Security Guard</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Glazier</name>
+        <role>Fashionista</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Prud&apos;homme</name>
+        <role>Female Officer</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/gAORZANX88CPxiGTggty1WKQMmU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cooper Thornton</name>
+        <role>Doctor</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/nYShKHwMiOfobqhgTgYVF0hs4VJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Casey Ruggieri</name>
+        <role>Earnest Girl</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ashley Didion</name>
+        <role>Friend 1</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lexis Nutt</name>
+        <role>Friend 2</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>L.A. Williams</name>
+        <role>Guard</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blake Sheldon</name>
+        <role>Tweaker Teen 1</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/vsO5FeqEilC9AgNwIOkpgOd4XEd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Guse</name>
+        <role>Tweaker Teen 2</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fred Cross</name>
+        <role>Airport Traveler</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Takeda</name>
+        <role>Producer</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark T Anderson</name>
+        <role>Reporter</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathy Sweeney-Meadows</name>
+        <role>Reporter One</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marc Abbink</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christina Alex</name>
+        <role>Airport Passenger (uncredited)</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samuel Baca</name>
+        <role>Casino Customer (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Blair</name>
+        <role>Press Reporter (uncredited)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/5nkrXXt1ip7c9GXNXB9ITcSFot8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas R. Baker</name>
+        <role>Limo Driver (uncredited)</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregoer Boru</name>
+        <role>Needs a Fix (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Will C.</name>
+        <role>Black Jack Dealer (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caroline Clements</name>
+        <role>Waitress (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/89rK4urc9U5ybDfNQY30o00uAbS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nancy DeMars</name>
+        <role>Flight Attendant (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Davina Joy</name>
+        <role>Reporter (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael James Kelly</name>
+        <role>CSI Photographer (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/xoW2kHLhtAVQYLUlItPBSkbRs9u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elester Latham</name>
+        <role>High Roll Dealer (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Massey</name>
+        <role>Sharon&apos;s Assistant (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Orion McCabe</name>
+        <role>Coffee Cop (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roz McHenry</name>
+        <role>Hostess (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan McKinley</name>
+        <role>Truck Stop Cook (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teebone Mitchell</name>
+        <role>Dealer (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Nesbitt</name>
+        <role>Amish Musician (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Parrish</name>
+        <role>Bartender (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jaclyn Rose</name>
+        <role>Pedestrian (uncredited)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sahlima</name>
+        <role>Gate Agent (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joel Shock</name>
+        <role>Bike Messenger (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Tarpinian</name>
+        <role>Williamsburg Musician (uncredited)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tracy Weisert</name>
+        <role>Police Station Woman (uncredited)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle Winters</name>
+        <role>Makeup (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tracy Brotherton</name>
+        <role>Press Reporter (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/fZ92MRrwSBKy9IBVpRsYJvamvze.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matilde Matteucci</name>
+        <role>Kissing Girl (uncredited)</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dale Shane</name>
+        <role>Librarian (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leslie A. Hughes</name>
+        <role>Police Administrator (uncredited)</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/ihhstLzFqzYCICREPSEvSJvW5NF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Eddy</name>
+        <role>Zoey</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/waFM3n7tiXtNAxQvRzBeCQ7ugON.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-11-24 10:57:57</dateadded>
+</movie>

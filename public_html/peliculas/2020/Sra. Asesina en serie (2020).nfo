@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Sra. Asesina en serie</title>
+    <originaltitle>Mrs. Serial Killer</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.900000</value>
+            <votes>11782</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>62</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando encarcelan a un médico por una serie de estremecedores asesinatos, su leal mujer se dispone a cometer un crimen idéntico para probar su inocencia.</plot>
+    <tagline></tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg">https://image.tmdb.org/t/p/original/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lWu6fKE0BWEEUNUyxyRH7dBOOqf.jpg">https://image.tmdb.org/t/p/original/lWu6fKE0BWEEUNUyxyRH7dBOOqf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5YnP9lLNve2rV0BLPAVHcXjkmHm.jpg">https://image.tmdb.org/t/p/original/5YnP9lLNve2rV0BLPAVHcXjkmHm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/peoHH5lZRlrDDZPrOY18RxQlmZ0.jpg">https://image.tmdb.org/t/p/original/peoHH5lZRlrDDZPrOY18RxQlmZ0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w7zV77jwfGXPKq0kKYFi1wGu1sc.jpg">https://image.tmdb.org/t/p/original/w7zV77jwfGXPKq0kKYFi1wGu1sc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jOBMpI0ToSQRu8OVSSa5NYBRPJj.jpg">https://image.tmdb.org/t/p/original/jOBMpI0ToSQRu8OVSSa5NYBRPJj.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10230426</id>
+    <uniqueid type="imdb" default="true">tt10230426</uniqueid>
+    <uniqueid type="tmdb">601807</uniqueid>
+    <genre>Suspense</genre>
+    <country>India</country>
+    <director>Shirish Kunder</director>
+    <premiered>2020-05-01</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Three&apos;s Company Productions</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6416</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>eac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>atmos</codec>
+                <language>hin</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jacqueline Fernandez</name>
+        <role>Sona Mukerjee</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jEQgdu1EcbQvN7CZB1XJEg06HVL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manoj Bajpayee</name>
+        <role>Dr. Mrityunjoy “Joy” Mukerjee</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/kzVBPZ3XpNGWibFIRrbHadp2bPp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mohit Raina</name>
+        <role>Inspector Imran Shahid</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rz4xNpcCmDfmuUHETRtuBvF1mvd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darshan Jariwala</name>
+        <role>Brij Rastogi</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/wUjcLcLzM2E7kEde5aq33AyYcDf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zayn Marie Khan</name>
+        <role>Anushka Tiwari</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/spktWpG4y40in3XOB3znqmnwcLk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chanda Joshi</name>
+        <role>Mrs. Rastogi</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deepak Arora</name>
+        <role>Sid</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-09 16:52:13</dateadded>
+</movie>

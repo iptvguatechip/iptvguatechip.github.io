@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>1000 To 1</title>
+    <originaltitle>1000 To 1</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>996</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>30</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cory Weissman is a college basketball player who suffers a devastating stroke. He perseveres to find new meaning in his life both on, and more importantly, off the court.</plot>
+    <tagline></tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sGKWrPbYykh6H943XQODN5N8wxi.jpg">https://image.tmdb.org/t/p/original/sGKWrPbYykh6H943XQODN5N8wxi.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bajRhZD2V59v2jLCUKGIYITbWgQ.jpg">https://image.tmdb.org/t/p/original/bajRhZD2V59v2jLCUKGIYITbWgQ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2391950</id>
+    <uniqueid type="imdb" default="true">tt2391950</uniqueid>
+    <uniqueid type="tmdb">268245</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Bob Burris</credits>
+    <director>Michael Levine</director>
+    <premiered>2014-03-04</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rVWYbP5drEE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>5645</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>David Henrie</name>
+        <role>Cory Weissman</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1NuD0ltILDRRCMfmLPHM8bSfzhb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Marks</name>
+        <role>Jess Evans</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/dl0u5tAu5aT1iwEd5wX5NoGq6BJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Kleintank</name>
+        <role>Brendan Trelease</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cassi Thomson</name>
+        <role>Ally</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6FmtUKw9wcqR3IXMnSQolaKoANc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Myk Watford</name>
+        <role>Marc Weissman</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beau Bridges</name>
+        <role>Coach</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4Z5E1ei0wfJa5kq2P7LV6lUwwpy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jean Louisa Kelly</name>
+        <role>Tina Weissman</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/hUaXI2x27HNIKc4WXcnvNkl4wF9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Kauffmann</name>
+        <role>Dr. Harmon</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Halpern</name>
+        <role>Jeremy Weissman</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Kaplanges</name>
+        <role>Basketball Player</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Mathers</name>
+        <role>Ed Welch</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alessandra DeMartino</name>
+        <role>Girlfriend</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>C.J. Lair</name>
+        <role>Young Cory</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Lerner</name>
+        <role>Dr.</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/2b1PLnbBU1zdz06AXNGSAo226Is.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Thomason</name>
+        <role>Therapist</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emily Whitcomb</name>
+        <role>Spectator</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-01 21:30:58</dateadded>
+</movie>

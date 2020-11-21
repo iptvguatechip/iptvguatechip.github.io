@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mi pequeño gran hombre</title>
+    <originaltitle>Mi pequeño gran hombre</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.100000</value>
+            <votes>139</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>11</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una abogada exitosa y algo vana pierde su teléfono móvil y es contactada por un desconocido que quiere devolverlo. Encantadora e interesante, su conexión instantánea florece pero todo cambia cuando se encuentran y ella descubre un pequeño detalle sobre él: es bastante bajo.</plot>
+    <tagline>Un hombrecito con un corazonzote</tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ufBxs5lpq5XuTazs83A4GMNotc1.jpg">https://image.tmdb.org/t/p/original/ufBxs5lpq5XuTazs83A4GMNotc1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nqt3fRhuIswrkG3ZFK7zs0xdolD.jpg">https://image.tmdb.org/t/p/original/nqt3fRhuIswrkG3ZFK7zs0xdolD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bcqG2c9QSRl5Y1v4MzkD577Fh06.jpg">https://image.tmdb.org/t/p/original/bcqG2c9QSRl5Y1v4MzkD577Fh06.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yRkDH1U45tk4roIPL5lECK9WB2m.jpg">https://image.tmdb.org/t/p/original/yRkDH1U45tk4roIPL5lECK9WB2m.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2FDrUZQnvrWpbEym07EMlfQgfQa.jpg">https://image.tmdb.org/t/p/original/2FDrUZQnvrWpbEym07EMlfQgfQa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pu79RDkWmNsSJThkeuDUq1Of4EG.jpg">https://image.tmdb.org/t/p/original/pu79RDkWmNsSJThkeuDUq1Of4EG.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3680820</id>
+    <uniqueid type="imdb" default="true">tt3680820</uniqueid>
+    <uniqueid type="tmdb">553668</uniqueid>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <credits>Jorge Ramírez Suárez</credits>
+    <director>Jorge Ramírez Suárez</director>
+    <premiered>2018-12-07</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Videocine</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>856</height>
+                <durationinseconds>5915</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Fernanda Castillo</name>
+        <role>Carla</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/RMfrmN0HSVxaqYqesbcmvutTAg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge Salinas</name>
+        <role>León</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/aHJ068a090hteLXtaCf6vfQyqv1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arleth Terán</name>
+        <role></role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/91J7cz2T4EiPfRGylYSfnGMTmrb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Carriedo</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vico Escorcia</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sylvia Pasquel</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>André Real</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 18:41:45</dateadded>
+</movie>

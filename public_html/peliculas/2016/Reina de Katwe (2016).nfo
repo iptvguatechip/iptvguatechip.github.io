@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Reina de Katwe</title>
+    <originaltitle>Queen of Katwe</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>15067</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>294</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Biopic de Phiona Mutesi, una joven ugandesa prodigio del ajedrez. Con 11 años ganó el campeonato juvenil de su país. Poco después pudo salir por primera vez de Uganda para ir a un torneo en Sudán. Y llegó a competir en la Olimpiada Mundial de la disciplina</plot>
+    <tagline>Haz tu jugada.</tagline>
+    <runtime>124</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3CpudWqrjs2PaTIi1GSu3Xv64dZ.jpg">https://image.tmdb.org/t/p/original/3CpudWqrjs2PaTIi1GSu3Xv64dZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tJhLQMcEzwDmxqQxr1n81a3sfd8.jpg">https://image.tmdb.org/t/p/original/tJhLQMcEzwDmxqQxr1n81a3sfd8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6SvA092iKDC39u6xJDw1eF5E1F1.jpg">https://image.tmdb.org/t/p/original/6SvA092iKDC39u6xJDw1eF5E1F1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ip7SyCNHDkaxbTY8rKEwt6HM22d.jpg">https://image.tmdb.org/t/p/original/ip7SyCNHDkaxbTY8rKEwt6HM22d.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v2nt2peo2UcbXacAEID10fv8xgm.jpg">https://image.tmdb.org/t/p/original/v2nt2peo2UcbXacAEID10fv8xgm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/awZwLXuPAGZEARF3y18S3qWt5LH.jpg">https://image.tmdb.org/t/p/original/awZwLXuPAGZEARF3y18S3qWt5LH.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4341582</id>
+    <uniqueid type="imdb" default="true">tt4341582</uniqueid>
+    <uniqueid type="tmdb">317557</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>William Wheeler</credits>
+    <director>Mira Nair</director>
+    <premiered>2016-09-23</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cine Mosaic</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DHY5ZQYK_u0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>7466</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Madina Nalwanga</name>
+        <role>Phiona Mutesi</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Oyelowo</name>
+        <role>Robert Katende</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYMhOxFoMVedBL4LlnF27nWp2OE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lupita Nyong&apos;o</name>
+        <role>Nakku Harriet</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/y40Wu1T742kynOqtwXASc5Qgm49.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Kabanza</name>
+        <role>Mugabi Brian</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Esther Tebandeke</name>
+        <role>Sarah Katende</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ntare Guma Mbaho Mwine</name>
+        <role>Tendo</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/woNUJoFwwiX67Ge20Sr4KWXuJvb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Nazario Lubega</name>
+        <role>Mukumbya Benjamin</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nikita Waligwa</name>
+        <role>Gloria Nansubuga</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ronald Ssemaganda</name>
+        <role>Ivan</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Odeke</name>
+        <role>Enoch Barumba</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philip Luswata</name>
+        <role>Minister Aloysius Kyazze</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joanitta Bewulira-Wandera</name>
+        <role>Mrs. Gali</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ivan Jacobo</name>
+        <role>Buyinza Richard (young)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Levesque</name>
+        <role>Buyinza Richard (older)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Babirye Stellah</name>
+        <role>Babirye Stellah</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edgar Kanyike</name>
+        <role>Joseph</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hope Katende</name>
+        <role>Hope Katende</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maurice Kirya</name>
+        <role>Theo</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 13:06:56</dateadded>
+</movie>

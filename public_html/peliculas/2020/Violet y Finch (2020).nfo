@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Violet y Finch</title>
+    <originaltitle>All the Bright Places</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>18393</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.700000</value>
+            <votes>1728</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Violet y Theodore son dos amigos cuyo encuentro cambia sus vidas para siempre. Mientras luchan por dejar atrás las cicatrices de su pasado, descubren que incluso los momentos más insignificantes pueden tener una importancia crucial en sus vidas.</plot>
+    <tagline>Live life at full brightness</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg">https://image.tmdb.org/t/p/original/4SafxuMKQiw4reBiWKVZJpJn80I.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1PLbqJ6XRa197D2nmfYlQQDDC52.jpg">https://image.tmdb.org/t/p/original/1PLbqJ6XRa197D2nmfYlQQDDC52.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2HHEPoYYkSKUZPwvegNQok89xoY.jpg">https://image.tmdb.org/t/p/original/2HHEPoYYkSKUZPwvegNQok89xoY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg">https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lqBIbjLA9l4EVwTNtehq17weTQq.jpg">https://image.tmdb.org/t/p/original/lqBIbjLA9l4EVwTNtehq17weTQq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3907584</id>
+    <uniqueid type="imdb" default="true">tt3907584</uniqueid>
+    <uniqueid type="tmdb">342470</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Liz Hannah</credits>
+    <credits>Jennifer Niven</credits>
+    <director>Brett Haley</director>
+    <premiered>2020-02-28</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Echo Lake Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YToYpkrCHkE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6514</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>eac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>atmos</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Elle Fanning</name>
+        <role>Violet Markey</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justice Smith</name>
+        <role>Theodore Finch</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/3UoUT44XYWoWNsZaqHzN3w48gZL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Shipp</name>
+        <role>Kate Finch</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6i9eya2lz8ylJBE9OGpPi7Dy2b2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelli O&apos;Hara</name>
+        <role>Sheryl</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jfAayOimEN3W7OTcB1vjySISpDc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lamar Johnson</name>
+        <role>Charlie Donahue</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/4IEsKiSsyckleKsPsiIVtAh6QDy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Virginia Gardner</name>
+        <role>Amanda Monk</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/1DnNysK267b0te48KCkUlTKoTzj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Felix Mallard</name>
+        <role>Gabe &quot;Roamer&quot; Romero</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/d4t966dq1GMfXTsqbPHBMjb0YZ2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sofia Hasmik</name>
+        <role>Brenda Shank-Kravitz</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/vZf8DSssNc7h9wZzrsozeEub7IJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keegan-Michael Key</name>
+        <role>Mr. Embry</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Wilson</name>
+        <role>James</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/GTx8OEQoj0GWVwSjxRCgWtzP6n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicole Forester</name>
+        <role>Demi</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/qca1iaqslZFEtTIBGSE4UJ0bEjH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Haydon</name>
+        <role>Bradley</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Andrus</name>
+        <role>High School Student</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Grace</name>
+        <role>Hudson</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ming Wang</name>
+        <role>Teacher (uncredited)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/uX7Ikgi1EUgMGtFRYsHch5ZtDhj.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 11:54:06</dateadded>
+</movie>

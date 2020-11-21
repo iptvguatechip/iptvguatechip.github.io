@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Todo Terreno</title>
+    <originaltitle>Dirt</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>1109</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>41</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En busca de un salvavidas para su luchador equipo de carreras, un hombre se enfrenta a un joven ladrón de autos en busca de una segunda oportunidad, pero a medida que sus mundos colisionan, deben luchar para forjar una alianza exitosa.</plot>
+    <tagline></tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vTaCOiOHIizJcahCgRoBQWtDwsz.jpg">https://image.tmdb.org/t/p/original/vTaCOiOHIizJcahCgRoBQWtDwsz.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/be8kbUlVP90TbjTWfDzNpqfKwlH.jpg">https://image.tmdb.org/t/p/original/be8kbUlVP90TbjTWfDzNpqfKwlH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nTSEHbcSP3jGwJHW9xyOldqN6Q2.jpg">https://image.tmdb.org/t/p/original/nTSEHbcSP3jGwJHW9xyOldqN6Q2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zeREuAL26Jw4gryQ99fY19wI6J5.jpg">https://image.tmdb.org/t/p/original/zeREuAL26Jw4gryQ99fY19wI6J5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rFRuPHHMidWk8DpS1Q9ROPjTvGX.jpg">https://image.tmdb.org/t/p/original/rFRuPHHMidWk8DpS1Q9ROPjTvGX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5691084</id>
+    <uniqueid type="imdb" default="true">tt5691084</uniqueid>
+    <uniqueid type="tmdb">480823</uniqueid>
+    <genre>Drama</genre>
+    <credits>John Ducey</credits>
+    <director>Alex Ranarivelo</director>
+    <premiered>2018-03-07</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>478.000000</aspect>
+                <width>1912</width>
+                <height>796</height>
+                <durationinseconds>6111</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kevin Dillon</name>
+        <role>Rick Radden</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tIadFMFzA6LcXaAaVpJmrd7waXQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>DeRon Horton</name>
+        <role>Dez Truss</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xbrSejDtuWhQrKbX4yfXuiri6CJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christina Moore</name>
+        <role>Glenda Radden</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/l6W9rtCk8MpqJfgTQCzPeuzRybK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ntare Guma Mbaho Mwine</name>
+        <role>Captain Joe Freeman</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/woNUJoFwwiX67Ge20Sr4KWXuJvb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominic DeVore</name>
+        <role>Trent Lerion</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hw3ZsvszBAJ29yLFC4ETeBIllsc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Glave</name>
+        <role>Harvey Pearson</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/lXtmDEZlLEF6Hvp8arN0lC96Wqe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blake Heron</name>
+        <role>Robbie</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/mJJfFA56PD3dZjlbwAo1hEryTSB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicole Cesa</name>
+        <role>Sponsor Girl</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carrie Bolling</name>
+        <role>Sponsor Girl #2</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:53:41</dateadded>
+</movie>

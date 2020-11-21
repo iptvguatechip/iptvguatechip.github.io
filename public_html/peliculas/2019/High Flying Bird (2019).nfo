@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>High Flying Bird</title>
+    <originaltitle>High Flying Bird</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>7344</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>141</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dean (André Holland) es un agente deportivo que, durante un cierre patronal, ve la oportunidad de hacer negocio con una joven promesa del baloncesto (Melvin Gregg), uno de los clientes a los que representa.</plot>
+    <tagline>Play the Game On Top of the Game</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ccE21xixa1zhkGtWDr4n8ReOp40.jpg">https://image.tmdb.org/t/p/original/ccE21xixa1zhkGtWDr4n8ReOp40.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sQ9uw6fYwHznIIA9iwYkeHpcxxg.jpg">https://image.tmdb.org/t/p/original/sQ9uw6fYwHznIIA9iwYkeHpcxxg.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8S2tdATwEksYUxWCmsQsKfkIXrw.jpg">https://image.tmdb.org/t/p/original/8S2tdATwEksYUxWCmsQsKfkIXrw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4t3ELPWvb7afiY9dFUqIdZIlTbT.jpg">https://image.tmdb.org/t/p/original/4t3ELPWvb7afiY9dFUqIdZIlTbT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hqBfdxPDWHySNNww40bfgkMS6vb.jpg">https://image.tmdb.org/t/p/original/hqBfdxPDWHySNNww40bfgkMS6vb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5Rf68MIPrPf99hP2nn1K8frAMhx.jpg">https://image.tmdb.org/t/p/original/5Rf68MIPrPf99hP2nn1K8frAMhx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gsqs7wdYH7YGeX9541YENlSLqZX.jpg">https://image.tmdb.org/t/p/original/gsqs7wdYH7YGeX9541YENlSLqZX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7yT9Jz3pJyPirGURH9K9mJeHjp1.jpg">https://image.tmdb.org/t/p/original/7yT9Jz3pJyPirGURH9K9mJeHjp1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nmsntv9lI4DMdNSdinoom5c6azT.jpg">https://image.tmdb.org/t/p/original/nmsntv9lI4DMdNSdinoom5c6azT.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8128188</id>
+    <uniqueid type="imdb" default="true">tt8128188</uniqueid>
+    <uniqueid type="tmdb">510498</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Tarell Alvin McCraney</credits>
+    <director>Steven Soderbergh</director>
+    <premiered>2019-01-27</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Extension 765</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VQSgIF2EX9w</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5440</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>André Holland</name>
+        <role>Ray Burke</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/4dL1B32Bq2foXYDkeHpAgzNXvlp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zazie Beetz</name>
+        <role>Sam</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melvin Gregg</name>
+        <role>Erick Scott</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/tIeYOezPPBpUmVuzYO7idcWPuUz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sonja Sohn</name>
+        <role>Myra</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ywx9VUp66kr7vt3xiSKHRtYBjw1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zachary Quinto</name>
+        <role>David Starr</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qFqIaNMcDNd693epUSXo9zOTXev.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Glenn Fleshler</name>
+        <role>Intimidating Seton Colleague</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeryl Prescott</name>
+        <role>Emera Umber</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/5hP35K1LvaZnt7nmwwZO2JpOwpz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Hurtt-Dunkley</name>
+        <role>Jamero Umber</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caleb McLaughlin</name>
+        <role>Darius</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/6YjorSZyqFBl3f4sgcCQmOc1yoi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobbi Bordley</name>
+        <role>Freddy</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kyle MacLachlan</name>
+        <role>David Seton</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/nRJxCJsIW1VSFWm0nvdxJdxMjB3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Duke</name>
+        <role>Spence</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/3g2ggBB7hGq1gnQwiJtHgfX2AbF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eddie Tavares</name>
+        <role>Waiter</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Farah Bala</name>
+        <role>Manager Sal</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Skip Bayless</name>
+        <role>Himself</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/jKVhdkLnqmMtKAeKbdlcyCiyTBc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shannon Sharpe</name>
+        <role>Himself</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joy Taylor</name>
+        <role>Herself</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Evan Rosenblum</name>
+        <role>Himself</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Van Lathan</name>
+        <role>Himself</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alice Callahan</name>
+        <role>Arielle Seton</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/bHOX9kL1sl4kJK00ULJuX3hOJjj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teea Loreal</name>
+        <role>Flight Attendant Terry</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Linwood Brown</name>
+        <role>Journalist</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stefano Villabona</name>
+        <role>Journalist</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristina Pink</name>
+        <role>Herself</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle Ang</name>
+        <role>Rachel</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/tDMYQX3cq7AQtKJh8kn7E7CyMze.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kai Quinto</name>
+        <role>Ray&apos;s Assistant</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harry Edwards</name>
+        <role>Himself</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/hajKGbC5s6Lf5ic1TJuH1pVOMUh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reggie Jackson</name>
+        <role>Interviewee</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Karl-Anthony Towns</name>
+        <role>Interviewee</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donovan Mitchell</name>
+        <role>Interviewee</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/7NPlBUVMg499Yohz8ZsT8cy4cw6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Durodola</name>
+        <role>Basketball Player (uncredited)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 11:46:01</dateadded>
+</movie>

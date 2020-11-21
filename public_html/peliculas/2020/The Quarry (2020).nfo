@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El perseguido</title>
+    <originaltitle>The Quarry</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.200000</value>
+            <votes>1687</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>52</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un misterioso nuevo sacerdote se muda a la iglesia de un desolado pueblo de Texas. Pese a las sospechas de los aldeanos, su congregación crece en muy poco tiempo. Pero, ¿por cuánto tiempo podrá esconder sus secretos, y quién podrá perdonarle cuando la verdad salga a la luz? Basada en la aclamada novela de Damon Galgut.</plot>
+    <tagline>La culpa es una carga pesada</tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qiURvVCrSqXEFACiCH62GJykTUJ.jpg">https://image.tmdb.org/t/p/original/qiURvVCrSqXEFACiCH62GJykTUJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg">https://image.tmdb.org/t/p/original/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg">https://image.tmdb.org/t/p/original/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/h4elnllHWIa4Q6YBPMcgksRZ6c8.jpg">https://image.tmdb.org/t/p/original/h4elnllHWIa4Q6YBPMcgksRZ6c8.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gZ0bCyLUPE6Rgwky2py2Ehm1kyz.jpg">https://image.tmdb.org/t/p/original/gZ0bCyLUPE6Rgwky2py2Ehm1kyz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kZSxp10hPK1hoUy4LbiWoAxk7PT.jpg">https://image.tmdb.org/t/p/original/kZSxp10hPK1hoUy4LbiWoAxk7PT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qed2VAWe2i69cg6zHN1l02uTO3y.jpg">https://image.tmdb.org/t/p/original/qed2VAWe2i69cg6zHN1l02uTO3y.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10151054</id>
+    <uniqueid type="imdb" default="true">tt10151054</uniqueid>
+    <uniqueid type="tmdb">598215</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Misterio</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Scott Teems</credits>
+    <credits>Andrew Brotzman</credits>
+    <director>Scott Teems</director>
+    <premiered>2020-04-17</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>EFC Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YMvND6g67Cc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6185</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Shea Whigham</name>
+        <role>The Man</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Shannon</name>
+        <role>Chief Moore</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catalina Sandino Moreno</name>
+        <role>Celia</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4nLPgs0v1rFZz3c0p9e5Euk0VkU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobby Soto</name>
+        <role>Valentin</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/z6YCkM8jKG65ujAJteMPx0LDscF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruno Bichir</name>
+        <role>David Martin</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/af6MbUchuOv9bPh080cF7Awqxi7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ku Feng</name>
+        <role></role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/xHapsB0Px5nbwpjh5cnVkDuzUwA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ching Li</name>
+        <role></role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/iswKNCFOVh9EtUOhWOhMBwQ5vem.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Gonzales</name>
+        <role></role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/jEJ5TdOeqOJyopKMEc8w9qDtsuN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abel Becerra</name>
+        <role>Deputy Garcia</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/hyDS36WuzSvZTKrp9Z35cXYB08F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rose Bianco</name>
+        <role>Ana Paula</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/6eLLoQ4aUhLQOEo8xmKWszSIJs7.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-06-14 13:34:45</dateadded>
+</movie>

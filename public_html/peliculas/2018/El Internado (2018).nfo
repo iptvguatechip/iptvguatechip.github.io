@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Internado</title>
+    <originaltitle>Boarding School</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>2848</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>139</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Jacob Felson, un adolescente fascinado con la personalidad de su abuela muerta, es enviado por su padrastro a un espeluznante internado para inadaptados aislado de la sociedad. La misteriosa escuela es dirigida por una pareja peculiar, el Dr. Sherma y su esposa. Cuando uno de los estudiantes es encontrado muerto, Jacob comienza a sospechar que en ese lugar ocurre algo muy siniestro.</plot>
+    <tagline>Jacob is having a bad day at school.</tagline>
+    <runtime>111</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lun3G1IU6AYgXlXP649amULMPpv.jpg">https://image.tmdb.org/t/p/original/lun3G1IU6AYgXlXP649amULMPpv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2it6RIdOY809n3hsDQm9aII05h1.jpg">https://image.tmdb.org/t/p/original/2it6RIdOY809n3hsDQm9aII05h1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6fBLenIpy9kzBHkJvAeshmQ8Rac.jpg">https://image.tmdb.org/t/p/original/6fBLenIpy9kzBHkJvAeshmQ8Rac.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/enrd0BQCV9PE7yyvjJVTnzPqsHv.jpg">https://image.tmdb.org/t/p/original/enrd0BQCV9PE7yyvjJVTnzPqsHv.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/f0eeCDOR8VkyKYtKSLpMWtxtec6.jpg">https://image.tmdb.org/t/p/original/f0eeCDOR8VkyKYtKSLpMWtxtec6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4qMBN4sxSzWuRINqNjIyj48jHX3.jpg">https://image.tmdb.org/t/p/original/4qMBN4sxSzWuRINqNjIyj48jHX3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xxZtUqpVmM7eCpovFKtZ9HJhi2g.jpg">https://image.tmdb.org/t/p/original/xxZtUqpVmM7eCpovFKtZ9HJhi2g.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uOoaC4MukCZ4pAAvRk5r8T1AATJ.jpg">https://image.tmdb.org/t/p/original/uOoaC4MukCZ4pAAvRk5r8T1AATJ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6224502</id>
+    <uniqueid type="imdb" default="true">tt6224502</uniqueid>
+    <uniqueid type="tmdb">531145</uniqueid>
+    <genre>Terror</genre>
+    <genre>Misterio</genre>
+    <country>United States of America</country>
+    <credits>Boaz Yakin</credits>
+    <director>Boaz Yakin</director>
+    <premiered>2018-08-30</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Gigantic Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xiBFGYwmc6E</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>6695</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Luke Prael</name>
+        <role>Jacob</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/cOcd17ah1NRj93vf5r3mDcCV1KG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sterling Jerins</name>
+        <role>Christine Holcomb</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/10kkqqbO8Ct58DqsBPSQIsG9ve4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nadia Alexander</name>
+        <role>Phil</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bNyMj8UWZNPMCV8OkiVUaVjnRSd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tammy Blanchard</name>
+        <role>Mrs. Sherman</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2KVwLmqkKapSCsZjhMt87ns2VUn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucy Walters</name>
+        <role>Mrs. Ramsay</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samantha Mathis</name>
+        <role>Isabel</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8lcxFGgEdvDcaNYGsmRSB6oEUQG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Patton</name>
+        <role>Dr. Sherman</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qpycaaWP1oUx1Wd2lMBfQtR7qDO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Aaron Baker</name>
+        <role>Davis</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert John Burke</name>
+        <role>Mr. Holcomb</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/9z4goY4Qlzmtkt7sG1JwIQ4XwrN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Dylan White</name>
+        <role>Frederic</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/hfWtezckC74NdpzPigZLcyyTJvl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barbara Kingsley</name>
+        <role>Tsipi Landau</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/7ogEEzOhaKrsswD4TGYjSeGEDoD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Ubben</name>
+        <role>Mrs. Holcomb</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Wikes</name>
+        <role>Rabbi</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Owen Zamsky</name>
+        <role>Rupert Holcomb</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Miniero</name>
+        <role>Zachary</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/A95ysSNS6BwL5NW0uaj6VW5b8f2.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:22:55</dateadded>
+</movie>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Déjame entrar</title>
+    <originaltitle>Let Me In</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>112720</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>1391</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Owen es un niño triste, maltratado por sus compañeros de clase y abandonado por sus padres divorciados; sin embargo, algo cambiará en su solitaria vida cuando conozca a Abby, una nueva y misteriosa vecina, que vive con su silencioso padre, y con quien entablará una particular amistad.</plot>
+    <tagline>La inocencia muere. Ella es inmortal.</tagline>
+    <runtime>114</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lQX09oC3S4BKIg6dpKxr5oGGsIr.jpg">https://image.tmdb.org/t/p/original/lQX09oC3S4BKIg6dpKxr5oGGsIr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w5RZrHCkIatq1GIKGr9Fe6ZZ4KA.jpg">https://image.tmdb.org/t/p/original/w5RZrHCkIatq1GIKGr9Fe6ZZ4KA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rgNb9nwPKwV45c5PTvFqFmpzGt0.jpg">https://image.tmdb.org/t/p/original/rgNb9nwPKwV45c5PTvFqFmpzGt0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/llEvPiAVNKbg1s0n7ESK8tQZ3ji.jpg">https://image.tmdb.org/t/p/original/llEvPiAVNKbg1s0n7ESK8tQZ3ji.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3b5gD5vNmf7Vafj2MN8uMA8r0qu.jpg">https://image.tmdb.org/t/p/original/3b5gD5vNmf7Vafj2MN8uMA8r0qu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lPc7qEsTxC2yP9ttW1p5hwDU0NM.jpg">https://image.tmdb.org/t/p/original/lPc7qEsTxC2yP9ttW1p5hwDU0NM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vOtdoKCP5XqznWU34xWMjdT5qm7.jpg">https://image.tmdb.org/t/p/original/vOtdoKCP5XqznWU34xWMjdT5qm7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z4OvM4EQMcqA9OrtlViNwTwN6Ah.jpg">https://image.tmdb.org/t/p/original/z4OvM4EQMcqA9OrtlViNwTwN6Ah.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xzCFWqjd01BZ75ug6A3i2BVgEvk.jpg">https://image.tmdb.org/t/p/original/xzCFWqjd01BZ75ug6A3i2BVgEvk.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4tPGPPPiuTJugYKDwgG5KBrsqpA.jpg">https://image.tmdb.org/t/p/original/4tPGPPPiuTJugYKDwgG5KBrsqpA.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1228987</id>
+    <uniqueid type="imdb" default="true">tt1228987</uniqueid>
+    <uniqueid type="tmdb">41402</uniqueid>
+    <genre>Drama</genre>
+    <genre>Terror</genre>
+    <genre>Misterio</genre>
+    <country>United Kingdom</country>
+    <credits>Matt Reeves</credits>
+    <credits>John Ajvide Lindqvist</credits>
+    <director>Matt Reeves</director>
+    <premiered>2010-10-01</premiered>
+    <year>2010</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Hammer Film Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x32TCsuIpfE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6875</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>swe</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kodi Smit-McPhee</name>
+        <role>Owen</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/69ggDmbcUWHuRXeg3LAgjroOPD3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chloë Grace Moretz</name>
+        <role>Abby</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/yq4rYmaTRC5degaOYmJQFpaiho1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Jenkins</name>
+        <role>The Father</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/muT3RZG9hiKaKojD751RcQ5tGEy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elias Koteas</name>
+        <role>The Policeman</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/7CJ9cW0YCnFjFUo0BRpgE5KcHLV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sasha Barrese</name>
+        <role>Virginia</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/4SGcSiC46h86mdChDj0taF5eHSl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Kenin</name>
+        <role>Larry</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/yGq7PooU34xeRWFORF96fmJmvl9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Minnette</name>
+        <role>Kenny</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/fmRHI0ovny7lk27TzejA47or802.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jimmy &apos;Jax&apos; Pinchak</name>
+        <role>Mark</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6YTG72eqfsDnaTMOKqZC8oU2A5l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicolai Dorian</name>
+        <role>Donald</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/aFNzUIluKiE8Zfosj6gpYp6KwaT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seth Adkins</name>
+        <role>High School Kid</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/pFWVcO6Y1fB1tIgflBCyGwP5R7n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ritchie Coster</name>
+        <role>Mr. Zoric</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/kYXTkSP5fbgM1kBrYlqOwI8vrlJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cara Buono</name>
+        <role>Owen&apos;s Mother</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8nK8PSGTfDr3GtqdgUcWwbSlyJX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Browning</name>
+        <role>Jack</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/cUSfOQ34AEOmIYFrXFJyHlB0gAr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebekah Wiggins</name>
+        <role>Nurse</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/bvdfj5BCIhLss2QWmoTX8KNEmPx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashton Moio</name>
+        <role>Lanky Kid</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/33quyMobSxu2HNFE4HHT5w5RTLW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gwendolyn Apple</name>
+        <role>Girl in Pool</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brett DelBuono</name>
+        <role>Kenny&apos;s Brother</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Colin Moretz</name>
+        <role>Video Arcade Counterman</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rowbie Orsatti</name>
+        <role>Scottie Tate</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brenda Wehle</name>
+        <role>Principal</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Galen Hutchison</name>
+        <role>Football Player #1</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dean Satriano</name>
+        <role>Football Player #2</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deborah L. Mazor</name>
+        <role>Day Nurse</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachel Hroncich</name>
+        <role>Admitting Nurse</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-10 13:57:02</dateadded>
+</movie>

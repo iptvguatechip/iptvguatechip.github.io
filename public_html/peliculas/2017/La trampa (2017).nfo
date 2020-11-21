@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La trampa</title>
+    <originaltitle>The Snare</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.500000</value>
+            <votes>4235</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.400000</value>
+            <votes>34</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Tres amigos se dirigen a la playa durante un fin de semana borracho, sólo para ser encarcelados por el último piso de su piso de vacaciones por una fuerza paranormal malévola.</plot>
+    <tagline>The only way out is to let it inside.</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/njA7M4yIKEdilFS2OdNAUK1Rd0w.jpg">https://image.tmdb.org/t/p/original/njA7M4yIKEdilFS2OdNAUK1Rd0w.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2935390</id>
+    <uniqueid type="imdb" default="true">tt2935390</uniqueid>
+    <uniqueid type="tmdb">406115</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Terror</genre>
+    <country>United Kingdom</country>
+    <credits>C.A. Cooper</credits>
+    <director>C.A. Cooper</director>
+    <premiered>2017-01-06</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Bohemian Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qh5DXFRS-Cc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>806</height>
+                <durationinseconds>5673</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eaoifa Forward</name>
+        <role>Alice Clarke</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Paton</name>
+        <role>Carl Weston</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachel Warren</name>
+        <role>Lizzy Abel</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/p0Dps9x0K1tYStMtTgbwRzRVCmW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fin Banks</name>
+        <role>Forest Child</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nathan Brine</name>
+        <role>Forest Man</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emma-Marie Cooper</name>
+        <role>The Ghoul (as Emma Cooper)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 15:34:24</dateadded>
+</movie>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Tesla</title>
+    <originaltitle>Tesla</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.000000</value>
+            <votes>3887</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>85</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Indaga en los esfuerzos que tuvo que realizar Nikola Tesla a la hora de presentar al mundo una revolución energética que cambiaría para siempre el curso de la humanidad.</plot>
+    <tagline></tagline>
+    <runtime>102</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v0guO0krvyz8IfKGxEje04LVM9d.jpg">https://image.tmdb.org/t/p/original/v0guO0krvyz8IfKGxEje04LVM9d.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fzXk5RD3bNvJQyDJh1YrFIIm2nb.jpg">https://image.tmdb.org/t/p/original/fzXk5RD3bNvJQyDJh1YrFIIm2nb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ebQaBWKDeK12WRjpeBM8N4mOgZj.jpg">https://image.tmdb.org/t/p/original/ebQaBWKDeK12WRjpeBM8N4mOgZj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4tphk3VbqoRtCVuOzlEQxUrpR6c.jpg">https://image.tmdb.org/t/p/original/4tphk3VbqoRtCVuOzlEQxUrpR6c.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uv8mSc0LoNI6FDqkn8nlBVOhkBY.jpg">https://image.tmdb.org/t/p/original/uv8mSc0LoNI6FDqkn8nlBVOhkBY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m153zZgoxSIPvKxlgQ16k7yIqab.jpg">https://image.tmdb.org/t/p/original/m153zZgoxSIPvKxlgQ16k7yIqab.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pJK5UlAQVPy341Ee1EsemHnGef4.jpg">https://image.tmdb.org/t/p/original/pJK5UlAQVPy341Ee1EsemHnGef4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xwG0fnxzLDQdVFitsNI9gJfOCjP.jpg">https://image.tmdb.org/t/p/original/xwG0fnxzLDQdVFitsNI9gJfOCjP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jny51zLoJJZCZ4UEOYNKD4aHskE.jpg">https://image.tmdb.org/t/p/original/jny51zLoJJZCZ4UEOYNKD4aHskE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/juUjSjVX7oucM7o7DDRTxJiG470.jpg">https://image.tmdb.org/t/p/original/juUjSjVX7oucM7o7DDRTxJiG470.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jx65cHh8QCahQw2neT1YBh994Mb.jpg">https://image.tmdb.org/t/p/original/jx65cHh8QCahQw2neT1YBh994Mb.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5259822</id>
+    <uniqueid type="imdb" default="true">tt5259822</uniqueid>
+    <uniqueid type="tmdb">517412</uniqueid>
+    <genre>Historia</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Michael Almereyda</credits>
+    <director>Michael Almereyda</director>
+    <premiered>2020-08-14</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>RNG Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e4U-23TOKms</trailer>
+    <actor>
+        <name>Ethan Hawke</name>
+        <role>Nikola Tesla</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle MacLachlan</name>
+        <role>Thomas Edison</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/nRJxCJsIW1VSFWm0nvdxJdxMjB3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Gross</name>
+        <role>Mina Edison</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2gsQ1btcduamJzvdmDE3XEdnhXl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Hamilton</name>
+        <role>Robert Underwood Johnson</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/1TdB6DTRkFJgurWeXtJIOHtMOw7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eve Hewson</name>
+        <role>Anne Morgan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/Dj3osDr5zSP7uMtBBbbUeIgRMu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Gaffigan</name>
+        <role>George Westinghouse</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vjsNoFWoTCXaBZ59qq6A03BeQs8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lois Smith</name>
+        <role>The Grande Dame</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/unvPSZshdNoj7c5wl6D30gPwKtS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ebon Moss-Bachrach</name>
+        <role>Anital Szigeti</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4GLrwqbd6e8LOWT8fzzaDohNsNA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucy Walters</name>
+        <role>Katherine Johnson</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Urbaniak</name>
+        <role>Professor Anthony</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/6WnlD8c9kHFh6BkQJmQ4CMSTjKT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Lithgow</name>
+        <role>Alfred Brown</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/ioo8NP9esqVjVus9WteMUOSwf0U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donnie Keshawarz</name>
+        <role>J.P. Morgan</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Dayan</name>
+        <role>Sarah Bernhardt</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/2bgSNnWjoxlQSBHsuTkQp9ygGd7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Palladino</name>
+        <role>Bourke Cochran</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/8RuYnm25jh5CXsCa2N4GtqDyyT5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Kallaway</name>
+        <role>John Kruesi</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/d2tkVrgkFNGupqVgIqgy5jmz9iF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janelle Feigley</name>
+        <role>Socialite (uncredited)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Bittner</name>
+        <role>Fred Ott</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/58GQW52kl5sCYSkcXqQaYnhj2kO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent De Paul</name>
+        <role>Westinghouse&apos;s protege</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/rXtyNgYJQojb8zzBBK07xGNil59.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Farrell</name>
+        <role>Warden Durston</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blake DeLong</name>
+        <role>William Kemmler</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ZP7YsBNytRMnRvHqdaSvbjgfE1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Mastro</name>
+        <role>Charles Peck</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rick Zahn</name>
+        <role>AG Tracy Becker</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/dV75LcOeRLm7IrSkF5nZ48K4JTX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Hicks</name>
+        <role>Waiter James</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Megan Gaber</name>
+        <role>Showgirl (uncredited)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emma O&apos;Connor</name>
+        <role>Evelyn</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Ayash</name>
+        <role>Science Society Dignitary (uncredited)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/bN1KNkfeBxkCgT7fsi1Dmm1xTF3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Aloi</name>
+        <role>Science Society President (uncredited)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/uvFF5hg7BXC4OekAgbFtflKPz5u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ava Loren Tropeano</name>
+        <role>Girl Making Jewelry (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joshuah Melnick</name>
+        <role>Richard Gregg</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-20 08:26:30</dateadded>
+</movie>

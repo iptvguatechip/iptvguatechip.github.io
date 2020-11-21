@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Gracias por tu servicio</title>
+    <originaltitle>Thank You for Your Service</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>11988</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>199</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un grupo de soldados estadounidenses que regresan de Irak luchan por volver a integrarse en la vida familiar y civil, mientras viven con el recuerdo de una guerra que amenaza con destruirlos mucho después de haber dejado el campo de batalla.</plot>
+    <tagline>Inspired By True Events</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg">https://image.tmdb.org/t/p/original/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z8OKWw6DAZAOyz8F421euawr3Hs.jpg">https://image.tmdb.org/t/p/original/z8OKWw6DAZAOyz8F421euawr3Hs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3AJfmBiEXVY7YmxRx2NSdbjuVDc.jpg">https://image.tmdb.org/t/p/original/3AJfmBiEXVY7YmxRx2NSdbjuVDc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vNXkGIkHMnf7UHURBMFgKSaVArO.jpg">https://image.tmdb.org/t/p/original/vNXkGIkHMnf7UHURBMFgKSaVArO.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg">https://image.tmdb.org/t/p/original/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7KpA2BswBFHLR7yIexkuVhpAK3x.jpg">https://image.tmdb.org/t/p/original/7KpA2BswBFHLR7yIexkuVhpAK3x.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 16</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2776878</id>
+    <uniqueid type="imdb" default="true">tt2776878</uniqueid>
+    <uniqueid type="tmdb">347629</uniqueid>
+    <genre>Drama</genre>
+    <genre>Bélica</genre>
+    <country>United States of America</country>
+    <credits>Jason Hall</credits>
+    <director>Jason Hall</director>
+    <premiered>2017-10-26</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DreamWorks Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j3zNm1wSPTg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>959.000000</aspect>
+                <width>1918</width>
+                <height>808</height>
+                <durationinseconds>6539</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Miles Teller</name>
+        <role>Adam Schumann</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/4h7wXInwsRIzbn1HfxKiSnYX8eD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haley Bennett</name>
+        <role>Saskia Schumann</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8HRgGypSwHeI27ffmcAELNoxIOw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Cole</name>
+        <role>Billy Waller</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/33oo1eKMjLtknBWJBqtWvJQ8Xgv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Schumer</name>
+        <role>Amanda Doster</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/k1k78eml8x2085b0lr86gxrpJjG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beulah Koale</name>
+        <role>Tausolo &quot;Solo&quot; Aieti</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/hmxNk7KzbhLJKoHRwZGl1ZGjOlJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Haze</name>
+        <role>Michael Adam Emory</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ym4CHXTC4WJjkcWeHU5uKIjj9wt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keisha Castle-Hughes</name>
+        <role>Alea</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/9lBukGiFVV0pKNwndaNhRQVnNmt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Beyer</name>
+        <role>Sergeant James D. Doster</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/8c9M5MPYA5hFXHqmmoJSO0BBGTD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Omar J. Dorsey</name>
+        <role>Dante</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/hzHqgqlY2ZqZc1ZHUxEb5dencJI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Lyn Sheil</name>
+        <role>Bell</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/iv5UtyQuoUqn39ZnowqxSzuRfrG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hunter Burke</name>
+        <role>Jake Schumann</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/ibR2TL9jwKVDr9E3VJRnPcgcvHN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erin Darke</name>
+        <role>Tracey</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/zvnpuYHSe7UwbTWsBOp2TDcB6de.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allison King</name>
+        <role>Linda Sanders</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/dv8xkQo0ZLiEywS5v907UeQveLj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dennis L.A. White</name>
+        <role>Jay</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Cd10oSHaWx4jb0GSLJwIVLNND4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deneen Tyler</name>
+        <role>Patty Walker</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/xHWIQNvAazJWlcbb167DCyheai0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jayson Warner Smith</name>
+        <role>Receptionist at a Veterans Affairs Office</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ilGnY7Alf1WG5yBi2IHvnlI40At.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean P McGoldrick</name>
+        <role>Private Chris Kyle Jr.</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerry Cahill</name>
+        <role>Will&apos;s Mom</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/zu2Sv5mod9UYdYaiZp1idH9W7vV.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 12:00:41</dateadded>
+</movie>

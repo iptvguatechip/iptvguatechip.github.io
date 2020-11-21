@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hush</title>
+    <originaltitle>Hush</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>100247</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>3106</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una joven escritora que se quedó sorda en su adolescencia y vive aislada en una casa en medio de la nada. Una noche comienza a ser acosada por un misterioso hombre enmascarado, sin la posibilidad de pedir ayuda, por lo que tendrá que ingeniárselas para salir airosa de su acosador.</plot>
+    <tagline>Silence can be killer</tagline>
+    <runtime>82</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b11LkcGrgsmVZrnv2cX33uVsbXx.jpg">https://image.tmdb.org/t/p/original/b11LkcGrgsmVZrnv2cX33uVsbXx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zHzBTd502IZf60x8n2g0TB01vPF.jpg">https://image.tmdb.org/t/p/original/zHzBTd502IZf60x8n2g0TB01vPF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7nsSEJAQyQI5AT8LmNGO0zfU6Rw.jpg">https://image.tmdb.org/t/p/original/7nsSEJAQyQI5AT8LmNGO0zfU6Rw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xy3iJuPP4LxpjmzUamPh9Npomsm.jpg">https://image.tmdb.org/t/p/original/xy3iJuPP4LxpjmzUamPh9Npomsm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aD45cQp7nUYHIZFOllikXoAJbIA.jpg">https://image.tmdb.org/t/p/original/aD45cQp7nUYHIZFOllikXoAJbIA.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5022702</id>
+    <uniqueid type="imdb" default="true">tt5022702</uniqueid>
+    <uniqueid type="tmdb">376570</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Mike Flanagan</credits>
+    <credits>Kate Siegel</credits>
+    <director>Mike Flanagan</director>
+    <premiered>2016-03-12</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Intrepid Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q_P8WCbhC6s</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>4920</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kate Siegel</name>
+        <role>Maddie</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/evcYTh6jktP0O9UF8Ua7RXIyNbb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Gallagher Jr.</name>
+        <role>Man</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samantha Sloyan</name>
+        <role>Sarah</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/prhRQ3npp7OwssXhxNUw0RTFjFw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Trucco</name>
+        <role>John</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mMWC3Qz5Ju18OQ5kYnJ4Jjshncc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilia Graves</name>
+        <role>Max</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:31:42</dateadded>
+</movie>

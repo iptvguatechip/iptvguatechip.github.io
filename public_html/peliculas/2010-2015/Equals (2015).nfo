@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Almas gemelas</title>
+    <originaltitle>Equals</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.100000</value>
+            <votes>27189</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>996</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En una sociedad utópica futurista, las emociones humanas han sido erradicadas y todo el mundo vive en paz. Pero cuando unas enfermedades nuevas surgen, todo cambia para el ilustrador Silas y su ayudante, Nia. Ambos están infectados, y para sobrevivir, deben huir juntos.</plot>
+    <tagline>Encuentra a tu igual.</tagline>
+    <runtime>102</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kfgNL0CXlvUHx22NynE4GVNTBql.jpg">https://image.tmdb.org/t/p/original/kfgNL0CXlvUHx22NynE4GVNTBql.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fZccGsvJTm92eHGlkSr5NwaVPAU.jpg">https://image.tmdb.org/t/p/original/fZccGsvJTm92eHGlkSr5NwaVPAU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rmeELDq8nrcyPskPp70Ob81wLur.jpg">https://image.tmdb.org/t/p/original/rmeELDq8nrcyPskPp70Ob81wLur.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6s6t60gX5CleKzi7FKU4Hi3fIVA.jpg">https://image.tmdb.org/t/p/original/6s6t60gX5CleKzi7FKU4Hi3fIVA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9T59UlBERHLUPzrdQnil8WNYMeC.jpg">https://image.tmdb.org/t/p/original/9T59UlBERHLUPzrdQnil8WNYMeC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/B1uMW0gM76leMMHHBbt7GDv0cM.jpg">https://image.tmdb.org/t/p/original/B1uMW0gM76leMMHHBbt7GDv0cM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vP1i0dddTbLL3pyddrSCPnJa8S7.jpg">https://image.tmdb.org/t/p/original/vP1i0dddTbLL3pyddrSCPnJa8S7.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3LWeKgjQZntQwmpfugCEbELr9II.jpg">https://image.tmdb.org/t/p/original/3LWeKgjQZntQwmpfugCEbELr9II.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3289728</id>
+    <uniqueid type="imdb" default="true">tt3289728</uniqueid>
+    <uniqueid type="tmdb">301875</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <credits>Nathan Parker</credits>
+    <director>Drake Doremus</director>
+    <premiered>2015-07-15</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Scott Free Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6GiU2SSG624</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>6132</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Nicholas Hoult</name>
+        <role>Silas</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yFDOsethQcoguEjOJp7JH2sFpI3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristen Stewart</name>
+        <role>Nia</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/ryhCjTGqS6G6OprbR0qUEH355lA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guy Pearce</name>
+        <role>Jonas</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacki Weaver</name>
+        <role>Bess</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/1bc9fUnbFQdDeXKho22eyXrNR63.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bel Powley</name>
+        <role>Rachel</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/diyc8FfJUtUyz0d1QG6FDbrWSyU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claudia Kim</name>
+        <role>Voice of The Collective</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/iuiRf8no7xkPSWu9XPF7AmYQlHt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Lawrence</name>
+        <role>Mark</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8lwnmlHN6QPK75NwfufsIFZZhmB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toby Huss</name>
+        <role>George</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/5G5qW92hB4Uu15R2PlTN45WD4Bj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Lyn Sheil</name>
+        <role>Kate</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iv5UtyQuoUqn39ZnowqxSzuRfrG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Selby</name>
+        <role>Leonard</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/w7OUsn0tXFV3p056704eP7DkrcP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rizwan Manji</name>
+        <role>Gilead</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/mBsLE1sDCWZXR9PWV8xptTpxkQc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kai Lennox</name>
+        <role>Max</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/bpwqiHG7FXsUmHyyFlQopQSpJIg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aurora Perrineau</name>
+        <role>Iris</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/5zgJaU4N1uc3fyTz9JbYYMNOeX7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Hazlewood</name>
+        <role>Zoe</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/WGSTucKs5GuyLHPLGTjEZUFcuq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Park Yu-hwan</name>
+        <role>Seth</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nathan Parker</name>
+        <role>David</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/rKglYuA8WokK3ofd3KoYily7hd8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mook Denton</name>
+        <role>Thomas</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yoo Teo</name>
+        <role>Peter</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/hclaczz73xrskqhVBCZv6bCVPYa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Umali Thilakarathna</name>
+        <role>Alice</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/jAKuqBkVydsLU9dqXK6mZsZcLx1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Bossick</name>
+        <role>Health and Safety Officer</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Stokes</name>
+        <role>Dominic</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/fHG16DkHbVnf9hU4ApOhaXKX9XN.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 15:07:39</dateadded>
+</movie>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Replicante</title>
+    <originaltitle>Replicant</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>13591</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>231</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Garrotte es un loco asesino en serie y Jake Riley un veterano inspector de policía que investiga sus asesinatos. Aunque en su día fue un inocente idealista, Jake ha visto lo suficiente de la naturaleza humana como para convertirse en un consumado escéptico, aunque esconde su dolor y su desilusión bajo un exterior de hombre bregado. Jake ha ido siguiendo la pista de Garrotte sistemáticamente pero los cadáveres se van acumulando y el caso no progresa, a pesar de que el asesino le ha escogido como su confidente y persistentemente le llama cada vez que comete un crimen. Asqueado con todo lo que ocurre, Jake deja el departamento de policía justo cuando le piden formar parte de un proyecto secreto para eliminar a Garrotte. El nuevo ayudante de Jake en el caso es una &quot;réplica&quot;, clonado con el propio ADN del asesino, y quizás le pueda llevar hasta su guarida.</plot>
+    <tagline></tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg">https://image.tmdb.org/t/p/original/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dZRRTAZyrQr4pnv15h81Dd2K4NT.jpg">https://image.tmdb.org/t/p/original/dZRRTAZyrQr4pnv15h81Dd2K4NT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qH1nCUHEmqFZ46VoSNXWAQ9fZd9.jpg">https://image.tmdb.org/t/p/original/qH1nCUHEmqFZ46VoSNXWAQ9fZd9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mnIqq2xNZTt5wRaxZ3T8RoPJekX.jpg">https://image.tmdb.org/t/p/original/mnIqq2xNZTt5wRaxZ3T8RoPJekX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jTuBYLeSVyLpkiZjo80leGdrl9a.jpg">https://image.tmdb.org/t/p/original/jTuBYLeSVyLpkiZjo80leGdrl9a.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ft5u68kmr8ph5MqhPClh9uZc5Ud.jpg">https://image.tmdb.org/t/p/original/ft5u68kmr8ph5MqhPClh9uZc5Ud.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AdQKXsB94M1ggCup7LZ0qbZMlnD.jpg">https://image.tmdb.org/t/p/original/AdQKXsB94M1ggCup7LZ0qbZMlnD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/u08feGK2XM8i7d2nOXrkoA5BVrB.jpg">https://image.tmdb.org/t/p/original/u08feGK2XM8i7d2nOXrkoA5BVrB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/likiMQ6lHvX441ZoHMs8dsAktlJ.jpg">https://image.tmdb.org/t/p/original/likiMQ6lHvX441ZoHMs8dsAktlJ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0238552</id>
+    <uniqueid type="imdb" default="true">tt0238552</uniqueid>
+    <uniqueid type="tmdb">10596</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Les Weldon</credits>
+    <credits>Lawrence Riggins</credits>
+    <director>Ringo Lam</director>
+    <premiered>2001-05-11</premiered>
+    <year>2001</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Artisan Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8NfA0vFhggI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6061</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Rooker</name>
+        <role>Jake</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/dq3xFKDWJsQjPffm1bmB3TbMilq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jean-Claude Van Damme</name>
+        <role>Replicant / Garrotte</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qAHXPJ4IybMsCbNY3811CytFj3H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Robison</name>
+        <role>Reisman</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/nf6VPd5do9xUFEVe77suicQRVdW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catherine Dent</name>
+        <role>Angie</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/vMcwYNhd1c2w1tIzRHHoulCo6Il.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul McGillion</name>
+        <role>Captain</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gnDgrhx0kwMNoZuwz8lQ79XvffH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pam Hyatt</name>
+        <role>Mrs. Riley</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Margaret Ryan</name>
+        <role>Gwendolyn</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Hutson</name>
+        <role>Snotty Concierge</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon James Olson</name>
+        <role>Danny</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Flemming</name>
+        <role>Paul</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lillian Carlson</name>
+        <role>Nurse</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marnie Alton</name>
+        <role>Hooker</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Kelly</name>
+        <role>Chris</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jayme Knox</name>
+        <role>Wendy Wyckham</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fulvio Cecere</name>
+        <role>Agent #1</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ingrid Tesch</name>
+        <role>911 Operator</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/qO8I8Xf0z9Vq21R0kvw7mDdRHSL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brent Chapman</name>
+        <role>Janitor</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matteo Ferronato</name>
+        <role>Downtown Home Infant</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dominic Ferronato</name>
+        <role>Downtown Home Infant</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Allan Gray</name>
+        <role>Roarke</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-01 20:43:09</dateadded>
+</movie>

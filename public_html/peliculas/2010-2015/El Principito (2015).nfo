@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Principito</title>
+    <originaltitle>The Little Prince</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.700000</value>
+            <votes>55703</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.600000</value>
+            <votes>2026</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Para que todo salga bien en la prestigiosa Academia Werth, la pequeña y su madre se mudan a una casa nueva. La pequeña es muy seria y madura para su edad y planea estudiar durante las vacaciones siguiendo un estricto programa organizado por su madre; pero sus planes son perturbados por un vecino excéntrico y generoso. Él le enseña un mundo extraordinario en donde todo es posible. Un mundo en el que el Aviador se topó alguna vez con el misterioso Principito. Entonces comienza la aventura de la pequeña en el universo del Principito. Y así descubre nuevamente su infancia y comprenderá que sólo se ve bien con el corazón. Lo esencial es invisible a los ojos. Cuenta con las voces (en versión inglesa) de James Franco, Rachel McAdams, Marion Cotillard, Jeff Bridges, Benicio Del Toro, Mackenzie Foy y Paul Giamatti.</plot>
+    <tagline>El problema no es crecer. Es olvdar.</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i8gmsOtNe2Zqlj7dqstEprf3w1T.jpg">https://image.tmdb.org/t/p/original/i8gmsOtNe2Zqlj7dqstEprf3w1T.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xJU7WJIDnP3Qo1G3FAWrW0vUJqz.jpg">https://image.tmdb.org/t/p/original/xJU7WJIDnP3Qo1G3FAWrW0vUJqz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/je5Z7gbFTzrs3FPHINo9yGiHoVo.jpg">https://image.tmdb.org/t/p/original/je5Z7gbFTzrs3FPHINo9yGiHoVo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/33Oc7gTFbEZgMcNmWjuMvmEEIKv.jpg">https://image.tmdb.org/t/p/original/33Oc7gTFbEZgMcNmWjuMvmEEIKv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7TnnSp33vs9QiuJSgFWN78MdrOO.jpg">https://image.tmdb.org/t/p/original/7TnnSp33vs9QiuJSgFWN78MdrOO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7edYd30rXPtP8yUN3dp7NoUrwIC.jpg">https://image.tmdb.org/t/p/original/7edYd30rXPtP8yUN3dp7NoUrwIC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a3jLnxQHHsAQJLd5gnXXvWEvzZC.jpg">https://image.tmdb.org/t/p/original/a3jLnxQHHsAQJLd5gnXXvWEvzZC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tVrU7SXN4DwDRN2fcYyEBUItshs.jpg">https://image.tmdb.org/t/p/original/tVrU7SXN4DwDRN2fcYyEBUItshs.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ugXEDHKGNUAp1ma4x7JOUCSmAXs.jpg">https://image.tmdb.org/t/p/original/ugXEDHKGNUAp1ma4x7JOUCSmAXs.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1754656</id>
+    <uniqueid type="imdb" default="true">tt1754656</uniqueid>
+    <uniqueid type="tmdb">309809</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Animación</genre>
+    <genre>Fantasía</genre>
+    <genre>Familia</genre>
+    <country>France</country>
+    <credits>Irena Brignull</credits>
+    <credits>Bob Persichetti</credits>
+    <director>Mark Osborne</director>
+    <premiered>2015-07-29</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Orange Studio</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J6VRwAdhWIQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>478.000000</aspect>
+                <width>1912</width>
+                <height>804</height>
+                <durationinseconds>6370</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>fra</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jeff Bridges</name>
+        <role>The Aviator (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Foy</name>
+        <role>The Little Girl (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/u6Dt9C6VwWt4kRTGEcr3p2shxgt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel McAdams</name>
+        <role>The Mother (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marion Cotillard</name>
+        <role>The Rose (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/1RAG22zsofkiAJkZm0qb5q4OQaT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Riley Osborne</name>
+        <role>The Little Prince (voice)</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Franco</name>
+        <role>The Fox (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/pgEe68922Ba20vAwPmAFQFm8U0c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bud Cort</name>
+        <role>The King (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/agiubl6msYlKM7DpghIYDw1pcBN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Benicio del Toro</name>
+        <role>The Snake (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ricky Gervais</name>
+        <role>The Conceited Man (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/2mAjcq9AQA9peQxNoeEW76DPIju.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Albert Brooks</name>
+        <role>The Businessman (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/8iDSGu5l93N7benjf6b3AysBore.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Rudd</name>
+        <role>Mr. Prince (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8eTtJ7XVXY0BnEeUaSiTAraTIXd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Giamatti</name>
+        <role>The Academy Teacher (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pascal Légitimus</name>
+        <role>The Policeman (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/evOBQgCTALE9e4GVTrUkbRJh0EN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacquie Barnbrook</name>
+        <role>The Nurse / The Worried Neighbor / The Snooty Panelist (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qyNGOhlREezRo6G31Vr6wguq4PJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcel Bridges</name>
+        <role>The Concerned Neighbor (voice)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffy Branion</name>
+        <role>The Policeman (voice)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maddie Osborne</name>
+        <role>the Little Muse (voice)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>André Dussollier</name>
+        <role>The Aviator (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/hDROAFwZG5F7eduBQEbR1QXOwj2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Florence Foresti</name>
+        <role>The Mother (voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/5GRKcShJ2JSncbpmcgmcLy8CVSm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Cassel</name>
+        <role>The Fox (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/ljhVeYVlcO7IERkhu3E62HD5mzO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guillaume Gallienne</name>
+        <role>The Snake (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/nponKvpwED1CivIY3f2NlQGLWE9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laurent Lafitte</name>
+        <role>The Conceited Man (voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/lpF5sb1aEMEmxxfZT3u8PWGEipC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Lindon</name>
+        <role>The Businessman (voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guillaume Canet</name>
+        <role>Mr. Prince (voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/qy0xe5k8tz2K7HYArBIfyKN90Vj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Achille Orsoni</name>
+        <role>The King (voice)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clara Poincaré</name>
+        <role>The Little Girl (voice)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrea Santa Maria</name>
+        <role>The Little Prince (voice)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bernard Tiphaine</name>
+        <role>The Academy Teacher (voice)</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 20:07:38</dateadded>
+</movie>

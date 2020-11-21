@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>X-Men 2</title>
+    <originaltitle>X2</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>506794</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>7423</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando el coronel antimutante William Stryker secuestra al profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.</plot>
+    <tagline>Ha llegado la hora de que aquellos que son diferentes permanezcan unidos</tagline>
+    <runtime>133</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg">https://image.tmdb.org/t/p/original/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ccuNVzpMqfP0qmOm9UxGfPg3FQP.jpg">https://image.tmdb.org/t/p/original/ccuNVzpMqfP0qmOm9UxGfPg3FQP.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1cMCLOuaA2MeoI0VFaWYY8FjfZC.jpg">https://image.tmdb.org/t/p/original/1cMCLOuaA2MeoI0VFaWYY8FjfZC.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/xYoVOJRKHDfilRanE6DmQTfzRLR.jpg">https://image.tmdb.org/t/p/original/xYoVOJRKHDfilRanE6DmQTfzRLR.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sxQ92GL9TCZbmRQUTAc71g1VHsx.jpg">https://image.tmdb.org/t/p/original/sxQ92GL9TCZbmRQUTAc71g1VHsx.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/kuBemCxRb7dbqbzGYCS532Igodq.jpg">https://image.tmdb.org/t/p/original/kuBemCxRb7dbqbzGYCS532Igodq.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qs1EpORTkyRGSJxmABSVqK90U8c.jpg">https://image.tmdb.org/t/p/original/qs1EpORTkyRGSJxmABSVqK90U8c.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/eGZnUYEysn8R7q2rWh66YnkWiur.jpg">https://image.tmdb.org/t/p/original/eGZnUYEysn8R7q2rWh66YnkWiur.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/eYKGOQCIQ2ukW0owNRGVvSFURmu.jpg">https://image.tmdb.org/t/p/original/eYKGOQCIQ2ukW0owNRGVvSFURmu.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/5Nl4eiPVqoh7ziVJBfHewM1r9P0.jpg">https://image.tmdb.org/t/p/original/5Nl4eiPVqoh7ziVJBfHewM1r9P0.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hvlmfwKkASeHgIwjjltLu8AQwZH.jpg">https://image.tmdb.org/t/p/original/hvlmfwKkASeHgIwjjltLu8AQwZH.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/roZFGw3Rg6VOYty9y4r5WvgvXoC.jpg">https://image.tmdb.org/t/p/original/roZFGw3Rg6VOYty9y4r5WvgvXoC.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/cNDCv5yGLucVYgpwWXOWEIE3KaH.jpg">https://image.tmdb.org/t/p/original/cNDCv5yGLucVYgpwWXOWEIE3KaH.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/Abnosho2v3bcdvDww6T7Hfeczm1.jpg">https://image.tmdb.org/t/p/original/Abnosho2v3bcdvDww6T7Hfeczm1.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg">https://image.tmdb.org/t/p/original/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5R4gZp4xZJY8A9IqJ72VpHHpku6.jpg">https://image.tmdb.org/t/p/original/5R4gZp4xZJY8A9IqJ72VpHHpku6.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/f0xXgAYYYLabgXrj3PPCBUhUNVB.jpg">https://image.tmdb.org/t/p/original/f0xXgAYYYLabgXrj3PPCBUhUNVB.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rCxA8YvPOMxJi3dK6pIgoXEfu2o.jpg">https://image.tmdb.org/t/p/original/rCxA8YvPOMxJi3dK6pIgoXEfu2o.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/ncBHXRuLip9j2MserQNaXHexQA4.jpg">https://image.tmdb.org/t/p/original/ncBHXRuLip9j2MserQNaXHexQA4.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/fHJv0TvTXOYx3Ndlrb9wvHCOTKZ.jpg">https://image.tmdb.org/t/p/original/fHJv0TvTXOYx3Ndlrb9wvHCOTKZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8JjzEdEjHCAd4VZCvgMz8M5ekFg.jpg">https://image.tmdb.org/t/p/original/8JjzEdEjHCAd4VZCvgMz8M5ekFg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mM5qSVdWlGkvALHhNIb6kW6D42Y.jpg">https://image.tmdb.org/t/p/original/mM5qSVdWlGkvALHhNIb6kW6D42Y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg">https://image.tmdb.org/t/p/original/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v28BDM7gO5oOmh7sVWbS7ZZ4fep.jpg">https://image.tmdb.org/t/p/original/v28BDM7gO5oOmh7sVWbS7ZZ4fep.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/74kUYdgpTx8xoCZ7vDuSN7t4P5V.jpg">https://image.tmdb.org/t/p/original/74kUYdgpTx8xoCZ7vDuSN7t4P5V.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qWOkNog3hfC8AXRiWzXyMA4awmh.jpg">https://image.tmdb.org/t/p/original/qWOkNog3hfC8AXRiWzXyMA4awmh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w8H9K7BSFkW2Y8gvX3V5qCCu2Tu.jpg">https://image.tmdb.org/t/p/original/w8H9K7BSFkW2Y8gvX3V5qCCu2Tu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mnDo22GA2WUvyWY9PyhZqxdaejC.jpg">https://image.tmdb.org/t/p/original/mnDo22GA2WUvyWY9PyhZqxdaejC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kYN0ILR70Thxz1RveG3KynJuYcr.jpg">https://image.tmdb.org/t/p/original/kYN0ILR70Thxz1RveG3KynJuYcr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rtrd4qieMAhoUshu83Vi1GazM1O.jpg">https://image.tmdb.org/t/p/original/rtrd4qieMAhoUshu83Vi1GazM1O.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wgZQIQxTBUXkj6DNLfN79JthWeh.jpg">https://image.tmdb.org/t/p/original/wgZQIQxTBUXkj6DNLfN79JthWeh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r3i3rMSHneAp9uQNZA4I04y9S4p.jpg">https://image.tmdb.org/t/p/original/r3i3rMSHneAp9uQNZA4I04y9S4p.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nspLNX9ADUu4t0viZs0gNHK048g.jpg">https://image.tmdb.org/t/p/original/nspLNX9ADUu4t0viZs0gNHK048g.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dRXwx3CDRxRioAT1S3cEvBG6ljx.jpg">https://image.tmdb.org/t/p/original/dRXwx3CDRxRioAT1S3cEvBG6ljx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8gn6U5FV3UTSzwrtOwZwTSiAe9Z.jpg">https://image.tmdb.org/t/p/original/8gn6U5FV3UTSzwrtOwZwTSiAe9Z.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6v5oKLUpl0L2WPOWknNbPTlUeAP.jpg">https://image.tmdb.org/t/p/original/6v5oKLUpl0L2WPOWknNbPTlUeAP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cU43dD6gw3BD6bok0oobSNYDSm5.jpg">https://image.tmdb.org/t/p/original/cU43dD6gw3BD6bok0oobSNYDSm5.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/loixNIKBURXfPcND4noz7E8FqCS.jpg">https://image.tmdb.org/t/p/original/loixNIKBURXfPcND4noz7E8FqCS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/s8ftvFvafWWEhApISamHx32bx6h.jpg">https://image.tmdb.org/t/p/original/s8ftvFvafWWEhApISamHx32bx6h.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kU0e0k6OgVR9vMxk3MDApBKQ5cQ.jpg">https://image.tmdb.org/t/p/original/kU0e0k6OgVR9vMxk3MDApBKQ5cQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qZ0YlEPMFuHWm6uuMhfVbjEfhTU.jpg">https://image.tmdb.org/t/p/original/qZ0YlEPMFuHWm6uuMhfVbjEfhTU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d9Hd35ew4FDAPGejHRlwoRufcal.jpg">https://image.tmdb.org/t/p/original/d9Hd35ew4FDAPGejHRlwoRufcal.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aJG4Lrm2XlwjmIY4eA538b0JHvk.jpg">https://image.tmdb.org/t/p/original/aJG4Lrm2XlwjmIY4eA538b0JHvk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oZqkoz98Rg52BkzCGSDThCYkOLT.jpg">https://image.tmdb.org/t/p/original/oZqkoz98Rg52BkzCGSDThCYkOLT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aWw3qokfrW2tjYz48M9Hc7vxJVK.jpg">https://image.tmdb.org/t/p/original/aWw3qokfrW2tjYz48M9Hc7vxJVK.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0290334</id>
+    <uniqueid type="imdb" default="true">tt0290334</uniqueid>
+    <uniqueid type="tmdb">36658</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Acción</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <set>
+        <name>X-Men - Colección</name>
+    </set>
+    <credits>Michael Dougherty</credits>
+    <credits>David Hayter</credits>
+    <credits>Dan Harris</credits>
+    <director>Bryan Singer</director>
+    <premiered>2003-04-24</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Marvel Enterprises</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0b3MrSNn1pw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>8027</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Patrick Stewart</name>
+        <role>Charles Xavier / Professor X</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hugh Jackman</name>
+        <role>Logan / Wolverine</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian McKellen</name>
+        <role>Eric Lehnsherr / Magneto</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Halle Berry</name>
+        <role>Ororo Munroe / Storm</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9aLI0LSi7cbieyiskOdsBaneKmp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Famke Janssen</name>
+        <role>Jean Grey / Pheonix</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nmzLdRTbua8MsFXxQo3h3lNV3hU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Marsden</name>
+        <role>Scott Summers / Cyclops</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mk142GG0saiSXALY6V4wWcmPROW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Paquin</name>
+        <role>Anna Marie / Rogue</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/5FjBCsn3kujldP8LizoCrc3hsHp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn Ashmore</name>
+        <role>Bobby Drake / Ice Man</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/7oAgn6E58WtaIeE8zbHiTsiQLG2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Stuart</name>
+        <role>Katherine &quot;Kitty&quot; Pryde / Shadowcat</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/2xCAZx5Ujcv0VaNWZ3Goo8MhgvK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Romijn</name>
+        <role>Raven Darkholme / Mystique / Grace</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/t0Wpu3fZlfJANjwXyeU9wzLkWgN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Cox</name>
+        <role>William Stryker</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/zNWIyHnNTyfwfWmxeo8QEh33Ar5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Cumming</name>
+        <role>Kurt Wagner / Nightcrawler</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cXbcMoCtS8947or9K5cOQev1Mmj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Davison</name>
+        <role>Senator Kelly</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/uPHdmfGT2madX9nxIXoMCGoVJC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Stanford</name>
+        <role>John Allerdyce / Pyro</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/tOR7U3DURbSF746EARXlmaxhlL0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Hu</name>
+        <role>Yuriko Oyama / Lady Deathstrike</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/aE8K43akwifeAPpDFKiEJ678Bvn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kea Wong</name>
+        <role>Jubilation Lee / Jubilee</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/vwGel70uqNMngPBAL16xhOtxoEO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cotter Smith</name>
+        <role>President McKenna</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/9ZQLunOdMJXVkrwV5flMw0Fq3wa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chiara Zanni</name>
+        <role>White House Tour Guide</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/dq1rqHIpRV9F5guFupyxglIix4a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackie A. Greenbank</name>
+        <role>President&apos;s Secretary</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Soltis</name>
+        <role>White House Checkpoint Agent</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/c3U8lx1fkMj6L08YAHJyNRah4ZN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael David Simms</name>
+        <role>White House Agent (Lead Agent)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Fabrizio</name>
+        <role>Oval Office Agent Fabrizio</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ryEXrKWyrqYbxJCEgqNT2fGpmy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Cross</name>
+        <role>Oval Office Agent Cartwright</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/eqYZgz4FMJSDp79E5QanlK1NHqe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Bradshaw</name>
+        <role>Special Ops Agent</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/gghnCsIIzqZXrtnBvNMMKK2YWZk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryce Hodgson</name>
+        <role>Artie</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/jEWVc2DFqjkSzTYUAeQxVq8TWvG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Glen Curtis</name>
+        <role>Museum Teenager #1</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Rikaart</name>
+        <role>Museum Teenager #2</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/a8rknlz37fnizbYWXzBGwe6MzqP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shauna Kain</name>
+        <role>Theresa Rourke / Siryn</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/anzGZh8CyzNcjnmyqdJw5bZvwcx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ty Olsson</name>
+        <role>Mitchell Laurio</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/9KnJ0453movkUNTYuucHXCFVbU0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfonso Quijada</name>
+        <role>Federal Bldg. Cleaning Twin #1</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rene Quijada</name>
+        <role>Federal Bldg. Cleaning Twin #2</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brad Loree</name>
+        <role>Stryker at age 40</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/qUuuEvzr87HIowmUKnKlZBkjJpO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sheri G. Feldman</name>
+        <role>Augmentation Room Doctor</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Connor Widdows</name>
+        <role>Jones</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/v1ffpWhY7Ef19SBEQvjBnXZaXAX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Cudmore</name>
+        <role>Piotr Rasputin / Colossus</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/7RkVaDBsNOxk4D6YvFLm0jYKQtQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Wingfield</name>
+        <role>Stryker Soldier Lyman</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/3chefskfBTOmXyR9P4nwhocfVdn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Siegel</name>
+        <role>Dr. Shaw</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Bacic</name>
+        <role>Dr. Hank McCoy</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/1hsDILnuFsieedNabKYcD3mzIwP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Reid MacKay</name>
+        <role>Jason 143</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/3M72n8hgvVesuFNyqT4MYhJ7pIc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Kirk</name>
+        <role>Ronny Drake</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/wgkCnBOX3anKMQ3vkDMcB4qVE2y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jill Teed</name>
+        <role>Madeline Drake</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/pRu4qqDcb8ze3RKgoKxPwzW9SRP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alf Humphreys</name>
+        <role>William Drake</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/pIyPSnI8Uf5sikyyhku2VzxG4HN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michasha Armstrong</name>
+        <role>Plastic Prison Guard</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/1nuX1dAXKer4F4k297yRaRGSw9H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Hayley</name>
+        <role>Cop</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Lukyn</name>
+        <role>Cop #1 (Lead Cop)</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kendall Cross</name>
+        <role>Cop #2</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/copTLUHrkUxcUQFTrTHO7epurc0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keely Purvis</name>
+        <role>Little Girl 143</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dylan Kussman</name>
+        <role>Stryker Soldier Wilkins</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/33V8NdkLrpSCEVeIiKk5DoGRthx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason S. Whitmer</name>
+        <role>Stryker Soldier Smith</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Pearl</name>
+        <role>Stryker Soldier</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/kwc5qUmHwFv78ToK6Uewu3rRr0N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Douglas</name>
+        <role>Stryker Soldier</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/trMRjLGevqzg872rB2eI8gUXsLf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Lawrence</name>
+        <role>Stryker Soldier</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/aFAfFIKB10Kem86i5KbAfdUByLK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard C. Burton</name>
+        <role>Stryker Soldier</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/dUh9i7sAgh61182pKnfdzQkKUY3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Joycelyn</name>
+        <role>Stryker Soldier</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nolan Gerard Funk</name>
+        <role>X-Kid (captured)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/nu8k4yKULdaK4bDOfBIBMdH6QqA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Devin Douglas Drewitz</name>
+        <role>X-Kid (captured)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/dS7WUnLwEJ4Yph754C33xXtBIUr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jermaine Lopez</name>
+        <role>X-Kid (captured)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sideah Alladice</name>
+        <role>X-Kid (captured)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kurt Max Runte</name>
+        <role>Chief of Staff Abrahams</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WGPyDSfIqSYLeS525VifPHfHlL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Glenday</name>
+        <role>Cameraman</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/epRECrleRHflg8wDexzPTHGqLY3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lori Stewart</name>
+        <role>F-16 Fighter Pilot</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Friend</name>
+        <role>News Reporter</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/he1W261sjHbeWzOFmRYYvSfCaPW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mi-Jung Lee</name>
+        <role>News Reporter</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/tX5OdJzSusxwYShVCJitn4jrF32.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marrett Green</name>
+        <role>News Reporter</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/deTgbHrMB5uqIBvrd7ubss9jYrS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jill Krop</name>
+        <role>News Reporter</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Peck</name>
+        <role>News Reporter</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/ggvAeyE6ox91aT4SfpEX6GvzE0P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Layke Anderson</name>
+        <role>Douglas Ramsey / Cypher</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Dougherty</name>
+        <role>Surgeon</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/spyEbbR2ySIfYY6onH0E4a26Dpo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Harris</name>
+        <role>Surgeon</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan Singer</name>
+        <role>Prison Security Officer (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/ts06thbCv9Ug2mNpcbcrmLGRL4Q.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 07:20:25</dateadded>
+</movie>

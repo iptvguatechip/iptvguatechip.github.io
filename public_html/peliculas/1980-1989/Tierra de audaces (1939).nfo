@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Jesse James</title>
+    <originaltitle>Jesse James</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>3921</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>54</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En 1867 empieza la construcción del ferrocarril en el estado de Missouri. Los agentes de la compañía constructora presionan con amenazas y engaños a los propietarios de las tierras por donde pasará el tren para que las vendan a precios irrisorios. Sin embargo, estas presiones se estrellan contra la resistencia de una mujer que vive con sus dos hijos, Jesse y Frank James...</plot>
+    <tagline>Motion Pictures&apos; Supreme Epic !</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ctFXzRFpb9739LiwyxKJIMZJUNf.jpg">https://image.tmdb.org/t/p/original/ctFXzRFpb9739LiwyxKJIMZJUNf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7naZrnt2rlJAhwpcaUWJxmIZvi1.jpg">https://image.tmdb.org/t/p/original/7naZrnt2rlJAhwpcaUWJxmIZvi1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jNO5Q4QABjRr0yadjBZJ9L5yhig.jpg">https://image.tmdb.org/t/p/original/jNO5Q4QABjRr0yadjBZJ9L5yhig.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tZFYbXgOKgYfNIUyTIqqWkS50TW.jpg">https://image.tmdb.org/t/p/original/tZFYbXgOKgYfNIUyTIqqWkS50TW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qrSM1LNcy0sygJME7KvgIVd0BRq.jpg">https://image.tmdb.org/t/p/original/qrSM1LNcy0sygJME7KvgIVd0BRq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wicFVug0il2fzAHhTt8iAV4F6gb.jpg">https://image.tmdb.org/t/p/original/wicFVug0il2fzAHhTt8iAV4F6gb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xjQSRaPIUaAhyulEW61lU9e8TeM.jpg">https://image.tmdb.org/t/p/original/xjQSRaPIUaAhyulEW61lU9e8TeM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xjcUfszeZ2f9dGu7Kcbl0S3ybrH.jpg">https://image.tmdb.org/t/p/original/xjcUfszeZ2f9dGu7Kcbl0S3ybrH.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nDaSBQXPn94pf8I84xFTaYre0ri.jpg">https://image.tmdb.org/t/p/original/nDaSBQXPn94pf8I84xFTaYre0ri.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zinXSZIel5LE0TPVavPIZrXnNNr.jpg">https://image.tmdb.org/t/p/original/zinXSZIel5LE0TPVavPIZrXnNNr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ft3YFxiU2fwaMQ9dPCaYYtR2tKt.jpg">https://image.tmdb.org/t/p/original/ft3YFxiU2fwaMQ9dPCaYYtR2tKt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1W1cLbCrjEe4aPtzJEflbBoID5X.jpg">https://image.tmdb.org/t/p/original/1W1cLbCrjEe4aPtzJEflbBoID5X.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lrRiJYrguJjNPg8eWHmgM9TxaqO.jpg">https://image.tmdb.org/t/p/original/lrRiJYrguJjNPg8eWHmgM9TxaqO.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0031507</id>
+    <uniqueid type="imdb" default="true">tt0031507</uniqueid>
+    <uniqueid type="tmdb">43829</uniqueid>
+    <genre>Western</genre>
+    <genre>Crimen</genre>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>James Brothers - Collection</name>
+        <overview>Film series about the James brothers</overview>
+    </set>
+    <credits>Nunnally Johnson</credits>
+    <director>Henry King</director>
+    <premiered>1939-01-14</premiered>
+    <year>1939</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>20th Century Fox</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oh5VyrviJQs</trailer>
+    <actor>
+        <name>Tyrone Power</name>
+        <role>Jesse Woodson James</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/zHKNyYKkWIQBwhqxCMNBns1eoXR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Fonda</name>
+        <role>Frank James</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9DtuGZrwsEFUE9VhrkHEUusF0hZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nancy Kelly</name>
+        <role>Zerelda &apos;Zee&apos; Cobb</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/c3P2D7zNIujHn5itiGLuLNLuKFi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randolph Scott</name>
+        <role>Marshall Will Wright</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qM2DNQ7kI9oZqAYfhzgKaGURCnm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Hull</name>
+        <role>Major Rufus Cobb</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nNaeugCBaDhtTfx1xjlEtlArDkP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Slim Summerville</name>
+        <role>Jailer</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nhQ6CUbtWjmocr2UOBME43RAcR0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J. Edward Bromberg</name>
+        <role>Mr. Runyan</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/l9OUS1NA2Wt2O6oP9Dk5gga7SiW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Donlevy</name>
+        <role>Barshee</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/y5GkswX7U1srCMXWJfrGcTokD2s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Carradine</name>
+        <role>Bob Ford</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donald Meek</name>
+        <role>Mc Coy</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5MAIxkAd2AunQibNcUmumLqFrdA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Russell</name>
+        <role>Jesse James Jr.</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/sxQdFpBse5rIkOhHAeptWM71BJk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jane Darwell</name>
+        <role>Mrs. Samuels - Jesse&apos;s mother</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/xWTsj5z2N94OOnimMmUYewQXOIi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Tannen</name>
+        <role>Charles Ford</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/9KyhidWj4XjpYGqrvTQeSHjfpsN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claire Du Brey</name>
+        <role>Mrs. Bob Ford</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/oW7EUQCD1noYuvIH0umuhQisp5s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willard Robertson</name>
+        <role>Clarke</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/5rWPsD2k4fbSoSCdaXWV8sL3h6S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harold Goodwin</name>
+        <role>Bill</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/iBjhsEdnsSs9Ll14rgKrSl33iff.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ernest Whitman</name>
+        <role>Pinkie</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eddy Waller</name>
+        <role>Deputy</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/sSdKkGEXVeQno5OTcfdy1CBR80J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul E. Burns</name>
+        <role>Hank</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/7jd7ECKYKGrINqSrhM3u1mD8xaT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spencer Charters</name>
+        <role>Minister</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/gQUen4JV46A2gZngKfz7AA8vT6a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arthur Aylesworth</name>
+        <role>Tom Colson</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/op0CRt3AHuvfROeBKFtkrlrPpGT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Middleton</name>
+        <role>Doctor</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/cgfuPypHK0jmXJuuy4wbDyOcMuN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Halton</name>
+        <role>Heywood</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/sVfNhAGmw67PGd1Q758nFkOxFCq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Chandler</name>
+        <role>Roy</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/fXj6FdgWPp8om9O2HD2Uv4yhcBi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Tyler</name>
+        <role>Farmer</role>
+        <order>24</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMjI3OTMyNjU0Nl5BMl5BanBnXkFtZTgwNzE0MTg3MjE@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Virginia Brissac</name>
+        <role>Boy&apos;s Mother</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/plkkPOoTu5qc6i1K9wRJXyoUgq2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward LeSaint</name>
+        <role>Judge Rankin</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/7uaTgUeXTqsOmyF8cpvKCt47xPZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Elliott</name>
+        <role>Judge Mathews</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/sPHFmyKeCbHwU6PI1DIy16XuxsM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erville Alderson</name>
+        <role>Old Marshall</role>
+        <order>28</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BY2Y5ZDkzY2UtOWY2Yy00YmNiLTg5OWUtYmIyYmY2YTI1YTU3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George P. Breakston</name>
+        <role>Farmer Boy</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/8a2tRxcFPPOKvEYVAjV7sT7X2p2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lon Chaney Jr.</name>
+        <role>One Of James Gang</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/4DHZ2jXQFbTuslsaOmrmrJ9HMMd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carol Adams</name>
+        <role>Minor Role (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donald Douglas</name>
+        <role>Infantry Captain (uncredited)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Mf5MkXUMyEVC7ecaLhFkseykat.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Flavin</name>
+        <role>Cavalry Captain (uncredited)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/31fJGfekarwtB4OrMG7oGEBGgKm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Garrett</name>
+        <role>Rider / Roper (uncredited)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wylie Grant</name>
+        <role>Barshee&apos;s Henchman</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harry Holman</name>
+        <role>Engineer (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/4J1Z6ndpZTDnSwKMIf6qAr5LfJz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenner G. Kemp</name>
+        <role>Union Soldier (uncredited)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/mz41FbZ3IlzpcLBI0IxjS3Jr1lB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonard Kibrick</name>
+        <role>Boy (uncredited)</role>
+        <order>38</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMTUzNTE3MzA0NF5BMl5BanBnXkFtZTYwMzI1MTM5._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sidney Kibrick</name>
+        <role>Boy (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ethan Laidlaw</name>
+        <role>Barshee&apos;s Henchman (uncredited)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/dFwm3fnaUkEUzRbSUxSVmnnteX9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom London</name>
+        <role>Soldier (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/nfLW8J3AMasTu1Ahm0HftRgx9qy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George O&apos;Hara</name>
+        <role>Teller (uncredited)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Sutton</name>
+        <role>Lynch - Barshee&apos;s Henchman (uncredited)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/5mn88NY7h4IdaP2flsTjszHppNv.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-28 10:08:08</dateadded>
+</movie>

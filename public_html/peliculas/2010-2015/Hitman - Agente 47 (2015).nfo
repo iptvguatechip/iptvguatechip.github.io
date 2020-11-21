@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hitman: Agente 47</title>
+    <originaltitle>Hitman: Agent 47</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>84626</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>2147</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>&quot;Agente 47&quot; narra la historia de un asesino de élite que ha sido genéticamente alterado para convertirse en una perfecta máquina de matar. Su objetivo es acabar con una gran corporación que planea desvelar los secretos de su organización secreta. Para ello, forma equipo con una joven.</plot>
+    <tagline>Your Number is Up.</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ms0uXTbWR1YQ3TxMIC8Y0gKlzqz.jpg">https://image.tmdb.org/t/p/original/ms0uXTbWR1YQ3TxMIC8Y0gKlzqz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg">https://image.tmdb.org/t/p/original/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iuUxXng5JNmRPxxFEd3MWFmNsSG.jpg">https://image.tmdb.org/t/p/original/iuUxXng5JNmRPxxFEd3MWFmNsSG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/f7VMfmrBxmVjycMnF5R5arJhWl3.jpg">https://image.tmdb.org/t/p/original/f7VMfmrBxmVjycMnF5R5arJhWl3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zVL0Oi2FQiH2eZkZUy0bOjZ8M2i.jpg">https://image.tmdb.org/t/p/original/zVL0Oi2FQiH2eZkZUy0bOjZ8M2i.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vwduXFcpsyRxc7IiZGEl5pZligO.jpg">https://image.tmdb.org/t/p/original/vwduXFcpsyRxc7IiZGEl5pZligO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qn9U1sLNzV5hi3VuhI7sgF1sYtp.jpg">https://image.tmdb.org/t/p/original/qn9U1sLNzV5hi3VuhI7sgF1sYtp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4kMBvv88OrCOLdkhhrR7TBplnNg.jpg">https://image.tmdb.org/t/p/original/4kMBvv88OrCOLdkhhrR7TBplnNg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mno9cDh19FX2jEJSCPtSCNDm5Wv.jpg">https://image.tmdb.org/t/p/original/mno9cDh19FX2jEJSCPtSCNDm5Wv.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3gjYzFP2w2bx6srcZkfS667jnl0.jpg">https://image.tmdb.org/t/p/original/3gjYzFP2w2bx6srcZkfS667jnl0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nfllTM3vim2Z2Em8rvEUCyZtmIv.jpg">https://image.tmdb.org/t/p/original/nfllTM3vim2Z2Em8rvEUCyZtmIv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vMzu0cxvVN9PV2MIiV6RAwZRiRi.jpg">https://image.tmdb.org/t/p/original/vMzu0cxvVN9PV2MIiV6RAwZRiRi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/t1sAUQPFVP2T7GSXcVhxdvwroFv.jpg">https://image.tmdb.org/t/p/original/t1sAUQPFVP2T7GSXcVhxdvwroFv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yRtZmZa2bmDYaOKygG7IaroSXwg.jpg">https://image.tmdb.org/t/p/original/yRtZmZa2bmDYaOKygG7IaroSXwg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lh2ibOhk60y4VY1UbLjxRCxS6c7.jpg">https://image.tmdb.org/t/p/original/lh2ibOhk60y4VY1UbLjxRCxS6c7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o9Dgpcw7U1znd0ywa7RFQg2oQap.jpg">https://image.tmdb.org/t/p/original/o9Dgpcw7U1znd0ywa7RFQg2oQap.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5fQ64vpXjttZ8IcHbfqfaDcDdRa.jpg">https://image.tmdb.org/t/p/original/5fQ64vpXjttZ8IcHbfqfaDcDdRa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oK0422pbTncJnI0ZqHPTTX4LufC.jpg">https://image.tmdb.org/t/p/original/oK0422pbTncJnI0ZqHPTTX4LufC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x2QtqkeOdPckBdfy7m5KvEWhglv.jpg">https://image.tmdb.org/t/p/original/x2QtqkeOdPckBdfy7m5KvEWhglv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sgWbDli7Ve9yD2p8gSxATgCeL6u.jpg">https://image.tmdb.org/t/p/original/sgWbDli7Ve9yD2p8gSxATgCeL6u.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3p7b8bNc8OByojVGPwa9nA3vXfY.jpg">https://image.tmdb.org/t/p/original/3p7b8bNc8OByojVGPwa9nA3vXfY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/payu91sGCWxREsd7wDAZfdHGS1w.jpg">https://image.tmdb.org/t/p/original/payu91sGCWxREsd7wDAZfdHGS1w.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3KSxtg2wS88KU94PY8xceWqGr3z.jpg">https://image.tmdb.org/t/p/original/3KSxtg2wS88KU94PY8xceWqGr3z.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2679042</id>
+    <uniqueid type="imdb" default="true">tt2679042</uniqueid>
+    <uniqueid type="tmdb">249070</uniqueid>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>Indonesia</country>
+    <set>
+        <name>Hitman Collection</name>
+        <overview>At an unknown location, near a remote asylum, a group of young bald boys are receiving tattoos of bar codes on the back of their heads as well as men observing, directing, and coordinating the training of these young boys in firearms and hand-to-hand combat, as well as stamina and strength.  In these scenes, it is shown that these young boys are trained from an early age to be professional, international hitmen-for-hire that these films are based around.</overview>
+    </set>
+    <credits>Skip Woods</credits>
+    <credits>Michael Finch</credits>
+    <director>Aleksander Bach</director>
+    <premiered>2015-08-20</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Québec Production Services Tax Credit</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k8Gj3I9k7qA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5777</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Rupert Friend</name>
+        <role>Agent 47</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/mYgY8LrMkQ4OkGTIOf6MtkbMnnW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zachary Quinto</name>
+        <role>John Smith</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qFqIaNMcDNd693epUSXo9zOTXev.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Ware</name>
+        <role>Katia</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/h6XpzRJ9zCcLAHtG1LN9YBFHF1V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilio Rivera</name>
+        <role>Fabian</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/brtL6uF2cWCN3LhQYWymHPdTY88.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rolf Kanies</name>
+        <role>Dr. Delriego</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/wX6KscOnIT0zILwQyRBYVUwm4l9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Kretschmann</name>
+        <role>Le Clerq</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/7M0P39a3CVA22dJyv5YQEkTThU7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Bakkedahl</name>
+        <role>Sanders</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vo5sW2u8bGXJvfe6lL0KmrPNGGG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ciarán Hinds</name>
+        <role>Litvenko</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/oLOZWsy1F3e6v21STlg8wm05nE9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mona Pirzad</name>
+        <role>Katia&apos;s Mother</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William E. Morris</name>
+        <role>Surveillance Tech</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michaela Caspar</name>
+        <role>Hall of Records Clerk</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/r6hhOreo8aermJiTQjUvwwl2nKb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerry Hoffmann</name>
+        <role>Franco</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ivoMjceMZYaqjGbeWh4BIK75km.jpg</thumb>
+    </actor>
+    <actor>
+        <name>AngelaBaby</name>
+        <role>Diana</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1kaY6eHAmExiaauxFSyekmLpsNB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jürgen Prochnow</name>
+        <role>Tobias</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/AsZfwwsEkhFk5XZCjkLjqYFnyPE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlene Beck</name>
+        <role>Tenement Woman</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Bornhütter</name>
+        <role>Berlin Police Officer #1</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Z8m9k4hezS6wxnhCaSkExKlWy8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Broughton</name>
+        <role>Gardens by the Bay Woman with Baby</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nils Brunkhorst</name>
+        <role>Syndicate Doctor</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alvin Chan</name>
+        <role>Gardens by the Bay Man #1</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Corcoran</name>
+        <role>Robert&apos;s Dad</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Manuel Depta</name>
+        <role>Russian Soldier</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Di Bartolomeo</name>
+        <role>Gardens by the Bay Man #2</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Georg Ebinal</name>
+        <role>Salzburg Syndicate Operator Driver</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jörg Ellmer</name>
+        <role>Ruassian Soldier</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Waye Leon Goh</name>
+        <role>Gardens by the Bay Man #3</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthias Günther</name>
+        <role>Marine Task Force</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesse Hergt</name>
+        <role>Young Agent 47</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Florian Hotz</name>
+        <role>Lead Syndicate Operator</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Hülk</name>
+        <role>Garad</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Knese</name>
+        <role>Embassy Marine #2</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Felix Koch</name>
+        <role>Salzburg Syndicate Operator Driver #1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alrik Kreemke</name>
+        <role>Salzburg Syndicate Operator #1</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/bu5zesXpuJSKv0ezIThrYVfPahk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Michael Nelson</name>
+        <role>Robert - Kid in Elevator</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Paes</name>
+        <role>Salzburg Syndicate Operator Driver #2</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Helena Pieske</name>
+        <role>Young Katia</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/4gtseuKQBiyAwTrDisammllIK2B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Markus Ranglack</name>
+        <role>Russian Agent / Driver</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kira Smidt</name>
+        <role>Baby Katia</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Stockhorst</name>
+        <role>John Smith&apos;s G-Wagon Driver</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/A545vgtmiP5gFll9FHy2N7Dt7rj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johannes Suhm</name>
+        <role>Young Litvenko</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eskindir Tesfay</name>
+        <role>Marine #2</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/tVqeXnwsWQiTwFmVsF95QIoohbM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Asuka Tovazzi</name>
+        <role>Berlin Police Officer #2</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Janice Koh Yu-Mei</name>
+        <role>Robert&apos;s Mum</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/qGNE4sNicSpQ9UxsS7nrNekqQeN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melanie Benna</name>
+        <role>Businesswoman (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Brückner</name>
+        <role>Syndicate International Hacker (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/zA9bTpZHSJsyo8Ms2o6zeRDRUrI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dennis Heath</name>
+        <role>Bystander in Action Scene (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Lois</name>
+        <role>Woman in Subway Station (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Theisinger</name>
+        <role>S.I. Tactical Ops (uncredited)</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Toedtling</name>
+        <role>Marine (uncredited)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/oMbvkCzeb3Hlg992QQ1IoERkVmS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tomas Jester</name>
+        <role>Tenement Man</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/xPiaSsIYIdm1EeusYcMtOf4onMt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gillian Tan</name>
+        <role>Woman in Airport (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/4qSzMbrLgL5ZevCEDilLm5pD7ej.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 11:25:33</dateadded>
+</movie>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Deep, el pulpo</title>
+    <originaltitle>Deep</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.100000</value>
+            <votes>1313</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>106</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En un futuro no muy lejano, los últimos supervivientes del planeta tierra son un grupo excéntrico de criaturas abismales cuyo hogar está en una grieta muy profunda en el océano y protegidos por el mítico Kraken. Una catástrofe hará que el pequeño pulpo Deep, junto a sus amigos Evo y Alice tengan que emprender un peligroso viaje lleno de aventuras salvajes y así poder salvar a todos los habitantes de la grieta.</plot>
+    <tagline>¡Sumérgete en esta gran aventura!</tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zMZTBbBa9eevwpWoVIVHh4Gm1ij.jpg">https://image.tmdb.org/t/p/original/zMZTBbBa9eevwpWoVIVHh4Gm1ij.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mShTMzDNfHgTgA3N81TEefL0EMv.jpg">https://image.tmdb.org/t/p/original/mShTMzDNfHgTgA3N81TEefL0EMv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xkPUKOpdpP4ShFqJlD1sXkLN72H.jpg">https://image.tmdb.org/t/p/original/xkPUKOpdpP4ShFqJlD1sXkLN72H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yy6yHVXX4L78GKFLlVYQyrWx7Cv.jpg">https://image.tmdb.org/t/p/original/yy6yHVXX4L78GKFLlVYQyrWx7Cv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg">https://image.tmdb.org/t/p/original/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/asF1PyKUznFsdJ5JdMFUeKYrXzK.jpg">https://image.tmdb.org/t/p/original/asF1PyKUznFsdJ5JdMFUeKYrXzK.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3fUule7CGt4Eq1lPPqyz3qSXa8C.jpg">https://image.tmdb.org/t/p/original/3fUule7CGt4Eq1lPPqyz3qSXa8C.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1Z2LtTZz86YnbBR2XHhbq1eS6Id.jpg">https://image.tmdb.org/t/p/original/1Z2LtTZz86YnbBR2XHhbq1eS6Id.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yViw4wR2e67wmu88LlBXMSK6dtC.jpg">https://image.tmdb.org/t/p/original/yViw4wR2e67wmu88LlBXMSK6dtC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6kSUgMLbdFUD3D8OXLGdcNkL2XK.jpg">https://image.tmdb.org/t/p/original/6kSUgMLbdFUD3D8OXLGdcNkL2XK.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4105584</id>
+    <uniqueid type="imdb" default="true">tt4105584</uniqueid>
+    <uniqueid type="tmdb">430474</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>Belgium</country>
+    <credits>Julio Soto Gurpide</credits>
+    <credits>Jose Tatay</credits>
+    <credits>Salvador Rubio</credits>
+    <director>Julio Soto Gurpide</director>
+    <premiered>2017-05-18</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Grindstone Entertainment Group</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=03FXd_EMGzM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5606</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Justin Felbinger</name>
+        <role>Deep (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7qY0El4GT6MTb0xVzC5pQwcN2JU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jess Harnell</name>
+        <role>Luigi (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil LaMarr</name>
+        <role>Artie (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/l5w0qABfsFBxjfWNnpFiaXnh4Nm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dwight Schultz</name>
+        <role>Kraken (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kVXkC94gNdSWRvDAs0DqBCduJ4S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Hughes</name>
+        <role>Evo (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/uaXZGVIwNd4OpxOvZvh4KceYDDL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisabeth Gray</name>
+        <role>Maura (voice)</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anna Vocino</name>
+        <role>Norma (voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lindsey Alena</name>
+        <role>Alice (voice)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 12:04:50</dateadded>
+</movie>

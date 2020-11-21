@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hermanos</title>
+    <originaltitle>Brothers</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>110050</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.900000</value>
+            <votes>1502</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Remake del film danés de Susanne Bier, &quot;Brothers&quot; (2004). El condecorado capitán Sam Cahill (Tobey Maguire) es enviado a combatir en Afganistán. Unos meses después, el gobierno lo da por muerto o desaparecido. Tras conocer la noticia, su hermano Tommy (Jake Gyllenhaal) se queda en Estados Unidos, cuidando de su cuñada (Natalie Portman) y sus sobrinos. Con el tiempo, Tommy se gana su cariño y llega a sustituir a su hermano como marido y como padre. Pero un día reciben una noticia inesperada que perturbará sus vidas.</plot>
+    <tagline>There are two sides to every family.</tagline>
+    <runtime>104</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uolVwsZ3WVmT9wYHXMajBqtF3Hn.jpg">https://image.tmdb.org/t/p/original/uolVwsZ3WVmT9wYHXMajBqtF3Hn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hz0zV7n93DhXHaelu7s2cOAZAiR.jpg">https://image.tmdb.org/t/p/original/hz0zV7n93DhXHaelu7s2cOAZAiR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qrunCeh1BZ8F3sEvsAqMnEmjLAb.jpg">https://image.tmdb.org/t/p/original/qrunCeh1BZ8F3sEvsAqMnEmjLAb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pDHnPAfBjkwt2HtOAka9WMSRNj5.jpg">https://image.tmdb.org/t/p/original/pDHnPAfBjkwt2HtOAka9WMSRNj5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nIZJtFdeg3JGbSTwW8kubrGB0PQ.jpg">https://image.tmdb.org/t/p/original/nIZJtFdeg3JGbSTwW8kubrGB0PQ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rNZwxZeZHzoSXvU54mxIrMKSba1.jpg">https://image.tmdb.org/t/p/original/rNZwxZeZHzoSXvU54mxIrMKSba1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4olNFXmcXOvccVfhk0S2PubqkiK.jpg">https://image.tmdb.org/t/p/original/4olNFXmcXOvccVfhk0S2PubqkiK.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0765010</id>
+    <uniqueid type="imdb" default="true">tt0765010</uniqueid>
+    <uniqueid type="tmdb">7445</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <genre>Bélica</genre>
+    <country>United States of America</country>
+    <credits>Susanne Bier</credits>
+    <credits>Anders Thomas Jensen</credits>
+    <credits>David Benioff</credits>
+    <director>Jim Sheridan</director>
+    <premiered>2009-01-22</premiered>
+    <year>2009</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lionsgate</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0Jvi7OcEQWM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>640.000000</aspect>
+                <width>1280</width>
+                <height>534</height>
+                <durationinseconds>6277</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tobey Maguire</name>
+        <role>Sam Cahill</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Gyllenhaal</name>
+        <role>Tommy Cahill</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalie Portman</name>
+        <role>Grace Cahill</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/edPU5HxncLWa1YkgRPNkSd68ONG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Shepard</name>
+        <role>Hank Cahill</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bailee Madison</name>
+        <role>Isabelle Cahill</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qvxMfoov0db24bUXZbOkZ3GlspE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mare Winningham</name>
+        <role>Elsie Cahill</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ufNKjUzTzOkrVrIWtYBYjFkXJ9C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Geare</name>
+        <role>Maggie Cahill</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patrick John Flueger</name>
+        <role>Joe Willis</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/pnERPmUO3o0tNdDuyq67wdJP430.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clifton Collins Jr.</name>
+        <role>Maj. Cavazos</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ceryVVubF74pgu13Y0KUqIzxOae.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carey Mulligan</name>
+        <role>Cassie Willis</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/vDgzF1WjiXaG6gNpcT8ZiZy9ylH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Omid Abtahi</name>
+        <role>Yusuf</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8gjtiIAu6ijVS7cmBY7CBo43Y6z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Navid Negahban</name>
+        <role>Murad</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cPsYncbHK7J76Sm4bc1rtgRh5qf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Suplee</name>
+        <role>Sweeney</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhWmMUp7ZyXITAN2snKmLmfSOQG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arron Shiver</name>
+        <role>A.J.</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/4qwbL4uqYELO2aMgizl2oqxzamI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Prewitt</name>
+        <role>Owen</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/qYm3RgneZfdQDUac4ipdV88IMPl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenny Wade</name>
+        <role>Tina</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/6CYUhf0LLv7XQhlLW2gnDfjHNql.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason E. Hill</name>
+        <role>Lt. Sanderson</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/72vwVXFK7tb0IFt22WYQ8X0uPCy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James D. Dever</name>
+        <role>Sgt. Major Dever</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/hAszj9McWg2rmsHuhWLpYMfXkwp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luce Rains</name>
+        <role>The Nose</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/az7wB3HJNQ7T3TmDdZ3rIdZ6bxO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Enayat Delawary</name>
+        <role>Ahmed</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/c9Xzhb5b62YCEbZ6ox9DdjJDS4I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick La Monda</name>
+        <role>Elvis</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/7kCHcKzVQiG7bsCO9aWsE85woW5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Wiggins</name>
+        <role>Navy Chaplain</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yousuf Azami</name>
+        <role>Taliban Leader</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carrie Fleming</name>
+        <role>Marine Wife</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Iris Dunbar</name>
+        <role>Burka Woman</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/aUZiYW2ufTrBaH8NWFIE8Dk650h.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-25 13:03:34</dateadded>
+</movie>

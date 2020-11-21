@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Igor</title>
+    <originaltitle>Igor</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>22196</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>321</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Fábula animada sobre un cliché jorobado ayudante del científico malvado que aspira a convertirse en un científico mismo, para disgusto del resto de la comunidad científica mal.</plot>
+    <tagline>All men aren&apos;t created Evil.</tagline>
+    <runtime>86</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg">https://image.tmdb.org/t/p/original/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m69yPSptSrZk9KJfhskS88u1ULA.jpg">https://image.tmdb.org/t/p/original/m69yPSptSrZk9KJfhskS88u1ULA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8iW6T91s5maS63edHSsjQMuHRxj.jpg">https://image.tmdb.org/t/p/original/8iW6T91s5maS63edHSsjQMuHRxj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rwI1slpd0wG9cmpNFqjgu7MHj8A.jpg">https://image.tmdb.org/t/p/original/rwI1slpd0wG9cmpNFqjgu7MHj8A.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tJxCziFetEsrDawcdPBGVkRlkJ8.jpg">https://image.tmdb.org/t/p/original/tJxCziFetEsrDawcdPBGVkRlkJ8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lVzddSYNXANBXHpbmL1bpJCqTpY.jpg">https://image.tmdb.org/t/p/original/lVzddSYNXANBXHpbmL1bpJCqTpY.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0465502</id>
+    <uniqueid type="imdb" default="true">tt0465502</uniqueid>
+    <uniqueid type="tmdb">14248</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <credits>Tony Leondis</credits>
+    <credits>John Robert Hoffman</credits>
+    <credits>Dimitri Toscas</credits>
+    <credits>Chris McKenna</credits>
+    <director>Tony Leondis</director>
+    <premiered>2008-09-19</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Exodus Film Group</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PhPQR0pYWUc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>320.000000</aspect>
+                <width>1280</width>
+                <height>692</height>
+                <durationinseconds>5192</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>John Cusack</name>
+        <role>Igor (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/lJ05lxBFZXJAZvmjp1ARxUmwrhA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Myleene Klass</name>
+        <role>Dr. Holzwurm (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bELhmJFkUlAsvKbX4MLmnIw0j6t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Walsh</name>
+        <role>Dr. Holzwurm&apos;s Igor (voice)</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt McKenna</name>
+        <role>Dr. Herzschlag (voice)</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Cleese</name>
+        <role>Dr. Glickenstein (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Buscemi</name>
+        <role>Scamper (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Hayes</name>
+        <role>Brain (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/31TI5l5QvcZHN4fh0NpejZyJtP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eddie Izzard</name>
+        <role>Dr. Schadenfreude (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/jPsZdu9DzGudytybdzjXAm77Q0r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Leno</name>
+        <role>King Malbert (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Coolidge</name>
+        <role>Jaclyn / Heidi (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/dYPv8yReoF4EWp0aOoHfm7vmKOi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Molly Shannon</name>
+        <role>Eva (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/gFuqGF0IO4e9IjiJYAvGI9205Sq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Lipton</name>
+        <role>Himself</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/tvUJqWHrA5k0y46NDP8fZLMOwCS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Slater</name>
+        <role>Dr. Schadenfreude&apos;s Igor (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arsenio Hall</name>
+        <role>Carl Cristall (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/8oqVGysLVXkWlTOWIWkWIbL4i2q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jess Harnell</name>
+        <role>Announcer / Royal Guard #2 (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoë Bright</name>
+        <role>Blind Woman / Killiseum Fan #1 (voice)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophia Eraklis</name>
+        <role>Blind Orphan #1 (voice)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>A. Cheron Hall</name>
+        <role>Blind Orphan #2 / Blind Orphan #4 (voice)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Leondis</name>
+        <role>Blind Orphan #3 (voice)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Leondis</name>
+        <role>Blind Orphan #6 (voice)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicole Leondis</name>
+        <role>Blind Orphan #7 (voice)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juliana Leondis</name>
+        <role>Blind Orphan #5 (voice)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robin Tisserand</name>
+        <role>Blind Orphan #8 (voice)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Vogt</name>
+        <role>Buzz Offmann (voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntZMdGgmIFEP4kPxBfSLOPIDQ0x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Animals&apos; vocal effects (voice) (uncredited)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/b3gImArbw13mMKJIe9leFc9YYb7.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:47</dateadded>
+</movie>

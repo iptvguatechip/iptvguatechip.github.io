@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Steve Jobs</title>
+    <originaltitle>Steve Jobs</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>151930</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>3144</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Biopic del mítico empresario y programador informático Steve Jobs (1955-2011), centrado en la época en la que lanzó los tres productos icónicos de Apple.</plot>
+    <tagline>¿Puede un gran hombre ser un buen hombre?</tagline>
+    <runtime>122</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4mtEte415W7DUbH9KnbKI8unRs7.jpg">https://image.tmdb.org/t/p/original/4mtEte415W7DUbH9KnbKI8unRs7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/92vhEJ6xWoDJ8UHECAJaRofaSCZ.jpg">https://image.tmdb.org/t/p/original/92vhEJ6xWoDJ8UHECAJaRofaSCZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g7wXj289G49gWZsg1dv1Kazf8yL.jpg">https://image.tmdb.org/t/p/original/g7wXj289G49gWZsg1dv1Kazf8yL.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wUxBjFNHKioG7yPhaXmd3BMxSR1.jpg">https://image.tmdb.org/t/p/original/wUxBjFNHKioG7yPhaXmd3BMxSR1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mCbB9wUe9KHjGCcYGCzMLYyMjjE.jpg">https://image.tmdb.org/t/p/original/mCbB9wUe9KHjGCcYGCzMLYyMjjE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9kxwX0eClt1I8k8Xxco1wiAONjP.jpg">https://image.tmdb.org/t/p/original/9kxwX0eClt1I8k8Xxco1wiAONjP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xtnckJId2P6l30kNMLmmxWosEiC.jpg">https://image.tmdb.org/t/p/original/xtnckJId2P6l30kNMLmmxWosEiC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lGuJC86TM6uggor8xJed4gbjtnv.jpg">https://image.tmdb.org/t/p/original/lGuJC86TM6uggor8xJed4gbjtnv.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2080374</id>
+    <uniqueid type="imdb" default="true">tt2080374</uniqueid>
+    <uniqueid type="tmdb">321697</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <country>United Kingdom</country>
+    <credits>Aaron Sorkin</credits>
+    <director>Danny Boyle</director>
+    <premiered>2015-10-09</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zBwD2N-kKJM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7341</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Fassbender</name>
+        <role>Steve Jobs</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/AaEfdglbUSLgdmPHWNGxDpravzg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Winslet</name>
+        <role>Joanna Hoffman</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seth Rogen</name>
+        <role>Steve Wozniak</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xCt0MWnPkk1tJIYYPT6fekgQRMg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Daniels</name>
+        <role>John Sculley</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Stuhlbarg</name>
+        <role>Andy Hertzfeld</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/seBk12MUK51aUoYX4OW1itfOpJ6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katherine Waterston</name>
+        <role>Chrisann Brennan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/xIivaQaXt2peU3FSrOylDzen0i7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Perla Haney-Jardine</name>
+        <role>Lisa Jobs (19 Years Old)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wzdoXy3yvrWM7Fhrh1rPHnvTf75.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ripley Sobo</name>
+        <role>Lisa Brennan (9)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Makenzie Moss</name>
+        <role>Lisa Jobs (5 Years Old)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/tAWfoDunVCc7H1xKWLqdGc6aIxm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Snook</name>
+        <role>Andrea Cunningham</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/zRJgAGsu9dxpLEwwqmAslTQbwx1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Ortiz</name>
+        <role>Joel Pforzheimer</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Shapiro</name>
+        <role>Avie Tevanian</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/AcUpgagCJaCzBTaiN2WQbh9hNYq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Steen</name>
+        <role>Mike Markkula</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stan Roth</name>
+        <role>George Coates</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mihran Slougian</name>
+        <role>Jandali</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Anthony Peters</name>
+        <role>Engineer with Diskette</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Noreen Lee</name>
+        <role>Airline Concierge</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gail Fenton</name>
+        <role>Stage Manager (NeXT)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Karen Kahn</name>
+        <role>Stage Manager (NeXT)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/fGwSxZcxWK4cMZP7rfalD6y2168.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Caproni</name>
+        <role>Stage Manager (NeXT)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lily Tung Crystal</name>
+        <role>Woman on P.A. (NeXT)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Damara Reilly</name>
+        <role>Woman on P.A. (iMac)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marika Casteel</name>
+        <role>Woman on P.A. (iMac)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/jDIw7NZzWp09CTON3LQWVSAZGyR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lana Palmer</name>
+        <role>Straggler (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dylan Freitas-D&apos;Louhy</name>
+        <role>Straggler</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Tomasso</name>
+        <role>Straggler</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Chovanec</name>
+        <role>VIP</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Liddle</name>
+        <role>VIP</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lora Oliver</name>
+        <role>Andrea&apos;s Assistant</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Colm O&apos;Riain</name>
+        <role>Violinist</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anita Bennett</name>
+        <role>News Anchor</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Mills</name>
+        <role>News Anchor</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melissa Etezadi</name>
+        <role>News Anchor</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rick Chambers</name>
+        <role>News Anchor</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/7i2Ln46Lgs1JYjy27fS26nLZJMw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Welch</name>
+        <role>News Anchor</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emmett Miller</name>
+        <role>News Anchor</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marc Istook</name>
+        <role>News Anchor</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZHaoGku4rcmwzHfL1b6iklkC19.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlo Cecchetto</name>
+        <role>News Anchor</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristina Guerrero</name>
+        <role>News Anchor</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Seward</name>
+        <role>News Anchor</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Mester</name>
+        <role>News Anchor</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Derrin Horton</name>
+        <role>News Anchor</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven Wiig</name>
+        <role>Bill Martin (uncredited)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/jAik0bIUNcgS0hORvSKTpHhPnlg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Toste</name>
+        <role>Matt McKlusky (uncredited)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/arlPM0nBiBJFhG9lr7z42UO4PGK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lena Avgust</name>
+        <role>Steve&apos;s Stage Manager (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/yLWAYpfPvpNcw9qbzPEW2XFPXw4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diogo Hausen</name>
+        <role>Stage Hand (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Apeksha Pradhan</name>
+        <role>1998 Launch Attendee (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex Phillip</name>
+        <role>Apple Gen-Xer (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/nQx9gCNvUffNUX4VAgE2fmgKiQW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek W. Adam</name>
+        <role>Cameraman (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natalie Stephany Aguilar</name>
+        <role>Cafe Patron (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Moises Amaya</name>
+        <role>Generation X Engineer 1998 (uncredited)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>AnnaCorey</name>
+        <role>Jordan IMAC Marketing Team (uncredited)</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/x8zWljWpsjlvTXkj8Fo7V4Cs7mt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Arness</name>
+        <role>Apple Board Member (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/4QoytkR9sdqQ9H4r0PiFdvXkTm9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Blount-Porter</name>
+        <role>VIP Press (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Edward Cabrera</name>
+        <role>Launch Attendee (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan Casserly</name>
+        <role>Apple Employee (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Castellanos</name>
+        <role>Cameraman (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Javier Chavarin</name>
+        <role>1984 Launch Attendee (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alan Chu</name>
+        <role>Press Photographer (uncredited)</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/x3c9FdoyFqScAUVdB6tx0Vy1QnC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Johnston</name>
+        <role>1998 Launch Attendee (uncredited)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/4engR5Dqdd9wJPXMlbMMx47Q03J.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 16:01:01</dateadded>
+</movie>

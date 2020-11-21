@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Padre</title>
+    <originaltitle>The Padre</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>1323</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>39</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El Padre (Roth) es un estafador de poca monta que está huyendo de sus perseguidores: el juez Nemes (Nolte) y el policía local Gaspar (Guzmán). Cuando el Padre está a punto de ser cogido en medio de una estafa, huye en un coche robado sin darse cuenta de que en el asiento de atrás hay una niña de 16 años, Lena (Henriquez). Ella le chantajea para que le deje unirse a él y juntos planean un gran robo.</plot>
+    <tagline>Revenge has a price</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1Flfm2evc5Fs4SdiUosGbbfedoj.jpg">https://image.tmdb.org/t/p/original/1Flfm2evc5Fs4SdiUosGbbfedoj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zaj41iC7bRdouW2xnL9shBKR0kl.jpg">https://image.tmdb.org/t/p/original/zaj41iC7bRdouW2xnL9shBKR0kl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j6QGVx8NcFX3bfpddik8vuYBLe5.jpg">https://image.tmdb.org/t/p/original/j6QGVx8NcFX3bfpddik8vuYBLe5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i80B0mHQXWRkqcYH02sIFdRBo3R.jpg">https://image.tmdb.org/t/p/original/i80B0mHQXWRkqcYH02sIFdRBo3R.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oOjIB4nI0Y7oW1ZbNLbpJINYQKQ.jpg">https://image.tmdb.org/t/p/original/oOjIB4nI0Y7oW1ZbNLbpJINYQKQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aaISP3nSy6GGtPPOavzaqw0Zg7N.jpg">https://image.tmdb.org/t/p/original/aaISP3nSy6GGtPPOavzaqw0Zg7N.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ggBw2p5PcTuniXITykeL2c2ve9d.jpg">https://image.tmdb.org/t/p/original/ggBw2p5PcTuniXITykeL2c2ve9d.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q6M9TRlUKaiwiueHQMnZYkklLWZ.jpg">https://image.tmdb.org/t/p/original/q6M9TRlUKaiwiueHQMnZYkklLWZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6782276</id>
+    <uniqueid type="imdb" default="true">tt6782276</uniqueid>
+    <uniqueid type="tmdb">537617</uniqueid>
+    <genre>Drama</genre>
+    <country>Canada</country>
+    <director>Jonathan Sobol</director>
+    <premiered>2018-09-28</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Darius Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M1hY5hmUulQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>796</height>
+                <durationinseconds>5705</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tim Roth</name>
+        <role>The Padre</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Nolte</name>
+        <role>Nemes</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Guzmán</name>
+        <role>Gaspar</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marie Paquim</name>
+        <role>Ophelia</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/jSHBvOjjsMXr7mRth1lY7q9cbCi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hailey Hermida</name>
+        <role>Young Christina</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Petersen</name>
+        <role>The Mark</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:01:29</dateadded>
+</movie>

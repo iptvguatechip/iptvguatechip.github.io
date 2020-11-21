@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Emma</title>
+    <originaltitle>Emma.</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>22155</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>523</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Guapa, inteligente y rica, la joven Emma Woodhouse es una reina sin rival en su pequeño pueblo. Nueva adaptación de la novela de Jane Austen publicada en 1815 sobre la vida de la joven Emma. El guión corre a cargo de la novelista ganadora del Premio Booker Eleanor Catton, que en el año 2013 se convirtió en la más joven en recibir el prestigioso galardón.</plot>
+    <tagline>Love knows best.</tagline>
+    <runtime>124</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hd5YQjsIPuLmZuvWfdv36apz8tE.jpg">https://image.tmdb.org/t/p/original/hd5YQjsIPuLmZuvWfdv36apz8tE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/neBV7sGJLgC4BkY1JA7SfS4ovMK.jpg">https://image.tmdb.org/t/p/original/neBV7sGJLgC4BkY1JA7SfS4ovMK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg">https://image.tmdb.org/t/p/original/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qwKtIciDSc06ucSWIvnOTGwfIcm.jpg">https://image.tmdb.org/t/p/original/qwKtIciDSc06ucSWIvnOTGwfIcm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c1E1BfydjvAMC3kjpuKtCnAqm4a.jpg">https://image.tmdb.org/t/p/original/c1E1BfydjvAMC3kjpuKtCnAqm4a.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n5yQVtZQrH9EXzRHIHgs79H1iLW.jpg">https://image.tmdb.org/t/p/original/n5yQVtZQrH9EXzRHIHgs79H1iLW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5fMuOvof9eF0V0A0sbW7MWmdWOF.jpg">https://image.tmdb.org/t/p/original/5fMuOvof9eF0V0A0sbW7MWmdWOF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/28XM4oZ5WGcornckiC61mHC8Rn5.jpg">https://image.tmdb.org/t/p/original/28XM4oZ5WGcornckiC61mHC8Rn5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i5qTNtBbfzGRUKn9VDZvK1WM0lO.jpg">https://image.tmdb.org/t/p/original/i5qTNtBbfzGRUKn9VDZvK1WM0lO.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5GbkL9DDRzq3A21nR7Gkv6cFGjq.jpg">https://image.tmdb.org/t/p/original/5GbkL9DDRzq3A21nR7Gkv6cFGjq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/l111ATIHwHQPL9dHKV5Lix85Azq.jpg">https://image.tmdb.org/t/p/original/l111ATIHwHQPL9dHKV5Lix85Azq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mzV8lZ8Ii5kfvPPcCl8lftO9vYw.jpg">https://image.tmdb.org/t/p/original/mzV8lZ8Ii5kfvPPcCl8lftO9vYw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/83JwVzXSaC265QCqUOugZRoh47K.jpg">https://image.tmdb.org/t/p/original/83JwVzXSaC265QCqUOugZRoh47K.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iyHldeOpoLS3XzC3cjFKqPmrns9.jpg">https://image.tmdb.org/t/p/original/iyHldeOpoLS3XzC3cjFKqPmrns9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eBFn0gI0gDjgPKFqQVlE9p4QfAD.jpg">https://image.tmdb.org/t/p/original/eBFn0gI0gDjgPKFqQVlE9p4QfAD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j6m0wSEu937c6XEGhoRBl9aQ00v.jpg">https://image.tmdb.org/t/p/original/j6m0wSEu937c6XEGhoRBl9aQ00v.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bbXZAg9DsrEqxcGjaHTW61savc5.jpg">https://image.tmdb.org/t/p/original/bbXZAg9DsrEqxcGjaHTW61savc5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/n0A5GFwMPU1WQBSxoUoYA3u3PAC.jpg">https://image.tmdb.org/t/p/original/n0A5GFwMPU1WQBSxoUoYA3u3PAC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xQlYZp3mhsuhV1hYToY9dEDXE1f.jpg">https://image.tmdb.org/t/p/original/xQlYZp3mhsuhV1hYToY9dEDXE1f.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/axk0cXwvQWARCCauC2WwuciLBTd.jpg">https://image.tmdb.org/t/p/original/axk0cXwvQWARCCauC2WwuciLBTd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kLpQSYtPMsGXPHzjbza0iD9GuwY.jpg">https://image.tmdb.org/t/p/original/kLpQSYtPMsGXPHzjbza0iD9GuwY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9TLVzqyf2evP6Amq3VTjTr06Hom.jpg">https://image.tmdb.org/t/p/original/9TLVzqyf2evP6Amq3VTjTr06Hom.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 12</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9214832</id>
+    <uniqueid type="imdb" default="true">tt9214832</uniqueid>
+    <uniqueid type="tmdb">556678</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United Kingdom</country>
+    <credits>Eleanor Catton</credits>
+    <director>Autumn de Wilde</director>
+    <premiered>2020-02-13</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Working Title Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2AyD5s22n9U</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1076</height>
+                <durationinseconds>7461</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Anya Taylor-Joy</name>
+        <role>Emma Woodhouse</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/1zA5GuTcciupj4PsNoV2YemB0Wm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Flynn</name>
+        <role>George Knightley</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vS7e0sIXrAUtloBT9MpccRXUITr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh O&apos;Connor</name>
+        <role>Mr. Elton</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbbwfSeQkckrmWbqJePT6nIQUu9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Callum Turner</name>
+        <role>Frank Churchill</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/s0QRTZUN2chqHLQdCtKP22CvCsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mia Goth</name>
+        <role>Harriet Smith</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/6DrarltGDYsmqV0IDgSfsDC6sdH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miranda Hart</name>
+        <role>Miss Bates</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/lLqIihBICaGVkzB8yqCvydZ9qc3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Nighy</name>
+        <role>Mr. Woodhouse</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/acbigDOU1L1vMWAL3Wf0r8h8qLA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rupert Graves</name>
+        <role>Mr. Weston</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gemma Whelan</name>
+        <role>Miss Taylor / Mrs. Weston</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/zZe4rOtlksgBDuFkpxnAimGOTDp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Anderson</name>
+        <role>Jane Fairfax</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/g5Vk0ROyH1fnIcILXR1pGHz13O1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tanya Reynolds</name>
+        <role>Mrs. Elton</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Connor Swindells</name>
+        <role>Robert Martin</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/jUY1Ayi79usRpwjMmrGVtGmWL6B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angus Imrie</name>
+        <role>Bartholomew</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/smM2jI7EbsuiSxQCHlJhnb8FQdj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Letty Thomas</name>
+        <role>Biddy</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/uYivSbEqAE2GxwsdVB6bNfW2XPC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aidan White</name>
+        <role>Hartfield Butler</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward Davis</name>
+        <role>Charles</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/iq3u5jaYMn4yPasJc47eKT242QB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris White</name>
+        <role>James, Hartfield Coachman</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Myra McFadyen</name>
+        <role>Mrs. Bates</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Mx6CbWCCzGyit5VsFV6Ht2Atbn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Esther Coles</name>
+        <role>Mrs. Cox</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Suzy Bloom</name>
+        <role>Miss Gilbert</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Suzie Toase</name>
+        <role>Mrs. Coles</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Burns</name>
+        <role>Mr. Coles</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Connor Dalton</name>
+        <role>Donwell Footman</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucy Briers</name>
+        <role>Mrs. Reynolds</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anna Francolini</name>
+        <role>Mrs. Goddard</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/zkfIJehMXE8jSzbClQsILZqddM5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Godwin</name>
+        <role>Mr. Perrie</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/yrhPkJY9oafkA5GipMZajVP17wH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Owen</name>
+        <role>Catherine Martin</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Isis Hainsworth</name>
+        <role>Elizabeth Martin</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Xih7stnNa3bfIHIFsnwQvkfK7w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Stokely</name>
+        <role>Mrs. Martin</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Weston</name>
+        <role>Mrs. Ford</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/kCOVoyTG3fKRg91DRmH278kqMr6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Toovey</name>
+        <role>Henry Knightley</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cecelia Jacob</name>
+        <role>Bella Knightley</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cody Gipson</name>
+        <role>John Knightley Jnr.</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tabitha Coop</name>
+        <role>Emma Knightley</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juno Coop</name>
+        <role>Emma Knightley</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chloe Pirrie</name>
+        <role>Isabella Knightley</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/q6mjlrXrHziETbxilCKdO0atctI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oliver Chris</name>
+        <role>John Knightley</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/xTnUMtP5MREaHD86XfJ5mYibawq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rose Shalloo</name>
+        <role>Hannah</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Janine Craig</name>
+        <role>Dancer</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cris Penfold</name>
+        <role>Dancer</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nike Van Shie</name>
+        <role>Dancer</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leigh Daniels</name>
+        <role>Dancer</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/qU5ikH1jhQ3d2ZWzKUEuWLYOgbn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alastair Postlethwaite</name>
+        <role>Dancer</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shaun Walters</name>
+        <role>Dancer</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachary Trevitt</name>
+        <role>Dancer</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philippe Barnes</name>
+        <role>Musician - Flute</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexis Bennett</name>
+        <role>Musician - Viola</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Giles Lewin</name>
+        <role>Musician - Violin</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edmund George Taylor</name>
+        <role>Musician - Violin</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Zeitlin</name>
+        <role>Musician - Cello</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-28 11:53:59</dateadded>
+</movie>

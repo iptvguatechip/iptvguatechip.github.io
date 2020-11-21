@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mr. Turner</title>
+    <originaltitle>Mr. Turner</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.800000</value>
+            <votes>24080</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>371</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him.</plot>
+    <tagline></tagline>
+    <runtime>150</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tlfXPaFKtEsqTEMUPg96wfKdWOm.jpg">https://image.tmdb.org/t/p/original/tlfXPaFKtEsqTEMUPg96wfKdWOm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/85p8AhZpU77emCZ6r6SueByN0Lc.jpg">https://image.tmdb.org/t/p/original/85p8AhZpU77emCZ6r6SueByN0Lc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rnVhl1PFSOoW5c6UhZJZt5TV98p.jpg">https://image.tmdb.org/t/p/original/rnVhl1PFSOoW5c6UhZJZt5TV98p.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/t3FBRgGnlIT3YZdu7LQ9WkYKfIp.jpg">https://image.tmdb.org/t/p/original/t3FBRgGnlIT3YZdu7LQ9WkYKfIp.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2lzyYNUMTUuuhAq6U7zUFq6am6a.jpg">https://image.tmdb.org/t/p/original/2lzyYNUMTUuuhAq6U7zUFq6am6a.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/A6ajlIpjKVqswOmc5y3TwjjglqJ.jpg">https://image.tmdb.org/t/p/original/A6ajlIpjKVqswOmc5y3TwjjglqJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lsqGOR0aC4lt0cb7Sn0NdRuJzsb.jpg">https://image.tmdb.org/t/p/original/lsqGOR0aC4lt0cb7Sn0NdRuJzsb.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2473794</id>
+    <uniqueid type="imdb" default="true">tt2473794</uniqueid>
+    <uniqueid type="tmdb">245700</uniqueid>
+    <genre>Historia</genre>
+    <genre>Drama</genre>
+    <country>United Kingdom</country>
+    <credits>Mike Leigh</credits>
+    <director>Mike Leigh</director>
+    <premiered>2014-10-31</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Untitled 13</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lnJoUlzF_Rg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>9001</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Timothy Spall</name>
+        <role>JMW Turner</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/zDXpquJ2lmXh9rYlyzIL9L7REfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dorothy Atkinson</name>
+        <role>Hannah Danby</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fhH3eglXDHH4YWWc8OtUdu5FaNp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marion Bailey</name>
+        <role>Sophia Booth</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Jesson</name>
+        <role>William Turner Snr</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lesley Manville</name>
+        <role>Mary Somerville</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/tioPlSoypjdME3oMu3g7XmgIIKS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Savage</name>
+        <role>Benjamin Robert Haydon</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruth Sheen</name>
+        <role>Sarah Danby</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bcrbxcgVPpMlDUPD3OY4BONzpTd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Horovitch</name>
+        <role>Dr Price</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/fehBI7B9QaAq9QlwVmvQqCr9C50.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karl Johnson</name>
+        <role>Mr. Booth</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXEFmNvs64YOB2AbBi7rZ57rTvW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Wight</name>
+        <role>Joseph Gillot</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/6KTJTAIrZFrYxqiK8vSSm2zDYpg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua McGuire</name>
+        <role>John Ruskin</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/bNPr4R7SFMgcmwdfZXyn8pYqqUw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stuart McQuarrie</name>
+        <role>Ruskin&apos;s Father</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/hdPU6SArZagRTCpw9wTYIePLF2S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sylvestra Le Touzel</name>
+        <role>Ruskin&apos;s Mother</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/qydOfBDAoVTL4NrAdMVOyQWMSlq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leo Bill</name>
+        <role>JE Mayall</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/lyXVnrvrbtAr5pPKaqGHQfe1a7W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate O&apos;Flynn</name>
+        <role>Prostitute</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sinéad Matthews</name>
+        <role>Queen Victoria</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/87MTPSbB0lEL1WiRWlqr6Pp24Os.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karina Fernandez</name>
+        <role>Miss Coggins</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/xgvzoPfRZjLkfL1gIoXEH4qRhEz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Bremmer</name>
+        <role>George Jones</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/f6B04svt1I5WWwWWFd6AIu7YAfG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Stanley</name>
+        <role>Clarkson Stanfield</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/kA4Z9W7hAQa6VUQkPnSEdLUpqI2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Thomas King</name>
+        <role>David Roberts</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/hE7R5CcybeolLiptWVvPnOkittU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Wlaschiha</name>
+        <role>Prince Albert</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/vVdKdzuBzZreaPzq94WB9wkpKks.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Godfrey</name>
+        <role>Lord Egremont</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/fGZMxe4VpV0rYDYbgXmyJlDO3f7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Niall Buggy</name>
+        <role>John Carew</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fred Pearson</name>
+        <role>Sir William Beechey</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/8JXrXOyF7qewObcNMLFzbk1Incj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Edden</name>
+        <role>CR Leslie</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/4b44HaslQOYKw1KesySkIDwwxGd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clive Francis</name>
+        <role>Sir Martin Archer Shee</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/lB0AiyMGrXcUN6JQWpPbxbzK7os.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Portal</name>
+        <role>Sir Charles Eastlake</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/n1HEjfvZrxTShTZ1HncsWJ5Sib7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Fleet</name>
+        <role>John Constable</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/4aG8nTReLO0GhDCSoV4CtXejeYD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Ashton-Griffiths</name>
+        <role>Henry William Pickersgill</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/fwVK6FD82EANGLXlAu8ulXZB86q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Chandler</name>
+        <role>Sir Augustus Wall Callcott</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/uqiDrIp84VEJY3vPCr95Cxp4mKY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward de Souza</name>
+        <role>Thomas Stothard</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/22PoRKJ0UKDyzvWcMugF00GqjXa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oliver Maltman</name>
+        <role>Theatre Actor</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Kelly</name>
+        <role>Theatre Actor</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/bW9n1nIue9HZ2Z0pjeA9Q0lKQbR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandy Foster</name>
+        <role>Evelina</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amy Dawson</name>
+        <role>Georgiana</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/jzjuZzPEgXm8lfUcPoqTVeWOHk3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alice Bailey Johnson</name>
+        <role>Young Lady Singer</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alice Orr-Ewing</name>
+        <role>Second Young Lady</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/jOtE1FZvzjpWctXEV5ephzgFXaT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Veronica Roberts</name>
+        <role>Lady Stuckley</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Dixon</name>
+        <role>Mr Manners</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/rhMlmS9dE6pyy4qnZGRzlRrGlhh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Keane</name>
+        <role>Clergyman</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Norton</name>
+        <role>Clarinettist</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/aZZWaiglevswXeny4fxYlSUjOzC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Ryall</name>
+        <role>Footman</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/fOvqAAgVAc1QG1qxg3m8yypkZOJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicola Sloane</name>
+        <role>Brothel Keeper</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/blWSecB0y80tJCfLEdd3sfIC23f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eleanor Yates</name>
+        <role>Ruskin&apos;s Wife</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fenella Woolgar</name>
+        <role>Lady Eastlake</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/hD9Z0A5nPQzp2YkfEKlvRNm9ytP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Cordery</name>
+        <role>Dinner Guest</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQXORgAzgjVXl9SXQBgsjflHZoP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Dryden</name>
+        <role>Cornelius</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/9eYxdu0dzydWEPzNHIDYVwpQSTW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcello Magni</name>
+        <role>Colourman</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Wingett</name>
+        <role>Mariner</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/uT3QCwMDSXw6FJdTBTpBNJnDFZS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ruby Bentall</name>
+        <role>Unhappy Couple</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/d5qziLIwYR9NB0UhRDDSiJbbY7w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Ingleby</name>
+        <role>Unhappy Couple</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/vgLBNxTIC9DjfIJZVS83bbyzQOU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pearl Chanda</name>
+        <role>Theatre Actor</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ned Derrington</name>
+        <role>Theatre Actor</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil Elstob</name>
+        <role>Theatre Actor</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Hannah</name>
+        <role>Theatre Actor</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francesca Zoutewelle</name>
+        <role>Theatre Actor</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/aTGgbDFgFEVZMf5O2QOPybea58l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Holland</name>
+        <role>Boy Actor</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Culkin</name>
+        <role>Gentleman Critic</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/eUTAyHEEKE3ZVVqKuEiPG8APU14.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Franklin</name>
+        <role>Gentleman Critic</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/yVUQNN5skc1eK1UwqeHpT1Vn1l9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Woodeson</name>
+        <role>Gentleman Critic</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/g8sVxrMjLAWEde8TZaa42e2Lr42.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Berrington</name>
+        <role>Lady Critics</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/wFz71bIKTlQoa8v1s243TIh5wUm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eileen Davies</name>
+        <role>Lady Critics</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/6dIEVzSn5VfQ0Sh1rPutzhtTOk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Goody</name>
+        <role>Gallery Visitor</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Terrence Hardiman</name>
+        <role>Gallery Visitor</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/jbues6vQgKbCOvLdGuktrkNp0iW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Theresa Watson</name>
+        <role>Gallery Visitor</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Judi Scott</name>
+        <role>Neighbour</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angela Curran</name>
+        <role>Neighbour</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/AqFDvbVtDQYojX0ndD7vHi1gql3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amanda Lawrence</name>
+        <role>Hannah&apos;s Friend</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/n0RmDWYo266XvrNlS0aZCXSOihn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judith Amsenga</name>
+        <role>Dutch Lady</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Helen Cooper</name>
+        <role>Dutch Lady</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stuart Matthews</name>
+        <role>Market Trader (uncredited)</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/fflgxcEAUgt3OPdIHIY27UCPVJm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Jones</name>
+        <role>Sir John Soane</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/y71QhccNtxrU0XoX7Rc8EEuiy4H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert J. Fraser</name>
+        <role>Art Student (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-09-04 22:22:07</dateadded>
+</movie>

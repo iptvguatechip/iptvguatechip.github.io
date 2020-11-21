@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Una loca película de Esparta</title>
+    <originaltitle>Meet the Spartans</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>2.800000</value>
+            <votes>100965</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>3.900000</value>
+            <votes>1056</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El narrador cuenta que su niñez fue dura, su abuelita lo entrenaba en el arte de la lucha, le enseñaban a no temer con el sr. White de James Bond. Dice también que fue enviado a las montañas para que sobreviviese y luchase con Happy Feet. Luego Leónidas regresa a Esparta para ser proclamado rey, después conoce a una joven llamada Margo, y se enamoran.  Luego de unos años aparece Leónidas entrenando brutalmente a su hijo, una parodia de la WWE en el papel de Undertaker aplicando su Tombstone Pile Driver, y luego le pega con una silla; hasta que vienen unos mensajeros persas. Leónidas se reúne con ellos, y el emisario le comunica que Esparta será devastada por el rey Jerjes. Leónidas se queda pensando y cuando decide, ve a su esposa y el mensajero en un apasionado beso.</plot>
+    <tagline>The Bigger the Hit, The Harder They Fall</tagline>
+    <runtime>86</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vmgHtWiNmyWuyzlXZwM1xlgZ170.jpg">https://image.tmdb.org/t/p/original/vmgHtWiNmyWuyzlXZwM1xlgZ170.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/okBUfdU1w8AQ86GW9w8cDDrJgMs.jpg">https://image.tmdb.org/t/p/original/okBUfdU1w8AQ86GW9w8cDDrJgMs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oT5K3yq5Opd5MicAtsp5yYB2act.jpg">https://image.tmdb.org/t/p/original/oT5K3yq5Opd5MicAtsp5yYB2act.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8lI33tJaXMqQnGxpSX2ZCdgP0eF.jpg">https://image.tmdb.org/t/p/original/8lI33tJaXMqQnGxpSX2ZCdgP0eF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg">https://image.tmdb.org/t/p/original/DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gn11xC1a3ubBSrQW9ZSEQIUY4EY.jpg">https://image.tmdb.org/t/p/original/gn11xC1a3ubBSrQW9ZSEQIUY4EY.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1073498</id>
+    <uniqueid type="imdb" default="true">tt1073498</uniqueid>
+    <uniqueid type="tmdb">7278</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Jason Friedberg</credits>
+    <credits>Aaron Seltzer</credits>
+    <director>Jason Friedberg</director>
+    <director>Aaron Seltzer</director>
+    <premiered>2008-01-24</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>New Regency Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RY-zJtYYolo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5185</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sean Maguire</name>
+        <role>Leonidas</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/hRBR1KN5K9TIzX579mWt7MhvjPx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carmen Electra</name>
+        <role>Queen Margo</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wpSCUNmxRMxHOhXJDZGCMxyMidb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Davitian</name>
+        <role>Xerxes</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/odykKQKSJDDJ5O5Drq1RVNaTbqM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Sorbo</name>
+        <role>Hauptmann</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/a6rDi3tkNJwaVoP7VGbdGelwtYw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diedrich Bader</name>
+        <role>Traitoro</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/j3ARZGysag7RZ96ISYBAu51GpnK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Method Man</name>
+        <role>Persian Emissary</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mYJFxOcrda410rS5JHPf0nPuimZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ike Barinholtz</name>
+        <role>Dane Cook Look-a-Like / Bond Villain / Prophet</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/mB6pvurTeQIf55UiOQrkaB1Pynu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Walsh</name>
+        <role>Pretty Girl</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/wDHhmVuiOzOzeYaK9PsSgGtBmYv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Haddish</name>
+        <role>Urban Girl</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/Avmv1YY7Qscz0TyWxhqFoS7BO5f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Travis Van Winkle</name>
+        <role>Sonio</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/thanvrjfpP9h8E9QmPbtutZoEHa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jareb Dauplaise</name>
+        <role>Dilio</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil Morris</name>
+        <role>Messenger</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/va9RWz3YKT9egEvqn5LjBH2x9Pm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Piddock</name>
+        <role>Loyalist / Simon Cowell Look-A-Like</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kcEcWZVNkF1h9LQr5N60vViVZxu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicole Parker</name>
+        <role>Paula Abdul Look-A-Like / Britney Spears Look-A-Like / Ellen DeGeneres Look-A-Like / Hunchback Paris Hilton</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qlorxzIRNXTXFxZtWgMNduMpJYO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Crista Flanagan</name>
+        <role>Spartan Woman / Ugly Betty Look-A-Like</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hunter Clary</name>
+        <role>Leo, Jr.</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/mBbXPF3qrjFayuEhPUJNu4EQYQ6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Wilson</name>
+        <role>Lindsay Lohan Look-A-Like</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/r1ZppIE70O1ulukKSCoVaZaxWOW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Di Domenico</name>
+        <role>Donald Trump Look-A-Like</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/68xouTnxaTgXsLf37mZ46M0CQec.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Belinda Waymouth</name>
+        <role>Twiggy Look-A-Like</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/uRGiz1sLgp1rZ6N7eX0m0yPOeOj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesse Lewis IV</name>
+        <role>Ms. Jay Look-A-Like</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachary Dylan Smith</name>
+        <role>10-Year-Old Leonidas</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Fraley</name>
+        <role>Brad Pitt Look-A-Like</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Claus</name>
+        <role>Angelina Jolie Look-A-Like</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nick Steele</name>
+        <role>K-Fed Look-A-Like</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/ePapQPZnAKjpN5pAig4HgziVIsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Nieb</name>
+        <role>President Bush Look-A-Like</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/7UPwb8ti0s09NaU9xaoUKpk5Byj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Cochran</name>
+        <role>Rocky Balboa / Rambo</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/wVj8sKW9rvu6Q2gCsB7Wid3Oyce.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nate Haden</name>
+        <role>Ryan Seacrest Look-A-Like</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Yalda</name>
+        <role>Sanjaya Look-A-Like</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-21 10:00:25</dateadded>
+</movie>

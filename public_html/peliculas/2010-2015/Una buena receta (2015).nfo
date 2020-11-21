@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Una buena receta</title>
+    <originaltitle>Burnt</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>104883</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>2302</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Adam Jones, un chef que es una celebridad en el mundo de la restauración, lo pierde todo debido a su carácter problemático. Ahora, intenta desde cero remontar el vuelo con un nuevo restaurante en Londres, para en el futuro regresar a París y conseguir las tres estrellas Michelin.</plot>
+    <tagline>Nunca subestimes a un hombre que tiene todo que perder.</tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wRuNMfEKZnN5n17QInGBuKc8vXu.jpg">https://image.tmdb.org/t/p/original/wRuNMfEKZnN5n17QInGBuKc8vXu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xijKeis4crYWFDbxXfdnDt3WCsT.jpg">https://image.tmdb.org/t/p/original/xijKeis4crYWFDbxXfdnDt3WCsT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iptu4zfvbeULkeuoVkTl2mOqTPS.jpg">https://image.tmdb.org/t/p/original/iptu4zfvbeULkeuoVkTl2mOqTPS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fk14SLQDNRuf4Mm4tR5FbtymrVX.jpg">https://image.tmdb.org/t/p/original/fk14SLQDNRuf4Mm4tR5FbtymrVX.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uT9jBOf4cyvYj4FPf3R4KgHaNVB.jpg">https://image.tmdb.org/t/p/original/uT9jBOf4cyvYj4FPf3R4KgHaNVB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m9nw0xMkeAQ3oIxABYK9mstOQ8.jpg">https://image.tmdb.org/t/p/original/m9nw0xMkeAQ3oIxABYK9mstOQ8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eLg4WLCcerE9qoONOTkvB9pqIA5.jpg">https://image.tmdb.org/t/p/original/eLg4WLCcerE9qoONOTkvB9pqIA5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jHniYeRr4vXVFSfcwK6K04lilc8.jpg">https://image.tmdb.org/t/p/original/jHniYeRr4vXVFSfcwK6K04lilc8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tO1zS3WdjjpGGdUO6q3gRYy3Got.jpg">https://image.tmdb.org/t/p/original/tO1zS3WdjjpGGdUO6q3gRYy3Got.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2503944</id>
+    <uniqueid type="imdb" default="true">tt2503944</uniqueid>
+    <uniqueid type="tmdb">295964</uniqueid>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Steven Knight</credits>
+    <director>John Wells</director>
+    <premiered>2015-10-02</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>PeaPie Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QsyzkkI_g14</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6059</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bradley Cooper</name>
+        <role>Adam Jones</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/z5LUl9bljJnah3S5rtN7rScrmI8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sienna Miller</name>
+        <role>Helene</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wCYir8b8BLwDBtphjIgsrKBM0Ju.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Brühl</name>
+        <role>Tony</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/yaSULfePwytkw845KKiz4bbLK48.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Omar Sy</name>
+        <role>Michel</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/o34IwFPlOvE00yJA2E4nvp5RQB7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lily James</name>
+        <role>Sara</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/sOyEG5H6MRSokyKO5qnNT3wIC2h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alicia Vikander</name>
+        <role>Anne Marie</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/9pmHTbXeRxUF51jJKthmHI49u9z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Uma Thurman</name>
+        <role>Simone</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/tHa7u4ScCm9hwSbwodzj8Jmy3io.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Thompson</name>
+        <role>Dr. Rosshilde</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/odPswHsSsed56uHeVWmABKKlXlX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Rhys</name>
+        <role>Reece</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/1HO4P8rMOPLRUUfz9m43zkzJNCK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Greene</name>
+        <role>Kaitlin</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/hql67slgh3xYfs1efMd3Wz58X2F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Keeley</name>
+        <role>David</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/3OedeB1sWyPSnHKtVo8PRdDgGVe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chelsea Li</name>
+        <role>Bar-Goer</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/rPSwiXORMUfvac3KXWWHG7R3LC2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Riccardo Scamarcio</name>
+        <role>Max</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/zWGhuQtWgEL5WPfBCbCxqV2rTCG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Heskey</name>
+        <role>Conducteur</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Henry Goodman</name>
+        <role>Conti</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/5GTCMmzXa68PmitzuEyEpvjUUxO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Campbell Moore</name>
+        <role>Jack</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ajyQ7K8nmvvRxFQAPGGIAjCMhVv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lexie Benbow-Hart</name>
+        <role>Lily</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/cXegYkI4KGSClKuicD80kt9N1MD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bo Bene</name>
+        <role>Yana</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/4PQVBTDuwRIz6IpKtMj0DBMB129.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisa Lasowski</name>
+        <role>Denitzi</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/uG7spVqgsrm9K0MKUKalEwSNfOA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Firth</name>
+        <role>Langham Maitre&apos;d</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John MacDonald</name>
+        <role>French Heavy #1</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/7FPNCLha0VCjkmJis7FB8deI0gS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raphael Acloque</name>
+        <role>French Heavy #2</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/8VPBcWlkqaQai3lM2qbGa5JH45K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Rankin</name>
+        <role>Reece Waiter</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/nJAy31AKLzU35JY0HTEcZAJFoPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Trenaman</name>
+        <role>Emile</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/aFvrUlLtbrtkYZDyLwTotlr0ofr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jody Halse</name>
+        <role>Electrician</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/bhrF8chiAzOEZnoVV0qCyJ3e0Vn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erica Emm</name>
+        <role>Julia - MP Wife</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/wtnxrjuXV3P6YgoKC1CHFuE8dnq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Hawkins</name>
+        <role>TV Presenter</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/pfk6ZOHZ2cacQEDq5KoFQ8GviVz.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 17:17:50</dateadded>
+</movie>

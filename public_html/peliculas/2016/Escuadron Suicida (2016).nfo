@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Escuadrón Suicida</title>
+    <originaltitle>Suicide Squad</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>591530</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>16469</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La agencia secreta del gobierno A.R.G.U.S., liderada por Amanda Waller, crea una fuerza especial con los peores villanos del mundo: el &quot;Escuadrón Suicida&quot;, un equipo asignado a misiones mortales a cambio de acortar sus estancias en prisión.</plot>
+    <tagline>La justicia tiene su lado malo.</tagline>
+    <runtime>122</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bdgaCpdDh0J0H7ZRpDP2NJ8zxJE.jpg">https://image.tmdb.org/t/p/original/bdgaCpdDh0J0H7ZRpDP2NJ8zxJE.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/377PpA9qCKrKZA0V3i7F4xTdkgV.jpg">https://image.tmdb.org/t/p/original/377PpA9qCKrKZA0V3i7F4xTdkgV.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/aOQhajGvWesR386ISKwuxCUtzZJ.jpg">https://image.tmdb.org/t/p/original/aOQhajGvWesR386ISKwuxCUtzZJ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/e0uUxFdhdGLcvy9eC7WlO2eLusr.jpg">https://image.tmdb.org/t/p/original/e0uUxFdhdGLcvy9eC7WlO2eLusr.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/jxWpUDJoXQII0fvaTLqn0bw1C7p.jpg">https://image.tmdb.org/t/p/original/jxWpUDJoXQII0fvaTLqn0bw1C7p.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yTseJc5xJp4J3FOLXxkTycbGOCz.jpg">https://image.tmdb.org/t/p/original/yTseJc5xJp4J3FOLXxkTycbGOCz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9ymhU7NclJr29MpZnBQbJurYbuc.jpg">https://image.tmdb.org/t/p/original/9ymhU7NclJr29MpZnBQbJurYbuc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xFw9RXKZDvevAGocgBK0zteto4U.jpg">https://image.tmdb.org/t/p/original/xFw9RXKZDvevAGocgBK0zteto4U.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rbsm0i2q2uqlUSFgUAHq3xCUO4j.jpg">https://image.tmdb.org/t/p/original/rbsm0i2q2uqlUSFgUAHq3xCUO4j.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m6yKaxKCBtUMNdoGC4ofvjBXZsD.jpg">https://image.tmdb.org/t/p/original/m6yKaxKCBtUMNdoGC4ofvjBXZsD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vzMQEGJjmzCG3pbv3YMeTjRj8QE.jpg">https://image.tmdb.org/t/p/original/vzMQEGJjmzCG3pbv3YMeTjRj8QE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AgVkJbB8IJDlrIdagdeeYmjMtwM.jpg">https://image.tmdb.org/t/p/original/AgVkJbB8IJDlrIdagdeeYmjMtwM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oMRWQdqVrDT9xEAUaeKkf7eN13R.jpg">https://image.tmdb.org/t/p/original/oMRWQdqVrDT9xEAUaeKkf7eN13R.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7X1Tjt5N1eFCfNq3wUQSoTorobB.jpg">https://image.tmdb.org/t/p/original/7X1Tjt5N1eFCfNq3wUQSoTorobB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pLniVip0NXih0Zlvi6K2XCl8GLI.jpg">https://image.tmdb.org/t/p/original/pLniVip0NXih0Zlvi6K2XCl8GLI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/62crSYP6mTlZSQky1OpftGm5XFo.jpg">https://image.tmdb.org/t/p/original/62crSYP6mTlZSQky1OpftGm5XFo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pfbahzUusG3mTK2j2iFgwYMZxkL.jpg">https://image.tmdb.org/t/p/original/pfbahzUusG3mTK2j2iFgwYMZxkL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jpNQkTlHUQGZ9srAXnMsgrncPGK.jpg">https://image.tmdb.org/t/p/original/jpNQkTlHUQGZ9srAXnMsgrncPGK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/A0a2LlwOxwkI0uHjyLWPO7U5iEh.jpg">https://image.tmdb.org/t/p/original/A0a2LlwOxwkI0uHjyLWPO7U5iEh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rezqc6ztr1tjZdo8V51MFcTlDTr.jpg">https://image.tmdb.org/t/p/original/rezqc6ztr1tjZdo8V51MFcTlDTr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/twMr6wjh6Udf44Ln8I8VWaS0ruN.jpg">https://image.tmdb.org/t/p/original/twMr6wjh6Udf44Ln8I8VWaS0ruN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eLwqvLWs57iDO6HcDDHDpajLst3.jpg">https://image.tmdb.org/t/p/original/eLwqvLWs57iDO6HcDDHDpajLst3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/t06fphLxOvXNXRh7igX0pRx2N6O.jpg">https://image.tmdb.org/t/p/original/t06fphLxOvXNXRh7igX0pRx2N6O.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cXTQaEeWScYThKk8PLUB1ImkO69.jpg">https://image.tmdb.org/t/p/original/cXTQaEeWScYThKk8PLUB1ImkO69.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dpoIQ9MN54cxuLZxDABEUOSFGY3.jpg">https://image.tmdb.org/t/p/original/dpoIQ9MN54cxuLZxDABEUOSFGY3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6Ljm3aMh07OrY11h51XrGr694oi.jpg">https://image.tmdb.org/t/p/original/6Ljm3aMh07OrY11h51XrGr694oi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1Nn2aBWB1x91GmvFm9F5SM2nQl3.jpg">https://image.tmdb.org/t/p/original/1Nn2aBWB1x91GmvFm9F5SM2nQl3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7CsoobQ9wzrVXPiqB15bDqEk9zG.jpg">https://image.tmdb.org/t/p/original/7CsoobQ9wzrVXPiqB15bDqEk9zG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3wIn53fLeP09RyRosAk9Luq7U6q.jpg">https://image.tmdb.org/t/p/original/3wIn53fLeP09RyRosAk9Luq7U6q.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hlYU7AWngvNtdJW9N1yTMG6irau.jpg">https://image.tmdb.org/t/p/original/hlYU7AWngvNtdJW9N1yTMG6irau.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/y8ZhM0rFXtkXg8LAdlGCt87r4Nv.jpg">https://image.tmdb.org/t/p/original/y8ZhM0rFXtkXg8LAdlGCt87r4Nv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9S92Y393A5MWLLO7TpHFplQKCBp.jpg">https://image.tmdb.org/t/p/original/9S92Y393A5MWLLO7TpHFplQKCBp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/UljSEDaFoifVjDYIM0YhnbkvrW.jpg">https://image.tmdb.org/t/p/original/UljSEDaFoifVjDYIM0YhnbkvrW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sMRwI5trKI6qhxYcjPgGghmPBef.jpg">https://image.tmdb.org/t/p/original/sMRwI5trKI6qhxYcjPgGghmPBef.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1386697</id>
+    <uniqueid type="imdb" default="true">tt1386697</uniqueid>
+    <uniqueid type="tmdb">297761</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Crimen</genre>
+    <genre>Fantasía</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Suicide Squad Collection</name>
+    </set>
+    <credits>David Ayer</credits>
+    <director>David Ayer</director>
+    <premiered>2016-08-03</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DC Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TwaBdZT0vfk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7373</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Will Smith</name>
+        <role>Floyd Lawton / Deadshot</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/eze9FO9VuryXLP0aF2cRqPCcibN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margot Robbie</name>
+        <role>Harleen Quinzel / Harley Quinn</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pbSz7d1aURy88HGzFWng5EoFU81.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Leto</name>
+        <role>The Joker</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel Kinnaman</name>
+        <role>Rick Flag</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xOXQBE127mdJDF3NHpm7hi7va9z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Viola Davis</name>
+        <role>Amanda Waller</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/xDssw6vpYNRjsybvMPRE30e0dPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Hernandez</name>
+        <role>Chato Santana / El Diablo</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/86mlhxglLYYCac1CWWj4s9uR9U9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Eastwood</name>
+        <role>Lieutenant GQ Edwards</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2TofqgDl7ZlrAairMKKOSPITzka.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adewale Akinnuoye-Agbaje</name>
+        <role>Waylon Jones / Killer Croc</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/difjXzTkSMIa6ezBIafSfKayt5X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cara Delevingne</name>
+        <role>June Moone / Enchantress</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/jJaS0RBHQw9WWiBCpZJYFvbkZ8v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen Fukuhara</name>
+        <role>Tatsu Yamashiro / Katana</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/39xZ0fJEfq9Ql2fILUUDJmcHT15.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Beach</name>
+        <role>Christopher Weiss / Slipknot</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/nu9H2cfl8PPA7Af6KOnRkh2sem5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ike Barinholtz</name>
+        <role>Keith Griggs</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/mB6pvurTeQIf55UiOQrkaB1Pynu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jai Courtney</name>
+        <role>George &apos;Digger&apos; Harkness / Boomerang</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/9kMUy38pj7oTCuQUhfkbgXOedCq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Common</name>
+        <role>Monster T</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/dHOcvZJmHz50gk78Eta7PfoZQLH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Harbour</name>
+        <role>Dexter Tolliver</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/chPekukMF5SNnW6b22NbYPqAStr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Parrack</name>
+        <role>Jonny Frost</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/zj3qGmlPQtzAeDRrOPN7iZIXzmF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Meraz</name>
+        <role>Gomez - Seal Team A</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ExBib0bOPaNzOeLOqJHgETCjl2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corina Calderon</name>
+        <role>Grace Santana</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/rhHgKbchWfjo6zwwGodgW8mHDv4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Atkin Downes</name>
+        <role>Angelo</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shailyn Pierre-Dixon</name>
+        <role>Zoe Lawton</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/78LWrws9Y5pVz2ums3nxX5QqcqH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Baram</name>
+        <role>Dr. Van Criss</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/ysQNDEJfMqZP03LQ3QYanzIHAsb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alain Chanoine</name>
+        <role>Gerard Davis / Incubus</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/n6ENrx6We9FvE6hfA0yOWSCaeBU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ted Whittall</name>
+        <role>Admiral Olsen</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/s0TGUQmboEWXgf3yv8qlKoZbyjL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Murray</name>
+        <role>Admiral Burns</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/csDdxiwkavBvPAUigohG2jMu6Lv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaime FitzSimons</name>
+        <role>Sergeant Ames Bravo 14</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/1fiQ2jVxAXq3H9wfDus2L11Ev9K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Affleck</name>
+        <role>Bruce Wayne / Batman (uncredited)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WE5VNhTkiyus0xqUWdL9wNyl0P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ezra Miller</name>
+        <role>Barry Alan / The Flash (Uncredited)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/6wmTpbYpmhthaxzM5ss3377F9IV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Dyson</name>
+        <role>Missing Hand Guard</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bambadjan Bamba</name>
+        <role>T-Shirt Vendor</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Uk5XX0zRDYJeeIkjgtScS5zjFG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert B. Kennedy</name>
+        <role>U.S. Marshal</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/cNNmTTdPbBBNVzMdeRdMzbFM22j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Otis</name>
+        <role>Mafia Snitch</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/sPyix2o2aEEoq5ZK1MVPRs3BuuN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James McGowan</name>
+        <role>Panda Man</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Derek Perks</name>
+        <role>Psych Patient</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aidan Devine</name>
+        <role>Chairman</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/3qrUCw73cAN0923x5jCxAiiSaJE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Bee</name>
+        <role>Navy One-Star Admiral</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/jE3mIMwhlxPdWwBAkfvPNTFlQfO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clive McLean</name>
+        <role>Air Force Two-Star General</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank J. Zupancic</name>
+        <role>Army One-Star General</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/kIMitnZ9nmxCQfcdmu4ra3lBLK2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kent Sheridan</name>
+        <role>National Security Council</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ajv5bdt5bRtJP5HOdgKfmDcapSF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Shank</name>
+        <role>National Security Council</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dwight Ireland</name>
+        <role>National Security Council</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/fHRe3ooYlW8hdcaUKxblcnj07WL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amanda Brugel</name>
+        <role>National Security Council</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/t7Nef0M3sub90VjhQtsSTO004qF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Tufford Kennedy</name>
+        <role>National Security Council</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/ot1VytKzZymwvETRNrRaE2EAnhi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosemary De Los Santos</name>
+        <role>Hot Girl Patron</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Hanchard</name>
+        <role>Casino Boss</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/ukSbTT2snXQEDKhe8JjEUOAwZAC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel Lacoursiere</name>
+        <role>Cop At Rail Terminal</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jameson Kraemer</name>
+        <role>Doctor At Rail Terminal</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/1vzPejrpuY7PO9ZqM7tzSBKog0q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ho Chow</name>
+        <role>Gate Guard</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/zCBGFIrMtHeCa2UfdtRp5yL4l5v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Birgitte Solem</name>
+        <role>Dr. Van Criss&apos; Wife</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Vance</name>
+        <role>Kowalski - Seal Team A</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyler Grey</name>
+        <role>Grey - Seal Team Member</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/3yuB34p1EXx8273HnMrng7kgolA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathan Brown</name>
+        <role>Seal Team A #1 Member</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Choi</name>
+        <role>Yakuza Boss</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/ycHOQV42jsYXoWMaobKTzGXy9g4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Van Burek</name>
+        <role>Technician</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/ttIKylc0Ok75g9tES1h9lEvyZhH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Agueda Cardenas</name>
+        <role>Technician 2</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniela Uruena</name>
+        <role>Diablo&apos;s Daughter</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Uruena</name>
+        <role>Diablo&apos;s Son</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ariane Bellamar</name>
+        <role>Supermodel (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Murray Urquhart</name>
+        <role>Navy SEAL (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alyssa Veniece</name>
+        <role>Hispanic Woman (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/bjs46fwYXH8KFroL3XUtrlGdu6x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Ajro</name>
+        <role>U.S. Marshal</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/92OStY3uqhZjjUUSgOPlCwzPCNa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Devlin Anderson</name>
+        <role>Bystander</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Briana Andrade-Gomes</name>
+        <role>Dancer</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/ez9fsEjUrrAzVJRSUY3tDrU6Nww.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raffi Atamian</name>
+        <role>Bystander</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Byers</name>
+        <role>Air Force General Williams</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Heather Byrne</name>
+        <role>Injured Civilian</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Corey Chainey</name>
+        <role>Wounded Civilian</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shak Chaudhry</name>
+        <role>US Ranger</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Chilli Chillingworth</name>
+        <role>Ranger</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Christie</name>
+        <role>Marine</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex Chung</name>
+        <role>Van Criss Employee</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gavin R. Downes</name>
+        <role>MP Soldier</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Reid Eastwood</name>
+        <role>Club Goer</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Edgecombe</name>
+        <role>Distressed Civilian</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brendan Egan</name>
+        <role>Car Passenger</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Ellenberger</name>
+        <role>US Marshal</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tatyana Figueiredo</name>
+        <role>Tatiana - Russian Girl</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary &apos;Si-Jo&apos; Foo</name>
+        <role>Navy SEAL Combat Medic - Bravo Team</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tazito Garcia</name>
+        <role>US Marshal</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brianna Goldie</name>
+        <role>Operations Tech</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Groves</name>
+        <role>Secret Service Agent</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Hainsworth</name>
+        <role>Secret Service Agent</role>
+        <order>80</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shawn J. Hamilton</name>
+        <role>Navy SEAL Howard</role>
+        <order>81</order>
+        <thumb>https://image.tmdb.org/t/p/original/4r2jYlkWfuyHyNBLsQjd6tSm7p1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Harbinson</name>
+        <role>SWAT Officer</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fatimah Hassan</name>
+        <role>LAPD Sergeant</role>
+        <order>83</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dexter Howe</name>
+        <role>Fighter Pilot</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melanie Hubert</name>
+        <role>Bystander</role>
+        <order>85</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Ingram</name>
+        <role>FEMA Official</role>
+        <order>86</order>
+        <thumb>https://image.tmdb.org/t/p/original/dNdlqWiGfcp0vsvLiLx2Li87t3k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Clinton Jarvis</name>
+        <role>US Marshal / Military Escort</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sergio Kato</name>
+        <role>Hispanic Man</role>
+        <order>88</order>
+        <thumb>https://image.tmdb.org/t/p/original/qaFa4fZI60IN75aQ0xGunlKaRiC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Kent</name>
+        <role>Prisoner</role>
+        <order>89</order>
+        <thumb>https://image.tmdb.org/t/p/original/kmK20UNBpcZCBjUHsA88YVcW34O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Kessler</name>
+        <role>Bystander</role>
+        <order>90</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melissa Lem</name>
+        <role>Lieutenant Colonel Doctor</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John MacDonald</name>
+        <role>Arkham Guard Stewart</role>
+        <order>92</order>
+        <thumb>https://image.tmdb.org/t/p/original/7FPNCLha0VCjkmJis7FB8deI0gS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Manchulenko</name>
+        <role>EA Dancer</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Mease</name>
+        <role>Marine</role>
+        <order>94</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher Meneses</name>
+        <role>Hispanic Man</role>
+        <order>95</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Valiant Michael</name>
+        <role>Agent Bartoni</role>
+        <order>96</order>
+        <thumb>https://image.tmdb.org/t/p/original/dzDVr3Ux1GUMzJWbmdGz5RtqcLF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sabine Mondestin</name>
+        <role>Naughty Waitress</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Moses</name>
+        <role>Admiral&apos;s Staff</role>
+        <order>98</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Drew Moss</name>
+        <role>Blackwater</role>
+        <order>99</order>
+        <thumb>https://image.tmdb.org/t/p/original/n6XNGNffizZwaxTJY54BtFXlVGo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Afsheen Olyaie</name>
+        <role>Gotham Police</role>
+        <order>100</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Petronijevic</name>
+        <role>Anvil</role>
+        <order>101</order>
+        <thumb>https://image.tmdb.org/t/p/original/yVhVKxvVpDXLmZd7VtglFd71MPk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alisha Phillips</name>
+        <role>Executive Assistant</role>
+        <order>102</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tamina Pollack-Paris</name>
+        <role>EA Dancer</role>
+        <order>103</order>
+        <thumb>https://image.tmdb.org/t/p/original/tru40S00w8usr6ktMJZdynjXXr2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Prather</name>
+        <role>Firefighter</role>
+        <order>104</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dennisha Pratt</name>
+        <role>Cop Photographer</role>
+        <order>105</order>
+        <thumb>https://image.tmdb.org/t/p/original/98IReBtR5wisPbByzEhl6FscIHs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Asad Que</name>
+        <role>Military Guard</role>
+        <order>106</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Quigley</name>
+        <role>US Ranger</role>
+        <order>107</order>
+        <thumb>https://image.tmdb.org/t/p/original/o6363dRIZ0gEz0sDQPK2xtixESf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darryl Quon</name>
+        <role>Big Ugly Navy SEAL</role>
+        <order>108</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Lme35jpDTLQ2cDm1I5bRolgHw1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hugh Scott</name>
+        <role>American Hostage</role>
+        <order>109</order>
+        <thumb>https://image.tmdb.org/t/p/original/faTLrlsAKzrK2Davx94BLBkStLQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Attila Sebesy</name>
+        <role>Special Forces Escort</role>
+        <order>110</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rick Silver</name>
+        <role>Arresting Officer</role>
+        <order>111</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Connor Skific</name>
+        <role>Graham - SEAL Team A</role>
+        <order>112</order>
+        <thumb>https://image.tmdb.org/t/p/original/7t2KvGG25mTWHveQq8t1izCbGU4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amos Stern</name>
+        <role>Janes - Navy SEAL</role>
+        <order>113</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Goran Stjepanovic</name>
+        <role>Navy SEAL Clark</role>
+        <order>114</order>
+        <thumb>https://image.tmdb.org/t/p/original/hB485b13bTjImNr88iyGwa0tCRN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vivienne Taylor</name>
+        <role>Club Patron</role>
+        <order>115</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jasmine Renée Thomas</name>
+        <role>EA Dancer</role>
+        <order>116</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alen Toric</name>
+        <role>Firefighter</role>
+        <order>117</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dallas Wade</name>
+        <role>Helicopter Pilot</role>
+        <order>118</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Warshaw</name>
+        <role>Club Patron</role>
+        <order>119</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Watt</name>
+        <role>Bystander</role>
+        <order>120</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Weicht</name>
+        <role>US Army Ranger</role>
+        <order>121</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor Whittaker</name>
+        <role>Club Patron</role>
+        <order>122</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert L. Wilson</name>
+        <role>FBI Agent Max Bidwell</role>
+        <order>123</order>
+        <thumb>https://image.tmdb.org/t/p/original/k0V2GJ57ejtbxJu9eZDmnEgqLFr.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:30:39</dateadded>
+</movie>

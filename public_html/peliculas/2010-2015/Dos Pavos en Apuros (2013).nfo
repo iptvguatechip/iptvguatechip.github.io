@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Dos Pavos en Apuros</title>
+    <originaltitle>Free Birds</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>22206</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>524</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dos pavos  deben dejar de lado sus diferencias y formar un equipo para viajar atrás en el tiempo y cambiar el curso de historia para conseguir olvidarse de ser el menú de vacaciones para siempre...</plot>
+    <tagline>Agarra tus nuggets...</tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d12RUJPVm0DAekg4Edkjzu8zWlG.jpg">https://image.tmdb.org/t/p/original/d12RUJPVm0DAekg4Edkjzu8zWlG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qnFfhEh18pOxGM4k5ujusGMiNIp.jpg">https://image.tmdb.org/t/p/original/qnFfhEh18pOxGM4k5ujusGMiNIp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg">https://image.tmdb.org/t/p/original/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7pMItNKwRdsXl3jHsX0AHF9LmdT.jpg">https://image.tmdb.org/t/p/original/7pMItNKwRdsXl3jHsX0AHF9LmdT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/erGGdbYqj5tHwKEDd2OL2h70VXX.jpg">https://image.tmdb.org/t/p/original/erGGdbYqj5tHwKEDd2OL2h70VXX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/584ax0WqED75wed0Oa8qrjF3ME0.jpg">https://image.tmdb.org/t/p/original/584ax0WqED75wed0Oa8qrjF3ME0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7zdUMCOlxPiOT8kOcCgr40jXlLI.jpg">https://image.tmdb.org/t/p/original/7zdUMCOlxPiOT8kOcCgr40jXlLI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7JwgiV01N76kre4ry4ZjW0SrAj.jpg">https://image.tmdb.org/t/p/original/7JwgiV01N76kre4ry4ZjW0SrAj.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1621039</id>
+    <uniqueid type="imdb" default="true">tt1621039</uniqueid>
+    <uniqueid type="tmdb">175574</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <credits>John J. Strauss</credits>
+    <credits>Jimmy Hayward</credits>
+    <credits>Scott Mosier</credits>
+    <credits>David I. Stern</credits>
+    <director>Jimmy Hayward</director>
+    <premiered>2013-10-30</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Reel FX Creative Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Uex3soTp5XU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5463</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Owen Wilson</name>
+        <role>Reggie (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntN3DL1Us5G2PCvlfq112vLXRKa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Woody Harrelson</name>
+        <role>Jake (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/gaibtvUFIlwHzRvNKV5UfrR4GCM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Poehler</name>
+        <role>Jenny (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/k62oL10bNtPShjtHuLlKllwxva9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Takei</name>
+        <role>S.T.E.V.E. (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ldSXaj7X2eYLiWmVCUBNgfu268h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colm Meaney</name>
+        <role>Myles Standish (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keith David</name>
+        <role>Chief Broadbeak (Voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Fogler</name>
+        <role>Governor William Bradford (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7SGZ9EwnFxujmEGrOAYesOyBtwL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lesley Nicol</name>
+        <role>Female Pilgrim (voice)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Hayward</name>
+        <role>President of the United States/Ranger/Leatherbeak/Hazmats (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iUPWT3m14xpl3WSLm8LblKHRmwy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaitlyn Maher</name>
+        <role>President&apos;s Daughter (voice)</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Alazraqui</name>
+        <role>Amos (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Lawson</name>
+        <role>Gus (Voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/Am9vM77uZd9bGODugwmWtOfzx6E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dwight Howard</name>
+        <role>Cold Turkey (Voice)</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Carey</name>
+        <role>Danny (voice)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Ponce</name>
+        <role>Narrator/Alejandro (voice)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Beltran</name>
+        <role>Chief Massasoit (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/weqZyarkZ1A6Plf04Db9gLFKlFZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Mosier</name>
+        <role>Pizza Dude (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/kTp9aQtbonYPy4LnfnuXP7Slbs0.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:47</dateadded>
+</movie>

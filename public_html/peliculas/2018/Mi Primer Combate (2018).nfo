@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mi Primer Combate</title>
+    <originaltitle>First Match</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>1919</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>106</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una adolescente de Brooklyn curtida tras pasar por varias casas de acogida decide que si quiere encontrar a su padre biológico, tendrá que remover cielo y tierra, pero antes tendrá que enfrentarse a ellos, a los chicos.</plot>
+    <tagline>This is HER fight.</tagline>
+    <runtime>102</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5nEeaWxVCPnwuo8pfb7J1E7vScd.jpg">https://image.tmdb.org/t/p/original/5nEeaWxVCPnwuo8pfb7J1E7vScd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zwmtK6A7jwriIY0gh0HUgvI1ETA.jpg">https://image.tmdb.org/t/p/original/zwmtK6A7jwriIY0gh0HUgvI1ETA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wtrfnJYBK3rqCzOsYFs4WbFMaUH.jpg">https://image.tmdb.org/t/p/original/wtrfnJYBK3rqCzOsYFs4WbFMaUH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8zVlMv4LkINDB45qEfw5DA8G5UB.jpg">https://image.tmdb.org/t/p/original/8zVlMv4LkINDB45qEfw5DA8G5UB.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jP7GwNF0xtpYptH4VwBSBUH28dX.jpg">https://image.tmdb.org/t/p/original/jP7GwNF0xtpYptH4VwBSBUH28dX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eCTh5rIY25QTaEs8V5tC7OwdM2O.jpg">https://image.tmdb.org/t/p/original/eCTh5rIY25QTaEs8V5tC7OwdM2O.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8VLrqdxTRBhrzagMC0C7OKvpCxN.jpg">https://image.tmdb.org/t/p/original/8VLrqdxTRBhrzagMC0C7OKvpCxN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eZsVSmPlAGz0WHItbNoXisSuKU0.jpg">https://image.tmdb.org/t/p/original/eZsVSmPlAGz0WHItbNoXisSuKU0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6061074</id>
+    <uniqueid type="imdb" default="true">tt6061074</uniqueid>
+    <uniqueid type="tmdb">502122</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Olivia Newman</credits>
+    <director>Olivia Newman</director>
+    <premiered>2018-03-12</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CreativeBionics</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Xva2FWNdcD0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6152</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Elvire Emanuelle</name>
+        <role>Monique</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bF52AL0HwQAVOjepiLwq5kqy3G3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yahya Abdul-Mateen II</name>
+        <role>Darrel</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ajeMUSYF2KfgJ72F4vhacyJt7RZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colman Domingo</name>
+        <role>Coach Castile</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mhoqQ47tvGlmJQsu2udOsXhKBFk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jharrel Jerome</name>
+        <role>Omari</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/igbsYh9vAMuNgvXrIAF2vMmxdoN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Kemp</name>
+        <role>Malik</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeanette Branch</name>
+        <role>Nadege</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Gary Jr.</name>
+        <role>Hassan</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/lqlnv6ota6qqe5ieWyiPQzzq0b7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Ramirez</name>
+        <role>Lucila</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kamika Desrosiers</name>
+        <role>Nyasa</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio Ortiz</name>
+        <role>Jorge</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Travis Raeburn</name>
+        <role>Jamal</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyson Sheppard</name>
+        <role>Tyson</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Allen Maldonado</name>
+        <role>Juan</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rl8YFsk4XsFZqCZO5jHNwP0Qoog.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leronne Kornegay</name>
+        <role>Cute guy</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thaddeus Daniels</name>
+        <role>Restaurant Owner</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/3n7Tkmj3cxLXLtECxHn6BmV2DoY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eisa Davis</name>
+        <role>Bianca</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jae Ponder</name>
+        <role>Natalie</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Terrence Thomas</name>
+        <role>Principal DeMarco</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roger French</name>
+        <role>Shelter Patron</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kande Amadou</name>
+        <role>Omari&apos;s Mom</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Fauvell</name>
+        <role>Referee 1</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Luke Destefano</name>
+        <role>Wrestling Opponent 1</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shunori Ramanathan</name>
+        <role>Social Worker</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/6z18ps74TiVIFaF5tITaVIlJFNs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alejandro Arturo Ortiz Alonzo</name>
+        <role>Busboy</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julito McCullum</name>
+        <role>MC</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/sA8fHZIJbhoPB13Y4KL2xaTukUy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alyma Dorsey</name>
+        <role>Girl Fighter 1</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teniece Divya Johnson</name>
+        <role>Girl Fighter 2</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Toccarra Cash</name>
+        <role>Nyasa&apos;s Mom</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Patrick McGing</name>
+        <role>Wrestling Opponent 2</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jorge Cabrales</name>
+        <role>Referee 2</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Curtis Lyons</name>
+        <role>Big dude</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/8acqLhpR5fTMGBi7sUEokB6bf5n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Niahlah Hope</name>
+        <role>Girl Fighter 3</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jénel Stevens</name>
+        <role>Girl Fighter 4</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/n4tOkOkzpiNFhEDzZHgNzJAe79w.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 13:34:16</dateadded>
+</movie>

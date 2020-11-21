@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Gunman: El objetivo</title>
+    <originaltitle>The Gunman</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>38525</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>696</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Jim Terrier es una espía internacional que ha sido traicionado por la propia organización para la que trabajaba, razón por la que decide dejar atrás su pasado y empezar una nueva vida casándose con su novia. Pero sus planes se truncarán cuando se dé cuenta de que sus jefes y antiguos compañeros van tras él y no pararán hasta verlo muerto.</plot>
+    <tagline>Armado con la verdad.</tagline>
+    <runtime>115</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg">https://image.tmdb.org/t/p/original/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xTFIo3PjETHoNgjTpuO3wiqWhGG.jpg">https://image.tmdb.org/t/p/original/xTFIo3PjETHoNgjTpuO3wiqWhGG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lnUozDnDANTsDYEdsNsHC6b8IiS.jpg">https://image.tmdb.org/t/p/original/lnUozDnDANTsDYEdsNsHC6b8IiS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gUvk2Ml6n4tMD5qkbFrreHzCHx1.jpg">https://image.tmdb.org/t/p/original/gUvk2Ml6n4tMD5qkbFrreHzCHx1.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gzHwSVDecoeTCzJL4ypqEZljTku.jpg">https://image.tmdb.org/t/p/original/gzHwSVDecoeTCzJL4ypqEZljTku.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2515034</id>
+    <uniqueid type="imdb" default="true">tt2515034</uniqueid>
+    <uniqueid type="tmdb">266396</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <genre>Crimen</genre>
+    <country>France</country>
+    <credits>Sean Penn</credits>
+    <credits>Pete Travis</credits>
+    <credits>Don MacPherson</credits>
+    <director>Pierre Morel</director>
+    <premiered>2015-02-16</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>StudioCanal</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ug9xufczPVE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6940</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sean Penn</name>
+        <role>Terrier</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/lpZRNf56TmPsNNWZ7lhcgFM6rBc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jasmine Trinca</name>
+        <role>Annie</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bnaL4BhkiCaVK6AIEYAB0YVpBIw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Javier Bardem</name>
+        <role>Felix</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/gJTtH22fk7nAi45f7BN2P7DjvuE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Winstone</name>
+        <role>Stanley</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tycHZh88ZF0Uv81ZJV3xuTXSrQP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Rylance</name>
+        <role>Terrance Cox</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/gpnwdLoAbhAKwXQzJ04ga7UeJhs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Idris Elba</name>
+        <role>Barnes</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/be1bVF7qGX91a6c5WeRPs5pKXln.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Franzén</name>
+        <role>Reiniger</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/oyOHvNdJcOTQGZuAimene2Wlghw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Billingham</name>
+        <role>Reed</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Adegboyega</name>
+        <role>Bryson</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/9gzkwJ4WfRXIefVHezCwnVFnMXl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ade Oyefeso</name>
+        <role>Eugene</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sarah Moyle</name>
+        <role>Ruth</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/q5fO82P4HTVs5bW2z8EYlfRWKro.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Lascar</name>
+        <role>Camille</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/dwk9VqbdpYzB2jc2QSVoHYbrCcs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Schardan</name>
+        <role>Procurement Chief (NGO)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/jPIHnh8UkqcMWW4auSuxDEBXtel.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carla Pérez</name>
+        <role>Female Aid Worker</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Prasanna Puwanarajah</name>
+        <role>Doctor (UCL)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Annick Weerts</name>
+        <role>Restaurant Hostess</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ffW1vYA6N2EsW10GCJeR9eACrk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dacio Caballero</name>
+        <role>Shooter</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cuco Usín</name>
+        <role>Company Man</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Òscar Foronda</name>
+        <role>Company Man</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angela Fuente</name>
+        <role>Nurse</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melina Matthews</name>
+        <role>Cox&apos;s Secretary</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Blakeley</name>
+        <role>Man in Bar</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miquel Àngel Ripeu</name>
+        <role>Medical Chief (NGO)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Txiki Blasi</name>
+        <role>North American Aid Worker (NGO)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alito Rodgers</name>
+        <role>Security Chief (NGO)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>San Yélamos</name>
+        <role>Felix&apos;s Assistant</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paulina Boneva</name>
+        <role>Passerby (uncredited)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ancuta Breaban</name>
+        <role>Passerby (uncredited)</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 19:45:42</dateadded>
+</movie>

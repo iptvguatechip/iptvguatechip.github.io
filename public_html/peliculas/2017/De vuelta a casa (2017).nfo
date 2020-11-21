@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mi nueva yo</title>
+    <originaltitle>Home Again</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>27541</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>926</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La vida de una madre soltera en Los Ángeles toma un giro inesperado cuando permite que tres jóvenes se muden con ella.</plot>
+    <tagline>Starting over is not for beginners.</tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4nKjJIRxUpzMCOpZXDSyDPwzL90.jpg">https://image.tmdb.org/t/p/original/4nKjJIRxUpzMCOpZXDSyDPwzL90.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m9gCkjRzNny4tWoI9xu0XlPz4GE.jpg">https://image.tmdb.org/t/p/original/m9gCkjRzNny4tWoI9xu0XlPz4GE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vcqe6eV2Z0V1B8CnpQINa9B0I3D.jpg">https://image.tmdb.org/t/p/original/vcqe6eV2Z0V1B8CnpQINa9B0I3D.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg">https://image.tmdb.org/t/p/original/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bmANXV26Uzq0oucvH7rLPTp624B.jpg">https://image.tmdb.org/t/p/original/bmANXV26Uzq0oucvH7rLPTp624B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3GY9jPepRbYEApAPQCdXgQym2jj.jpg">https://image.tmdb.org/t/p/original/3GY9jPepRbYEApAPQCdXgQym2jj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jhpEmjkoujmibgLiebh90XcDuaV.jpg">https://image.tmdb.org/t/p/original/jhpEmjkoujmibgLiebh90XcDuaV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6405Nma8Nw8Gugkm18mrAR4TA2O.jpg">https://image.tmdb.org/t/p/original/6405Nma8Nw8Gugkm18mrAR4TA2O.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2AusdTk6080bjuqCJM64GcM955T.jpg">https://image.tmdb.org/t/p/original/2AusdTk6080bjuqCJM64GcM955T.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gh3iH3h4JHVRU4jkakpZwPAQMNf.jpg">https://image.tmdb.org/t/p/original/gh3iH3h4JHVRU4jkakpZwPAQMNf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z5CtCxpblBke2G8c7CMkstedMgY.jpg">https://image.tmdb.org/t/p/original/z5CtCxpblBke2G8c7CMkstedMgY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dXkhIbPixd5MQlEraKUiMQqgBWJ.jpg">https://image.tmdb.org/t/p/original/dXkhIbPixd5MQlEraKUiMQqgBWJ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xzXPybvwRXGIU5Bbw68YHVkTUW2.jpg">https://image.tmdb.org/t/p/original/xzXPybvwRXGIU5Bbw68YHVkTUW2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gf6Px3wkIMg5S1eI8nvoenv9hKP.jpg">https://image.tmdb.org/t/p/original/gf6Px3wkIMg5S1eI8nvoenv9hKP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qjPQJqzmUrkoyV3iyc709CKADOK.jpg">https://image.tmdb.org/t/p/original/qjPQJqzmUrkoyV3iyc709CKADOK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aFKyD7JQRpX6ZHMAGJjRopPniRx.jpg">https://image.tmdb.org/t/p/original/aFKyD7JQRpX6ZHMAGJjRopPniRx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pKkQSSAZ0aZckWKYNOPDSLQtTPA.jpg">https://image.tmdb.org/t/p/original/pKkQSSAZ0aZckWKYNOPDSLQtTPA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zWWq3mSBHPHKrhPcsxEazoHWzUH.jpg">https://image.tmdb.org/t/p/original/zWWq3mSBHPHKrhPcsxEazoHWzUH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pxpEFY66yYr5bA1N4PCm5b4uz40.jpg">https://image.tmdb.org/t/p/original/pxpEFY66yYr5bA1N4PCm5b4uz40.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/adiwSVCK9yupNjbX5T4H2LA1rhz.jpg">https://image.tmdb.org/t/p/original/adiwSVCK9yupNjbX5T4H2LA1rhz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/r8WVyxWygPDjBoobI9EMEShPXl3.jpg">https://image.tmdb.org/t/p/original/r8WVyxWygPDjBoobI9EMEShPXl3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eGw1K62SOwl0oC9jkRbREL3kFms.jpg">https://image.tmdb.org/t/p/original/eGw1K62SOwl0oC9jkRbREL3kFms.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fxURa73u9sw9wldTlrvnNRmbMlu.jpg">https://image.tmdb.org/t/p/original/fxURa73u9sw9wldTlrvnNRmbMlu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lW3z76PmYcBBfpSLS5i7a9xMkgG.jpg">https://image.tmdb.org/t/p/original/lW3z76PmYcBBfpSLS5i7a9xMkgG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tgEZV7G3bqasW3YZ1H4dz74gV66.jpg">https://image.tmdb.org/t/p/original/tgEZV7G3bqasW3YZ1H4dz74gV66.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/96K1pWr33W2QSiguMbmWiEZ2Zfl.jpg">https://image.tmdb.org/t/p/original/96K1pWr33W2QSiguMbmWiEZ2Zfl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w3KJxbhSoFhSOA1nMLAazfcILac.jpg">https://image.tmdb.org/t/p/original/w3KJxbhSoFhSOA1nMLAazfcILac.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xZO9mYrOPfnWawoG7HBKmqIVPk.jpg">https://image.tmdb.org/t/p/original/xZO9mYrOPfnWawoG7HBKmqIVPk.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5719700</id>
+    <uniqueid type="imdb" default="true">tt5719700</uniqueid>
+    <uniqueid type="tmdb">427900</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Hallie Meyers-Shyer</credits>
+    <director>Hallie Meyers-Shyer</director>
+    <premiered>2017-09-07</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Black Bicycle Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y-oFOgFB2uM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5835</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Reese Witherspoon</name>
+        <role>Alice Kinney</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/o1z4UwW2137IViFIRk8AV8hWze1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pico Alexander</name>
+        <role>Harry Dorsey</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jhh38xor4lGRYEz29KVbMUEZw3c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Sheen</name>
+        <role>Austen Bloom</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/k5snONVikijm5rhZxl6h72XcwsS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Candice Bergen</name>
+        <role>Lillian Stewart</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nat Wolff</name>
+        <role>Teddy Dorsey</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oqDJSGjomTiOkgfFGHTQsIPFPyt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Rudnitsky</name>
+        <role>George Appleton</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9S1Glj4T6W4v1ZkYMy3BnLccDp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lake Bell</name>
+        <role>Zoey Bell</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/tpBmxNKBebx04vQGnnQ3QNs6nvV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lola Flanery</name>
+        <role>Isabel Bloom</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/9eDN5LcSxBAxZOKEcacfuSfnJn7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eden Grace Redfield</name>
+        <role>Rosie Bloom</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Reid Scott</name>
+        <role>Justin Miller</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/kBAeDUDA7XJRXFLGNALlpE5d3lA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dolly Wells</name>
+        <role>Tracy</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/gYwusRdT9iX3Ba32jwFZS9fY180.jpg</thumb>
+    </actor>
+    <actor>
+        <name>P. J. Byrne</name>
+        <role>Paul</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/sKqr3A3LjLYlRCXJGJI8rjpdMOs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Stamberg</name>
+        <role>Warren</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/h3WKQr0771BfvrDWpqxOVUlZCOm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jen Kirkman</name>
+        <role>Kori</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/mOmDT7gN4n3S2Kzf40dkHS9Z6y2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hank Chen</name>
+        <role>Jason Greene</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex Alcheh</name>
+        <role>Jason A.</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremiah Caleb</name>
+        <role>Rajeesh</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gwyneth Glover</name>
+        <role>Gwyneth Bell</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kovar McClure</name>
+        <role>Rob Bell</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samantha Ressler</name>
+        <role>Maya</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/ltlgmd7eoK0mKIr1Ix6Vd6niHET.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Cyril Creighton</name>
+        <role>Brad</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/zZS99xnCjHlJjf0dB5PFxbhd4Uq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paige Cato</name>
+        <role>Miss Avery</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Netto</name>
+        <role>John Kinney</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gaylinn Dean</name>
+        <role>Young Alice Kinney</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christine Woods</name>
+        <role>Yoga Mom</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/wBDuMqxjpqVcyT11CeokDWyqbCP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sophia Bui</name>
+        <role>1970 Actress</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hope Watson</name>
+        <role>1970 Actress</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex Noiret</name>
+        <role>1970 Actress</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kim Senser</name>
+        <role>1970 Actress</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paige Spara</name>
+        <role>Bartender</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/fvw957j6d1ImrZO7dDhyVqLTPlb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Carr</name>
+        <role>Dance Club Bartender</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/zSufxjIYEDticVxCKT88q9RtBeb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robb Derringer</name>
+        <role>Dinner Guest</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/peQla1g9k0DPhuu6rGObn7kYX8e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shi Ne Nielson</name>
+        <role>Zoey&apos;s Decorator</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/n5ogJWMPII0KUyvQVwdDBJ7Onk6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick L. Williams</name>
+        <role>Waiter</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doug Locke</name>
+        <role>Mad Youth Actor</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/ieXcG0bY3fVNd187j8G5hqkICfv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Sinclair</name>
+        <role>Nate</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/h5TSpNlyBIFWMii6RZHgBr0MNtn.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 11:41:11</dateadded>
+</movie>

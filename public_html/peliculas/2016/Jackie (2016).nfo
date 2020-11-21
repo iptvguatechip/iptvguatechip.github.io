@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Jackie</title>
+    <originaltitle>Jackie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>72037</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>1760</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Película sobre la exprimera dama estadounidense Jacqueline Kennedy, centrada en los días inmediatamente posteriores al asesinato de JFK, en Dallas, el 22 de noviembre del año 1963.</plot>
+    <tagline>I want them to see what they have done to Jack.</tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hxmIRglqQMNb9A6NLQt5zCO39N7.jpg">https://image.tmdb.org/t/p/original/hxmIRglqQMNb9A6NLQt5zCO39N7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j5ThuP3rvy5UHTGwCdxbMDllXg9.jpg">https://image.tmdb.org/t/p/original/j5ThuP3rvy5UHTGwCdxbMDllXg9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wGPt3i7FTXPjODIOfUC4feXbRlw.jpg">https://image.tmdb.org/t/p/original/wGPt3i7FTXPjODIOfUC4feXbRlw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/56Dx2atdeNsigi0ub6130piGC9o.jpg">https://image.tmdb.org/t/p/original/56Dx2atdeNsigi0ub6130piGC9o.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fafkhT5N9bphry9TIBqTONSmcGI.jpg">https://image.tmdb.org/t/p/original/fafkhT5N9bphry9TIBqTONSmcGI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tGvfBwD9iLSSxkTTFKKG235HcTn.jpg">https://image.tmdb.org/t/p/original/tGvfBwD9iLSSxkTTFKKG235HcTn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xvELhnOJtWImSfQn1w6lH3p9jYI.jpg">https://image.tmdb.org/t/p/original/xvELhnOJtWImSfQn1w6lH3p9jYI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nQbpKFmIwQtyNu8CuTo0KtWliM7.jpg">https://image.tmdb.org/t/p/original/nQbpKFmIwQtyNu8CuTo0KtWliM7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4m73QL3y3B1uAvJ2LrvIYtWLkKy.jpg">https://image.tmdb.org/t/p/original/4m73QL3y3B1uAvJ2LrvIYtWLkKy.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1619029</id>
+    <uniqueid type="imdb" default="true">tt1619029</uniqueid>
+    <uniqueid type="tmdb">376866</uniqueid>
+    <genre>Drama</genre>
+    <country>Chile</country>
+    <credits>Noah Oppenheim</credits>
+    <director>Pablo Larraín</director>
+    <premiered>2016-12-02</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Jackie Productions (II)</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oPJsTzkYp9E</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>226.000000</aspect>
+                <width>1808</width>
+                <height>1080</height>
+                <durationinseconds>6007</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Natalie Portman</name>
+        <role>Jacqueline &quot;Jackie&quot; Kennedy</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/edPU5HxncLWa1YkgRPNkSd68ONG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Sarsgaard</name>
+        <role>Robert Kennedy</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greta Gerwig</name>
+        <role>Nancy Tuckerman</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/3H0xzU12GTNJyQTpGysEuI9KyiQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Crudup</name>
+        <role>The Journalist</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2fuCSqWskRaHNBJQsfb0iDPfnWa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Hurt</name>
+        <role>The Priest</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kLW1Q53NRuB0EihduBFX3Lbtcl6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard E. Grant</name>
+        <role>William Walton</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Caspar Phillipson</name>
+        <role>John F. Kennedy</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2344bWYuEN4NTL4ZVXBCxvpucN0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beth Grant</name>
+        <role>Claudia &quot;Lady Bird&quot; Johnson</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/zf3ti0PVwZs0kcj6XxEQwlkVpLy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Carroll Lynch</name>
+        <role>Lyndon B. Johnson</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Casella</name>
+        <role>Jack Valenti</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5CNTDSCBhWPclTLTyTBy8oHUkzb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Verhagen</name>
+        <role>Mary B. Gallagher</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/nzM5Tff98BttLcikvNLlN4RLek3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hélène Kuhn</name>
+        <role>Pam Turnure</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deborah Findlay</name>
+        <role>Maud Shaw</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/4FbdygLj08dfo63hNCZNc36FEr1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corey Johnson</name>
+        <role>Larry O&apos;Brien</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/gFPilsTUQlClMiXooO4Q3DSJ5Nr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aidan O&apos;Hare</name>
+        <role>Ken O&apos; Donnell</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/kQZACPyVcWvwP7V5ZWpdxGhgV7X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ralph Brown</name>
+        <role>Dave Powers</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/20VVWsUZHmTmN80xgHyy6LAFDuC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Caves</name>
+        <role>Clint Hill</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/2fPEEJRGEg5hNK7fvMSJerEDb2x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penny Downie</name>
+        <role>Janet Lee</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/8zpun3JUlElJ8VEHZlnzq5Kxxuh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Georgie Glen</name>
+        <role>Rose Kennedy</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/32GrDqIPkamanGNBTrQBd48Fv3e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Judd</name>
+        <role>Ethel Kennedy</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Hudson</name>
+        <role>Admiral George Burkley</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Paval</name>
+        <role>Dr. John Walsh</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Dunn</name>
+        <role>Father John Kuhn</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vivienne Vernes</name>
+        <role>Judge Hugues</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Craig Sechler</name>
+        <role>Governor Connally</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Compton</name>
+        <role>Nellie Connally</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan Ashby</name>
+        <role>Reporter Love Field</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David DeBoy</name>
+        <role>John Metzler</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stéphane Höhn</name>
+        <role>Charles Collingwood</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Serge Onteniente</name>
+        <role>Charles de Gaulle</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/tNz4wUBstfyVSg9LgUEjBRDKyMg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sunnie Pelant</name>
+        <role>Caroline Kennedy</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/aFWd6j0ifHkt9PmY41eMSfU7Hes.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aiden Weinberg</name>
+        <role>John F. Kennedy Jr.</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brody Weinberg</name>
+        <role>John F. Kennedy Jr.</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roland Pidoux</name>
+        <role>Pablo Casals</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emmanuel Herault</name>
+        <role>Robert McNamara</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/bg5Zs3SMOtjR6pAgeEBGbOZf8W2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Beaux d&apos;Albenas</name>
+        <role>Hugh Auchincloss</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Guigou</name>
+        <role>James Auchincloss</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Friszman</name>
+        <role>Jack Brooks</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chloé Berthier</name>
+        <role>Toni Bradlee</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/q9DGjMbOlh7cgdCYBfv3detzP8h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Soubelet</name>
+        <role>Benjamin Bradlee</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/v3PTLzfHsgXzwAvIOyWaScYtij9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gaspard Koenig</name>
+        <role>Ted Kennedy</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mathilde Ripley</name>
+        <role>Joan Bennett Kennedy</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/xoGYVGXKBQc8mPU1lgezSKc6tmT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barbara Foliot</name>
+        <role>Pat Kennedy</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Albain Venzo</name>
+        <role>Peter Lawford</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frédérique Adler</name>
+        <role>Eunice Kennedy Shriver</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/auWl6RpHLaDlu160imjM3BWDtnW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Hamel</name>
+        <role>Sargent Shriver</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Loeh</name>
+        <role>Kennedy Family Member</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/lBW98RB3A3KQEjukbioLSp4bYKI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Moore</name>
+        <role>Secret Service Agent</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marla Aaron Wapner</name>
+        <role>Dallas Kennedy Fan</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nathan Ferguson</name>
+        <role>Kennedy Family</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lindsay Dyan Epp</name>
+        <role>Mourner</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yann Bean</name>
+        <role>Air Force Officer</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Supensky</name>
+        <role>Sargeant Shiver</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Mitchell</name>
+        <role>Dallas Police Officer</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/f1hg1HRuwuD7uopdJMGzfUYzuLr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alejandro Chamorro</name>
+        <role>General McHugh</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Neil McNeil</name>
+        <role>Secret Service Agent</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Mendel</name>
+        <role>JFK Fan</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Whatley</name>
+        <role>Secret Service Limo Driver</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Cookie Carson</name>
+        <role>Mourner</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chaz Riddle</name>
+        <role>Mover</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sarah Middlemiss</name>
+        <role>Mourner</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kahil Dotay</name>
+        <role>Airport Worker #1</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philip Greene</name>
+        <role>JFK Fan / Photographer</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Loretta Burnette</name>
+        <role>Mourner</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George Kardulias</name>
+        <role>Mourner with 8mm Movie Camera</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kayla Anderson</name>
+        <role>Mourner / Townsperson</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chrisdine King</name>
+        <role>Joan Kennedy</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/zKnsL2ZLpOrs4VGhK67RAf83hMt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grégoire Foessel</name>
+        <role>Death Watch Guard</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/r0XqbUf25q3JwLXbjFWnt7klkBj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Denise Basile</name>
+        <role>Eunice Kennedy Shriver</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen L. Kolb</name>
+        <role>Greek Orthodox Archbishop Iakovos</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rick Burk</name>
+        <role>Secret Service Agent</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay Bush II</name>
+        <role>General Earle Wheeler</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert E Thompson</name>
+        <role>Dallas Reporter</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dawn Lucajko</name>
+        <role>Kennedy family mourner</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Allen Cramer</name>
+        <role>Mourner (uncredited)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maya Nalli</name>
+        <role>Mourner</role>
+        <order>76</order>
+        <thumb>https://image.tmdb.org/t/p/original/2wzDeKzZaCsexBp9jx3do54XeXn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Garvey</name>
+        <role>News Journalist (uncredited)</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 19:02:24</dateadded>
+</movie>

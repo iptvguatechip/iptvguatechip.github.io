@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Camino Largo</title>
+    <originaltitle>The Hard Way</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>2454</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>76</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un exsoldado se entera de que su hermano murió en una misión en Rumania y hace aliados para vengarse de un misterioso enemigo.</plot>
+    <tagline></tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lBJkvzm4vg2UZqbtkAq3Ch7VgM8.jpg">https://image.tmdb.org/t/p/original/lBJkvzm4vg2UZqbtkAq3Ch7VgM8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z4UNeIfvuqUrbSANkZBzKyrr0tT.jpg">https://image.tmdb.org/t/p/original/z4UNeIfvuqUrbSANkZBzKyrr0tT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eMx349I3yfYpmsP5T4FLbRuyP8e.jpg">https://image.tmdb.org/t/p/original/eMx349I3yfYpmsP5T4FLbRuyP8e.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kwtLphVv3ZbIblc79YNYbZuzbzb.jpg">https://image.tmdb.org/t/p/original/kwtLphVv3ZbIblc79YNYbZuzbzb.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gbb2LvupX3rPOEYiQsxGRKSLg9b.jpg">https://image.tmdb.org/t/p/original/gbb2LvupX3rPOEYiQsxGRKSLg9b.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j3R1mUTaBogjU97be4eABlvZWhH.jpg">https://image.tmdb.org/t/p/original/j3R1mUTaBogjU97be4eABlvZWhH.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9815714</id>
+    <uniqueid type="imdb" default="true">tt9815714</uniqueid>
+    <uniqueid type="tmdb">586347</uniqueid>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <credits>Keoni Waxman</credits>
+    <director>Keoni Waxman</director>
+    <premiered>2019-03-05</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Actionhouse Pictures</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5652</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Jai White</name>
+        <role>Payne</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/YPoHYuzR37wFpPpwEXZYQlhLln.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Goss</name>
+        <role>Mason</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bHdc67gZFzZ7RJmgYbMtfaCOT4R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randy Couture</name>
+        <role>Briggs</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pmdPaQBWufFVwVxJYofLcERZr1l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madalina Anea</name>
+        <role>Lacy Love</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbE0P6BOlSMgzGXSvM7cM1hquE1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Campbell</name>
+        <role>Cody</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/eCfEhs4VlVxv3fyNGLkbohbzbJA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Remeș</name>
+        <role>Joe Vig</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ovidiu Niculescu</name>
+        <role>Frankie Fine</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andreea Diac</name>
+        <role>Sky</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michaela Holla</name>
+        <role>Monica</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bogdan Farcas</name>
+        <role>Flanagan</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Onuoha</name>
+        <role>Charlie</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Cade</name>
+        <role>Tony Zito</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/b5xIVO8A5HE9UXHPiyB61lVtcP1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominte Cosmin</name>
+        <role>Paulie Zito</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elias Ferkin</name>
+        <role>Vali</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adina Stetcu</name>
+        <role>Raluca</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 17:01:04</dateadded>
+</movie>

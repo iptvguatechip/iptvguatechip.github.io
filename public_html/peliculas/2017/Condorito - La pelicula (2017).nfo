@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Condorito: La película</title>
+    <originaltitle>Condorito: la película</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.200000</value>
+            <votes>764</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>96</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El pajarraco más querido de Pelotillehue emprenderá, junto a su tenaz sobrino Coné, una peligrosa aventura para rescatar a su desaparecida suegra Doña Tremebunda, abducida misteriosamente por una banda alienígena. Lo que no ha tomado en cuenta es que, mientras intenta reparar el error con la madre de Yayita, ésta será tentada románticamente por el insistente Pepe Cortisona. Adaptación cinematográfica del famoso cómic chileno de Pepo.</plot>
+    <tagline></tagline>
+    <runtime>88</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg">https://image.tmdb.org/t/p/original/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5fxE5qeLb1uOSS8hRn6PHjOmJkp.jpg">https://image.tmdb.org/t/p/original/5fxE5qeLb1uOSS8hRn6PHjOmJkp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5Vt2k8e7yfQHtUPBuYols3TmY1Q.jpg">https://image.tmdb.org/t/p/original/5Vt2k8e7yfQHtUPBuYols3TmY1Q.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wqnO5P3Qx7DZYCZj9Kp3Kd1xOUU.jpg">https://image.tmdb.org/t/p/original/wqnO5P3Qx7DZYCZj9Kp3Kd1xOUU.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/14p0SmUxbh7bpJk2Xa4k6QlaUgO.jpg">https://image.tmdb.org/t/p/original/14p0SmUxbh7bpJk2Xa4k6QlaUgO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zWyFWxxWIUPfqGJBV4CgnukCKiH.jpg">https://image.tmdb.org/t/p/original/zWyFWxxWIUPfqGJBV4CgnukCKiH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2htB638F4rAlqkV6SgVN0rzJyix.jpg">https://image.tmdb.org/t/p/original/2htB638F4rAlqkV6SgVN0rzJyix.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4494382</id>
+    <uniqueid type="imdb" default="true">tt4494382</uniqueid>
+    <uniqueid type="tmdb">450314</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <country>Peru</country>
+    <credits>Martín Piroyansky</credits>
+    <credits>Rodrigo Moraes</credits>
+    <credits>Ishai Ravid</credits>
+    <director>Eduardo Schuldt</director>
+    <director>Alex Orrelle</director>
+    <premiered>2017-10-12</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pajarraco Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nBufrEALBiI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>159.000000</aspect>
+                <width>1908</width>
+                <height>1068</height>
+                <durationinseconds>5318</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Omar Chaparro</name>
+        <role>Condorito (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jlkwvIMFKUOSfsKelfmghxYmCcV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Cediel</name>
+        <role>Yayita (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/iUiTSzCLNQkBNuJgUSh5X7Ew99E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cristián de la Fuente</name>
+        <role>Pepe Cortisona (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/dIvbsGq406DtvNMbfv6EHRFX8q8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jey Mammon</name>
+        <role>Molosco (voice)</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Coco Legrand</name>
+        <role>Tremebunda / Cuasimodo  (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rwgjSiMAjenN3zg18B93BuZxJwh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mathías Brivio</name>
+        <role>Fonola (voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:18:28</dateadded>
+</movie>

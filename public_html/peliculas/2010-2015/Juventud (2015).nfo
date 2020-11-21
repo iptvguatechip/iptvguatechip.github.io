@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Juventud</title>
+    <originaltitle>Youth</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>70627</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.900000</value>
+            <votes>1409</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Fred Ballinger (Michael Caine), un gran director de orquesta, pasa unas vacaciones en un hotel de los Alpes con su hija Lena y su amigo Mick, un director de cine al que le cuesta acabar su última película. Fred hace tiempo que ha renunciado a su carrera musical, pero hay alguien que quiere que vuelva a trabajar; desde Londres llega un emisario de la reina Isabel, que debe convencerlo para dirigir un concierto en el Palacio de Buckingham, con motivo del cumpleaños del príncipe Felipe.</plot>
+    <tagline></tagline>
+    <runtime>123</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v1oqjVdneZ49UxOor03a1wlKax8.jpg">https://image.tmdb.org/t/p/original/v1oqjVdneZ49UxOor03a1wlKax8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vm1YTCL3nCE1XkT63LX4M8EapK1.jpg">https://image.tmdb.org/t/p/original/vm1YTCL3nCE1XkT63LX4M8EapK1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bfJPsZDX4dbTM51X1yyPmZGEPIC.jpg">https://image.tmdb.org/t/p/original/bfJPsZDX4dbTM51X1yyPmZGEPIC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uz4TSOwxLb8VKWAhATgi200Wxzz.jpg">https://image.tmdb.org/t/p/original/uz4TSOwxLb8VKWAhATgi200Wxzz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/33rCFUF6QhGB6N1OKOk2hYO2Rlt.jpg">https://image.tmdb.org/t/p/original/33rCFUF6QhGB6N1OKOk2hYO2Rlt.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7a8pKHtcHrd2NhknRW8IavSNpRz.jpg">https://image.tmdb.org/t/p/original/7a8pKHtcHrd2NhknRW8IavSNpRz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mDzT2xLKBAsL9CeIdTAr8ac7fAZ.jpg">https://image.tmdb.org/t/p/original/mDzT2xLKBAsL9CeIdTAr8ac7fAZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o4f2jSv9v4KJsfSaqLJa2Yq0bVT.jpg">https://image.tmdb.org/t/p/original/o4f2jSv9v4KJsfSaqLJa2Yq0bVT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vt7eSeZvz98Bp6WGNhDvD4H52RR.jpg">https://image.tmdb.org/t/p/original/vt7eSeZvz98Bp6WGNhDvD4H52RR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v8GR9PE7IgizPSvhbs0bW8MjuPd.jpg">https://image.tmdb.org/t/p/original/v8GR9PE7IgizPSvhbs0bW8MjuPd.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3312830</id>
+    <uniqueid type="imdb" default="true">tt3312830</uniqueid>
+    <uniqueid type="tmdb">310593</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>United Kingdom</country>
+    <credits>Paolo Sorrentino</credits>
+    <director>Paolo Sorrentino</director>
+    <premiered>2015-05-20</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Indigo Film</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pSvgKy90t4Y</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7419</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Caine</name>
+        <role>Fred Ballinger</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/klNx4UqkcE9u7P3vsg20AKwgplw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harvey Keitel</name>
+        <role>Mick Boyle</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/c1KlwOAlnFhBWfcPIvA6hmrElb6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Weisz</name>
+        <role>Lena Ballinger</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/4iLJKWmXkFMOcGfT6lXL7qmsyyc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Dano</name>
+        <role>Jimmy Tree</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tHsaqfauzG4MuFs5oCbq0pRy5EF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Kozelek</name>
+        <role>As Himself</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/goaD10XAkosdcKNniQgXXdC0LtC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Seethaler</name>
+        <role>Luca Moroder</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/egrme0Bwz5uIrwvkswm2B4IAt0u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex MacQueen</name>
+        <role>Queen&apos;s Emissary</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uhvnLLtY4jA2UgNFGyaqTvraajt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luna Mijović</name>
+        <role>Masseuse</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Lipinski</name>
+        <role>Screenwriter in Love</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chloe Pirrie</name>
+        <role>Girl Screenwriter</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/q6mjlrXrHziETbxilCKdO0atctI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Beckett</name>
+        <role>Bearded Screenwriter</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nate Dern</name>
+        <role>Funny Screenwriter</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Gessner</name>
+        <role>Shy Screenwriter</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/8BvYe5g4iEEWzHAqRttxEEaFRdB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paloma Faith</name>
+        <role>As Herself</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/4WgGZ2Ega6GHWzK781tJwDxruav.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ed Stoppard</name>
+        <role>Julian</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/kulqaGMqFhFpnj7QvQxCOHTzrc1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sonia Gessner</name>
+        <role>Melanie</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/n37eQPWAfQAL2X4QOdXjD45pU2O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mădălina Diana Ghenea</name>
+        <role>Miss Universe</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/iRa4dmFhRM3lsTcMKdG5FoocZDd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jane Fonda</name>
+        <role>Brenda Morel</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/uF48Qq1frslzSQuQsV75Uq1v0ou.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriela Belisario</name>
+        <role>Escort</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/v26ltkcQmjmJBIfd35zR18YIFf9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura De Marchi</name>
+        <role>Escort&apos;s Mother</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Keir Attard</name>
+        <role>1st Queen&apos;s Emissary Assistant</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adam Jackson-Smith</name>
+        <role>2nd Queen&apos;s Emissary Assistant</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dorji Wangchuk</name>
+        <role>Buddhist Monk</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Loredana Cannata</name>
+        <role>Maradona&apos;s wife</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/xI5koYqdbmaFRJV0KbzRhG9FKV8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Wolterbeek</name>
+        <role>Eastern Masseur</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wolfgang Michael</name>
+        <role>Doctor</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cornelia Marxer</name>
+        <role>Pharmacist</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Heidi Maria Glössner</name>
+        <role>Silent Wife</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/aSNKslgodAujcxsuZAy7xz6naiG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helmut Förnbacher</name>
+        <role>Silent Husband</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/72fkCBni4viGAACpOLCLCsuVdu8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilia Jones</name>
+        <role>Pale Teenager</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/sF1ei5jaH7CQTEp6mpA3n7RJOJX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alessandro Soriano</name>
+        <role>Mountain Bike Boy</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maria Letizia Gorga</name>
+        <role>Singer</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leo Artin</name>
+        <role>Young Violinist</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Attilio Zampieri</name>
+        <role>Fire-Eater</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aldo Ralli</name>
+        <role>Hotel Manager</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/oBxAYvV2AuaE26iwGcIG1iG4aYs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Seibt</name>
+        <role>1st Attendant</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/4u768CXQ2pf8UlkPx4jmdB23hLS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaspar Weiss</name>
+        <role>2nd Attendant</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/jONbOVxxucjoXwtH0pt9lEK3Gwf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Amitrano</name>
+        <role>Mime</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Portia Reiners</name>
+        <role>Stewardess</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Poppy Corby-Tuech</name>
+        <role>Spy Girl</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/6RIIeDFNIq72Cp3U0CCnKLHjkDe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leoni Stäubli</name>
+        <role>Girl in Suit</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alice Bauer</name>
+        <role>Cigarette Girl</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anabel Kutay</name>
+        <role>Sci-fi Girl</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/bxnZkiD70yvYsUg8JjgY1Az0CjN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paulina Jürgens</name>
+        <role>Cowgirl</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beatrice Walker</name>
+        <role>Bikini Girl</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Veronika Dash</name>
+        <role>Ditsy Girl</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/xXIQz0dVV5UCVCRhdbtZnHEyPn0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Calder</name>
+        <role>Countess</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/ifz75sAvBE4552GZNmdxRrdygkK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eugenia Caruso</name>
+        <role>Puritan Woman</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/ocWaLnqvU58oU7ZAVsVKA1w2Als.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Kinnear</name>
+        <role>Horror Movie Girl</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Josie Taylor</name>
+        <role>Diva</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melinda Bokor</name>
+        <role>Pretty Woman</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jasmin Barbara Mairhofer</name>
+        <role>Ballet Dancer</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Céline Peruzzo</name>
+        <role>50&apos;s Housewife</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bleta Jahaj</name>
+        <role>Cleopatra</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lydia Rattei</name>
+        <role>Nun</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ashley Bryant</name>
+        <role>Black Panther</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/jNS35PwvAdJLeF1YoEHxxiy2YO4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beatrice Curnew</name>
+        <role>Police Woman</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/tOsHYgjdwXX3xkx7aNwweMrLarL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tatiana Luter</name>
+        <role>Girl Soldier</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/wQMn0B8yQFbxrB1Dx12rgHveJZF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valentina Vujovic</name>
+        <role>Eve</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Danuser</name>
+        <role>Pirate Girl</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Svenja Hässig</name>
+        <role>Breakfast at Tiffany&apos;s Girl</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lola Tobelem</name>
+        <role>Diner Waitress</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dominique Leidner</name>
+        <role>Punk Girl</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anna Marie Cseh</name>
+        <role>Business Woman</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniela Bolliger</name>
+        <role>Fencer Girl</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aleksandra Lazarevic</name>
+        <role>Medieval Princess</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Felicitas Heyerick</name>
+        <role>Nurse</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carolina Carlsson</name>
+        <role>Hostess</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/5DuTKD5Reo0lsRA5qmmeFUOKAdT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pascal Fleury</name>
+        <role>Parachutist</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Viktoria Mullova</name>
+        <role>Violinist</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sumi Jo</name>
+        <role>As Herself</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/1OJ0wBe0ctGRURajVC7KZqhPSlr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roly Serrano</name>
+        <role>Diego Armando Maradona</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/wZHeM2vagjGaFMRwdpffAHRVVOA.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 12:06:46</dateadded>
+</movie>

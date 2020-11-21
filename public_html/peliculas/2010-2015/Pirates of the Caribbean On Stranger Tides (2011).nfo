@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Piratas del Caribe: Navegando en Aguas Misteriosas</title>
+    <originaltitle>Pirates of the Caribbean: On Stranger Tides</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>475321</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>10354</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando Jack Sparrow vuelve a encontrarse con una mujer a la que había conocido años atrás, no está seguro de si se trata de amor o si ella es una estafadora sin escrúpulos que lo está utilizando para encontrar la legendaria Fuente de la Juventud. A todo esto, Jack es capturado por el Queen Anne&apos;s Revenge, el barco del temible pirata Barbanegra, que lo obliga a unirse a su tripulación, lo que le hará vivir una inesperada aventura en la que no sabe quién le inspira más miedo si Barbanegra o esa mujer que regresa del pasado.</plot>
+    <tagline>Vivir para siempre o morir en el intento.</tagline>
+    <runtime>141</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zRBaZxS5YauLvRYjAdL4AUCwlht.jpg">https://image.tmdb.org/t/p/original/zRBaZxS5YauLvRYjAdL4AUCwlht.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/p9fXIvNppK21fCHAEkznSZb8hnv.jpg">https://image.tmdb.org/t/p/original/p9fXIvNppK21fCHAEkznSZb8hnv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sfhT0AIeK3acITOvfTtS8DiU5pQ.jpg">https://image.tmdb.org/t/p/original/sfhT0AIeK3acITOvfTtS8DiU5pQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1yg63Kl4p872ia4gPQysIZkKhUT.jpg">https://image.tmdb.org/t/p/original/1yg63Kl4p872ia4gPQysIZkKhUT.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg">https://image.tmdb.org/t/p/original/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fl5fX04UqklKHMJncSWXl1G6Fr4.jpg">https://image.tmdb.org/t/p/original/fl5fX04UqklKHMJncSWXl1G6Fr4.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9XFSWkE9cFfomEigStUi7HNuceN.jpg">https://image.tmdb.org/t/p/original/9XFSWkE9cFfomEigStUi7HNuceN.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/A8iVNSmrW8cpOJatVvv8jdi24YA.jpg">https://image.tmdb.org/t/p/original/A8iVNSmrW8cpOJatVvv8jdi24YA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4HVsFsm3pb8uBRx9m93UzR8e5hL.jpg">https://image.tmdb.org/t/p/original/4HVsFsm3pb8uBRx9m93UzR8e5hL.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ui1MhQuaPEbSmBKZsqunPQKrpZX.jpg">https://image.tmdb.org/t/p/original/ui1MhQuaPEbSmBKZsqunPQKrpZX.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qjTRWiM6YxCNMrV1eGyeNSGlYxp.jpg">https://image.tmdb.org/t/p/original/qjTRWiM6YxCNMrV1eGyeNSGlYxp.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qTPYCuvSWmdYhsXBgAouNQhyKa.jpg">https://image.tmdb.org/t/p/original/qTPYCuvSWmdYhsXBgAouNQhyKa.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/429YsdAKgpdHEElGD6eFLdAbkuu.jpg">https://image.tmdb.org/t/p/original/429YsdAKgpdHEElGD6eFLdAbkuu.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hASxArwUHRTJoYjkwhBTPATwGPp.jpg">https://image.tmdb.org/t/p/original/hASxArwUHRTJoYjkwhBTPATwGPp.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/boG1uuSh9w4CY9ge67yYV7yzxBZ.jpg">https://image.tmdb.org/t/p/original/boG1uuSh9w4CY9ge67yYV7yzxBZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4KUJ38SsViJTsUmTRvXxerBNwAv.jpg">https://image.tmdb.org/t/p/original/4KUJ38SsViJTsUmTRvXxerBNwAv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/iv9BaBejyEJ7eFLzTW4ZqxsHozh.jpg">https://image.tmdb.org/t/p/original/iv9BaBejyEJ7eFLzTW4ZqxsHozh.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/id767v9yjqsFFdFcp3NirfvlsdP.jpg">https://image.tmdb.org/t/p/original/id767v9yjqsFFdFcp3NirfvlsdP.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg">https://image.tmdb.org/t/p/original/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg">https://image.tmdb.org/t/p/original/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xtMp2Zw5rMoZaxKiJ188X9kUTgS.jpg">https://image.tmdb.org/t/p/original/xtMp2Zw5rMoZaxKiJ188X9kUTgS.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/hqPDPCsf4FiJaLWK2IaJ5ggdUgY.jpg">https://image.tmdb.org/t/p/original/hqPDPCsf4FiJaLWK2IaJ5ggdUgY.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xP6iVDfYxkvTvrKjD1aKoPgAdxU.jpg">https://image.tmdb.org/t/p/original/xP6iVDfYxkvTvrKjD1aKoPgAdxU.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/qd4ZFoQWqEi3GJEpv6uVqLSd6tE.jpg">https://image.tmdb.org/t/p/original/qd4ZFoQWqEi3GJEpv6uVqLSd6tE.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/2xcffH1n4KGnPLEawLbSuJwaPwc.jpg">https://image.tmdb.org/t/p/original/2xcffH1n4KGnPLEawLbSuJwaPwc.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/8ihvqSlfo2hdPG6qXTfZYm38S1l.jpg">https://image.tmdb.org/t/p/original/8ihvqSlfo2hdPG6qXTfZYm38S1l.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/fKQmwOjxD1pVBOsyeJeqJNb4v5g.jpg">https://image.tmdb.org/t/p/original/fKQmwOjxD1pVBOsyeJeqJNb4v5g.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/8Jg0Z5kOoPQRHBNiQs1s9hMT1qt.jpg">https://image.tmdb.org/t/p/original/8Jg0Z5kOoPQRHBNiQs1s9hMT1qt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/elZ79uhtQ43xUvcCmdDXI3cN5AU.jpg">https://image.tmdb.org/t/p/original/elZ79uhtQ43xUvcCmdDXI3cN5AU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2oOARbiV871kCC27FyKBmYwOM3G.jpg">https://image.tmdb.org/t/p/original/2oOARbiV871kCC27FyKBmYwOM3G.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yMabTTqqDSRq6H6HSCIIGT2UzyG.jpg">https://image.tmdb.org/t/p/original/yMabTTqqDSRq6H6HSCIIGT2UzyG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/silmQHhJXCDrs8FPtfvJGdZfR9s.jpg">https://image.tmdb.org/t/p/original/silmQHhJXCDrs8FPtfvJGdZfR9s.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3Y37ZEehYTetr9DvhQkeKaQ9WeV.jpg">https://image.tmdb.org/t/p/original/3Y37ZEehYTetr9DvhQkeKaQ9WeV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kpsoLr462xW8Vj3JxaFBe7svFN7.jpg">https://image.tmdb.org/t/p/original/kpsoLr462xW8Vj3JxaFBe7svFN7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iJcO6Uly14mCg0xS6UDyqtbR17s.jpg">https://image.tmdb.org/t/p/original/iJcO6Uly14mCg0xS6UDyqtbR17s.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wTw8V3Hb5rdM5oayq6P35QNPO42.jpg">https://image.tmdb.org/t/p/original/wTw8V3Hb5rdM5oayq6P35QNPO42.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9zxsSzXx2UO3yNoS4j97vs4uOhc.jpg">https://image.tmdb.org/t/p/original/9zxsSzXx2UO3yNoS4j97vs4uOhc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8fxendLObfOewRllxiM4X9Ey7S4.jpg">https://image.tmdb.org/t/p/original/8fxendLObfOewRllxiM4X9Ey7S4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg">https://image.tmdb.org/t/p/original/keGfSvCmYj7CvdRx36OdVrAEibE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/81wD9ozi1wCkDyidsdvieZCd1QN.jpg">https://image.tmdb.org/t/p/original/81wD9ozi1wCkDyidsdvieZCd1QN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hKZLDpQrS1cjc3kH7jwzGSQTEx0.jpg">https://image.tmdb.org/t/p/original/hKZLDpQrS1cjc3kH7jwzGSQTEx0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kdIuHmOHcQgEiy4QVAkc33QHHps.jpg">https://image.tmdb.org/t/p/original/kdIuHmOHcQgEiy4QVAkc33QHHps.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/k9jCBJG2lL6VhXRp3uobLlCWZTc.jpg">https://image.tmdb.org/t/p/original/k9jCBJG2lL6VhXRp3uobLlCWZTc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2O0LkPjQV4YeBTFj2VxPCVqzlb6.jpg">https://image.tmdb.org/t/p/original/2O0LkPjQV4YeBTFj2VxPCVqzlb6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9KTYTPrPkvpvPchAxJv3K0kD3RI.jpg">https://image.tmdb.org/t/p/original/9KTYTPrPkvpvPchAxJv3K0kD3RI.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg">https://image.tmdb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/t7aX68mIQhML2xVw9y5vsMTsz5N.jpg">https://image.tmdb.org/t/p/original/t7aX68mIQhML2xVw9y5vsMTsz5N.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6GrdtatvcrPTJs4DeYuXjrNSHIm.jpg">https://image.tmdb.org/t/p/original/6GrdtatvcrPTJs4DeYuXjrNSHIm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wQ0r0JRs7elHSKg1SFtdWdKTYKi.jpg">https://image.tmdb.org/t/p/original/wQ0r0JRs7elHSKg1SFtdWdKTYKi.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1298650</id>
+    <uniqueid type="imdb" default="true">tt1298650</uniqueid>
+    <uniqueid type="tmdb">1865</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Acción</genre>
+    <genre>Fantasía</genre>
+    <country>United Kingdom</country>
+    <set>
+        <name>Piratas del Caribe - Colección</name>
+    </set>
+    <credits>Ted Elliott</credits>
+    <credits>Terry Rossio</credits>
+    <director>Rob Marshall</director>
+    <premiered>2011-05-14</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Walt Disney Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qLNvFb-fNok</trailer>
+    <actor>
+        <name>Johnny Depp</name>
+        <role>Jack Sparrow</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/532tIC5wzmmR1jO7oA83rTiLvBx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penélope Cruz</name>
+        <role>Angélica</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tU2ATiHHBAKn4SHqKOagYqdpHiy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geoffrey Rush</name>
+        <role>Barbossa</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/npXFjaFQzBNroCEPllGPTZ5IisA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian McShane</name>
+        <role>Blackbeard</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/q9qKbux5Jo76Sj8g3luxBt6rYtz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin McNally</name>
+        <role>Gibbs</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/fIJF3TZn8ckHkcl44oX77GvPv9e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Claflin</name>
+        <role>Philip</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5DtmRlRZc7wPbat1INQPqsxaH4a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Astrid Bergès-Frisbey</name>
+        <role>Syrena</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/igsu7i9ivK87tMFLirIYZruim33.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Graham</name>
+        <role>Scrum</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/rkavERf9KK4Yvs8V4HWrTaUwoHX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keith Richards</name>
+        <role>Captain Teague</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/t1oa5UsJMmrhNqCIks4jQnAYSQT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Griffiths</name>
+        <role>King George</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/3xJvWe2qoWJZUQ3BdWdZdMT4CvB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Ellis</name>
+        <role>Groves</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4vqx2I8ulOPcouOFmOM0UTD3tzj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Damian O&apos;Hare</name>
+        <role>Gillette</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/bO6TMDYluACYKy7zWEloym1SUa5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Óscar Jaenada</name>
+        <role>The Spaniard</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/aOv6MLlApilNn21kyJhs66Lx3Ac.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anton Lesser</name>
+        <role>Lord John Carteret</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/rKDn8ZHuIxl4Z3LLbUxvHdCOk0U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Allam</name>
+        <role>Prime Minister Henry Pelham</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/hrtVjATnltwatFCOjhtCZTnN2hW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judi Dench</name>
+        <role>Society Lady</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/1KqI8VYcbawaQYf0eIfajXqXTIn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Fairbank</name>
+        <role>Ezekiel</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/6bO8JmhkC0GzU4gIBdSMY48E3CD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Bazely</name>
+        <role>Salaman</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/t0zvUJWzMCOqpDfQRKbeTTkhqt3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bronson Webb</name>
+        <role>Cook</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/foMvmr6ch16GGM1L413KA9UQKIO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Thomson</name>
+        <role>Derrick</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/vHu7vSgxKQarJzk6B7KdUCRVN3z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuki Matsuzaki</name>
+        <role>Garheng</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/QpZYsDT5b61yyc9luFH7wC3l6T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robbie Kay</name>
+        <role>Cabin Boy</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/hSjtRmNVHIMcXDWyznVzU69Go7R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Evets</name>
+        <role>Purser</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Mercer</name>
+        <role>Quartermaster</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/xexrWK8ckcEim1RxBOoB3BkwCI4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deobia Oparei</name>
+        <role>Gunner</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/kcw8vNMlYgK8peuN80zhX6TqeNk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gemma Ward</name>
+        <role>Tamara - First Mermaid</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/9As7cxbJqkpuO4jdLcvrT2nyIAW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Armesto</name>
+        <role>King Ferdinand</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/gZ1vbq8QPwqiERy8c7ibHfpOxeL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Carlos Vellido</name>
+        <role>Spanish Sea Captain</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/m1GEfFgcDNPTCTGUhrita7d5ec1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tristan Laurence Perez</name>
+        <role>Spanish Fisherman</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/4DdX5gKi6c97II2kJPSK1ueacW6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norberto Morán</name>
+        <role>Spanish Castaway</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerard Monaco</name>
+        <role>Spanish Officer</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/qMSwdA3InoaA2p8kFObUb2RoL8w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyrone Lopez</name>
+        <role>Spanish Soldier</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luke Roberts</name>
+        <role>Captain of the Guard</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/79vmh7wsAC8zgWlZNTzdEH853Rb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Ings</name>
+        <role>Guard</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/VHtgRMz5t0F8DEjYMxSmY09DTw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilia Jones</name>
+        <role>English Girl</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/sF1ei5jaH7CQTEp6mpA3n7RJOJX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Kennedy</name>
+        <role>English Father</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/9XDKu09p1TuGdAaLbisa0Lngcmv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jody Halse</name>
+        <role>Jailor</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/bhrF8chiAzOEZnoVV0qCyJ3e0Vn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clifford Rose</name>
+        <role>Bailiff</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/9jdLr6CabpLg6tgWSQbnILyYjQd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Hunter</name>
+        <role>Foreman</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/uX2lMxFlqq0C5mvvFkx6tohVgv7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorgelina Guadalupe Airaldi</name>
+        <role>Mermaid</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brea Berrett</name>
+        <role>Mermaid</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Toni Busker</name>
+        <role>Mermaid</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sanya Hughes</name>
+        <role>Mermaid</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/ek3mEjSNWTHHBHbYYtRIje2P7Vy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daphne Joy</name>
+        <role>Mermaid</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antoinette Kalaj</name>
+        <role>Mermaid</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/miBvizhGTzGvh2wKZ2Dl5tbSsXq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek Mears</name>
+        <role>Master-at-Arms</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/4oFf2xs07V9YbXzy4w74KcIfcbW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Le Boyer</name>
+        <role>Yeoman</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/nCD3Lt67KLUoOYMsAu6N13atIz1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kitt Barrie</name>
+        <role>Courtroom Wench</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Morphew</name>
+        <role>Courtroom Heckler</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/zI8s5VyDp9OiH1IqW7yd0v8uVuL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan J. Utley-Moore</name>
+        <role>Justice Smith</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fileena Bahris</name>
+        <role>Mermaid (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/sxbHLlfBpu3k10rbkbDETQN2I5p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gintare Beinoraviciute</name>
+        <role>Villager (uncredited)</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/ucqzg2TRwwr5p8D8aktYQjGmSLT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicola Bertram</name>
+        <role>English Woman (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/sRhG41OTm4ajMybTWosaJZJhFwr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bern Collaço</name>
+        <role>Spanish Commanding Officer (uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/ziLGGjo5GWzYDL8H4MUquoFj8r0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Crayford</name>
+        <role>Spanish Officer (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Curle</name>
+        <role>Spanish Pirate (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristofer Dayne</name>
+        <role>Queen Anne&apos;s Pirate (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Fk3Pe4OmrngbNKY5nfpyBPpRld.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nichola Fynn</name>
+        <role>Flower Seller (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/f0kMZSuML8hqNhf5d44GyK68Io2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Francis George</name>
+        <role>Spanish Soldier (uncredited)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/Kti03TR19OyeorkjiNRajQp9dH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobby Holland Hanton</name>
+        <role>English Guard (uncredited)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/qoAkLDUn43DhnyKv5uf0UGXJzpz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randy Herman</name>
+        <role>Spanish Soldier (uncredited)</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/vXuUEe8LU5NmYM2a8C4rWAG5Anl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harley Jay</name>
+        <role>Junior British Officer (uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/q0IQeYfBWVGEzorHG3ojyRE2J9g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron King</name>
+        <role>Juror (uncredited)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy King</name>
+        <role>Beckett&apos;s Guard (uncredited)</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/zAcqYXgQUcTtSdGzVbvhz9yYthG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Lasky</name>
+        <role>Queen Anne&apos;s Pirate (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/gfEcNF5T1V8Mrpu6auGuLwiWrBz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>LeJon</name>
+        <role>Queen Anne&apos;s Pirate (uncredited)</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teresa Mahoney</name>
+        <role>Hero Mother (uncredited)</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/xjMOatEHtjs78TG8pnIlIeZPVjw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward Mitchell</name>
+        <role>Young Spanish Officer (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/nJCh6CDomfmRBFndGMhv6PR3WFo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Mumme</name>
+        <role>Mermaid (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Salomon Passariello</name>
+        <role>Queen Anne&apos;s Pirate (uncredited)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Siegfried Peters</name>
+        <role>British Sailor (uncredited)</role>
+        <order>76</order>
+        <thumb>https://image.tmdb.org/t/p/original/vAIs3PSn2lE5yFDw28KaI7hgZ2A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Pinkus</name>
+        <role>London Town Crier (uncredited)</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jean Pierre Prats</name>
+        <role>Spanish Soldier (uncredited)</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Saunders</name>
+        <role>Pewter Seller (uncredited)</role>
+        <order>82</order>
+        <thumb>https://image.tmdb.org/t/p/original/lXbpHfqSMbfcX2w2oN6pi7UuWBM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Santi Scinelli</name>
+        <role>Spanish Officer (uncredited)</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/2W9SXuKwjT4ySZucUgap3rWegAx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristen StephensonPino</name>
+        <role>Mermaid / Body (uncredited)</role>
+        <order>85</order>
+        <thumb>https://image.tmdb.org/t/p/original/fPJAYIwUgCIdTQopty05lhU3QfT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Stoker</name>
+        <role>Pirate (uncredited)</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Stone</name>
+        <role>Paddy Wagon Gaoler (uncredited)</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Talo</name>
+        <role>Spanish Soldier (uncredited)</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harvey Walsh</name>
+        <role>English Boy (uncredited)</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Loretta Walsh</name>
+        <role>English Girl (uncredited)</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/pXye2ihb439k0XMaJBomB5qIkrs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Walters</name>
+        <role>Woman at The Captain&apos;s Daughter (uncredited)</role>
+        <order>91</order>
+        <thumb>https://image.tmdb.org/t/p/original/3hUokXHcRhdpM971cb3kbaVSrY8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claira Watson Parr</name>
+        <role>Maid (uncredited)</role>
+        <order>92</order>
+        <thumb>https://image.tmdb.org/t/p/original/4CdRKkxGVPtPDDNmHk5bjewQ52c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chuck Williams</name>
+        <role>Queen Anne&apos;s Revenge Pirate (uncredited)</role>
+        <order>93</order>
+        <thumb>https://image.tmdb.org/t/p/original/pO5yAfIumkOEoIkoKIJWvMIPKrH.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-02 10:32:51</dateadded>
+</movie>

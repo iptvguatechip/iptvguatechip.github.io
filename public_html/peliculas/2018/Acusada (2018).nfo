@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Acusada</title>
+    <originaltitle>Acusada</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>1786</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>128</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dolores Dreier vive la vida de una joven estudiante hasta que su mejor amiga es brutalmente asesinada. Dos años después, ella es la única acusada por el crimen en un caso de gran exposición mediática que la ha puesto en el centro de la escena: todo el mundo tiene una opinión acerca de su inocencia o culpabilidad. Dolores se prepara para el juicio aislada en su casa, mientras la familia Dreier funciona como un equipo dispuesto a todo para defender a su hija. Pero a medida que el proceso avanza y la presión aumenta, los secretos y la sospecha aparecen en el seno familiar. Acorralada por la evidencia, Dolores deberá enfrentarse a sus propias dudas sobre lo que verdaderamente ocurrió.</plot>
+    <tagline>Everybody hides something</tagline>
+    <runtime>113</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wFc5XRROxhYY6jXGsRRA02B6N7H.jpg">https://image.tmdb.org/t/p/original/wFc5XRROxhYY6jXGsRRA02B6N7H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bWWAlKUaIrBI7NtvjKGcui5y1DN.jpg">https://image.tmdb.org/t/p/original/bWWAlKUaIrBI7NtvjKGcui5y1DN.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qhXQyFpLQUlGhiQRBvvK0Z8NG97.jpg">https://image.tmdb.org/t/p/original/qhXQyFpLQUlGhiQRBvvK0Z8NG97.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mZWgGLxv1rjneWh1zsgoALIXahg.jpg">https://image.tmdb.org/t/p/original/mZWgGLxv1rjneWh1zsgoALIXahg.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7952000</id>
+    <uniqueid type="imdb" default="true">tt7952000</uniqueid>
+    <uniqueid type="tmdb">519223</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <country>Argentina</country>
+    <credits>Gonzalo Tobal</credits>
+    <credits>Ulises Porra</credits>
+    <director>Gonzalo Tobal</director>
+    <premiered>2018-09-13</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>INCAA</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SFW5XGw3lSQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6793</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lali Espósito</name>
+        <role>Dolores</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/iKDr7a7Fv8Ba6xYxo7BhF5To0ey.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gael García Bernal</name>
+        <role>Mario Elmo</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6rTzWV80Z8AZbF6o3io1sYVOGhI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonardo Sbaraglia</name>
+        <role>Luis</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/jCpIcRZ2Md8iO5PnYYytGCKC2T5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Fanego</name>
+        <role>Ignacio</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/z71Gn5UcrY4KVnzXJClFEzMfUi9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Inés Estévez</name>
+        <role>Betina</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/j99TYrSsC3KAxX7eSegx217GQGH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerardo Romano</name>
+        <role>Fiscal Taboada</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/biDr9VrNIF05Fk1rohSNAnxBdLp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martina Campos</name>
+        <role>Flo</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emilio Vodanovich</name>
+        <role>Martin</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ywEZNq1uW0LlUsfNOwXWbVXypXt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lautaro Rodríguez</name>
+        <role>Lucas</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/f8MH68afdhVHnQN6RzK83z8Zegc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana Garibaldi</name>
+        <role>Marisa</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 11:56:56</dateadded>
+</movie>

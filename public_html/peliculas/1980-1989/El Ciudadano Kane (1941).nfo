@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ciudadano Kane</title>
+    <originaltitle>Citizen Kane</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.300000</value>
+            <votes>393151</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.100000</value>
+            <votes>3344</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un periodista se obsesiona con el hecho de comprender el significado de la última palabra que Charles Foster Kane dijo antes de morir: Rosebud. Para descubrir el misterio investiga a varias personas del pasado del magnate.</plot>
+    <tagline>It&apos;s terrific!</tagline>
+    <runtime>119</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p8qakoEub421dctOaSzDyXRfF7W.jpg">https://image.tmdb.org/t/p/original/p8qakoEub421dctOaSzDyXRfF7W.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yKjUGBDlTU4Ez7xdY240J8BipI4.jpg">https://image.tmdb.org/t/p/original/yKjUGBDlTU4Ez7xdY240J8BipI4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/q8rxfob0WM5QcodupZAC6erjW7d.jpg">https://image.tmdb.org/t/p/original/q8rxfob0WM5QcodupZAC6erjW7d.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/630cKYN0et63iZAUJJpowSL3vBU.jpg">https://image.tmdb.org/t/p/original/630cKYN0et63iZAUJJpowSL3vBU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg">https://image.tmdb.org/t/p/original/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ygqhMhCwHqkawhkKfhY1n5CYVfb.jpg">https://image.tmdb.org/t/p/original/ygqhMhCwHqkawhkKfhY1n5CYVfb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9s30GrNHVWtqXqyjGNarJgW9Muj.jpg">https://image.tmdb.org/t/p/original/9s30GrNHVWtqXqyjGNarJgW9Muj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gjMrMfoBXPOMKzF5aI7GGz9uarv.jpg">https://image.tmdb.org/t/p/original/gjMrMfoBXPOMKzF5aI7GGz9uarv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/86RvsyUSnTKcCOJjlvrgHjQpALD.jpg">https://image.tmdb.org/t/p/original/86RvsyUSnTKcCOJjlvrgHjQpALD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/f6rRdIkuR2giJFrKGVNJ8UajHHn.jpg">https://image.tmdb.org/t/p/original/f6rRdIkuR2giJFrKGVNJ8UajHHn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d9EFQU5goCsGzsgxbiA4yWHNbd5.jpg">https://image.tmdb.org/t/p/original/d9EFQU5goCsGzsgxbiA4yWHNbd5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w9uMWNucHTLJe1bSrtDgxNkYiut.jpg">https://image.tmdb.org/t/p/original/w9uMWNucHTLJe1bSrtDgxNkYiut.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8PaG2sxXhae5DPUUIQ1VaBQj8dp.jpg">https://image.tmdb.org/t/p/original/8PaG2sxXhae5DPUUIQ1VaBQj8dp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fVHaHYRJhh54BsOtxZtwVglEum5.jpg">https://image.tmdb.org/t/p/original/fVHaHYRJhh54BsOtxZtwVglEum5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1RodLEV25rM3WDsiRZqFhyxuRj9.jpg">https://image.tmdb.org/t/p/original/1RodLEV25rM3WDsiRZqFhyxuRj9.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/apbg31SYrIx7dsTJNrAhQWsWdEM.jpg">https://image.tmdb.org/t/p/original/apbg31SYrIx7dsTJNrAhQWsWdEM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg">https://image.tmdb.org/t/p/original/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cx0MI8FNf17wTDd8mtMd9Nhzj2U.jpg">https://image.tmdb.org/t/p/original/cx0MI8FNf17wTDd8mtMd9Nhzj2U.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vxYFM5sVTsBCJwgupWcTMrxqc40.jpg">https://image.tmdb.org/t/p/original/vxYFM5sVTsBCJwgupWcTMrxqc40.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dTqJFzNXqcC5W7cAWKzjQ9nFDuV.jpg">https://image.tmdb.org/t/p/original/dTqJFzNXqcC5W7cAWKzjQ9nFDuV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/l6n10ROBXXzZAEFrSMx6LgKNGvL.jpg">https://image.tmdb.org/t/p/original/l6n10ROBXXzZAEFrSMx6LgKNGvL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ujk8W4M4VDaKpA5VA9kb6MzJHeo.jpg">https://image.tmdb.org/t/p/original/ujk8W4M4VDaKpA5VA9kb6MzJHeo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/arXlNeWZQiieVFoSqdwOelpMX0f.jpg">https://image.tmdb.org/t/p/original/arXlNeWZQiieVFoSqdwOelpMX0f.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qyDPfby0vb4TBdeFPPhVfG4lCpn.jpg">https://image.tmdb.org/t/p/original/qyDPfby0vb4TBdeFPPhVfG4lCpn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tumItaJodLhFZE2ruo01XF8cVxx.jpg">https://image.tmdb.org/t/p/original/tumItaJodLhFZE2ruo01XF8cVxx.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0033467</id>
+    <uniqueid type="imdb" default="true">tt0033467</uniqueid>
+    <uniqueid type="tmdb">15</uniqueid>
+    <genre>Misterio</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Orson Welles</credits>
+    <credits>John Houseman</credits>
+    <credits>Herman J. Mankiewicz</credits>
+    <credits>Roger Q. Denny</credits>
+    <credits>Mollie Kent</credits>
+    <director>Orson Welles</director>
+    <premiered>1941-04-17</premiered>
+    <year>1941</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>RKO Radio Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fAcLNMkzfTE</trailer>
+    <actor>
+        <name>Orson Welles</name>
+        <role>Charles Foster Kane</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/c5wKlmD001cQAqJjvDbVOTVeAyV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Cotten</name>
+        <role>Jedediah Leland</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/djfCB0jPOgmq3w7RD3BMLzWsAu8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dorothy Comingore</name>
+        <role>Susan Alexander Kane</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/oZCewbT89apDCvHvMHxYs9n8Llc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Collins</name>
+        <role>Jim W. Gettys</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/aafy1UvizCKmf8is7gTfAJc43wP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Coulouris</name>
+        <role>Walter Parks Thatcher</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/paUT7zrlV6o5Tc7f6axUoIz5ArR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Agnes Moorehead</name>
+        <role>Mary Kane</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/kckvDNzGhillNhWtasYePSFJEKs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Stewart</name>
+        <role>Raymond</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2sYUlDzOJcjE6W3S80hYpkwcAzN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ruth Warrick</name>
+        <role>Emily Norton Kane</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/tcSwLMrFZDfak0kcGGXIcR0MBeO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erskine Sanford</name>
+        <role>Herbert Carter</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3785XaExkxo0yN337yN9808wtvJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Alland</name>
+        <role>Jerry Thompson/Narrator</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Everett Sloane</name>
+        <role>Mr. Bernstein</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3XQhnUWh1eLjh1uLaWEbIxGgey.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fortunio Bonanova</name>
+        <role>Signor Matiste</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/39RJP5GMzaw1Bh6hBaYK6qsEDW1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gus Schilling</name>
+        <role>John</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/gAdDSMelnQsrfTYDmAmMquRe7KY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Philip Van Zandt</name>
+        <role>Mr. Rawlston</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/9SdBwSFGN7g5ycAPNORMVKxqEH6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Georgia Backus</name>
+        <role>Bertha Anderson</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/xtyMmOZJ8NznV99MbBvYtAzs0Fj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Shannon</name>
+        <role>Jim Kane</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/479X937hYtjjjGpMGStQESXn3dj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sonny Bupp</name>
+        <role>Charles Foster Kane III</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Buddy Swan</name>
+        <role>Young Charles Foster Kane</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregg Toland</name>
+        <role>Interviewer</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Ackerman</name>
+        <role>Man at Party in Everglades (uncredited)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nat King Cole</name>
+        <role>Pianist in &apos;El Rancho&apos; (uncredited)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/cHZ22XzT0H9CJQjFBXU4cyK1Gjb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gino Corrado</name>
+        <role>Gino (uncredited)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/f4FxGEcWMoRcBbArEvYCxy7QSk7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurice Costello</name>
+        <role>Extra (uncredited)</role>
+        <order>22</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMjIyOTM4NzU4MV5BMl5BanBnXkFtZTgwMTQ5NTM1MzE@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Demetrius Alexis</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gene Coogan</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/gOIW8SdqJNzzjUca5DiYpziVdRM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Art Dupuis</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rudy Germane</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Lally</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Walter Lawrence</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Northpole</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/7EoxU72h0m9sdO2Kt7VfrTGBENn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victor Romito</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Terry</name>
+        <role>Newsreel Man (uncredited)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKcB1JbqJdpc6IsQZv7dymF0x7G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Alston</name>
+        <role>Man at Xanadu Great Hall (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Gargan</name>
+        <role>Man at Xanadu Great Hall (uncredited)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bert Moorhouse</name>
+        <role>Man at Xanadu Great Hall (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/c8E2e4rlsdI75CthWxOdGXWbwu9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carmen Laroux</name>
+        <role>Maid in Xanadu Hall (uncredited)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/h5FBS2qTnbZjqHGB7ZCT87FI5L0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Ash</name>
+        <role>Man at Boat Dock (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/9yWsQsSXQTTMcQIzpGjjyMDdT86.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Buddy Messinger</name>
+        <role>Man at Boat Dock (uncredited)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Terrance Ray</name>
+        <role>Man at Boat Dock (uncredited)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sally Corner</name>
+        <role>Woman at Boat Dock (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Walter Bacon</name>
+        <role>City Room Employee (uncredited)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Herbert Corthell</name>
+        <role>City Editor (uncredited)</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harry A. Bailey</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Borzage</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/6A7s2hiuZla6fOX7cS4ijt9YpE1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J.J. Clark</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Q5D4ttlAjNVhC9HrMDicUyi13w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Coleman</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carl Deloro</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Egan</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/8UR9nR9mZS3amBbwmsqnr24iGfl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Haines</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ludwig Lowry</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John McCormack</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/cv5xQdV3EQhMrAQYI2xEyu5fzLK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hercules Mendez</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paddy O&apos;Flynn</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Rice</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Roberts</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Larry Wheat</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>55</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BYTcwYWE4ZDItZThjMC00YzA2LWI3YzgtNzEyYjNiMjFjMGNmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Larry Williams</name>
+        <role>Man Singing at Inquirer Party (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joan Blair</name>
+        <role>Georgia (uncredited)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/i0pwGzUj57GfXbKaFrE0vbFPgY3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morgan Brown</name>
+        <role>Servant (uncredited)</role>
+        <order>58</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZmY1ODVhMGUtYWNhOC00NTVlLThkYmQtYjRlNjAxYjYwZDAxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Burkhardt</name>
+        <role>Wedding Guest (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edmund Cobb</name>
+        <role>Inquirer Reporter (uncredited)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/vj35XuU7BabLjMsvMFev4LJ4UnS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eddie Coke</name>
+        <role>Reporter (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louis Natheaux</name>
+        <role>Reporter (uncredited)</role>
+        <order>62</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZDZmMmE5NTItNDViZS00NGRhLWI2MDQtNThmMmM3ZTJjOTA3XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arthur O&apos;Connell</name>
+        <role>Reporter (uncredited)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/wjhhpfICbe7NtbFLO7Uyrye06HP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guy Repp</name>
+        <role>Reporter (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Steele</name>
+        <role>Reporter (uncredited)</role>
+        <order>65</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BODUwNjczNGEtODk0OS00MjI1LWJkOTItYjk4MzEwODZiYTY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Wilson</name>
+        <role>Reporter (uncredited)</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/mimB5C6VpqlS0pC2KtHwXIdzOTP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louise Currie</name>
+        <role>Reporter at Xanadu (uncredited)</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/4X9ic8aClHHT3qtYx6zTEMfu2vG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walter Sande</name>
+        <role>Reporter at Xanadu (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/kOVFzC3baRAMeZeKzLNfUo8nTlw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jan Wiley</name>
+        <role>Reporter at Xanadu (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/drTrHUQ3dCzDQNipTr7eiU2E95S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Milton Kibbee</name>
+        <role>Reporter at Wedding (uncredited)</role>
+        <order>70</order>
+        <thumb>https://image.tmdb.org/t/p/original/hhWsIJNBO0ENVbfExPL6EqlZJUD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Buck Mack</name>
+        <role>Reporter at Boat Deck (uncredited)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alan Ladd</name>
+        <role>Reporter Smoking Pipe at End (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/tAMVLKk0A73RBIvib7QBntutKI8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas A. Curran</name>
+        <role>Teddy Roosevelt (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Curtis</name>
+        <role>Boss Printer (uncredited)</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/huntTbXIEl8GPyFkM3FJ6LB96wY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Noisom</name>
+        <role>Copy Boy (uncredited)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerald Pierce</name>
+        <role>Copy Boy Delivering Message in Chicago Hotel Room (uncredited)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donna Dax</name>
+        <role>House Maid (uncredited)</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George DeNormand</name>
+        <role>Newspaperman at Trenton Town Hall (uncredited)</role>
+        <order>78</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BYTRiM2I0NGItOTdlYS00YWQwLWFhOTMtYWRkZWZjZGU0ODNhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bud Geary</name>
+        <role>Newspaperman at Trenton Town Hall (uncredited)</role>
+        <order>79</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMWRjODA2NjUtODJjNy00MzFhLTk0Y2QtZTAxNWEwYjE3ZTAyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bert LeBaron</name>
+        <role>Newspaperman at Trenton Town Hall (uncredited)</role>
+        <order>80</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNWFjMGVkNTYtMGI0Ny00ZmQzLThhZjEtNzI2NzJlZDc3NjQ1XkEyXkFqcGdeQXVyMDMxMjQwMw@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clyde McAtee</name>
+        <role>Newspaperman at Trenton Town Hall (uncredited)</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cyril Ring</name>
+        <role>Newspaperman at Trenton Town Hall (uncredited)</role>
+        <order>82</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Zkx8EGOSA0uVIC2RzsYePkZQha.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roland Winters</name>
+        <role>Newspaperman at Trenton Town Hall (uncredited)</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/27SJDAvYr301W6TGbbtZJ3qGSIT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lew Harvey</name>
+        <role>Newspaperman (uncredited)</role>
+        <order>84</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNGEzNTlkYzYtYWJlZC00MGVlLWIwZGUtNDE3N2UzN2VjYjM1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Herman J. Mankiewicz</name>
+        <role>Newspaperman (uncredited)</role>
+        <order>85</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eddie Dew</name>
+        <role>Man in Projection Room (uncredited)</role>
+        <order>86</order>
+        <thumb>https://image.tmdb.org/t/p/original/7NxwyQTp9lhEY5qkm1cjMf0EPmH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Perc Launders</name>
+        <role>Man in Projection Room (uncredited)</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Dilson</name>
+        <role>Ward Heeler (uncredited)</role>
+        <order>88</order>
+        <thumb>https://image.tmdb.org/t/p/original/xlskbrwdPKvGtq9uYHvdUhuy8UE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walter James</name>
+        <role>Ward Heeler (uncredited)</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Dudley</name>
+        <role>Photographer (uncredited)</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/v8j4l21BqyKsVTQIxFxKAsC4Vtv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suzanne Dulier</name>
+        <role>French Maid (uncredited)</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Al Eben</name>
+        <role>Solly (uncredited)</role>
+        <order>92</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BN2RkYzUwNzMtZTQ0Mi00NzEzLWE5MDAtYzNiMzE3MGIyYzY0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Eckert</name>
+        <role>Car-Driver (uncredited)</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carl Ekberg</name>
+        <role>Adolf Hitler (uncredited)</role>
+        <order>94</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edith Evanson</name>
+        <role>Leland&apos;s Nurse (uncredited)</role>
+        <order>95</order>
+        <thumb>https://image.tmdb.org/t/p/original/cCQQcs7TPz4IvSyZXG4kd1nHqmY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carl Faulkner</name>
+        <role>Hermann Goring (uncredited)</role>
+        <order>96</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juanita Fields</name>
+        <role>Dancer (uncredited)</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edna Mae Jones</name>
+        <role>Dancer (uncredited)</role>
+        <order>98</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leda Nicova</name>
+        <role>Dancer (uncredited)</role>
+        <order>99</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jolane Reynolds</name>
+        <role>Dancer (uncredited)</role>
+        <order>100</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Suzanne Ridgeway</name>
+        <role>Dancer (uncredited)</role>
+        <order>101</order>
+        <thumb>https://image.tmdb.org/t/p/original/fCzOpu1U7YmVWKjSXlPXUYY92k4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Olin Francis</name>
+        <role>Expressman (uncredited)</role>
+        <order>102</order>
+        <thumb>https://image.tmdb.org/t/p/original/l7mivZGLt4gtCkEQCCFcHBCM0cn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louise Franklin</name>
+        <role>Susan&apos;s Maid (uncredited)</role>
+        <order>103</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Renee Godfrey</name>
+        <role>Nurse (uncredited)</role>
+        <order>104</order>
+        <thumb>https://image.tmdb.org/t/p/original/688eUNIbeNKQZ8rji80iM9h1bl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Gowland</name>
+        <role>Guest (uncredited)</role>
+        <order>105</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Grant</name>
+        <role>Man at Party in Everglades (uncredited)</role>
+        <order>106</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesse Graves</name>
+        <role>Joseph (uncredited)</role>
+        <order>107</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ernest Grooney</name>
+        <role>Man on Hospital Roof (uncredited)</role>
+        <order>108</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Gwynne</name>
+        <role>Man on Hospital Roof (uncredited)</role>
+        <order>109</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teddy Mangean</name>
+        <role>Man on Roof (uncredited)</role>
+        <order>110</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Henry Hebert</name>
+        <role>Best Man at Wedding (uncredited)</role>
+        <order>111</order>
+        <thumb>https://image.tmdb.org/t/p/original/xVq1G4RPxXVdxhOijLeaTOqNCMl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryan &apos;Slim&apos; Hightower</name>
+        <role>Fish Driver (uncredited)</role>
+        <order>112</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mitchell Ingraham</name>
+        <role>Politician (uncredited)</role>
+        <order>113</order>
+        <thumb>https://image.tmdb.org/t/p/original/29vfoaUMgLxVghFrzPKRQSAAc0C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Philip Morris</name>
+        <role>Politician (uncredited)</role>
+        <order>114</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francis Sayles</name>
+        <role>Politician (uncredited)</role>
+        <order>115</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George W. Jimenez</name>
+        <role>Waiter at Inquirer Party (uncredited)</role>
+        <order>116</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ellen Lowe</name>
+        <role>Ms. Townsend (uncredited)</role>
+        <order>118</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James T. Mack</name>
+        <role>Prompter (uncredited)</role>
+        <order>119</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mickey Martin</name>
+        <role>Newsboy (uncredited)</role>
+        <order>120</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BYmFjYjUxZGEtYzViMi00ZjQ1LWI5OGYtNzQ0ZmUwYzA1ZWVlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Sidney</name>
+        <role>Newsman (uncredited)</role>
+        <order>121</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Major McBride</name>
+        <role>Shadowgraph Man (uncredited)</role>
+        <order>122</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank McLure</name>
+        <role>(uncredited)</role>
+        <order>123</order>
+        <thumb>https://image.tmdb.org/t/p/original/cdPFQjqIGBUHg5k2Ud39sB4B8jq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Meakin</name>
+        <role>Civic Leader (uncredited)</role>
+        <order>124</order>
+        <thumb>https://image.tmdb.org/t/p/original/tauVR2XMFNSlorG8G63mXqvcCty.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward Peil Jr.</name>
+        <role>Civic Leader (uncredited)</role>
+        <order>125</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Irving Mitchell</name>
+        <role>Dr. Corey (uncredited)</role>
+        <order>126</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frances E. Neal</name>
+        <role>Ethel (uncredited)</role>
+        <order>127</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lillian Nicholson</name>
+        <role>Woman at Opera (uncredited)</role>
+        <order>128</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph North</name>
+        <role>Secretary (uncredited)</role>
+        <order>129</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William H. O&apos;Brien</name>
+        <role>Secretary (uncredited)</role>
+        <order>130</order>
+        <thumb>https://image.tmdb.org/t/p/original/tDqUL7sIoO8BpmCYDH51SNkSmMB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Field Norton</name>
+        <role>Opera Spectator (uncredited)</role>
+        <order>131</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dick Scott</name>
+        <role>Opera Spectator (uncredited)</role>
+        <order>132</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank O&apos;Connor</name>
+        <role>Man at Madison Square Garden (uncredited)</role>
+        <order>133</order>
+        <thumb>https://image.tmdb.org/t/p/original/eLtwd95etZBL3EBdy2JSgI81tno.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Russ Powell</name>
+        <role>Man at Madison Square Garden (uncredited)</role>
+        <order>134</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bert Stevens</name>
+        <role>Man at Madison Square Garden (uncredited)</role>
+        <order>135</order>
+        <thumb>https://image.tmdb.org/t/p/original/hkjMwqpkbV8hU4Z9GIR6Ct9mzx5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Pogue</name>
+        <role>Man (uncredited)</role>
+        <order>136</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lillian O&apos;Malley</name>
+        <role>Woman in Front of Chronicle Building (uncredited)</role>
+        <order>137</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Raymond</name>
+        <role>Stagehand (uncredited)</role>
+        <order>138</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gohr Van Vleck</name>
+        <role>Stagehand (uncredited)</role>
+        <order>139</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Myrtle Rishell</name>
+        <role>Big Governess (uncredited)</role>
+        <order>140</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benny Rubin</name>
+        <role>Smather (uncredited)</role>
+        <order>141</order>
+        <thumb>https://image.tmdb.org/t/p/original/jKkRszQDAcghMAnMqyaxkbqETC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shimen Ruskin</name>
+        <role>Hireling (uncredited)</role>
+        <order>142</order>
+        <thumb>https://image.tmdb.org/t/p/original/bh53ItEYkNuZer4O61qzhQjH2XI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Sherwood</name>
+        <role>Hireling (uncredited)</role>
+        <order>143</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward Ryan</name>
+        <role>Man in Inquirer City Room (uncredited)</role>
+        <order>144</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Landers Stevens</name>
+        <role>Senate Investigator (uncredited)</role>
+        <order>145</order>
+        <thumb>https://image.tmdb.org/t/p/original/19qzQcXjaO06LDXOwqmeY2JqOvB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry J. Vejar</name>
+        <role>Portuguese Laborer (uncredited)</role>
+        <order>146</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tudor Williams</name>
+        <role>Chorus Master (uncredited)</role>
+        <order>147</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arthur Yeoman</name>
+        <role>Speaker (uncredited)</role>
+        <order>148</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tim Davis</name>
+        <role>Copy Boy (uncredited)</role>
+        <order>149</order>
+        <thumb>https://image.tmdb.org/t/p/original/yGwmRi6ng8wZ7CQhQgeMWkvl6w1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Bennett</name>
+        <role>Entertainer\t (uncredited)</role>
+        <order>150</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMzNkMGNiY2QtNjNmZS00ODliLTg0NzAtODQ1MWZiYzg0NDU1XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arthur Kay</name>
+        <role>Orchestra Leader (Uncredited)</role>
+        <order>151</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-27 13:33:08</dateadded>
+</movie>

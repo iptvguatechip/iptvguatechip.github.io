@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>King Kong</title>
+    <originaltitle>King Kong</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>386462</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>5532</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un codicioso productor cinematográfico reúne a un equipo de cineastas y se dirige a la infame Skull Island, donde encuentran algo más que nativos caníbales.</plot>
+    <tagline>The eighth wonder of the world.</tagline>
+    <runtime>201</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg">https://image.tmdb.org/t/p/original/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg">https://image.tmdb.org/t/p/original/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lBtlVlECMW98tz3a3O1C2s1vric.jpg">https://image.tmdb.org/t/p/original/lBtlVlECMW98tz3a3O1C2s1vric.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qVCZtwBGls866wBb4PAfYtAjyr8.jpg">https://image.tmdb.org/t/p/original/qVCZtwBGls866wBb4PAfYtAjyr8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sUo2PpYlYhqmP2LM5Po8MjXfa8N.jpg">https://image.tmdb.org/t/p/original/sUo2PpYlYhqmP2LM5Po8MjXfa8N.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bIgX6Eq5XpjhURrN2TG4qu0ThvS.jpg">https://image.tmdb.org/t/p/original/bIgX6Eq5XpjhURrN2TG4qu0ThvS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kOyW5nVFdn9wgBpASz13RrBResV.jpg">https://image.tmdb.org/t/p/original/kOyW5nVFdn9wgBpASz13RrBResV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/deEJ7pqjxLMHMssYLVAeVrjWZk5.jpg">https://image.tmdb.org/t/p/original/deEJ7pqjxLMHMssYLVAeVrjWZk5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/q6beI6BkQmLAytD1itGvwetrlgu.jpg">https://image.tmdb.org/t/p/original/q6beI6BkQmLAytD1itGvwetrlgu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/woGF4fgLZ6VvYmyz4pqBJlwrSg4.jpg">https://image.tmdb.org/t/p/original/woGF4fgLZ6VvYmyz4pqBJlwrSg4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5LO0Ln0xbsnZMilvsdk3yYGVsfR.jpg">https://image.tmdb.org/t/p/original/5LO0Ln0xbsnZMilvsdk3yYGVsfR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ech3u1Ch7crd2tG4Rc4RHn73EPu.jpg">https://image.tmdb.org/t/p/original/ech3u1Ch7crd2tG4Rc4RHn73EPu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mbW3ujAuKcFHWQlOk4rRj4TL9oZ.jpg">https://image.tmdb.org/t/p/original/mbW3ujAuKcFHWQlOk4rRj4TL9oZ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg">https://image.tmdb.org/t/p/original/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gGUGm8ksmR1nq1mSczuxZpeHOyx.jpg">https://image.tmdb.org/t/p/original/gGUGm8ksmR1nq1mSczuxZpeHOyx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b9XoSklkXIDIOQh6otfs0l8YLCH.jpg">https://image.tmdb.org/t/p/original/b9XoSklkXIDIOQh6otfs0l8YLCH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eTaagQ44lFkFwukan1NXRNB64BG.jpg">https://image.tmdb.org/t/p/original/eTaagQ44lFkFwukan1NXRNB64BG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h20NPpYTiherwRroQqRtquG4R3A.jpg">https://image.tmdb.org/t/p/original/h20NPpYTiherwRroQqRtquG4R3A.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5PXqCkPE4M0UO5gZyEng4cAjbBq.jpg">https://image.tmdb.org/t/p/original/5PXqCkPE4M0UO5gZyEng4cAjbBq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/A8rczwC4vLH8QORktAGjzGiQ07Q.jpg">https://image.tmdb.org/t/p/original/A8rczwC4vLH8QORktAGjzGiQ07Q.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yoAvrbpgVbK4goTdSB57CnhNRE5.jpg">https://image.tmdb.org/t/p/original/yoAvrbpgVbK4goTdSB57CnhNRE5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ztf4lSoEbMQ2uinAwt8usCNpnCp.jpg">https://image.tmdb.org/t/p/original/ztf4lSoEbMQ2uinAwt8usCNpnCp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b7Bmvo1sRVGRbs5NJnOHUtUG42F.jpg">https://image.tmdb.org/t/p/original/b7Bmvo1sRVGRbs5NJnOHUtUG42F.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/anOHbjl38ydAaoO5gCbN4gbC0VF.jpg">https://image.tmdb.org/t/p/original/anOHbjl38ydAaoO5gCbN4gbC0VF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/khCWWTRSwmMw1Us6rVFpEzDeDJf.jpg">https://image.tmdb.org/t/p/original/khCWWTRSwmMw1Us6rVFpEzDeDJf.jpg</thumb>
+    </fanart>
+    <mpaa>Rated B</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0360717</id>
+    <uniqueid type="imdb" default="true">tt0360717</uniqueid>
+    <uniqueid type="tmdb">254</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <genre>Acción</genre>
+    <country>New Zealand</country>
+    <credits>Peter Jackson</credits>
+    <credits>Fran Walsh</credits>
+    <credits>Philippa Boyens</credits>
+    <director>Peter Jackson</director>
+    <premiered>2005-12-12</premiered>
+    <year>2005</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AYaTCPbYGdk</trailer>
+    <actor>
+        <name>Naomi Watts</name>
+        <role>Ann Darrow</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/5s6UE6VjYx5TBDvyFk4vfOdS9GR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Black</name>
+        <role>Carl Denham</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrien Brody</name>
+        <role>Jack Driscoll</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/1dBItgLFBNGEXnI48VvnnN2vFaX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Hanks</name>
+        <role>Preston</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xe44rLf5CbEY0ovNaOD0RIy5VCJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Serkis</name>
+        <role>Kong / Lumpy</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/2aJLwOQK50Lx7PvIHGW1GMytTOL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter McKenzie</name>
+        <role>Venture Crew</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/S129jP0MkABJXorOTE38zwAzlX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Bell</name>
+        <role>Jimmy</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7FZD8IfUO0aKyletU4bkEYgaI1Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Kretschmann</name>
+        <role>Captain Englehorn</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/7M0P39a3CVA22dJyv5YQEkTThU7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Parke</name>
+        <role>Hayes</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/hg0bSMu1S28t7VLH9jZfZdcVnax.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lobo Chan</name>
+        <role>Choy</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/aM5yxAVEXbFYDAZNcyGWZue3opB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Sumner</name>
+        <role>Herb</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Hall</name>
+        <role>Mike</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/bdTS3OgiIkSa4iPheVHKJFgMV9Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle Chandler</name>
+        <role>Bruce Baxter</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/12ycW6JwP51RJA36mbT7ietI4Ce.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Johnson</name>
+        <role>Manny</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Pittu</name>
+        <role>Weston</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/uMVBTUEaCmkEpVR2tDKR1uSzsEG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Hadlow</name>
+        <role>Harry</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/7F4xB8CsTBbDK6IoYeI2QynAJ1u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geraldine Brophy</name>
+        <role>Maude</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/mkzENh5wGiH2J4ZAqrJfE4Yqiw2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Dennis</name>
+        <role>Taps</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pip Mushin</name>
+        <role>Zelman</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Knobeloch</name>
+        <role>Thuggish Executive</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/m6B8YOYzd1YjrnvtOIdy9bzGEEH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ric Herbert</name>
+        <role>Sleazy Executive</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lee Donahue</name>
+        <role>Studio Guy&apos;s Assistant</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Hobbs</name>
+        <role>Young Assistant</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tiriel Mora</name>
+        <role>Fruit Vendor</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/xOMqrSaAKpvIO4RaSf2wx5Xuvux.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jed Brophy</name>
+        <role>Venture Crew</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NOsHgZIscn9ObgN3vshCzHrl5H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Wraight</name>
+        <role>Venture Crew</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/cYr1m7OE7q4jViF3mOL5hyPDM9H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Wallace</name>
+        <role>Venture Crew</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/k9IfRx7yn8Exd4S4DLMQNAtlhMU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Edwards</name>
+        <role>Venture Crew</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/GLPS0qosOm4Tv0DR8G9fm1yN2A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Crawford Thomson</name>
+        <role>Venture Crew</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/rmIsi7xGrtNoM2oLhiKtssNvfC8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Kavanagh</name>
+        <role>Venture Crew</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Hall</name>
+        <role>Venture Crew</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/nMlEt909102ml0Jn34nrIStmsRJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Folau</name>
+        <role>Venture Crew</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/uwDx53f5JqidhtCp8SWS6XEbfT8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chic Littlewood</name>
+        <role>Old Security Guard</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/tkOFEThkyqkEKaOlBwRcL6O7q7f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samuel Taylor</name>
+        <role>Hooverville Child</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lorraine Ashbourne</name>
+        <role>Theatre Actor</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/oF6KK7gF1ISQionw1v8SbcjIOcm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Surrich</name>
+        <role>New York Theatre Goer</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/fbXZxpfIYjN0uexfAELkOVPx1bi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Jackson</name>
+        <role>NY Child</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/ypjcaQiVIeTBS6ERImxHaczeZwF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Lawrence</name>
+        <role>Venture Crew</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/9No67fags9YwRL7IEdnaBewIdd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Woolf</name>
+        <role>Venture Crew - Helmsman</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/jup9RBRRwMRL8av5BtpNZb1NoLg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Smith</name>
+        <role>Venture Crew</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/rLalld11cMcX6QZVrLntTOi5D5z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil Grieve</name>
+        <role>Laughing Man</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/p52qwca3Pfx04agTtpQBFtxFzBM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Camille Keenan</name>
+        <role>New York Citizen (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/ikkzxOBc28WQokBmWoHyIiViKMj.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-10-22 08:31:21</dateadded>
+</movie>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Trabajo Sucio</title>
+    <originaltitle>Trabajo Sucio</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>195</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>9.100000</value>
+            <votes>7</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Employees of a wealthy home look for a chance of revenge against the unfair way they are treated.</plot>
+    <tagline>Employees of a wealthy home look for a chance of revenge against the unfair way they are treated.</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/13q7OGKl7qpr4SAC4FwAe2GOQnE.jpg">https://image.tmdb.org/t/p/original/13q7OGKl7qpr4SAC4FwAe2GOQnE.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1atrv3RHgMX6hVIIpHeY8uaoQnq.jpg">https://image.tmdb.org/t/p/original/1atrv3RHgMX6hVIIpHeY8uaoQnq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8160694</id>
+    <uniqueid type="imdb" default="true">tt8160694</uniqueid>
+    <uniqueid type="tmdb">545907</uniqueid>
+    <genre>Comedia</genre>
+    <credits>José Ramón Alama</credits>
+    <director>David Pagán</director>
+    <premiered>2018-08-30</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5104</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Nashla Bogaert</name>
+        <role>Claribel</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Perozo</name>
+        <role>Benito</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>El Mayor Clásico</name>
+        <role>Tito</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yasser Michelén</name>
+        <role>Rober</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cheddy García</name>
+        <role>Josefina</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Y0lkpilPwJgA1h608OUaUtelTn.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 12:46:03</dateadded>
+</movie>

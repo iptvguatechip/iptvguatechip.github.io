@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Grinch</title>
+    <originaltitle>The Grinch</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>46010</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>2147</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El Grinch cuenta la historia de un cínico gruñón que se embarca en la misión de robar la Navidad, solo para que sus sentimientos cambien gracias al generoso espíritu festivo de una pequeña niña. Graciosa, conmovedora y visualmente asombrosa, es una historia universal acerca del espíritu navideño y el indomable poder del optimismo. Quien vive una vida solitaria dentro de una cueva en el Monte Crumpit con solo su leal perro, Max, por compañía. Su cueva está equipada con inventos y artilugios para las necesidades cotidianas, por lo que El Grinch solo ve a sus vecinos de Villaquien cuando se queda sin comida.</plot>
+    <tagline>Scheme big.</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg">https://image.tmdb.org/t/p/original/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2EkmZarboPjXY4NjD8fNygsEj5H.jpg">https://image.tmdb.org/t/p/original/2EkmZarboPjXY4NjD8fNygsEj5H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4RDqafFJNyGzBF9wWPFI1QcHyrY.jpg">https://image.tmdb.org/t/p/original/4RDqafFJNyGzBF9wWPFI1QcHyrY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nd6M7YVxiUfoXbCm1hDS5Vm8xUX.jpg">https://image.tmdb.org/t/p/original/nd6M7YVxiUfoXbCm1hDS5Vm8xUX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg">https://image.tmdb.org/t/p/original/stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg">https://image.tmdb.org/t/p/original/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gpkHvkCtZOeCQ2DelnJ2LB1WjZ5.jpg">https://image.tmdb.org/t/p/original/gpkHvkCtZOeCQ2DelnJ2LB1WjZ5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/meeJFQYBfOUifRmdKkUcaNm6WFI.jpg">https://image.tmdb.org/t/p/original/meeJFQYBfOUifRmdKkUcaNm6WFI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bOFWFuzDRWDGSokS0CvLOb60PAK.jpg">https://image.tmdb.org/t/p/original/bOFWFuzDRWDGSokS0CvLOb60PAK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gcPwrS93ZNDIJd036url2UgsCWK.jpg">https://image.tmdb.org/t/p/original/gcPwrS93ZNDIJd036url2UgsCWK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hKy3cEPVFbHj0vtK6OoUCHGYSj4.jpg">https://image.tmdb.org/t/p/original/hKy3cEPVFbHj0vtK6OoUCHGYSj4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg">https://image.tmdb.org/t/p/original/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vOH4kGNBmXVFNd5dWCTmtdC3khJ.jpg">https://image.tmdb.org/t/p/original/vOH4kGNBmXVFNd5dWCTmtdC3khJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jL9wgvXkw6MYfaXuuE9Qe938qUW.jpg">https://image.tmdb.org/t/p/original/jL9wgvXkw6MYfaXuuE9Qe938qUW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lCfKAAFyANPFn04xOPqazd8jwnc.jpg">https://image.tmdb.org/t/p/original/lCfKAAFyANPFn04xOPqazd8jwnc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lK3BZcdmfQWvOSQeJa6Oes79LXB.jpg">https://image.tmdb.org/t/p/original/lK3BZcdmfQWvOSQeJa6Oes79LXB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9O88o3fgAWei3nP68bSSdhbhDt7.jpg">https://image.tmdb.org/t/p/original/9O88o3fgAWei3nP68bSSdhbhDt7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/99gAK100F7NqweTtqeDi8EOQJgE.jpg">https://image.tmdb.org/t/p/original/99gAK100F7NqweTtqeDi8EOQJgE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jnUZGo4EJ1z6hOFyCwrtzpIgi0k.jpg">https://image.tmdb.org/t/p/original/jnUZGo4EJ1z6hOFyCwrtzpIgi0k.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/juc9wt7Eh2IarLL5S1yQ1a21O1A.jpg">https://image.tmdb.org/t/p/original/juc9wt7Eh2IarLL5S1yQ1a21O1A.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fdpRBTIhmoaiBJNjikNB4fJxCON.jpg">https://image.tmdb.org/t/p/original/fdpRBTIhmoaiBJNjikNB4fJxCON.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gefpwX7OuiR0ygo944hg9GVj0Kf.jpg">https://image.tmdb.org/t/p/original/gefpwX7OuiR0ygo944hg9GVj0Kf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zRDkmww7Bu11wiz2g86RxSreiY4.jpg">https://image.tmdb.org/t/p/original/zRDkmww7Bu11wiz2g86RxSreiY4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jPQj5bvB9X54FEWH9duHG2jBX6d.jpg">https://image.tmdb.org/t/p/original/jPQj5bvB9X54FEWH9duHG2jBX6d.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2QEiGYKsEvs5rFuTOjHJI6rLni2.jpg">https://image.tmdb.org/t/p/original/2QEiGYKsEvs5rFuTOjHJI6rLni2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rWW4fIPeAXJwObE9rHaUI2Wisj5.jpg">https://image.tmdb.org/t/p/original/rWW4fIPeAXJwObE9rHaUI2Wisj5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uHThxLkA9Gf4SVLhixXjdzzH5RF.jpg">https://image.tmdb.org/t/p/original/uHThxLkA9Gf4SVLhixXjdzzH5RF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/isIqcXZE7jwUTdYWPp3TBX8a1zo.jpg">https://image.tmdb.org/t/p/original/isIqcXZE7jwUTdYWPp3TBX8a1zo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kHhCz4JCs5oDp4xo2tuuYF88M34.jpg">https://image.tmdb.org/t/p/original/kHhCz4JCs5oDp4xo2tuuYF88M34.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg">https://image.tmdb.org/t/p/original/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg</thumb>
+    </fanart>
+    <mpaa>Rated APTA</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2709692</id>
+    <uniqueid type="imdb" default="true">tt2709692</uniqueid>
+    <uniqueid type="tmdb">360920</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <credits>Tommy Swerdlow</credits>
+    <credits>Michael LeSieur</credits>
+    <director>Scott Mosier</director>
+    <director>Yarrow Cheney</director>
+    <premiered>2018-11-08</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GLPX33ww4Rg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5149</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Benedict Cumberbatch</name>
+        <role>Grinch (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rashida Jones</name>
+        <role>Donna Lou Who (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jjp33eRM6oavyesW0UM6XBCxQSa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenan Thompson</name>
+        <role>Bricklebaum (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron Seely</name>
+        <role>Cindy Lou Who (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/wpo7g3DdcOBkkgZJPBAsXwpkZ1b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angela Lansbury</name>
+        <role>Mayor McGerkle (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/fMAigMOfERlIAOUVlStRjq2COD6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pharrell Williams</name>
+        <role>Narrator (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/vbgFf9k1VE0WLWqQFOQ2nohJlLz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ramone Hamilton</name>
+        <role>Axl (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/vA7iiobQkwtfyseHnz4ZJbvhuX3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Lavagnino</name>
+        <role>Ozzy (voice)</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scarlett Estevez</name>
+        <role>Izzy (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/3vZJxaHFC1bMuXd4a3tSrYhAffz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Beattie</name>
+        <role>Store Clerk (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/gDuLXdt6xXMjGOmdqoLymyra55n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Mosier</name>
+        <role>Additional Voices (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kTp9aQtbonYPy4LnfnuXP7Slbs0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lori Alan</name>
+        <role>Additional Voices (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/334tstiymZhTfP48sOEupSqXnMa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carter Hastings</name>
+        <role>Additional Voices (voice)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Alazraqui</name>
+        <role>Additional Voices (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Kassir</name>
+        <role>Additional Voices (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cathy Cavadini</name>
+        <role>Additional Voices (voice)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Mann</name>
+        <role>Additional Voices (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/980QYqXIZCMn5Knx0vjROkw9vKo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meilee Condron</name>
+        <role>Additional Voices (Voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/z7j0JGXX5iU9sp6lnnkUGKO0339.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Max / Fred (voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/b3gImArbw13mMKJIe9leFc9YYb7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tristan O&apos;Hare</name>
+        <role>Groopert (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/jyC9EWzQRpevwqBsgMFTrF7TbDB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doug Burch</name>
+        <role>Additional Voices (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/ylIeoYrK278PkJXUhbZkzW0soQI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tucker Chandler</name>
+        <role>Additional Voices (voice)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Townsend Coleman</name>
+        <role>Additional Voices (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/aMVAo35uihg08G8uc4Q4FiAS5ku.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abby Craden</name>
+        <role>Additional Voices (voice)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian T. Delaney</name>
+        <role>Additional Voices (voice)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/zzkAnz4HcnUIDJKTxuL0HS7uHk2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John DeMita</name>
+        <role>Additional Voices (voice)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/cIUd7zTcGzJ0CMSkL4SUOee3gME.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Farmer</name>
+        <role>Additional Voices (voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/fIlqDsf9Ze31rVhShnR9dHgkYlD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Fors</name>
+        <role>Additional Voices (voice)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZuAdf50vu237WYIKryYCLUDiD4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willow Geer</name>
+        <role>Additional Voices (voice)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/kreFbFc095mvIRI89FIHUlWOBuo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jess Harnell</name>
+        <role>Additional Voices (voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Kishiyama</name>
+        <role>Additional Voices (voice)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/tL0bxnvJNvCWbysjQuh6lcboJGx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barbara Harris</name>
+        <role>Additional Voices (voice)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/deSjR2XGRictDPR4m2WWTHYgusF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Maxwell</name>
+        <role>Additional Voices (voice)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/haG5rF1ogYIsQpIpAQ74Q2P1ek0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laraine Newman</name>
+        <role>Additional Voices (voice)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dashiell Priestley</name>
+        <role>Additional Voices (voice)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex Puccinelli</name>
+        <role>Additional Voices (voice)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/4iTBlmw8uOPbpgnBCXm58YAjAcC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Elizabeth Shannon</name>
+        <role>Additional Voices (voice)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joel Swetow</name>
+        <role>Additional Voices (voice)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/eYGiPqOy65ldNUfOZ5liRETs7ok.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mindy Sterling</name>
+        <role>Additional Voices (voice)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tara Strong</name>
+        <role>Additional Voices (voice)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9S3QzI3L5aARP8GYYO86rREKxU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Regina Taufen</name>
+        <role>Additional Voices (voice)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/uawDYFYJ4cMJurfYRrA9BgAD3BS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Ward</name>
+        <role>Additional Voices (voice)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/yQklzBUmaHbcS00DXq73J1HYUrE.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 17:05:56</dateadded>
+</movie>

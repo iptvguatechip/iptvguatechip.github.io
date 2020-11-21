@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El viaje más largo</title>
+    <originaltitle>The Longest Ride</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>75641</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>2289</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Historia de amor entre Luke, un antiguo campeón de rodeo buscando su vuelta a la competición, y Sophia, una estudiante a punto de embarcarse en su sueño de trabajar en el mundo del arte en Nueva York.</plot>
+    <tagline>Una historia de amor en el tiempo.</tagline>
+    <runtime>128</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fBIqn0Qa1rctlZfIeW1AICgS3Hm.jpg">https://image.tmdb.org/t/p/original/fBIqn0Qa1rctlZfIeW1AICgS3Hm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qdUVfvPBvT6cetDDM7rn8y2CNZE.jpg">https://image.tmdb.org/t/p/original/qdUVfvPBvT6cetDDM7rn8y2CNZE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bEhI3BRx0End5BJDcVz8ujZLmXx.jpg">https://image.tmdb.org/t/p/original/bEhI3BRx0End5BJDcVz8ujZLmXx.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6HLlceUdpSlmxYMIXNsonNrYpXT.jpg">https://image.tmdb.org/t/p/original/6HLlceUdpSlmxYMIXNsonNrYpXT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ndyQ6eRlllMdCZeAp46nuLX4K7U.jpg">https://image.tmdb.org/t/p/original/ndyQ6eRlllMdCZeAp46nuLX4K7U.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gmCo8EaYhvHx2zRw70KcjhVA7wn.jpg">https://image.tmdb.org/t/p/original/gmCo8EaYhvHx2zRw70KcjhVA7wn.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2726560</id>
+    <uniqueid type="imdb" default="true">tt2726560</uniqueid>
+    <uniqueid type="tmdb">228205</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Craig Bolotin</credits>
+    <director>George Tillman, Jr.</director>
+    <premiered>2015-04-09</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fox 2000 Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nDTuRDN-lS8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>478.000000</aspect>
+                <width>1912</width>
+                <height>796</height>
+                <durationinseconds>7729</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Scott Eastwood</name>
+        <role>Luke Collins</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/2TofqgDl7ZlrAairMKKOSPITzka.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Britt Robertson</name>
+        <role>Sophia Danko</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6lnipeQ6auGaxn4gQ8UX68xoxOy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lolita Davidovich</name>
+        <role>Kate Collins</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/an58YWNwDaa74TxRJllH85Mghf5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Benoist</name>
+        <role>Marcia</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ypC15woTlwz87q6Ri4FaEzzGqMV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Huston</name>
+        <role>Young Ira</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/i0Fxf1WQNzFHZO1Yk42UJxgy1rI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oona Chaplin</name>
+        <role>Young Ruth</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8OVfD7mPFGntaSjEb4sqCUNieTQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Alda</name>
+        <role>Ira Levinson</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/dJBtCXUwWnAxhveiPdXQS6e71pw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Parrish</name>
+        <role>Andrea McDonald</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ueQFClINI5RNrnKQkM3sv8MQkzg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elea Oberon</name>
+        <role>Mrs. Pfeffer</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/bfiBrwiFunKpSYXGtTZKzefVZfe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Forbes</name>
+        <role>Ira&apos;s Mother</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tiago Riani</name>
+        <role>Luiz</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Vinson</name>
+        <role>Larry Till</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hayley Lovitt</name>
+        <role>Rodeo Girl / Dancer</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qi14j8xH2zpMTdCGY2EUNND13XO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tracey Bonner</name>
+        <role>Nurse Wilson</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jaret Sears</name>
+        <role>Joe Parks</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hunter Burke</name>
+        <role>David Stein</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/ibR2TL9jwKVDr9E3VJRnPcgcvHN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Taylor Burns</name>
+        <role>Country Band Member</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Jarvis Dumas</name>
+        <role>Country Band Member</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Barry J. Ratcliffe</name>
+        <role>Auctioneer</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/btQlqpvKhNe0TvOVGGO8sSfbKxU.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 12:34:43</dateadded>
+</movie>

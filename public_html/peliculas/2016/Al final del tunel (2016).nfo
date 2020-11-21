@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Al final del túnel</title>
+    <originaltitle>Al final del túnel</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>11856</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>208</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Joaquín está en silla de ruedas. Su casa, que conoció tiempos mejores, ahora es lúgubre y oscura. Berta, bailarina de striptease, y su hija Betty, llaman a su puerta respondiendo a un anuncio que puso Joaquín para alquilar una habitación. Su presencia alegra la casa y anima la vida de Joaquín. Una noche, mientras trabaja en su sótano, Joaquín escucha un ruido casi imperceptible. Se da cuenta entonces que una banda de delincuentes está construyendo un túnel que pasa bajo su casa con la intención de robar un banco cercano.</plot>
+    <tagline>Risk everything.</tagline>
+    <runtime>120</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z6qrI5irqqDS7Pt1WjNVe6vbYHG.jpg">https://image.tmdb.org/t/p/original/z6qrI5irqqDS7Pt1WjNVe6vbYHG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fG2TW0wmkKoZ4fPY09P54BTDM4M.jpg">https://image.tmdb.org/t/p/original/fG2TW0wmkKoZ4fPY09P54BTDM4M.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7mNJ8ALmMBrA1yLaKzPbA3HLnvy.jpg">https://image.tmdb.org/t/p/original/7mNJ8ALmMBrA1yLaKzPbA3HLnvy.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5133308</id>
+    <uniqueid type="imdb" default="true">tt5133308</uniqueid>
+    <uniqueid type="tmdb">394374</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>Spain</country>
+    <credits>Rodrigo Grande</credits>
+    <director>Rodrigo Grande</director>
+    <premiered>2016-04-21</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Haddock Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZMu7-H51I7Q</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7223</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Leonardo Sbaraglia</name>
+        <role>Joaquín</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/jCpIcRZ2Md8iO5PnYYytGCKC2T5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pablo Echarri</name>
+        <role>Galereto</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/eJSTPr8uViInEncGVK73wIk9pCI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clara Lago</name>
+        <role>Berta</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/toRvWE6jRsJhl4At2MrspKapjnq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Federico Luppi</name>
+        <role>Guttman</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/e6OwcF9QXDFnJ4Y0L6TTPy56KK2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Javier Godino</name>
+        <role>Zurdo</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qwXxX6gKIphuCXJ2wgeROPjIdic.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Uma Salduende</name>
+        <role>Betty</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:21:38</dateadded>
+</movie>

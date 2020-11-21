@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El último acto</title>
+    <originaltitle>All Is True</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>3234</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>48</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Londres, 29 de junio de 1613. El Teatro del Globo, dirigido por el famoso dramaturgo William Shakespeare, se incendia accidentalmente y queda reducido a cenizas. Gravemente afectado, Shakespeare deja de escribir y regresa a su ciudad natal, donde su esposa Ana y sus hijas Judith y Susanna se sorprenden al enterarse de que tiene la intención de quedarse allí definitivamente, después de dos décadas trabajando en la capital y de haber descuidado su sincero afecto por ellas.</plot>
+    <tagline>The final act of the world&apos;s greatest playwright</tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gZz8UcKwoVVeSvjk7hIY8uJkvkI.jpg">https://image.tmdb.org/t/p/original/gZz8UcKwoVVeSvjk7hIY8uJkvkI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jFeAe1wASN8QfHFKuRvK5P5wzkr.jpg">https://image.tmdb.org/t/p/original/jFeAe1wASN8QfHFKuRvK5P5wzkr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vuMsJzFYaDwI8oinpdabt2OwrpD.jpg">https://image.tmdb.org/t/p/original/vuMsJzFYaDwI8oinpdabt2OwrpD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yae0QoZuPQ6yC8HleRYXXfttPLh.jpg">https://image.tmdb.org/t/p/original/yae0QoZuPQ6yC8HleRYXXfttPLh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4afqntEsHzwfBvogB6ObfK4y95o.jpg">https://image.tmdb.org/t/p/original/4afqntEsHzwfBvogB6ObfK4y95o.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lifPESltNs4G6ZPgvIz8LZAHCHc.jpg">https://image.tmdb.org/t/p/original/lifPESltNs4G6ZPgvIz8LZAHCHc.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a5bEnu6ZgYsAN9ZikKypejRHfvk.jpg">https://image.tmdb.org/t/p/original/a5bEnu6ZgYsAN9ZikKypejRHfvk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yrfWLVyV0ymZar0XQ7mY2S7xDv7.jpg">https://image.tmdb.org/t/p/original/yrfWLVyV0ymZar0XQ7mY2S7xDv7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xLE1WRF15ItCO0whHdgze8NC0kd.jpg">https://image.tmdb.org/t/p/original/xLE1WRF15ItCO0whHdgze8NC0kd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/g7N8tUtvtPAnQRO6qYUZFbMX13T.jpg">https://image.tmdb.org/t/p/original/g7N8tUtvtPAnQRO6qYUZFbMX13T.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oMfA5M2yqoUhM6AzUi35dpkWYbv.jpg">https://image.tmdb.org/t/p/original/oMfA5M2yqoUhM6AzUi35dpkWYbv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2VNjXjJU4TCNgsvaI9Mzi9IGm9I.jpg">https://image.tmdb.org/t/p/original/2VNjXjJU4TCNgsvaI9Mzi9IGm9I.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cveVF4HcMekUxK0SMVFNHl5P7Sd.jpg">https://image.tmdb.org/t/p/original/cveVF4HcMekUxK0SMVFNHl5P7Sd.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9206798</id>
+    <uniqueid type="imdb" default="true">tt9206798</uniqueid>
+    <uniqueid type="tmdb">558095</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <country>United Kingdom</country>
+    <credits>Ben Elton</credits>
+    <director>Kenneth Branagh</director>
+    <premiered>2018-12-21</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TKBC</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1I5cKmiONDI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6055</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kenneth Branagh</name>
+        <role>William Shakespeare</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judi Dench</name>
+        <role>Anne Shakespeare</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1KqI8VYcbawaQYf0eIfajXqXTIn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian McKellen</name>
+        <role>Earl of Southampton</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathryn Wilder</name>
+        <role>Judith Shakespeare</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4vXOwKOkbR6rDkwMKhzRcTo3mWW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lydia Wilson</name>
+        <role>Susanna Hall</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/yjuJDZxNJjgX0RueQ5eY6GWhTKX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hadley Fraser</name>
+        <role>John Hall</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ysn1s0Ce793FzM34Fs9nxoFXAnX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Colgrave Hirst</name>
+        <role>Tom Quiney</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Dagleish</name>
+        <role>Rafe Smith</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/24FSTSzYPYDxKdD8w6rukxurlfN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Foley</name>
+        <role>John Lane</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerard Horan</name>
+        <role>Ben Jonson</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/fsF6Ruuf9DrTllqMaDx5aJpFiaX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Yuill</name>
+        <role>Edward Woolmer</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/oHsqdz8ImfAQfTnNKNTan0sxa9e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex MacQueen</name>
+        <role>Sir Thomas Lucy</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/uhvnLLtY4jA2UgNFGyaqTvraajt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eleanor de Rohan</name>
+        <role>Margaret Wheeler</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nonso Anozie</name>
+        <role>Actor</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/vA7PTx27mVSuvvcDh0KOHc3LmHk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lolita Chakrabarti</name>
+        <role>Lena</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/1yXfDNOaOsAzzwLek2QkoFIFksl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darryl Clark</name>
+        <role>Mr. Wheeler</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doug Colling</name>
+        <role>Douglas</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clara Duczmal</name>
+        <role>Elizabeth Hall</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil Dunster</name>
+        <role>Harry</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/prRGJYez4sATTILDRHw2CCbbn0J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Freya Durkan</name>
+        <role>Young Judith Shakespeare</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Ellis</name>
+        <role>Hamnet Shakespeare</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt Jessup</name>
+        <role>Frank</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harry Lister Smith</name>
+        <role>Jack Cade</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/eqqBKGbqFdaYrxtuBN8KlVuJlET.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hamish McColl</name>
+        <role>Judge</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/lXT73FCiLLQkU5BMkOPzzQe6fnr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sabi Perez</name>
+        <role>Maria</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Rouse</name>
+        <role>Francis Collins</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/l9Ih3FoqAYHzK4bAOu6oMsAoXyi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penny Ryder</name>
+        <role>Mrs. Wheeler</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kate Tydman</name>
+        <role>Lady Thomas Lucy</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Hearnshaw</name>
+        <role>Townsman</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:53:16</dateadded>
+</movie>

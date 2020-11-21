@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Macbeth</title>
+    <originaltitle>Macbeth</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>52309</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>1065</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El general Macbeth celebra victoria tras victoria. Un día escucha la profecía de tres mujeres que le dicen que pronto va a convertirse en el rey de Escocia. Su mujer, Lady Macbeth, le fuerza a matar el rey y así ascender al trono. A partir de ese momento, Macbeth es perseguido por sentimientos de culpabilidad y paranoia y se convierte en un tirano. El nuevo rey sigue cometiendo más asesinatos hasta el punto de provocar una guerra civil.</plot>
+    <tagline>All hail Macbeth that shall be king</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fivCMGXkJY29Det2LnItrKM4Cbl.jpg">https://image.tmdb.org/t/p/original/fivCMGXkJY29Det2LnItrKM4Cbl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2Zd4LwuFY8u0R2sRFn6o98WO1Na.jpg">https://image.tmdb.org/t/p/original/2Zd4LwuFY8u0R2sRFn6o98WO1Na.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iRKkhLuJvfrxdSgeMssN3ulR0uC.jpg">https://image.tmdb.org/t/p/original/iRKkhLuJvfrxdSgeMssN3ulR0uC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/68Zhw5zJF6RplNzH7BmAAJukemD.jpg">https://image.tmdb.org/t/p/original/68Zhw5zJF6RplNzH7BmAAJukemD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rhadC1S2Zeckisg0mbn4OYOZC9U.jpg">https://image.tmdb.org/t/p/original/rhadC1S2Zeckisg0mbn4OYOZC9U.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a5NEpil29Uns1wEYF8k99qVgj1T.jpg">https://image.tmdb.org/t/p/original/a5NEpil29Uns1wEYF8k99qVgj1T.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oPkM5IicNGpPqHwxujUifb2Ahpb.jpg">https://image.tmdb.org/t/p/original/oPkM5IicNGpPqHwxujUifb2Ahpb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vjrzijRdm5sl7Leo9Srvm7levuu.jpg">https://image.tmdb.org/t/p/original/vjrzijRdm5sl7Leo9Srvm7levuu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jxOL1ej96T1bEhWUFVKb0alA8Wu.jpg">https://image.tmdb.org/t/p/original/jxOL1ej96T1bEhWUFVKb0alA8Wu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ictEw4VwT8axU1pYTgFzjqBKDb3.jpg">https://image.tmdb.org/t/p/original/ictEw4VwT8axU1pYTgFzjqBKDb3.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gkJkemR5EUFYRrO6YFZFFMKZIru.jpg">https://image.tmdb.org/t/p/original/gkJkemR5EUFYRrO6YFZFFMKZIru.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8MPUhvmPTbHLdRRAY3cIWPlmo8F.jpg">https://image.tmdb.org/t/p/original/8MPUhvmPTbHLdRRAY3cIWPlmo8F.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2884018</id>
+    <uniqueid type="imdb" default="true">tt2884018</uniqueid>
+    <uniqueid type="tmdb">225728</uniqueid>
+    <genre>Historia</genre>
+    <genre>Drama</genre>
+    <genre>Bélica</genre>
+    <genre>Aventura</genre>
+    <country>France</country>
+    <credits>Todd Louiso</credits>
+    <credits>William Shakespeare</credits>
+    <credits>Jacob Koskoff</credits>
+    <credits>Michael Lesslie</credits>
+    <director>Justin Kurzel</director>
+    <premiered>2015-08-16</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Anton Capital Entertainment (ACE)</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=017nWFKsshY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>155.000000</aspect>
+                <width>1860</width>
+                <height>804</height>
+                <durationinseconds>6772</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Fassbender</name>
+        <role>Macbeth</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/AaEfdglbUSLgdmPHWNGxDpravzg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marion Cotillard</name>
+        <role>Lady Macbeth</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1RAG22zsofkiAJkZm0qb5q4OQaT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paddy Considine</name>
+        <role>Banquo</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/uIKOm4w2wtUegxratSHj2KPFF7i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Harris</name>
+        <role>Macduff</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/7S7OIKHULB0Xj39Moh5lH9jTAGo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Reynor</name>
+        <role>Malcolm</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/1MSZks6afitwdYttLh617G6MBRQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Debicki</name>
+        <role>Lady Macduff</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nXXbGG1vCrHlscwqD55EGI9aHpA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Thewlis</name>
+        <role>Duncan</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Hayman</name>
+        <role>Lennox</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/wu0P60ogVCrJrK4U2B8RjiAo5eL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurice Roeves</name>
+        <role>Menteith</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3WT7GhYloKzgiizP5pahruFbBOD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ross Anderson</name>
+        <role>Rosse</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Harkness</name>
+        <role>Angus</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/nh2QOLYRvGugbGjbZEVUp6pjNWi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Madigan</name>
+        <role>Macbeth Child</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Madigan</name>
+        <role>Macbeth Child</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lochlann Harris</name>
+        <role>Fleance</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kayla Fallon</name>
+        <role>Young Witch</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lynn Kennedy</name>
+        <role>Middle-Aged Witch</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seylan Baxter</name>
+        <role>Older Witch</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/4DeuZiNsaYIN3VztxIyYorUCTKh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Rissmann</name>
+        <role>Child Witch</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scot Greenan</name>
+        <role>Young Boy Soldier</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/xXdqYumczxs1tQeb2yso0SiK9qG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hilton McRae</name>
+        <role>Macdonwald</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/3MxRMfjiox5xcYtirhbylfIVKKZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Nickels</name>
+        <role>Thane of Cawdor</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Dymond</name>
+        <role>Seyton</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/jacndQDdEg93sFf8nsg4VuEMVzk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Gourlay</name>
+        <role>Ghost Soldier</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eleanor Stagg</name>
+        <role>Macduff Child 1</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Stagg</name>
+        <role>Macduff Child 2</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Stagg</name>
+        <role>Macduff Child 3</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/xKZ1Z4BRV3hff1HdxewfrSAxmWk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Benson</name>
+        <role>Maidservant</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerard Miller</name>
+        <role>Messenger</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roy Sampson</name>
+        <role>Doctor</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/3BpK44kprH3UWztQThnBmCR1NZE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil Lonergan</name>
+        <role>Masked Attacker</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Barrie Martin</name>
+        <role>Thane</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert J. Fraser</name>
+        <role>Macbeth Soldier (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 08:14:49</dateadded>
+</movie>

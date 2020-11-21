@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>¡Piratas! Una loca aventura</title>
+    <originaltitle>The Pirates! In an Adventure with Scientists!</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>44507</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>728</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un grupo de piratas y su capitán desean ganar el premio al &quot;Pirata del año&quot;. Con ese objetivo, viajan dese Isla Sangrienta hasta las calles de Londres, donde se enfrentarán con otros bucaneros, Charles Darwin y un chimpancé que habla.</plot>
+    <tagline>It&apos;s a plunderful life</tagline>
+    <runtime>88</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5fAyXplv9aXXdfsxyouOV8b5wOS.jpg">https://image.tmdb.org/t/p/original/5fAyXplv9aXXdfsxyouOV8b5wOS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gxQWAhT2Hpsid1aBQQmQyYP6brw.jpg">https://image.tmdb.org/t/p/original/gxQWAhT2Hpsid1aBQQmQyYP6brw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg">https://image.tmdb.org/t/p/original/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lZFsLdyBRrzZ6gjxemUFvRyRLly.jpg">https://image.tmdb.org/t/p/original/lZFsLdyBRrzZ6gjxemUFvRyRLly.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lG6GSDuTmOizhfcrpyeB0On7yPy.jpg">https://image.tmdb.org/t/p/original/lG6GSDuTmOizhfcrpyeB0On7yPy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o7Hq1ocFDjjI1xBsdZE2Lq6NFxK.jpg">https://image.tmdb.org/t/p/original/o7Hq1ocFDjjI1xBsdZE2Lq6NFxK.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1430626</id>
+    <uniqueid type="imdb" default="true">tt1430626</uniqueid>
+    <uniqueid type="tmdb">72197</uniqueid>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <country>United Kingdom</country>
+    <credits>Gideon Defoe</credits>
+    <director>Peter Lord</director>
+    <premiered>2012-03-12</premiered>
+    <year>2012</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Sony Pictures Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vJ_aNCSw1DE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1280</width>
+                <height>544</height>
+                <durationinseconds>5285</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Hugh Grant</name>
+        <role>Pirate Captain (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/piTC1mCFr6ZCS3SdaN5qF9Vnqu7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Freeman</name>
+        <role>The Pirate with a Scarf (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kx61L8oImUOJjQqwgCmEQ5kC3El.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Imelda Staunton</name>
+        <role>Queen Victoria (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/95KKeFajyuRlqc65mBBKgXkXGpL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Tennant</name>
+        <role>Charles Darwin (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9PJteC0a8POnPhqgxvdtWNKHPsD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Piven</name>
+        <role>Black Bellamy (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/dPCFGmNhrF3niEJMPIbC1fiIqyI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Salma Hayek</name>
+        <role>Cutlass Liz (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/59S2eIPlj2mjYPcnSqvoe5z5bvk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lenny Henry</name>
+        <role>Peg Leg Hastings (voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Blessed</name>
+        <role>The Pirate King (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/3mLIr94V5IOA5ndY6GyqKKcyrX6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Russell Tovey</name>
+        <role>The Albino Pirate (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ofIylBGO4zyonQJQrghOvLOtt9W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anton Yelchin</name>
+        <role>The Albino Pirate (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/oljx2qhWNDTqW4l3ZT11tjB3qW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brendan Gleeson</name>
+        <role>The Pirate with Gout (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rMqHaHDwSvqH8d0NdSS2qrWldvS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Jensen</name>
+        <role>The Surprisingly Curaceous Pirate (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/ukGtNrFyiVV21ScQvyeORWCtk5Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Al Roker</name>
+        <role>The Pirate Who Likes Sunsets and Kittens (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/nf2ibHNfjPZV8LXoffjJcmMXXD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Whitehead</name>
+        <role>The Pirate Who Likes Sunsets and Kittens (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/botHgCahQqFE5bf5AXsRv4aaMs3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Schneider</name>
+        <role>Scarlett Morgan (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/8zl8TX0OtQK4Zl3yRYgAp1sFkjI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Cooper</name>
+        <role>Admiral Collingwood (voice)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Doggart</name>
+        <role>Additional Voices (voice)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophie Jerrold</name>
+        <role>Additional Voices (voice)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophie Laughton</name>
+        <role>Additional Voices (voice)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Lord</name>
+        <role>Additional Voices (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/wj82RAsNniXWGaxkwsJoLqlVE1l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kayvan Novak</name>
+        <role>Additional Voices (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/y5HFz3JRGTjXTNaaB8eYolZVVeF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Schaal</name>
+        <role>Additional Voices (voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/sJvYPUN5mv2LDqnf5mG3nBxCulx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mitchell Mullen</name>
+        <role>Gameshow Host (voice) (uncredited)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/5SGcBHC3fdlWVzDSXxfZMXthQJ0.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:47</dateadded>
+</movie>

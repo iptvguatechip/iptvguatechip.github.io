@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El arte de matar</title>
+    <originaltitle>The Art of War</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>28501</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>305</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando los terroristas despiadados amenazan con derribar las Naciones Unidas, enmarcan a un hombre que creen los puede parar: un experto de seguridad internacional llamó a Shaw. Ahora debe correr de sus propios aliados y hacerse una fuerza solitaria para siempre, ya que trata de parar lo que se podría hacer la Tercera Guerra Mundial.</plot>
+    <tagline>Who is your foe?</tagline>
+    <runtime>117</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8VJpn8DZwZvKnyA3HBfQfjGKupG.jpg">https://image.tmdb.org/t/p/original/8VJpn8DZwZvKnyA3HBfQfjGKupG.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/q7kumJUWYSbmOpTnfmbhXfjX4an.jpg">https://image.tmdb.org/t/p/original/q7kumJUWYSbmOpTnfmbhXfjX4an.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/9G3CBEg7QlQ9MQcNgA5IwcghNYO.jpg">https://image.tmdb.org/t/p/original/9G3CBEg7QlQ9MQcNgA5IwcghNYO.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/g36677HnL9vlIPP7PJPjGEBEWXk.jpg">https://image.tmdb.org/t/p/original/g36677HnL9vlIPP7PJPjGEBEWXk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rkG9j5nwT5M1T5pXXgUmSkVdIgF.jpg">https://image.tmdb.org/t/p/original/rkG9j5nwT5M1T5pXXgUmSkVdIgF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m3DsrJC3qzm1GPzjDeb5dRXN6AF.jpg">https://image.tmdb.org/t/p/original/m3DsrJC3qzm1GPzjDeb5dRXN6AF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vkypSZ4Xkm9ViYOzHFExLGzW3Zf.jpg">https://image.tmdb.org/t/p/original/vkypSZ4Xkm9ViYOzHFExLGzW3Zf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p0jMGdLLectgxOeLrNt7gQHJiUu.jpg">https://image.tmdb.org/t/p/original/p0jMGdLLectgxOeLrNt7gQHJiUu.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pBcDFaPnjWONiIqicu1xXfSKvBI.jpg">https://image.tmdb.org/t/p/original/pBcDFaPnjWONiIqicu1xXfSKvBI.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0160009</id>
+    <uniqueid type="imdb" default="true">tt0160009</uniqueid>
+    <uniqueid type="tmdb">11398</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <country>Canada</country>
+    <set>
+        <name>El arte de matar - Colección</name>
+        <overview>No overview found.</overview>
+    </set>
+    <credits>Wayne Beach</credits>
+    <credits>Simon Barry</credits>
+    <director>Christian Duguay</director>
+    <premiered>2000-08-23</premiered>
+    <year>2000</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Amen Ra Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q8xEQdWQCho</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7042</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Wesley Snipes</name>
+        <role>Neil Shaw</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/uBhM3TshYvRhOewXAimtxci9bQo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donald Sutherland</name>
+        <role>Douglas Thomas</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pvk7fjJNg9kZQTeuG6ZlfJ8t2Ze.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maury Chaykin</name>
+        <role>Frank Capella</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/izV5zv2jTRBfGjvDWTniWPrma1t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Archer</name>
+        <role>Eleanor Hooks</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/yIHIdnoZ9iEoOdedheF1KUe4gcD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Biehn</name>
+        <role>Robert Bly</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cary-Hiroyuki Tagawa</name>
+        <role>David Chan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marie Matiko</name>
+        <role>Julia Fang</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/71yvczfGaC6ggiggz9RSS8ePEXk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Hong</name>
+        <role>Ambassador Wu</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 08:12:31</dateadded>
+</movie>

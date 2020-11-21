@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El regreso de los siete magníficos</title>
+    <originaltitle>Return of the Seven</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>3717</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>72</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después del asalto a un pueblo, dónde los hombres son apresados y tratados como esclavos, Chris Adams (Yul Brynner) agrupa a seis pistoleros para defender la zona atacada, que se ha convertido en la sede de los bandidos que operan al margen de la ley.</plot>
+    <tagline>Between the law and the lawless - SEVEN again... MAGNIFICENT again!</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/68FJ3GCmiV8ORYRjgndjJPInbe3.jpg">https://image.tmdb.org/t/p/original/68FJ3GCmiV8ORYRjgndjJPInbe3.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zsqGRVhtGJJZ0qPnNaPmimWhtSa.jpg">https://image.tmdb.org/t/p/original/zsqGRVhtGJJZ0qPnNaPmimWhtSa.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qI64OS0Mqloq3wm1x4TWxXEDnVQ.jpg">https://image.tmdb.org/t/p/original/qI64OS0Mqloq3wm1x4TWxXEDnVQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4a1pC4aaILFDYQzGVpozdnLkNlU.jpg">https://image.tmdb.org/t/p/original/4a1pC4aaILFDYQzGVpozdnLkNlU.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/xpXF7c5zklsHXRoEYnWzePpLfNo.jpg">https://image.tmdb.org/t/p/original/xpXF7c5zklsHXRoEYnWzePpLfNo.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/cCqF2BlAusIumlR5nuGxPjGj59N.jpg">https://image.tmdb.org/t/p/original/cCqF2BlAusIumlR5nuGxPjGj59N.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/6L66V17JYz4tnn1JU4Fv4WXrc2V.jpg">https://image.tmdb.org/t/p/original/6L66V17JYz4tnn1JU4Fv4WXrc2V.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/e5GBiPatRcocEtNA8DnDaSElkYX.jpg">https://image.tmdb.org/t/p/original/e5GBiPatRcocEtNA8DnDaSElkYX.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/a1HpMKjT4lyRyHmamimtyYCI611.jpg">https://image.tmdb.org/t/p/original/a1HpMKjT4lyRyHmamimtyYCI611.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/qGbZCnfGDbK9EyYULgDN1f3f1le.jpg">https://image.tmdb.org/t/p/original/qGbZCnfGDbK9EyYULgDN1f3f1le.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lnt41Z5MXQ2PzgzKGpwgKIDQlke.jpg">https://image.tmdb.org/t/p/original/lnt41Z5MXQ2PzgzKGpwgKIDQlke.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mSky5W8KmcjOOqq8Or63dpoPcmz.jpg">https://image.tmdb.org/t/p/original/mSky5W8KmcjOOqq8Or63dpoPcmz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/92JDfnqoMlbyKsjSGeri85ZXJBB.jpg">https://image.tmdb.org/t/p/original/92JDfnqoMlbyKsjSGeri85ZXJBB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5ENPDokAdB9nLo4fXfEHBeQfcVT.jpg">https://image.tmdb.org/t/p/original/5ENPDokAdB9nLo4fXfEHBeQfcVT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kCMf4mVR5WyNnxvQW6QcFXF0OyX.jpg">https://image.tmdb.org/t/p/original/kCMf4mVR5WyNnxvQW6QcFXF0OyX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mTMA4gvowQmBeXdwkmscpvnXJnY.jpg">https://image.tmdb.org/t/p/original/mTMA4gvowQmBeXdwkmscpvnXJnY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x6dTmQutnC9dCRVebEYJnFPNwDG.jpg">https://image.tmdb.org/t/p/original/x6dTmQutnC9dCRVebEYJnFPNwDG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o7RShvyfwvylfOZTXOC1qsRB801.jpg">https://image.tmdb.org/t/p/original/o7RShvyfwvylfOZTXOC1qsRB801.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jP0HYzCwr7LE7XwgLWuA295Y0ga.jpg">https://image.tmdb.org/t/p/original/jP0HYzCwr7LE7XwgLWuA295Y0ga.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jsAx5nA6hwdgzbq7Fvds0EHLkBt.jpg">https://image.tmdb.org/t/p/original/jsAx5nA6hwdgzbq7Fvds0EHLkBt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jOchYMaH9DIabiP382doDIyG1Ex.jpg">https://image.tmdb.org/t/p/original/jOchYMaH9DIabiP382doDIyG1Ex.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ep7p1bv8GGJgUVD1Xl1rja8RaNQ.jpg">https://image.tmdb.org/t/p/original/ep7p1bv8GGJgUVD1Xl1rja8RaNQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8qh7hL1ZcbmUYldSh6pmvQQmVbh.jpg">https://image.tmdb.org/t/p/original/8qh7hL1ZcbmUYldSh6pmvQQmVbh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qEaSA4HLzJfbP9GnBJbVJ04dohB.jpg">https://image.tmdb.org/t/p/original/qEaSA4HLzJfbP9GnBJbVJ04dohB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ebMUOU8KHip7jAvDbEM4rnAJske.jpg">https://image.tmdb.org/t/p/original/ebMUOU8KHip7jAvDbEM4rnAJske.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0060897</id>
+    <uniqueid type="imdb" default="true">tt0060897</uniqueid>
+    <uniqueid type="tmdb">12639</uniqueid>
+    <genre>Western</genre>
+    <genre>Acción</genre>
+    <country>Spain</country>
+    <set>
+        <name>Los siete magníficos - Colección</name>
+        <overview>The adventures of the Magnificent Seven.</overview>
+    </set>
+    <credits>Larry Cohen</credits>
+    <director>Burt Kennedy</director>
+    <premiered>1966-10-19</premiered>
+    <year>1966</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>C.B. Films S.A.</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y2y8m3jkxv0</trailer>
+    <actor>
+        <name>Yul Brynner</name>
+        <role>Chris Adams</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6OvEN6To9h6IaHAp4MrRZw8GGq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Fuller</name>
+        <role>Vin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pDrDechryrHA4nBXBYgOlJoq4S3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julián Mateos</name>
+        <role>Chico</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/urMvw4P8eAt7HV1IGGcxRmgI87n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Warren Oates</name>
+        <role>Colbee</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/nwBandbfSoaafAYI9S1qGMCBfl4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claude Akins</name>
+        <role>Frank</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oBoSdz6meVMFrXN8vfaXGQAQsEa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisa Montés</name>
+        <role>Petra, Chico&apos;s Wife</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/xfohMXGAAoL8JzTRDCGtcqCY0vO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fernando Rey</name>
+        <role>Priest</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/dK8oBtRU5z8pA0LvMqh09leXQVc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilio Fernández</name>
+        <role>Francisco Lorca</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/hCVwwh6e5gCZQumxkS9HlZhMT1h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Virgílio Teixeira</name>
+        <role>Luis</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/gZQ8rzfJxI521RObvEi6ejrxXm6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodolfo Acosta</name>
+        <role>Lopez</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/rTJAZjJjmqiQ4yCd6JQeGrr3mNv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Christopher</name>
+        <role>Manuel</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/k1UCogoO6TFRZZsqws4Fr7jYOTO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gracita Sacromonte</name>
+        <role>Flamenco Dancer</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ricardo Palacios</name>
+        <role>Jailer</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/b9mYDsnTgspofRPYEI5l4GMbrlG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Felisa Jiminez</name>
+        <role>Prisoner</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Casaravilla</name>
+        <role>First Peon</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYw2o80hmYrFPywp2zQuVkOdYrr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Bermúdez</name>
+        <role>Boy (as Pedro Bermudez)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francisco Antón</name>
+        <role>Matador</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Moisés Menéndez</name>
+        <role>Second Peon (as Moises Menendez)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Héctor Quiroga</name>
+        <role>Third Peon (as Hector Quiroga)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José González Talavera</name>
+        <role>Fourth Peon (as Jose Talavera)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Román Ariznavarreta</name>
+        <role>Torero (uncredited)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/qBXJcgUeSz13qqthv6Q3OwyuLV8.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-28 06:33:01</dateadded>
+</movie>

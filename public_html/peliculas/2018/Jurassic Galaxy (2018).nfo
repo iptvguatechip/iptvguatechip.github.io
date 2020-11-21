@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Jurassic Galaxy</title>
+    <originaltitle>Jurassic Galaxy</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>2.300000</value>
+            <votes>551</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.300000</value>
+            <votes>62</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En un futuro cercano, una nave de exploradores espaciales se estrella en un planeta desconocido. Pronto se encontrarán con algunos de sus peores temores al descubrir que el planeta está habitado por monstruosos dinosaurios.</plot>
+    <tagline></tagline>
+    <runtime>75</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/astKJpagcTTqybiAZ6qpakVqmow.jpg">https://image.tmdb.org/t/p/original/astKJpagcTTqybiAZ6qpakVqmow.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l2F4yWfLs21lrUyEh4bNOzjTEsb.jpg">https://image.tmdb.org/t/p/original/l2F4yWfLs21lrUyEh4bNOzjTEsb.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sXSp6NSu3fl52jrAc5l7bUPEBWy.jpg">https://image.tmdb.org/t/p/original/sXSp6NSu3fl52jrAc5l7bUPEBWy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qEIbecsWGdcdVtk06pqsWt32y56.jpg">https://image.tmdb.org/t/p/original/qEIbecsWGdcdVtk06pqsWt32y56.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8783146</id>
+    <uniqueid type="imdb" default="true">tt8783146</uniqueid>
+    <uniqueid type="tmdb">540247</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <country>United States of America</country>
+    <credits>Eric Paul Erickson</credits>
+    <credits>Jacoby Bancroft</credits>
+    <director>Jon Kondelik</director>
+    <director>James Kondelik</director>
+    <premiered>2018-08-20</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Dual Visions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vOGF0oCpsFk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>4514</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eric Paul Erickson</name>
+        <role>Marston</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/lcRTgEnxDwcj9hF2KXW4u4Po6cm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison West</name>
+        <role>Daize</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/f155ReBm9NHJaF15tupCCuYHI2k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Budds</name>
+        <role>Corrigan</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doug Burch</name>
+        <role>Harris</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ylIeoYrK278PkJXUhbZkzW0soQI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Nation</name>
+        <role>Flynn</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frankie Ray</name>
+        <role>Retch</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/enyfzIqyREAYFl1w94aHNLt8D33.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamara Stayer</name>
+        <role>Gail</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 19:58:00</dateadded>
+</movie>

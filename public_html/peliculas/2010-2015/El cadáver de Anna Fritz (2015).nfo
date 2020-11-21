@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El cadáver de Anna Fritz</title>
+    <originaltitle>El cadáver de Anna Fritz</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>4751</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.900000</value>
+            <votes>354</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Anna Fritz es una bellísima y famosísima actriz de cine. Una tarde encuentran su cadáver en un hotel. La noticia de su muerte da la vuelta al planeta. Pau trabaja de celador en el hospital donde han llevado el cuerpo. Es un joven tímido e introvertido. Cuando entra una chica joven que acaba de morir, no puede evitar mirarla. Hace una foto al cadáver de Anna Fritz y la envía a sus amigos Iván y Javi. Estos van al hospital a buscar a Pau para llevarlo a una fiesta. Pero Iván quiere ver el cuerpo desnudo de Anna Fritz. Pau los lleva hasta el cadáver y destapa a Anna Fritz. Los tres admiran la belleza del cuerpo de la actriz. Creyendo que está muerta, Iván mantiene relaciones sexuales con su cuerpo y anima a Pau a hacer lo mismo, a pesar de la desaprobación de Javi, pero cuando Pau está en el acto ella despierta</plot>
+    <tagline></tagline>
+    <runtime>74</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hJaC0mBzPQxlm6ZngJAhgytEtHj.jpg">https://image.tmdb.org/t/p/original/hJaC0mBzPQxlm6ZngJAhgytEtHj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/A4FBEaJsdu5n4srYJyCI7v32lLY.jpg">https://image.tmdb.org/t/p/original/A4FBEaJsdu5n4srYJyCI7v32lLY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/34WbaEAoNtEVWmp0ot7JUoEhtpy.jpg">https://image.tmdb.org/t/p/original/34WbaEAoNtEVWmp0ot7JUoEhtpy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4GhKOjwx5oC1Fc96tEryts90VMV.jpg">https://image.tmdb.org/t/p/original/4GhKOjwx5oC1Fc96tEryts90VMV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fMt4fwqy0C908DwHDHpn65z1ku0.jpg">https://image.tmdb.org/t/p/original/fMt4fwqy0C908DwHDHpn65z1ku0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4441280</id>
+    <uniqueid type="imdb" default="true">tt4441280</uniqueid>
+    <uniqueid type="tmdb">323372</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>Spain</country>
+    <credits>Hèctor Hernández Vicens</credits>
+    <credits>Isaac P. Creus</credits>
+    <director>Hèctor Hernández Vicens</director>
+    <premiered>2015-03-15</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cine de Garage</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EmWhYBdz_qs</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1012</height>
+                <durationinseconds>4446</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Alba Ribas</name>
+        <role>Anna Fritz</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xUPruCzTIunbZuAE4Kit1ujs2dX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cristian Valencia</name>
+        <role>Iván</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1CJyr00qifpyVcb5c8pgfy1cjSJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bernat Saumell</name>
+        <role>Javi</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Albert Carbó</name>
+        <role>Pau</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/1pSyGB0ilQurK0UMMNA0cKcMciH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Morales</name>
+        <role>Celador 1</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/5VoW5agohI5yMVgqpC7oVaIOsG8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Aser</name>
+        <role>Celador 2</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/qbPEqiaMGRagSPR0c2aayPJIHRZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Belén Fabra</name>
+        <role>Nurse 1</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/jMpbVLPzbniRx6GBHz3CMdEGEIl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Montserrat Miralles</name>
+        <role>Nurse 2</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/5emMW5wRzIDl3zr3DAKRjlHHuw2.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 08:22:05</dateadded>
+</movie>

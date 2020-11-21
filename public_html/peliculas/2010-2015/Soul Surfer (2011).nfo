@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Desafío sobre olas</title>
+    <originaltitle>Soul Surfer</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>45098</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>860</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Es la historia verdadera inspiradora del surfista joven Bethany Hamilton. Bethany perdió su brazo izquierdo en un ataque del tiburón y valientemente venció todas las probabilidades para hacerse una campeona otra vez, a través de su determinación escarpada y fe constante. Bethany nació para hacer surf. Un talento natural quien tomó a las ondas en una edad joven, conducía una vida idílica en Kauai, participando en concursos del oleaje nacionales con su mejor amiga Alana, cuando todo cambió. Durante la mañana de la Víspera de todos los Santos, un tiburón del tigre de 14 pies no salió en ninguna parte y pareció rompió todos sus sueños. El Surfista del alma revela la lucha de Bethany para reponerse de sus ordalías y cómo luchó cuerpo a cuerpo con la pregunta de su futuro.</plot>
+    <tagline>When you come back from a loss, beat the odds, and never say never, you find a champion.</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cvgRxrEupUFeJ0xzUExJo4dMXbL.jpg">https://image.tmdb.org/t/p/original/cvgRxrEupUFeJ0xzUExJo4dMXbL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/urLCQDCOITabAud39ZwLbNFBrc4.jpg">https://image.tmdb.org/t/p/original/urLCQDCOITabAud39ZwLbNFBrc4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/11BL2rkvGBxOciM1Bcjn4CrsfSt.jpg">https://image.tmdb.org/t/p/original/11BL2rkvGBxOciM1Bcjn4CrsfSt.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5v04MGdBWu8jgOAsZcnc2ABlotT.jpg">https://image.tmdb.org/t/p/original/5v04MGdBWu8jgOAsZcnc2ABlotT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gceWzKSZjwVKgVf5fTsCic9XLqO.jpg">https://image.tmdb.org/t/p/original/gceWzKSZjwVKgVf5fTsCic9XLqO.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1596346</id>
+    <uniqueid type="imdb" default="true">tt1596346</uniqueid>
+    <uniqueid type="tmdb">43959</uniqueid>
+    <genre>Familia</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Douglas Schwartz</credits>
+    <credits>Michael Berk</credits>
+    <credits>Sean McNamara</credits>
+    <credits>Deborah Schwartz</credits>
+    <director>Sean McNamara</director>
+    <premiered>2011-04-08</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Enticing Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MWeOjBCi3c4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6387</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>AnnaSophia Robb</name>
+        <role>Bethany Hamilton</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/tWlnAuyQeFidHcAo2zUVxNv0G0T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helen Hunt</name>
+        <role>Cheri Hamilton</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9XtRHDSEdVJgIsHS207BPsAyQA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dennis Quaid</name>
+        <role>Tom Hamilton</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/9z8nfkqRgEBjsb3sXQ0jMopJJOE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carrie Underwood</name>
+        <role>Sarah Hill</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ZYFDTg7qVripncGatvG7ufxeyx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Sorbo</name>
+        <role>Holt Blanchard</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/a6rDi3tkNJwaVoP7VGbdGelwtYw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ross Thomas</name>
+        <role>Noah Hamilton</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/fL6kfmde6c5SQJrKoDP3OJPMfsy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Brochu</name>
+        <role>Timmy Hamilton</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/kk6KTA0kjeyGGX650IwmCuWmZgu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lorraine Nicholson</name>
+        <role>Alana Blanchard</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Qi2L3JFvx873XAXyftn4z3WhAU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Sumpter</name>
+        <role>Byron</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/bApc0wbQ8O1DHt3AdLAM5hECmXX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sonya Balmores</name>
+        <role>Malina Birch</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/knbho01kwkNbm5pEcCEMCcgnRQd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig T. Nelson</name>
+        <role>Dr. David Rovinsky</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cody Gomes</name>
+        <role>Keoki</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/3PD9sFySud2p6treXltJWBOZka9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Branscombe Richmond</name>
+        <role>Ben Aipa</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/4UFwrT68uzusdG1hcPARjxpJUIx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Titus Kinimaka</name>
+        <role>Titus</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/7nsUzyYGFQtLsIhHnH4HtL5VsKN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Philbin</name>
+        <role>Fuel TV Reporter #2</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/qROfKLIhfbXwcAgINg1hfH5VpHo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tahini Bartolome</name>
+        <role>Girl at Foodland</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bridget Tully</name>
+        <role>Mother at Foodland</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Hofstetter</name>
+        <role>Rosemary</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/b8RaM7sU50wPNDbZmudGh02fZua.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Crean</name>
+        <role>Front Yard News Reporter</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/8Tr4jTAOGRhCj85RapTdoOI8ELB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Slater</name>
+        <role>Turtle Bay Open Announcer</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Annie Gerstenberger</name>
+        <role>Thailand Village Elder</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean McNamara</name>
+        <role>Rip Curl Executive</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/iJLRIBB2P3LXsPBvzdYhf06Lful.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yasmin Dar</name>
+        <role>Transworld Surf Reporter #1</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christie Brooke</name>
+        <role>National Surf Fan #1</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/AjBCAiqy4FhIaRJi4YDvQTayRJ6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cayla Moore</name>
+        <role>Surfer Girl #1</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Moon Otteman</name>
+        <role>Surfer Girl #2</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Tice</name>
+        <role>Contest Official</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wesley Mann</name>
+        <role>Calvin</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/d7Q8z1psuNplURjmx4ATHHTwLjL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Richwood</name>
+        <role>Todd</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/sSp6c5VrBfARdCLwbDBJvtAkePM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimberly-Rose Wolter</name>
+        <role>Nurse</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kaleo Relator</name>
+        <role>Boom</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Irie Driscoll</name>
+        <role>Ukulele Girl #1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Faith Fay</name>
+        <role>Media Gnat</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/rCA4JJRSBvGm6zSsHM8K15eBilb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Chokachi</name>
+        <role>Paramedic #1</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/uZbeJhtih8JgodI4XzXcxCJXSdy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Stanfield</name>
+        <role>Nationals Announcer #1</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beau Hodge</name>
+        <role>Nationals Announcer #2</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dutch Hofstetter</name>
+        <role>Brandon</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Coots</name>
+        <role>Photoshoot Photograher</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kaipo Guerrero</name>
+        <role>HI Regionals Announcer #1</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rocky Canon</name>
+        <role>HI Regionals Announcer #2</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Kubr</name>
+        <role>ESPN Reporter</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/c0hsKZEswperCzlMUwhQibPvpE2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Morgan Greene</name>
+        <role>Female Reporter</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/wPSGvT3zUbSDCY5IYbHBGSs9wIM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shelley Trotter</name>
+        <role>Nurse #2</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/7S5jRD08BmNhASbkvrqYidbRcjQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arlene Newman</name>
+        <role>Cydney Blanchard</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/gY5HiCtmSYTSPLCyuA3KGBA1f1e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bailey Nagy</name>
+        <role>Surfer Olivia Jenner</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leilani Gryde</name>
+        <role>Surfer Zoe Madsen</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristen Steiner</name>
+        <role>Surfer Kaila Kahani</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Beach</name>
+        <role>Autograph Seeker (uncredited)</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Davo Coria</name>
+        <role>Photographer #2 (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Franklin</name>
+        <role>Keoki&apos;s Friend (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Massi Furlan</name>
+        <role>(voice) (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/m374tylu98E7dPkJ1rsnRoARkaZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Douglas Hoban</name>
+        <role>Photographer Assistant (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric James</name>
+        <role>Keoki&apos;s Friend (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jordan Kirkwood</name>
+        <role>Photographer (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Troy Manandic</name>
+        <role>Youth (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Josh Margulies</name>
+        <role>Halloween Party Surfer (uncredited)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/3S5tqX0cubAoTNLEPITX7C2YHNV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Meyers</name>
+        <role>Youth Group (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alan Seabock</name>
+        <role>ESPN cameraman (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ingrid Seid</name>
+        <role>Surfer Fan (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher Simms</name>
+        <role>News Photographer (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Toro</name>
+        <role>Paramedic #2 (uncredited)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/iXVvXr1Yygg6lPjq98GfTahrnF5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roy Vongtama</name>
+        <role>Voice Artist (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/6fqhP6ENczYhw9hx7CHDjEJg2vm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Wilson</name>
+        <role>Kauai Local (uncredited)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/54HrIu1qxUXitwwHfxkKCzQrUwB.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 07:29:24</dateadded>
+</movie>

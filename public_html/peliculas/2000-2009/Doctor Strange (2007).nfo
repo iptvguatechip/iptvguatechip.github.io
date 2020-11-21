@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Doctor Strange</title>
+    <originaltitle>Doctor Strange</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>7729</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>206</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dr. Stephen Strange se embarca en un viaje maravilloso a las alturas de una montaña tibetana, donde busca la curación a los pies del misterioso Anciano.</plot>
+    <tagline>Doctor Strange: The Sorcerer Supreme</tagline>
+    <runtime>76</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kP5ihakYGSTZ7FQDXBSbqla9men.jpg">https://image.tmdb.org/t/p/original/kP5ihakYGSTZ7FQDXBSbqla9men.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zZz3bSzxLeUuI0Z4MvayfJoY6Tq.jpg">https://image.tmdb.org/t/p/original/zZz3bSzxLeUuI0Z4MvayfJoY6Tq.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg">https://image.tmdb.org/t/p/original/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0910865</id>
+    <uniqueid type="imdb" default="true">tt0910865</uniqueid>
+    <uniqueid type="tmdb">14830</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Fantasía</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <credits>Greg Johnson</credits>
+    <director>Dick Sebast</director>
+    <director>Jay Oliva</director>
+    <director>Patrick Archibald</director>
+    <premiered>2007-08-14</premiered>
+    <year>2007</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Marvel Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L4kCgHvsACo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4586</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bryce Johnson</name>
+        <role>Doctor Strange (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Nakauchi</name>
+        <role>Wong (voice)</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Michael Richardson</name>
+        <role>Mordo (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/vgCGZMxz06kfnF97ilZTujyk7Ye.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Yama</name>
+        <role>Ancient One (voice)</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susan Spano</name>
+        <role>Dr. Gina Atwater (voice)</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Adams</name>
+        <role>Dormammu (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Tatasciore</name>
+        <role>Oliver / Doorman / Sorcerer / Additional Voices (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/busoEz4khUJ0hOoKHexjXwGrsit.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tara Strong</name>
+        <role>April / Lucy / Additional Voices (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9S3QzI3L5aARP8GYYO86rREKxU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Keaton</name>
+        <role>Corey / Camille&apos;s Brother / Additional Voices (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil LaMarr</name>
+        <role>Miro / Additional Voices (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/l5w0qABfsFBxjfWNnpFiaXnh4Nm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masasa Moyo</name>
+        <role>Adena / Additional Voices (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/9TvAkxkLGsnREVqzg7JRHtSVzZW.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:22</dateadded>
+</movie>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Thor: Historias de Asgard</title>
+    <originaltitle>Thor: Tales of Asgard</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>4974</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>105</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El dios nórdico, Thor, inicia una búsqueda junto a su hermano Loki para encontrar una legendaria espada.</plot>
+    <tagline>Before the hammer ... came the sword</tagline>
+    <runtime>76</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zZ8vX4qeeeTEO5ATiK7xbaBi9ql.jpg">https://image.tmdb.org/t/p/original/zZ8vX4qeeeTEO5ATiK7xbaBi9ql.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vL8mygCaRJJHwPVCL3lv4QMO27i.jpg">https://image.tmdb.org/t/p/original/vL8mygCaRJJHwPVCL3lv4QMO27i.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1667903</id>
+    <uniqueid type="imdb" default="true">tt1667903</uniqueid>
+    <uniqueid type="tmdb">63686</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Animación</genre>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <credits>Greg Johnson</credits>
+    <director>Sam Liu</director>
+    <premiered>2011-05-16</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Marvel Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bT6XvIPAN04</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4617</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>dts</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Christopher Britton</name>
+        <role>Odin (voice)</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clancy Brown</name>
+        <role>Frost Giant (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xjg0ZIxP0tFcEQCTeRgKxNtLdpe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grey DeLisle</name>
+        <role>Sif (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/oOEZHnPBW8K86xUp3vqosexfgyP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Dobson</name>
+        <role>Hogun (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/czucrrzFO3lEaMuMSOV9Kfe75wQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Drummond</name>
+        <role>Fenris (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oNKCHFuMZTASvyayEj3cRXLEjJL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Gomez</name>
+        <role>Loki (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Wolf</name>
+        <role>Thor (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/x3Lrc41VrY5wf0KsJNCUvyCjHhc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Brazeau</name>
+        <role>Volstagg (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/3AJhDjSA8eQ7xDZV5Rf5cnFoKRw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alistair Abell</name>
+        <role>Fandral (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/stKHRsRnGVc6x9LfAw3sakHntAq.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:22</dateadded>
+</movie>

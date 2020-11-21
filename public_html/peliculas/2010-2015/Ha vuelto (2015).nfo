@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ha vuelto</title>
+    <originaltitle>Er ist wieder da</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>41427</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>1307</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En el año 2014, Adolf Hitler se despierta en Berlín, sin memoria de nada de lo sucedido posteriormente a 1945. Sin casa y sin recursos, Hitler comienza a reinterpretar la Alemania que ve en pleno siglo XXI desde su perspectiva nazi... Adaptación de la novela de Timur Vermes, que plantea la hipótesis, en formato de falso documental -similar a &quot;Borat&quot;-, de qué ocurriría si Hitler reviviera en la Alemania actual.</plot>
+    <tagline></tagline>
+    <runtime>115</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/52VJRdbpcK5dLVSI2K46XSxpQbq.jpg">https://image.tmdb.org/t/p/original/52VJRdbpcK5dLVSI2K46XSxpQbq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z7GVZh26BGJzePOaDjh4riebsiv.jpg">https://image.tmdb.org/t/p/original/z7GVZh26BGJzePOaDjh4riebsiv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8ZweF55OguYAVfAMlokpZ0BSZCR.jpg">https://image.tmdb.org/t/p/original/8ZweF55OguYAVfAMlokpZ0BSZCR.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/78Y681P1YpFfzNpJz58uCYRyLfC.jpg">https://image.tmdb.org/t/p/original/78Y681P1YpFfzNpJz58uCYRyLfC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8saqJMFvNLcYrFgRamD9IINoilD.jpg">https://image.tmdb.org/t/p/original/8saqJMFvNLcYrFgRamD9IINoilD.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4176826</id>
+    <uniqueid type="imdb" default="true">tt4176826</uniqueid>
+    <uniqueid type="tmdb">318917</uniqueid>
+    <genre>Comedia</genre>
+    <country>Germany</country>
+    <credits>David Wnendt</credits>
+    <credits>Mizzi Meyer</credits>
+    <director>David Wnendt</director>
+    <premiered>2015-10-08</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Constantin Film</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MkGQcw52KQQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>6936</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>deu</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Oliver Masucci</name>
+        <role>Adolf Hitler</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/136B1pOi2QA5tkZfzFOE2Rn4YbC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fabian Busch</name>
+        <role>Fabian Sawatzki</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/glcJ47wDSmvW7dVy4Ag4mi8j4zx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katja Riemann</name>
+        <role>Bellini</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/4zFqTNNd7dv6bTczRVLLjOvdXCN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christoph Maria Herbst</name>
+        <role>Sensenbrink</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/8v3lDa0QCJlDtOx9flqlMNIA3uf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Franziska Wulf</name>
+        <role>Vera Krömeier</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lars Rudolph</name>
+        <role>Kioskbesitzer</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qiWu2gphSg64igYl3Nx0hEIOQF3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto Blanco</name>
+        <role>Himself</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/93Z9V1TyGyYNCAMJU27Axioa8ME.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephan Grossmann</name>
+        <role>Göttlicher</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ei3hTQZWC9W4nUa8AZ7NVkg89O9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Heinrich</name>
+        <role>Neonazi</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Ostrowski</name>
+        <role>Mancello</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/xqbBqO2KwbKz9FWsMolmVtoG23X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gudrun Ritter</name>
+        <role>Großmutter Krömeier</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/oUF2RCYPNStagb1kdalCkEEKLnA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Maaß</name>
+        <role>Krankenpfleger Falko</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katharina Abt</name>
+        <role>Köchin</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/2gumC3faiIduRORTH6XAPUd7BEd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marian Meder</name>
+        <role>Sawatzki-Darsteller</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas M. Köppl</name>
+        <role>Benimmcoach</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marc-Marvin Israel</name>
+        <role>Fußballjunge</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Gebigke</name>
+        <role>Fußballjunge</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Busche</name>
+        <role>Fußballjunge</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerdy Zint</name>
+        <role>Pantomime</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nancy Maria Brüning</name>
+        <role>Mutter mit Kinderwagen</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hauke Schmidt</name>
+        <role>Comedy-Autor</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas Thieme</name>
+        <role>Senderchef Kärrner</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/hfnEBUhQpjea1hwx2v5fhAu6yVy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christoph Zrenner</name>
+        <role>Gerhard Lümmlich</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nina Beesk</name>
+        <role>Redakteurin bei My TV</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rocco Coufin</name>
+        <role>Redakteur bei My TV</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Grenzau</name>
+        <role>Redakteur bei My TV</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stefan Greißig</name>
+        <role>Redakteur bei My TV</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Niels O. Scheer</name>
+        <role>Redakteur bei My TV</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Segler</name>
+        <role>Redakteur bei My TV</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Udalov</name>
+        <role>Redakteur bei My TV</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ramona Kunze-Libnow</name>
+        <role>Sawatzkis Mutter</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/lGIzW0mn3eJUr9Nf6yUoZvT4ISn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Aaron Blake</name>
+        <role>Hundezüchter</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bernardo Arias Poras</name>
+        <role>Gothicfreund</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Georg Kammerer</name>
+        <role>Comedy-Autor</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Folke Renken</name>
+        <role>Comey-Autor</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Bulkeley</name>
+        <role>Comedy-Autor</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bernd Zeller</name>
+        <role>Comedy-Autor</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tim Whelan</name>
+        <role>Comedy-Autor</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Kessler</name>
+        <role>Michael Witzigmann</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/9ylS6j259CD3dORtgmWD9tn6quk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Klaas Heufer-Umlauf</name>
+        <role>himself</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/tFKehZwY3BAlO4MreU0hW5ZBiQE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joko Winterscheidt</name>
+        <role>himself</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Aminati</name>
+        <role>himself</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jörg Thadeusz</name>
+        <role>himself</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jakob Bieber</name>
+        <role>Jüngelchen</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/vsH3EwWjEgFOw7iilNQnWAWLMmt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maximilian Strestik</name>
+        <role>Ulf Birne</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Plasberg</name>
+        <role>himself</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/lMKAlAu0C8XYdjcOeIPwoWNqFgk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Micaela Schäfer</name>
+        <role>Sie selbst</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/w8OZ2jTsVZfNquWALXGlEJqSPUy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Gloss</name>
+        <role>herself</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Piet Fuchs</name>
+        <role>Maik</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Hildebrand</name>
+        <role>Neonazi 1</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leon Ullrich</name>
+        <role>Journalist</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/bA9TLK0Pcsvjd8kvDySP6m47weg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jens Reimann</name>
+        <role>Technikchef Brüller</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roman Kanonik</name>
+        <role>Reinigungsmann</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Harting</name>
+        <role>Bild-Chef</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/k8KFBJDfVgyhLtFLWIQhvgaBzDV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nina Proll</name>
+        <role>Ute Kassler</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ChWtd0dvOQsAfsqSXwwlBLkXUy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marine Le Pen</name>
+        <role>Herself (archive footage)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 08:06:06</dateadded>
+</movie>

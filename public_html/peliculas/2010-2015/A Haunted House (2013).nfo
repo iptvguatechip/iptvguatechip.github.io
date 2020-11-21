@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Y dónde esta el fantasma</title>
+    <originaltitle>A Haunted House</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.000000</value>
+            <votes>43372</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>1150</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Malcolm (Marlon Wayans) y Kisha (Essence Atkins) deciden mudarse a una casa de ensueño que resulta estar ocupada por un demonio. Cuando éste se apodera del cuerpo de Kisha, Malcolm decide buscar la ayuda de un sacerdote, un psíquico y un equipo de cazadores de fantasmas. Parodia de la serie Paranormal Activity.</plot>
+    <tagline>This $*%! ain&apos;t paranormal.</tagline>
+    <runtime>86</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ycm511kfyzVVjRU70nxtAGjAPbQ.jpg">https://image.tmdb.org/t/p/original/ycm511kfyzVVjRU70nxtAGjAPbQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6OHNDLSvTxvis1oWGdIqmH8jrEH.jpg">https://image.tmdb.org/t/p/original/6OHNDLSvTxvis1oWGdIqmH8jrEH.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5NTJZ571646mTziTOGt0jnq7uKe.jpg">https://image.tmdb.org/t/p/original/5NTJZ571646mTziTOGt0jnq7uKe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/skQt53YE2iyOftXj5afJkHmYxLW.jpg">https://image.tmdb.org/t/p/original/skQt53YE2iyOftXj5afJkHmYxLW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9tngFYLHb98UPToPV4WIPUwXcOl.jpg">https://image.tmdb.org/t/p/original/9tngFYLHb98UPToPV4WIPUwXcOl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hmdsb07mZyZjd5IuACyt1eDNDUB.jpg">https://image.tmdb.org/t/p/original/hmdsb07mZyZjd5IuACyt1eDNDUB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/f3ajCdwH7H8JTMVUsCaN5lUsnhi.jpg">https://image.tmdb.org/t/p/original/f3ajCdwH7H8JTMVUsCaN5lUsnhi.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mgnMFeLCEaNTOiD7w2DOaqzddyJ.jpg">https://image.tmdb.org/t/p/original/mgnMFeLCEaNTOiD7w2DOaqzddyJ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2243537</id>
+    <uniqueid type="imdb" default="true">tt2243537</uniqueid>
+    <uniqueid type="tmdb">139038</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Y donde esta el fantasma - Colección</name>
+        <overview>Una parodia de todas las películas de &quot;found-footage/documentary style&quot; lanzadas en los últimos años.</overview>
+    </set>
+    <credits>Marlon Wayans</credits>
+    <credits>Rick Alvarez</credits>
+    <director>Michael Tiddes</director>
+    <premiered>2013-01-11</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Open Road Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J50vA5VLR6k</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>xvid</codec>
+                <aspect>20.000000</aspect>
+                <width>640</width>
+                <height>352</height>
+                <durationinseconds>5185</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Marlon Wayans</name>
+        <role>Malcolm</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Essence Atkins</name>
+        <role>Keisha</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5cBdIVRJmy7IntOk3E3yyqGk2fJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Swardson</name>
+        <role>Chip the Psychic</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/kA6ASJ9kK8mz1ejIXY8h5XgBwgc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cedric the Entertainer</name>
+        <role>Father Williams</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/k5j649G9C8OSayff8HqVWr0jV6S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Koechner</name>
+        <role>Dan the Security Man</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/fpTTe1ow3EdfRJ8PZgBJmpeghMS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Sheridan</name>
+        <role>Bob</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/pNP7NGCjfSn6nHpoLbCOf7RsexL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liana Mendoza</name>
+        <role>Carmita</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jamie Noel</name>
+        <role>Juanita</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/13BKG7OrrJTkAVbxNYfefRjwZ8b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marlene Forte</name>
+        <role>Rosa</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/5TUmUz8kLeACwb56EVcLu1lyZR0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Affion Crockett</name>
+        <role>Ray-Ray</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robin Thede</name>
+        <role>Kisha&apos;s Mom</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bobbie Lee</name>
+        <role>Thug</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Damien Bray</name>
+        <role>Entity</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joel Kelley Dauten</name>
+        <role>Egon</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/3xIUFS5oyR9v5xde7iNfYC5VVuD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordenn Thompson</name>
+        <role>Little Kisha</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Daly</name>
+        <role>Steve</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/mBbtTnfcxkFXH3RPomSO4VCyxYS.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-31 17:12:28</dateadded>
+</movie>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Candy Jar</title>
+    <originaltitle>Candy Jar</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>4225</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>388</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dos campeones de debate escolar no se ponen de acuerdo en nada, salvo en el ambicioso objetivo final: entrar a la universidad de sus sueños.</plot>
+    <tagline>Two rivals have met their match</tagline>
+    <runtime>92</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg">https://image.tmdb.org/t/p/original/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/orhFAKqhUwvFFhQ4kkyov9YHEdb.jpg">https://image.tmdb.org/t/p/original/orhFAKqhUwvFFhQ4kkyov9YHEdb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zPs6HFd56BiQXAq4HzjdPHlyzcT.jpg">https://image.tmdb.org/t/p/original/zPs6HFd56BiQXAq4HzjdPHlyzcT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eNdSjO3Lp7U73GIbTz0zicjkjI4.jpg">https://image.tmdb.org/t/p/original/eNdSjO3Lp7U73GIbTz0zicjkjI4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mAaWdKXebOjIzofklBFU3owaOIY.jpg">https://image.tmdb.org/t/p/original/mAaWdKXebOjIzofklBFU3owaOIY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/n5Apka5JaYrLXcQa3lXhnzuBXHj.jpg">https://image.tmdb.org/t/p/original/n5Apka5JaYrLXcQa3lXhnzuBXHj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ptl8f1OzirZFpX4opVPKr6E5yUl.jpg">https://image.tmdb.org/t/p/original/ptl8f1OzirZFpX4opVPKr6E5yUl.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6744044</id>
+    <uniqueid type="imdb" default="true">tt6744044</uniqueid>
+    <uniqueid type="tmdb">507143</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Chad Klitzman</credits>
+    <director>Ben Shelton</director>
+    <premiered>2018-04-27</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1lXLGwe_DUU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5558</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sami Gayle</name>
+        <role>Lona Skinner</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/f5IwezVGhiKSSaZT6SHYBhRDnn0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Latimore</name>
+        <role>Bennett Russell</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fjWFEHb2aBippgVeGYEnoEhT45c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christina Hendricks</name>
+        <role>Amy Skinner</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/fqQWrKDhOTAPjjNTHSU4tBfq5NJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Uzo Aduba</name>
+        <role>Julia Russell</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/iXaNDjNqKfTVL3DLD27OPNQ7QzT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helen Hunt</name>
+        <role>Kathy</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9XtRHDSEdVJgIsHS207BPsAyQA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Bergeron</name>
+        <role>Principal Nelson</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/iEf2PDl0BuTUhb3ADdWeNeHjmGa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tracey Bonner</name>
+        <role>Newnan Principal</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Tigue</name>
+        <role>Mr. Johnson</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/cuX9cJIj1t5YdjKpvZdFQvACglD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Castelloe</name>
+        <role></role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/pUr6yhUHbSWlrExntLB2B3ll86A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wilbur Fitzgerald</name>
+        <role></role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/2s0MtvrLkzb4zGQyLeJLmUWoEWU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonia Gentry</name>
+        <role></role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/2XgTZZS6gPqUPN6cSXnFNR1OkxO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ariana Guerra</name>
+        <role></role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/1bZcu30gkzKkLHRKgz5b2dg59et.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 17:03:11</dateadded>
+</movie>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Curiosidad estadounidense</title>
+    <originaltitle>American Curious</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>85</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>4</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>David Green (Jordan Belfi), un estadounidense standupero en sus treintas, recibe repentinamente una casa como herencia en México. Su plan de vender la casa y volver a Estados Unidos de inmediato, se detiene al conocer a Sol (Ana Claudia Talancón) y descubrir junto a ella grandes secretos de su pasado.</plot>
+    <tagline></tagline>
+    <runtime>84</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bQv4MIeUoiUixjrjqHcS5Jw8n0m.jpg">https://image.tmdb.org/t/p/original/bQv4MIeUoiUixjrjqHcS5Jw8n0m.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7pb3ZAGp2V9z7lDXRQk4MeOsXlL.jpg">https://image.tmdb.org/t/p/original/7pb3ZAGp2V9z7lDXRQk4MeOsXlL.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kWq1dd0p4Cow7DjXsf8XYPBRNJP.jpg">https://image.tmdb.org/t/p/original/kWq1dd0p4Cow7DjXsf8XYPBRNJP.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5290196</id>
+    <uniqueid type="imdb" default="true">tt5290196</uniqueid>
+    <uniqueid type="tmdb">375786</uniqueid>
+    <credits>Gabylu Lara</credits>
+    <credits>Ricardo Aguado</credits>
+    <director>Gabylu Lara</director>
+    <premiered>2018-03-24</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5058</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ana Claudia Talancón</name>
+        <role>Sol</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/es8No01z8G0MFX2KeiAa2ouRfCD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Belfi</name>
+        <role>David/Braulio</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/eBJGY9JvaPydyIkE6bBvrHVX8pO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isela Vega</name>
+        <role>Bertha García</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5varp4qcQUsFSUtrfYxGrToLDwe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shalim Ortiz</name>
+        <role>Raúl</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/iKTsmGgTuMMzSGa3cFUeGNVGB8L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura de Ita</name>
+        <role>Betzabé</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Carlos Rodríguez</name>
+        <role>Notario</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Albrecht</name>
+        <role>Bartender</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yolanda Martínez</name>
+        <role>Catita</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amanda Nicole Reyes</name>
+        <role>Claudia</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Horacio Garcia Rojas</name>
+        <role>Pepe</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Omar Ramírez</name>
+        <role>Gerente Muñoz</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Macías</name>
+        <role>Pardo</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Óscar Olivares</name>
+        <role>Grande</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juantxo Sánchez Fernández</name>
+        <role>Cocinero</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arturo Esquivel Gonzáñez</name>
+        <role>Mozo</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alain Morales Medina</name>
+        <role>Garrotero</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jorge Zárate</name>
+        <role>Empresario</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rosa María Hernández</name>
+        <role>Mestiza</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan Pablo de Santiago</name>
+        <role>Simón</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqo3C9K4CpzQQ66OXu4uouhWmej.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilio Guerrero</name>
+        <role>Nicolás</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miriam Calderón</name>
+        <role>Mamá Sol</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hugo Macías Macotela</name>
+        <role>Abuelo</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alfredo Herrera</name>
+        <role>Tío</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniela Soto Vell</name>
+        <role>Prima</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/9zthxdCuYgkRGJnG2h8VClKn9uA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Hernández Farfán</name>
+        <role>Primo</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susana Contreras</name>
+        <role>Tía 1</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mónica Bejarano</name>
+        <role>Tía 2</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Montserrat Marañon</name>
+        <role>Empleada Asilo</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/ldggdFAFZ2xjD5zMa9xpNzaNAOo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hugo Stiglitz</name>
+        <role>Abraham Silva</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/8G3HcfAPMkki1YqiaGthLeveTsr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosa María Baltazar</name>
+        <role>Mujer en la azotea</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ariadna Céspedes</name>
+        <role>Niña en Azotea</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antón Araiza</name>
+        <role>Hombre Trajeado</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anna Cetti</name>
+        <role>Lucy</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntw59q9ScH0J603k6Wale0oZk7l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rafael Torres Rocha</name>
+        <role>Barman</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesús Arturo Rodríguez</name>
+        <role>Payaso</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesús Román Gómez</name>
+        <role>Taxista</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrea Danae Fuentes</name>
+        <role>Natalia Joven</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Yeska Stacul</name>
+        <role>David niño</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-14 19:02:16</dateadded>
+</movie>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Scooby Doo y la maldición de Cleopatra</title>
+    <originaltitle>Scooby-Doo! in Where&apos;s My Mummy?</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>2781</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>200</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Scooby-Doo y la cuadrilla de Mystery Inc. se hacen complicados en un misterio sobrenatural en Egipto.</plot>
+    <tagline></tagline>
+    <runtime>74</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kxv1K6ZAxicTsceAhMLUIuTj7Uy.jpg">https://image.tmdb.org/t/p/original/kxv1K6ZAxicTsceAhMLUIuTj7Uy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kekMQR0eWhYFKuGzoGZeypsB0hZ.jpg">https://image.tmdb.org/t/p/original/kekMQR0eWhYFKuGzoGZeypsB0hZ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/85z4NC6FzMQJBGlFqq8qQ2QByD4.jpg">https://image.tmdb.org/t/p/original/85z4NC6FzMQJBGlFqq8qQ2QByD4.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0480461</id>
+    <uniqueid type="imdb" default="true">tt0480461</uniqueid>
+    <uniqueid type="tmdb">20558</uniqueid>
+    <genre>Misterio</genre>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <credits>Joe Sichta</credits>
+    <credits>George Doty IV</credits>
+    <credits>Ed Scharlach</credits>
+    <director>Joe Sichta</director>
+    <premiered>2005-12-13</premiered>
+    <year>2005</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Warner Bros. Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iJMjDl-n51c</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>4462</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Fred / Scooby-Doo (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/b3gImArbw13mMKJIe9leFc9YYb7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Casey Kasem</name>
+        <role>Shaggy (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/59kecPxxPIO8uwzaRZAOSDE1l80.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mindy Cohn</name>
+        <role>Velma Dinkley (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/f8wFQ9Ner4FxWLSncpni4w14w5B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grey DeLisle</name>
+        <role>Daphne / Natasha (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oOEZHnPBW8K86xUp3vqosexfgyP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christine Baranski</name>
+        <role>Amelia von Butch (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/fqDRKSrJx7v337MWsY5gklvSFGB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ajay Naidu</name>
+        <role>Prince Omar (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/tOvD8yveJ4Aq10LICADK3wS3dwE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Perlman</name>
+        <role>Hotep / Ancient One #2 (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Piven</name>
+        <role>Rock Rivers (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/dPCFGmNhrF3niEJMPIbC1fiIqyI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wynton Marsalis</name>
+        <role>Campbell (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/h2jr42Hs5euyxAuemWFKw3mPevu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oded Fehr</name>
+        <role>Amahl Ali Akbar (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/qMLpZDMGoEMthDCb9dp5VbjKPVT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Virginia Madsen</name>
+        <role>Cleopatra (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/2u72BF7i189nAcX1kEJLjGMsb0c.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:51</dateadded>
+</movie>

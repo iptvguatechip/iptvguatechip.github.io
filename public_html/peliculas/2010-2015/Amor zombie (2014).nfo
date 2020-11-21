@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mi Novia es una Zombie</title>
+    <originaltitle>Life After Beth</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>19667</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>465</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuenta la historia de amor entre un vivo y una no-muerta, Beth, quién tras un trágico accidente volverá a la vida para proseguir con la relación con su novio, si bien evidentemente no le será nada fácil.</plot>
+    <tagline>Be Careful What You Wish For...</tagline>
+    <runtime>89</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6mpef7ZNYaZRKJgfHp1GdjdaPlc.jpg">https://image.tmdb.org/t/p/original/6mpef7ZNYaZRKJgfHp1GdjdaPlc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/md869sN51Y1m2C4PXcdHtr2HQx5.jpg">https://image.tmdb.org/t/p/original/md869sN51Y1m2C4PXcdHtr2HQx5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qCnEZdsRtbkOPIjMCR5na93fvdO.jpg">https://image.tmdb.org/t/p/original/qCnEZdsRtbkOPIjMCR5na93fvdO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/opyiLSnru974oPfhtxJikAe8MCa.jpg">https://image.tmdb.org/t/p/original/opyiLSnru974oPfhtxJikAe8MCa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y2lsAVSX9Vka72WvZ8ureMCcjUz.jpg">https://image.tmdb.org/t/p/original/y2lsAVSX9Vka72WvZ8ureMCcjUz.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9CMWvZ3ZUhnAo0B9VXyrypJSi8T.jpg">https://image.tmdb.org/t/p/original/9CMWvZ3ZUhnAo0B9VXyrypJSi8T.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ZQkJ1VIlVYVsuqcB47ctCRUZQD.jpg">https://image.tmdb.org/t/p/original/ZQkJ1VIlVYVsuqcB47ctCRUZQD.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2581244</id>
+    <uniqueid type="imdb" default="true">tt2581244</uniqueid>
+    <uniqueid type="tmdb">244566</uniqueid>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <credits>Jeff Baena</credits>
+    <director>Jeff Baena</director>
+    <premiered>2014-08-15</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Abbolita Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VU0OvEjAINA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>320.000000</aspect>
+                <width>640</width>
+                <height>342</height>
+                <durationinseconds>5340</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Aubrey Plaza</name>
+        <role>Beth Slocum</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kax66Zjf6fo5XdjhWmxocxdOLeb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dane DeHaan</name>
+        <role>Zach Orfman</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vZ7ix8UeRYgepFPFc4FIVKDLKDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John C. Reilly</name>
+        <role>Maury Slocum</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/emZGoEa7iWPVbjQaiVMeLdq8KgH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Molly Shannon</name>
+        <role>Geenie Slocum</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/gFuqGF0IO4e9IjiJYAvGI9205Sq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cheryl Hines</name>
+        <role>Judy Orfman</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/aOp8EZEKrY9Fz3GhOyJYlLOcfxg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Reiser</name>
+        <role>Noah Orfman</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/v3e5TClep4ugMdU4qSRiKbvLr3B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Gray Gubler</name>
+        <role>Kyle Orfman</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/tHjIUjHFjl4Kzc4XQ7JSd1EHYSU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Kendrick</name>
+        <role>Erica Wexler</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/cyGjHMJO7C6kQTq36n9hkLThY4G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eva La Dare</name>
+        <role>Pearline</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/8DiuSYRUBWyKPBRLr92mwIk5aj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Weitz</name>
+        <role>Mr. Levin</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle Azar</name>
+        <role>Mrs. Levin</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/hILSES74wsD9NZqd4IvGzFvyWO8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim O&apos;Heir</name>
+        <role>Chip</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/qrdzPtyh0lWQp8ZxRvWDqBxyi0P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Stillwell</name>
+        <role>Lucy</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jenna Nye</name>
+        <role>Brittany</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bud Sabatino</name>
+        <role>Mr. Howard</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peggy Miley</name>
+        <role>Mrs. Howard</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/t8xVgQMJvFDgadTaO2TrKdf9SI1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garry Marshall</name>
+        <role>Grandpa</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/az6Hm9QyS1tkCXXppa6bXsIDArW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allan McLeod</name>
+        <role>Supermarket Stocker</role>
+        <order>18</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMjE3MDA2OTIwMl5BMl5BanBnXkFtZTgwMDc1MTc5OTE@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Delaney</name>
+        <role>News Anchor</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/sFLUYtE6j9gli1GEhfGBwigqKme.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Pally</name>
+        <role>Diner Sommelier</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keedar Whittle</name>
+        <role>Male Onlooker</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/hxcERLtgqrSLidZt7SJH86vM7LC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bechir Sylvain</name>
+        <role>Haitian Man</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bonnie Burroughs</name>
+        <role>Woman Zombie</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Groh</name>
+        <role>Homeless Man</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eileen Finizza</name>
+        <role>Mourner</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alia Shawkat</name>
+        <role>Roz</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/aUc0hlILKfDKhlKnWQliGjkQL9a.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-31 17:12:28</dateadded>
+</movie>

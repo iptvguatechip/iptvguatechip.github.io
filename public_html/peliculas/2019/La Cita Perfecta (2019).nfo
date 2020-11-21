@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Cita Perfecta</title>
+    <originaltitle>The Perfect Date</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>31302</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>2458</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Brooks crea una aplicación de citas para conseguir dinero para la universidad en la que él es siempre el pretendiente. En cada cita actúa de manera diferente, dependiendo de las demandas de las interesadas. Sin embargo, siendo una persona distinta cada noche, descubre que el verdadero Brooks Rattigan no es quien creía que era, y sorprendentemente, encuentra a la chica de sus sueños.</plot>
+    <tagline>He&apos;s whoever you want him to be.</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m5LqnnkN09124CSE8yGskeCv3kb.jpg">https://image.tmdb.org/t/p/original/m5LqnnkN09124CSE8yGskeCv3kb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/PmkDOVvwN86ax3vsmL6iaWdKsB.jpg">https://image.tmdb.org/t/p/original/PmkDOVvwN86ax3vsmL6iaWdKsB.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a1FDYNvHj6dX3IFrxaOeJfCbqPs.jpg">https://image.tmdb.org/t/p/original/a1FDYNvHj6dX3IFrxaOeJfCbqPs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tHUzzVwshwidhQxZXj0WzAdKdto.jpg">https://image.tmdb.org/t/p/original/tHUzzVwshwidhQxZXj0WzAdKdto.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/l1Wvw4JKd6eq3DV1yGvIlIWIvo3.jpg">https://image.tmdb.org/t/p/original/l1Wvw4JKd6eq3DV1yGvIlIWIvo3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hvj6YUwCONUzuZBS8ZgPvZCydLv.jpg">https://image.tmdb.org/t/p/original/hvj6YUwCONUzuZBS8ZgPvZCydLv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xPSkpvSLuawtORcG4X9KnYOoSFB.jpg">https://image.tmdb.org/t/p/original/xPSkpvSLuawtORcG4X9KnYOoSFB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hI2Lz32P3sk3tF4DsWY5LVXDDl1.jpg">https://image.tmdb.org/t/p/original/hI2Lz32P3sk3tF4DsWY5LVXDDl1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pMHco4zbImcUw47pxBuDzC0aHZq.jpg">https://image.tmdb.org/t/p/original/pMHco4zbImcUw47pxBuDzC0aHZq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8201170</id>
+    <uniqueid type="imdb" default="true">tt8201170</uniqueid>
+    <uniqueid type="tmdb">543540</uniqueid>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Steve Bloom</credits>
+    <credits>Randall Green</credits>
+    <director>Chris Nelson</director>
+    <premiered>2019-04-12</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Ace Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k8--txaiHeo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>5440</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Camila Mendes</name>
+        <role>Shelby Pace</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/lXZ1iHoSOwc5REqwXm3eoiPejB3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Marano</name>
+        <role>Celia Lieberman</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fBCtQ1kAcQkEr6f5HGN8Q5687Qq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Walsh</name>
+        <role>Charlie Rattigan</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qGPdThOmuzzWx7MH12qZr0pw19X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Chrest</name>
+        <role>Jerry Lieberman</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/Lu2MRQTBAR3eCYG3af3020RRoN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carrie Lazar</name>
+        <role>Lillian Lieberman</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/j93VdcDjrsC75KobRSpZiNognVB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noah Centineo</name>
+        <role>Brooks Rattigan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/p1bcst401RyxfDGykx2iQLI7CV5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Odiseas Georgiadis</name>
+        <role>Murph</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/84aAsymaOrUjwAui33rPiUOq6uy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maureen Brennan</name>
+        <role>Marjorie Strack</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/fn6ykyckaIZ0msiHdnV1kZWnZfB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Biglane</name>
+        <role>Tuna Melt on Seven Grain</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blaine Kern III</name>
+        <role>Franklin Volley</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/a0mIRsP9YutltqTRBkfDPii8SJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zak Steiner</name>
+        <role>Reece</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ty Parker</name>
+        <role>Cartelli</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wayne Pére</name>
+        <role>Delbert Newhouse</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/ppVRC4a061nwAOBerUhg0E9sUDJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhonda Johnson Dents</name>
+        <role>Miss Milligan</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/wdVBgEfAU7owDXhKCixMZTyucEG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Autumn Walker</name>
+        <role>Leah</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ivan Hoey Jr.</name>
+        <role>Larry</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/lHwlHUyGJwWPD9bT16L9D4tnyBF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Bankens</name>
+        <role>Toby</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Wr4uihYoP6H7MBXY3EsAjOPthR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phi Vu</name>
+        <role>Don the Clerk</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/2jUCUmgbzgYXgjsAaRrxKV1TIWw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hawn Tran</name>
+        <role>Valet Guy</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enrique Abada</name>
+        <role>Trent (uncredited)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hoey Jr. Ivan</name>
+        <role>Larry</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/y4SL9CUddwh8unhMJQk9z2iow0e.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 09:32:51</dateadded>
+</movie>

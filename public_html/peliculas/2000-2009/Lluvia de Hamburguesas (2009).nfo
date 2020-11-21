@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Lluvia de Hamburguesas</title>
+    <originaltitle>Cloudy with a Chance of Meatballs</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>201913</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>4124</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Flint es un inventor cuyo mayor sueño es poder crear algún aparato que mejore la vida de los demás. Finalmente, tras muchos intentos fallidos, Flint lleva a cabo un invento que puede revolucionar el mundo: una máquina que hace que caiga comida del cielo.</plot>
+    <tagline>Prepárate para ser atendido</tagline>
+    <runtime>89</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pRAzOs9cZN8LlhaCKo6LQ0bSfyi.jpg">https://image.tmdb.org/t/p/original/pRAzOs9cZN8LlhaCKo6LQ0bSfyi.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/17u7by5qciz7BcClqc0tKgz8UM3.jpg">https://image.tmdb.org/t/p/original/17u7by5qciz7BcClqc0tKgz8UM3.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pS0NWs2NubpxV7fc4B9T4hK8SWb.jpg">https://image.tmdb.org/t/p/original/pS0NWs2NubpxV7fc4B9T4hK8SWb.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sHE3N1YLwfucHTqOKn89WQTOVYY.jpg">https://image.tmdb.org/t/p/original/sHE3N1YLwfucHTqOKn89WQTOVYY.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/c39WE5AHP0ScjH7hIFReOycI5gd.jpg">https://image.tmdb.org/t/p/original/c39WE5AHP0ScjH7hIFReOycI5gd.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/eANL41F9Zp1xHMD6VnHnD3QS7ui.jpg">https://image.tmdb.org/t/p/original/eANL41F9Zp1xHMD6VnHnD3QS7ui.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rsekKK5ZtdFhV42QQKl6hQOJHgV.jpg">https://image.tmdb.org/t/p/original/rsekKK5ZtdFhV42QQKl6hQOJHgV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg">https://image.tmdb.org/t/p/original/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/udW5cz0HACCuTB1jISYDho37uMX.jpg">https://image.tmdb.org/t/p/original/udW5cz0HACCuTB1jISYDho37uMX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg">https://image.tmdb.org/t/p/original/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hSFnUubrQRTPwhffn1YhJqfGHH4.jpg">https://image.tmdb.org/t/p/original/hSFnUubrQRTPwhffn1YhJqfGHH4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iIvtWOkRgzprh6PRPEdnEcwGyM0.jpg">https://image.tmdb.org/t/p/original/iIvtWOkRgzprh6PRPEdnEcwGyM0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/doNIj6jX27hhfcbD6GEb22ydLSF.jpg">https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qXXe1OynUfEf9GGLzRQrjxLrDwj.jpg">https://image.tmdb.org/t/p/original/qXXe1OynUfEf9GGLzRQrjxLrDwj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uabJtYXJ7MrljGwLhwinolF115t.jpg">https://image.tmdb.org/t/p/original/uabJtYXJ7MrljGwLhwinolF115t.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sJ8syllC1J1yOqOjolpgoJmSEMe.jpg">https://image.tmdb.org/t/p/original/sJ8syllC1J1yOqOjolpgoJmSEMe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z8OJOBiOEQQSUKDQaa8ZvkrqHMG.jpg">https://image.tmdb.org/t/p/original/z8OJOBiOEQQSUKDQaa8ZvkrqHMG.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0844471</id>
+    <uniqueid type="imdb" default="true">tt0844471</uniqueid>
+    <uniqueid type="tmdb">22794</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Lluvia de Hamburguesas - Colección</name>
+    </set>
+    <credits>Phil Lord</credits>
+    <credits>Judi Barrett</credits>
+    <credits>Ron Barrett</credits>
+    <credits>Christopher Miller</credits>
+    <credits>Rob Greenberg</credits>
+    <director>Phil Lord</director>
+    <director>Christopher Miller</director>
+    <premiered>2009-09-17</premiered>
+    <year>2009</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Sony Pictures Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k33j4MGrTbg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1280</width>
+                <height>544</height>
+                <durationinseconds>5393</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bill Hader</name>
+        <role>Flint Lockwood / FLDSMDFR (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/8LiP5wHNq3QpwoARquhkGcPSgjM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Faris</name>
+        <role>Samantha &quot;Sam&quot; Sparks (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Caan</name>
+        <role>Tim Lockwood (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bGyOCCOIgcIyKjOGLoXoyp0XWHf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Samberg</name>
+        <role>Brent McHale (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/y6VcPyshsr6SMx97fg515NoNGRr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Campbell</name>
+        <role>Mayor Shelbourne (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/i50VM2AtmhwdruKvdbBBpzFOJFx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobb&apos;e J. Thompson</name>
+        <role>Calvin &quot;Cal&quot; Devereaux (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/otRWlY9G3cUlQN3fAN4uuRfBAS6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mr. T</name>
+        <role>Officer Earl Devereaux (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/oblysKmIpP7fg5iW5P212s8LGAg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Bratt</name>
+        <role>Manny (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neil Patrick Harris</name>
+        <role>Steve the Monkey (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/oyy0Enz4ZX8KYRYihgSgOA18Xc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Neuwirth</name>
+        <role>Young Flint (voice)</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Al Roker</name>
+        <role>Patrick Patrickson (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/nf2ibHNfjPZV8LXoffjJcmMXXD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Graham</name>
+        <role>Fran Lockwood (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/3leQVZnthAZwngH7HAD6T7qfsVu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Forte</name>
+        <role>Joe Towne (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kphnirb7YggSVEhGI47kACxaIJQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angela Shelton</name>
+        <role>Regina Devereaux (voice)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Siragusa</name>
+        <role>Rufus (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQQBeNiWO0lMYhTeniIYxc5iyXJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neil Flynn</name>
+        <role>Weather News Network Producer (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/dTZdHPntAeWuEnRmm2unvNYKtK6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liz Cackowski</name>
+        <role>Flint&apos;s Teacher (voice)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Isabella Acres</name>
+        <role>(voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/zNe900NIdEN9aYQ6ujj1lCUqUqG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lori Alan</name>
+        <role>(voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/334tstiymZhTfP48sOEupSqXnMa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Baumel</name>
+        <role>(voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/AqQxm6vwF8b6OUrtwbvuLHoEVb7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Bergen</name>
+        <role>(voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cody Cameron</name>
+        <role>(voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/9mbcBkcoY64szMdBROVEQE7mn75.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marsha Clark</name>
+        <role>(voice)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Cygan</name>
+        <role>(voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ann Dominic</name>
+        <role>(voice)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Eiding</name>
+        <role>(voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jess Harnell</name>
+        <role>(voice)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary A. Hecker</name>
+        <role>(voice) (as Gary Hecker)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/cEs5VifZGciPAXiCCYlGqzTnhmX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil Lord</name>
+        <role>(voice)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/2MagibFHZxky3FmMubyABUnf4lw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sherry Lynn</name>
+        <role>(voice)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Mann</name>
+        <role>(voice)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/980QYqXIZCMn5Knx0vjROkw9vKo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mona Marshall</name>
+        <role>(voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mickie McGowan</name>
+        <role>(voice)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Miller</name>
+        <role>(voice)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laraine Newman</name>
+        <role>(voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jan Rabson</name>
+        <role>(voice)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/71x4EIDv6YWVrqvCOuSel5LX9go.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grace Rolek</name>
+        <role>(voice)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/a9Gt8N85FE0dneCbsJ5WrscUqIB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Shada</name>
+        <role>(voice)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/qTV1zef7qpQsNhjGh1QcKO00ZxZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Shadley</name>
+        <role>(voice)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melissa Sturm</name>
+        <role>(voice)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ariel Winter</name>
+        <role>(voice)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-03 17:06:52</dateadded>
+</movie>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Bellezonismo</title>
+    <originaltitle>Bellezonismo</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>1.800000</value>
+            <votes>121</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>3.300000</value>
+            <votes>6</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Sócrates y Capi son dos pilotos de coches que, durante una competición de rallys, se pierden y acaban en un claro en mitad de un monte. Lejos de estar despoblado, esa localización alberga un centro de tecnificación de la belleza, un lugar donde se busca perfeccionar el físico.</plot>
+    <tagline></tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dBgsoKRBq53dF4udLP1kzFYQUoZ.jpg">https://image.tmdb.org/t/p/original/dBgsoKRBq53dF4udLP1kzFYQUoZ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9BoIy9T52P6e2o5m9comPiaU8Yh.jpg">https://image.tmdb.org/t/p/original/9BoIy9T52P6e2o5m9comPiaU8Yh.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10152200</id>
+    <uniqueid type="imdb" default="true">tt10152200</uniqueid>
+    <uniqueid type="tmdb">608726</uniqueid>
+    <genre>Comedia</genre>
+    <country>Spain</country>
+    <credits>Jordi Arencón</credits>
+    <director>Jordi Arencón</director>
+    <premiered>2019-07-12</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>5864</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Armando del Río</name>
+        <role>Sócrates</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/AuCppv180f27WZwwGnesEUrPpQr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miguel Cazorla</name>
+        <role>Copi</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yanet Garcia</name>
+        <role>Miss</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rngMmNrldS7shkps3XmdYcK7s6e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ariadna Cabrol</name>
+        <role>Bombón</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/moLXeoKYSqeVQ80Z4Cos1kkVhYW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Coral González</name>
+        <role>Wonderbrá</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-10-28 07:20:45</dateadded>
+</movie>

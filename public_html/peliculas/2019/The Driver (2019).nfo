@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Conductor</title>
+    <originaltitle>The Driver</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.000000</value>
+            <votes>490</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.300000</value>
+            <votes>15</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En un apocalipsis zombie, un hombre trata desesperadamente de mantener a su familia con vida.</plot>
+    <tagline></tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qT5YjDsz5Ud7OHXyDvqtrMZXsdE.jpg">https://image.tmdb.org/t/p/original/qT5YjDsz5Ud7OHXyDvqtrMZXsdE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/keGPqEVyk4rMUNObZYT029ZrUcu.jpg">https://image.tmdb.org/t/p/original/keGPqEVyk4rMUNObZYT029ZrUcu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3ERvdVJzDIAEh9f5k1GLBcKS52x.jpg">https://image.tmdb.org/t/p/original/3ERvdVJzDIAEh9f5k1GLBcKS52x.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kaxkrUAb1S3Eh2mDhW1rcQX8vlY.jpg">https://image.tmdb.org/t/p/original/kaxkrUAb1S3Eh2mDhW1rcQX8vlY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hfsWu39M5NFXq6TeqqqGeo58sag.jpg">https://image.tmdb.org/t/p/original/hfsWu39M5NFXq6TeqqqGeo58sag.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xGj8U9g4Thk7v2cObHnlqd9bALP.jpg">https://image.tmdb.org/t/p/original/xGj8U9g4Thk7v2cObHnlqd9bALP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5tvmGziq5u0WQTYlw8WmE0C8SCo.jpg">https://image.tmdb.org/t/p/original/5tvmGziq5u0WQTYlw8WmE0C8SCo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/paxjgQ7I2oALdi85F5qw8PBiO2q.jpg">https://image.tmdb.org/t/p/original/paxjgQ7I2oALdi85F5qw8PBiO2q.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9272568</id>
+    <uniqueid type="imdb" default="true">tt9272568</uniqueid>
+    <uniqueid type="tmdb">648043</uniqueid>
+    <genre>Acción</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <credits>Steve Poirier</credits>
+    <director>Wych Kaosayananda</director>
+    <premiered>2019-11-25</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e5ohpKN8Uzo</trailer>
+    <actor>
+        <name>Mark Dacascos</name>
+        <role>The Driver</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/trOACuJz1KzhB51qe6asaxRuxrh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Condra</name>
+        <role>Sharon</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhwvJSiOmydDCGa7XJa8TWfHvO0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noelani Dacascos</name>
+        <role>Bree</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Stutes</name>
+        <role>Joe</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9ANTFVO3kxwzRzvTedr6ZROLpSF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Zachary Smith</name>
+        <role>Gabriel</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charlie Ruedpokanon</name>
+        <role>Lee</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/rzZ5WGsuXmnb1tIoPTPQvOJuArn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael S. New</name>
+        <role>DJ</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ukAL4ozPM54usOqPX0vJuj4oiCx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Milena Gorum</name>
+        <role>Sylvia</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/mG8jSj3OjrV5k7CpCA9zj24bKT2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alice Tantayanon</name>
+        <role>Rose</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/r4l99pUENjq0e3Rs01MypqWIovP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly B. Jones</name>
+        <role>Mary</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/q9dCfirS0zzOtYsdOCvmC4AHAp8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalie Lorence</name>
+        <role>Lisa</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brahim Achabbakhe</name>
+        <role>Bandit Leader</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 09:30:34</dateadded>
+</movie>

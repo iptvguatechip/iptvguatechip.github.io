@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Wackness</title>
+    <originaltitle>The Wackness</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>29735</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>190</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Juego en Ciudad de Nueva York en el verano bochornoso, El Wackness conta la historia de un traficante de droga adolescente preocupado, que cambia el pote por sesiones de la terapia con un psiquiatra podrido por la medicina. Las cosas se hacen más complicadas cuando se enamora de uno de sus compañeros de clase, que sólo resulta ser la hija de doctores. Esto es una historia de la resultando-edad sobre sexo, medicinas, música y lo que toma para ser un hombre.</plot>
+    <tagline>Sometimes it&apos;s right to do the wrong things.</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u6CTOWpM2Se4rpuLfmlZUlBfs8N.jpg">https://image.tmdb.org/t/p/original/u6CTOWpM2Se4rpuLfmlZUlBfs8N.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6j1y7kOMfRnhfBgBg5Y8oiKyhAP.jpg">https://image.tmdb.org/t/p/original/6j1y7kOMfRnhfBgBg5Y8oiKyhAP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5GlBEqiG0vpnnRWc7Vi5O4ao6Yi.jpg">https://image.tmdb.org/t/p/original/5GlBEqiG0vpnnRWc7Vi5O4ao6Yi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6KaB3G8qPE50aUSvILuRQSy03pT.jpg">https://image.tmdb.org/t/p/original/6KaB3G8qPE50aUSvILuRQSy03pT.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1082886</id>
+    <uniqueid type="imdb" default="true">tt1082886</uniqueid>
+    <uniqueid type="tmdb">13990</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Jonathan Levine</credits>
+    <director>Jonathan Levine</director>
+    <premiered>2008-07-03</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>SBK Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3VwN-KCpM6w</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>824</height>
+                <durationinseconds>5943</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ben Kingsley</name>
+        <role>Dr. Squires</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Famke Janssen</name>
+        <role>Kristin Squires</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/nmzLdRTbua8MsFXxQo3h3lNV3hU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Peck</name>
+        <role>Luke Shapiro</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/j2rQcmcpnSZzjluYer2dDZWpLUL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Olivia Thirlby</name>
+        <role>Stephanie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/f6j1Y3C4Td3bmo8xQRGxC7zKgu0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary-Kate Olsen</name>
+        <role>Union</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ohsjU66AUS5qkymN9E5VDLlBQ0W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jane Adams</name>
+        <role>Eleanor</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Method Man</name>
+        <role>Percy</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/mYJFxOcrda410rS5JHPf0nPuimZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Yoo</name>
+        <role>Justin</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/fL5SEE5RSac93swa5fXjhA2Hhw5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Talia Balsam</name>
+        <role>Mrs. Shapiro</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/qaElqZwNktWxhOxeF8Up0ibdBjc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Wohl</name>
+        <role>Mr. Shapiro</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/iPHxMD2eimYJysHYIzLZUbPFhnp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Dishy</name>
+        <role>Grandpa Shapiro</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/qJ99LVrRnWS0SxkbgZX0ulyuQWN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanna Merlin</name>
+        <role>Grandma Shapiro</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ZYua9SeVx08lDeyiYOFpGvhUyw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shannon Briggs</name>
+        <role>Bodyguard #1</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/lpTscIL1018pWn20fTSC0Uo4aQI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roy Milton Davis</name>
+        <role>Homeless Man</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Flores</name>
+        <role>Kid in Bar</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/sgosc9u09TUWm5oJFtNFF2dSlIy.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 16:33:48</dateadded>
+</movie>

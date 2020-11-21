@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Rocky V</title>
+    <originaltitle>Rocky V</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>125249</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>2006</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Toda una vida de golpes ha terminado la carrera de Rocky, y un torcido contador lo ha dejado en la ruina. Inspirado por el recuerdo de su entrenador, sin embargo, Rocky encuentra la gloria en el entrenamiento y se enfrenta a un boxeador prometedor.</plot>
+    <tagline>Go for it!</tagline>
+    <runtime>104</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/O66XFv0mU6JKfmrgkoTQLwbFDG.jpg">https://image.tmdb.org/t/p/original/O66XFv0mU6JKfmrgkoTQLwbFDG.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9VWcChgE4ZeTITs26bMid5Uqu3t.jpg">https://image.tmdb.org/t/p/original/9VWcChgE4ZeTITs26bMid5Uqu3t.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/xuroq1FkraXhqvHHShTwShbNc0J.jpg">https://image.tmdb.org/t/p/original/xuroq1FkraXhqvHHShTwShbNc0J.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/joKvvXwuLXmrnbfyFM5z74o2orW.jpg">https://image.tmdb.org/t/p/original/joKvvXwuLXmrnbfyFM5z74o2orW.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/7HxeQbYYlY1KuHy1CashvU7H4QW.jpg">https://image.tmdb.org/t/p/original/7HxeQbYYlY1KuHy1CashvU7H4QW.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/57GTZXXq1r96F4yIciQEYbSvJQy.jpg">https://image.tmdb.org/t/p/original/57GTZXXq1r96F4yIciQEYbSvJQy.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1B6b4CagY2LUF8T2fFmK8eviTBg.jpg">https://image.tmdb.org/t/p/original/1B6b4CagY2LUF8T2fFmK8eviTBg.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rNuOtgMpsebJ2RK0nArPn3GIU3F.jpg">https://image.tmdb.org/t/p/original/rNuOtgMpsebJ2RK0nArPn3GIU3F.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fKe9y1AJHEzoiHwSrjfwyinuCE8.jpg">https://image.tmdb.org/t/p/original/fKe9y1AJHEzoiHwSrjfwyinuCE8.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/mCY5dMkSSFQufGCViI6jNUU6pXq.jpg">https://image.tmdb.org/t/p/original/mCY5dMkSSFQufGCViI6jNUU6pXq.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6INgGRRoWACzjBQIz6NpoZnG4OG.jpg">https://image.tmdb.org/t/p/original/6INgGRRoWACzjBQIz6NpoZnG4OG.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/AoScr6cYCvifK5mkkx3odA9gz5K.jpg">https://image.tmdb.org/t/p/original/AoScr6cYCvifK5mkkx3odA9gz5K.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/5FhAxWtMUeruiUErA1MLmGrKobT.jpg">https://image.tmdb.org/t/p/original/5FhAxWtMUeruiUErA1MLmGrKobT.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zMSdMhBluGCYpP1TDpRl7REF5p7.jpg">https://image.tmdb.org/t/p/original/zMSdMhBluGCYpP1TDpRl7REF5p7.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qQGtuP7Wn4KfU6LGd6TCG9YNaIi.jpg">https://image.tmdb.org/t/p/original/qQGtuP7Wn4KfU6LGd6TCG9YNaIi.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/owz62SKtWEVTkduwFAHgCjDLXg0.jpg">https://image.tmdb.org/t/p/original/owz62SKtWEVTkduwFAHgCjDLXg0.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lmg780wtYE5oV6SGoHp5Pvr00Bw.jpg">https://image.tmdb.org/t/p/original/lmg780wtYE5oV6SGoHp5Pvr00Bw.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bBolDTbtapN1OK7PUeOT2jO64ac.jpg">https://image.tmdb.org/t/p/original/bBolDTbtapN1OK7PUeOT2jO64ac.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/guo35lu8EYDjxCNZrjyNsPIar23.jpg">https://image.tmdb.org/t/p/original/guo35lu8EYDjxCNZrjyNsPIar23.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9i0WZQjKD8E1OfUCNdNtORYkIkF.jpg">https://image.tmdb.org/t/p/original/9i0WZQjKD8E1OfUCNdNtORYkIkF.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gdo97HZuiuhD32LTgvXvzCIh6hB.jpg">https://image.tmdb.org/t/p/original/gdo97HZuiuhD32LTgvXvzCIh6hB.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ktrIsGjTcTx8x6FQ9WiLxsguKpl.jpg">https://image.tmdb.org/t/p/original/ktrIsGjTcTx8x6FQ9WiLxsguKpl.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fE456DpY6g0SqWpfknzwdwMqr5K.jpg">https://image.tmdb.org/t/p/original/fE456DpY6g0SqWpfknzwdwMqr5K.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9yKr4m8hjLXFXqQTL8vmAGFvYLQ.jpg">https://image.tmdb.org/t/p/original/9yKr4m8hjLXFXqQTL8vmAGFvYLQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zuFAiCDTxJiHaGwGyQXGKIfjJn7.jpg">https://image.tmdb.org/t/p/original/zuFAiCDTxJiHaGwGyQXGKIfjJn7.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fpBGdCHpmLpRE4bgSSRdhJMFvPS.jpg">https://image.tmdb.org/t/p/original/fpBGdCHpmLpRE4bgSSRdhJMFvPS.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/uhkkOeuAeEAJ4Pi3atT8m92xBGk.jpg">https://image.tmdb.org/t/p/original/uhkkOeuAeEAJ4Pi3atT8m92xBGk.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/JhGydj4q5y8MoWZFyj15yKNrzC.jpg">https://image.tmdb.org/t/p/original/JhGydj4q5y8MoWZFyj15yKNrzC.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/w4h6gjdWPvmu5R9H6zeGDPo1ZuV.jpg">https://image.tmdb.org/t/p/original/w4h6gjdWPvmu5R9H6zeGDPo1ZuV.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/tdZ6vYIYdkSTsJwfEwOX9KkLG90.jpg">https://image.tmdb.org/t/p/original/tdZ6vYIYdkSTsJwfEwOX9KkLG90.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/roo1HyMAuWycA3nY9Rv7leXzP44.jpg">https://image.tmdb.org/t/p/original/roo1HyMAuWycA3nY9Rv7leXzP44.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rmfyTF8AVVZqdd5i7JsSfU4X3Lr.jpg">https://image.tmdb.org/t/p/original/rmfyTF8AVVZqdd5i7JsSfU4X3Lr.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/e095tb8Oo7TUGVfIunSQIsg0kcO.jpg">https://image.tmdb.org/t/p/original/e095tb8Oo7TUGVfIunSQIsg0kcO.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/2bFxzrO48QbsmTRPbRRQ8v9aXbJ.jpg">https://image.tmdb.org/t/p/original/2bFxzrO48QbsmTRPbRRQ8v9aXbJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/s39Rz8xkcIoj3JbwRosWwpM8WpV.jpg">https://image.tmdb.org/t/p/original/s39Rz8xkcIoj3JbwRosWwpM8WpV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/abFFQgsP7ZQzdlLdkdBZNNvAeoO.jpg">https://image.tmdb.org/t/p/original/abFFQgsP7ZQzdlLdkdBZNNvAeoO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qCARerjCFZOEeLiVdomhwRYlDSn.jpg">https://image.tmdb.org/t/p/original/qCARerjCFZOEeLiVdomhwRYlDSn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xumNKOOLLSy4TqwaCPGgFxyOHt2.jpg">https://image.tmdb.org/t/p/original/xumNKOOLLSy4TqwaCPGgFxyOHt2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5e5X80Y0hRV29FoCUbNE6u6C2zL.jpg">https://image.tmdb.org/t/p/original/5e5X80Y0hRV29FoCUbNE6u6C2zL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9rHFrdKt6xViPUQXOWNe28kafzz.jpg">https://image.tmdb.org/t/p/original/9rHFrdKt6xViPUQXOWNe28kafzz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/knHdh0qhhRHy1RlBi1qPpTE96P3.jpg">https://image.tmdb.org/t/p/original/knHdh0qhhRHy1RlBi1qPpTE96P3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cGbQZyTvivmC6UhmoSB1OBoLY3B.jpg">https://image.tmdb.org/t/p/original/cGbQZyTvivmC6UhmoSB1OBoLY3B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bbcXeiNQGUqiFx7cF9JjDE1uIxW.jpg">https://image.tmdb.org/t/p/original/bbcXeiNQGUqiFx7cF9JjDE1uIxW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kdwdbVt9hCmXoPaEyXeZ90hrTPg.jpg">https://image.tmdb.org/t/p/original/kdwdbVt9hCmXoPaEyXeZ90hrTPg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iXjdIoLN8CARSpIh4Dq7GVMholA.jpg">https://image.tmdb.org/t/p/original/iXjdIoLN8CARSpIh4Dq7GVMholA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a6tqVRtb6V4PsJQRKhSZAViqqEa.jpg">https://image.tmdb.org/t/p/original/a6tqVRtb6V4PsJQRKhSZAViqqEa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5iUvpyhgYbhhV6cg6PqyhC082cS.jpg">https://image.tmdb.org/t/p/original/5iUvpyhgYbhhV6cg6PqyhC082cS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vMFM3xCYyYpLagPZktG1exuxhWY.jpg">https://image.tmdb.org/t/p/original/vMFM3xCYyYpLagPZktG1exuxhWY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kgZ8vOUU2xTXT7Pp7GpX590Ai4P.jpg">https://image.tmdb.org/t/p/original/kgZ8vOUU2xTXT7Pp7GpX590Ai4P.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ne1ivJv3lGGUvZ9F72P0r2xpksB.jpg">https://image.tmdb.org/t/p/original/ne1ivJv3lGGUvZ9F72P0r2xpksB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eNLbiq9uLLh6wUIDKDO0DIV6veC.jpg">https://image.tmdb.org/t/p/original/eNLbiq9uLLh6wUIDKDO0DIV6veC.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0100507</id>
+    <uniqueid type="imdb" default="true">tt0100507</uniqueid>
+    <uniqueid type="tmdb">1375</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Rocky - Colección</name>
+        <overview>Rocky es una popular saga de películas de boxeo, escritas y estelarizadas por Sylvester Stallone, en el papel de Rocky Balboa. Las películas por orden de estreno son: Rocky (1976), Rocky II (1979), Rocky III (1982), Rocky IV (1985), Rocky V (1990), Rocky Balboa (2006). La serie de películas recaudó más de 1,000 000,000 dólares en todo el mundo.</overview>
+    </set>
+    <credits>Sylvester Stallone</credits>
+    <director>John G. Avildsen</director>
+    <premiered>1990-11-16</premiered>
+    <year>1990</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>United Artists</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mJ8RSU4n5lo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6249</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language></language>
+            </subtitle>
+            <subtitle>
+                <language></language>
+            </subtitle>
+            <subtitle>
+                <language></language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sylvester Stallone</name>
+        <role>Robert &quot;Rocky&quot; Balboa</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Talia Shire</name>
+        <role>Adrianna &quot;Adrian&quot; Balboa</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/RkFJejmEKM80ly6fPSN7octO5c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Burt Young</name>
+        <role>Paulie Pennino</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sHe7o1ZkJV5r0WDzkm28xnsNtAu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sage Stallone</name>
+        <role>Rocky Balboa Jr.</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kaW0QhisrrL1IKSlwMszIZbe5se.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Morrison</name>
+        <role>Tommy &apos;Machine&apos; Gunn</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Burgess Meredith</name>
+        <role>Mickey Goldmill</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/pTMJmozZqCY0VY7UiMDlM3upuZu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Gant</name>
+        <role>George Washington Duke</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/25vUWxrUY7hjLdAeNaJYkvaMKcW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Burton</name>
+        <role>Tony &quot;Duke&quot; Evers</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/hUGbsvlAfnmWD0EbrJEEPMhkulg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Gambina</name>
+        <role>Jimmy</role>
+        <order>8</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BYTQyNTQzYTEtMmM0Zi00MGQyLWE2OTYtMzljMjlhNDMwM2ViXkEyXkFqcGdeQXVyMjUyNDk2ODc@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Delia Sheppard</name>
+        <role>Karen</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/dckAPVdj0wheGY74rFcuFmSoaAE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Girard Sheehan</name>
+        <role>Merlin Sheets</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Anthony Williams</name>
+        <role>Union Cane</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Connolly</name>
+        <role>Chickie</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisebeth Peters</name>
+        <role>Jewel</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hayes Swope</name>
+        <role>Chickie&apos;s Pal</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicky Blair</name>
+        <role>Fight Promoter</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xf8D631WuHCcB1MDvt47AAkWgcj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jodi Letizia</name>
+        <role>Marie</role>
+        <order>16</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMTQ3NTI3NjkzNF5BMl5BanBnXkFtZTcwMTE0MDIzMQ@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Avildsen</name>
+        <role>Druggy</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Avildsen</name>
+        <role>Druggy</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/tdANBHx86AZ6csMOq31LnQzelav.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Sherman</name>
+        <role>Andy</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stu Nahan</name>
+        <role>Fight Commentator</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/zqk4y3uuI27WYstzXPgxEeGliAG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Al Bernstein</name>
+        <role>Fight Commentator</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Binns</name>
+        <role>James Binns (Rocky&apos;s Lawyer)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Meade Martin</name>
+        <role>Las Vegas Announcer</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Buffer</name>
+        <role>Fight Announcer (3rd Fight)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/433i2ensZyexe2tD0jlPEvCQakn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Albert J. Myles</name>
+        <role>Benson</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jane Marla Robbins</name>
+        <role>Gloria</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Geraci</name>
+        <role>Cab Driver</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clifford C. Coleman</name>
+        <role>Motorcycle Mechanic</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lou Fillipo</name>
+        <role>Referee</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Cappuccino</name>
+        <role>Referee</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren K. Woods</name>
+        <role>Conference Reporter</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Seltzer</name>
+        <role>Conference Reporter</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Albert S. Meltzer</name>
+        <role>Conference Reporter</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>J.J. Clark</name>
+        <role>Conference Reporter</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Q5D4ttlAjNVhC9HrMDicUyi13w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stanley R. Hochman</name>
+        <role>Conference Reporter</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elmer Smith</name>
+        <role>Conference Reporter</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Henry D. Tillman</name>
+        <role>Contender #1</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stan Ward</name>
+        <role>Contender #2</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Phelps</name>
+        <role>Reporter</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Thompson</name>
+        <role>Reporter</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/uQLEE9AzJsZcZcdzgTbNiTUWFWw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Cain</name>
+        <role>Reporter</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kent H. Johnson</name>
+        <role>Reporter</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/eliCh5DPk63RVj4dKg01E23SZ3z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cindy Roberts</name>
+        <role>Reporter</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/4cZn8DbBCA6hKuvSKR6DsWOK8OX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Cronin</name>
+        <role>Dr. Rimlan</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/hASFaY6C0lF27bIWxcl9QVoIXIz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helena Carroll</name>
+        <role>Woman Drinker</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/jtK3Vs07KuCSl4lnKTqyJVF5C1M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Munafo</name>
+        <role>Drinker</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/cm7lSAaKETnnA4ZqPSIJ5yytI2B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Vasquez</name>
+        <role>Drinker</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard &apos;Dub&apos; Wright</name>
+        <role>Drinker</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susan Persily</name>
+        <role>Drinker</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Compton</name>
+        <role>Drinker</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Cahill</name>
+        <role>Drinker</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>LeRoy Neiman</name>
+        <role>Fight Announcer</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/dnXqTmP5rWCqauc7YcpCWgdTnHy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Pataki</name>
+        <role>Nicoli Koloff</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/sBhGgVS3o8oWiD85lmh4W3n15OK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Flavin</name>
+        <role>Delivery Girl</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/heICcvO0pQjJUMlwCYIPp0l6s0K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tricia Flavin</name>
+        <role>Delivery Girl</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julie Flavin</name>
+        <role>Delivery Girl</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Giovane</name>
+        <role>Timmy</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carol A. Ready</name>
+        <role>Russian Woman</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katharine Margiotta</name>
+        <role>Woman in Dressing Room</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Langton</name>
+        <role>Boxer</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Sabatino</name>
+        <role>Boxer</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/xwK2ciEgtElXW3L7XT6kOFdqth5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Epper</name>
+        <role>Boxer</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Del Weston</name>
+        <role>Boxer</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/r0u5EneMnkeI2RI1SgV7gMaZ2wm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mel Scott-Thomas</name>
+        <role>Boxer</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Billy D. Lucas</name>
+        <role>Boxer</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/bY6NsFAA1UG7kAIDhZZSjGMMTR7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Curtis Jackson</name>
+        <role>Boxer</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dale Jacoby</name>
+        <role>Boxer</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clay Hodges</name>
+        <role>Boxer</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard C. Oprison</name>
+        <role>Boxer</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Bucceroni</name>
+        <role>Boxer</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John D&apos;Martin</name>
+        <role>Boxer</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rodney Frazier</name>
+        <role>Boxer</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/cSqJcVQPzhYgowLvSB6KcdlLTxO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Hedgeman</name>
+        <role>Boxer</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Hines</name>
+        <role>Boxer</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerry Judge</name>
+        <role>Boxer</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Billy D. Saunders</name>
+        <role>Boxer</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-10-02 22:41:02</dateadded>
+</movie>

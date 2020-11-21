@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Spenser: confidencial</title>
+    <originaltitle>Spenser Confidential</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>64054</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>1262</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Spenser, un expatrullero de Boston que acaba de salir de prisión, y Hawk, un aspirante a luchador, se alian para descubrir la verdad detrás de la muerte de dos agentes de policía.</plot>
+    <tagline>La ley tiene límites. Ellos no.</tagline>
+    <runtime>111</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z7lkcv6meB7ueTz3iFFhsmcnEey.jpg">https://image.tmdb.org/t/p/original/z7lkcv6meB7ueTz3iFFhsmcnEey.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v67tcRC4mHrNc9ZT5VnMECCoTNl.jpg">https://image.tmdb.org/t/p/original/v67tcRC4mHrNc9ZT5VnMECCoTNl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8R2S5n58bJ491LPaykiVaaHJhY4.jpg">https://image.tmdb.org/t/p/original/8R2S5n58bJ491LPaykiVaaHJhY4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg">https://image.tmdb.org/t/p/original/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/E0qWrxmk7agKV7yVfwiYzy4Ulj.jpg">https://image.tmdb.org/t/p/original/E0qWrxmk7agKV7yVfwiYzy4Ulj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uWHQRfso4sJp5aSLHabpWtJbbFb.jpg">https://image.tmdb.org/t/p/original/uWHQRfso4sJp5aSLHabpWtJbbFb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9YgsWl50sbesLc9z7ncV2sal12J.jpg">https://image.tmdb.org/t/p/original/9YgsWl50sbesLc9z7ncV2sal12J.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ftODZXaXpWtV5XFD8gS9n9KwLDr.jpg">https://image.tmdb.org/t/p/original/ftODZXaXpWtV5XFD8gS9n9KwLDr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/13zzIZQY733LZVYBC7jhutX7NnA.jpg">https://image.tmdb.org/t/p/original/13zzIZQY733LZVYBC7jhutX7NnA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m3bgsUs5lfLpZyAw9Mdu5xY9NdO.jpg">https://image.tmdb.org/t/p/original/m3bgsUs5lfLpZyAw9Mdu5xY9NdO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/etj5aSSsgXsHYRrYyfd08AYujVB.jpg">https://image.tmdb.org/t/p/original/etj5aSSsgXsHYRrYyfd08AYujVB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ptcb84LPcBAD9p7AJBiJmZi45pU.jpg">https://image.tmdb.org/t/p/original/ptcb84LPcBAD9p7AJBiJmZi45pU.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 16</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8629748</id>
+    <uniqueid type="imdb" default="true">tt8629748</uniqueid>
+    <uniqueid type="tmdb">581600</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Acción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Brian Helgeland</credits>
+    <credits>Sean O&apos;Keefe</credits>
+    <director>Peter Berg</director>
+    <premiered>2020-03-06</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Film 44</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=maxDtckxpNQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>hevc</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6670</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>eac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>atmos</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Mark Wahlberg</name>
+        <role>Spenser</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Winston Duke</name>
+        <role>Hawk</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Arkin</name>
+        <role>Henry</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mhACkTNrnwR4E115h8EfCZ263zH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iliza Shlesinger</name>
+        <role>Cissy Davis</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cLbuKIJOmojOL0z9nLcJhWzq8Ge.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Gaston</name>
+        <role>Captain Boylan</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ohdf9vJz8IuEY6o53IsRiVOstK0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bokeem Woodbine</name>
+        <role>Driscoll</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc Maron</name>
+        <role>Wayne Cosgrove</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/zgUiWlWf2JvVYRO7aX9WUAuwYQR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James DuMont</name>
+        <role>Bentwood</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/8DLNFj3a4SJWdtw5daPBQm0qrOO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Post Malone</name>
+        <role>&apos;Squeeb&apos;</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iEiu7QhZsqXyBctfr2SlpEuqCZi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colleen Camp</name>
+        <role>Betty</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/itP8Fae0cvSknpIeX3X3koEn4jp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hope Olaide Wilson</name>
+        <role>Letitia</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/2ozRgPZPvJy5G9NXnKJ8vXLDTxs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kip Weeks</name>
+        <role>Macklin</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/4FPKaIYbnFYUwOB6F81gKdEgcLS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Scales</name>
+        <role>Terrence Graham</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/y954SAZj3Zov7PrinOcanx8y2q9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ayana Brown</name>
+        <role>Federal Agent Burton</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/cAmmH9ek1UM0Sdo6w2crtTkoMlI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dustin Tucker</name>
+        <role>Federal Agent Fingle</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9wVwGqOPOCkO6I1zFwiPi0caaEf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Cronin</name>
+        <role>Minimart Clerk</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/iBKg7FYR2hlL3jkMc36xR99nN9E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfred Briere</name>
+        <role>Scott Traylor</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/v4ivthGHETkShtvbQnnP98G36Zg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Gibel</name>
+        <role>Laurie Boylan</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/bfRKCKebQWp9eSpQv7k3UPgCGzy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Vino</name>
+        <role>Gloria Weisnewski</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/syLrDdr9AXHIxrvEnq7AyMRPLcG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patty Ross</name>
+        <role>Mrs. Weisnewski</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/qXY7bippfggRoHJMfuPepaP964V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chad Nehemiah Reed-Lopes</name>
+        <role>Terrence and Letitia&apos;s Son</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chaz Jeremiah Reed-Lopes</name>
+        <role>Terrence and Letitia&apos;s Son</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anthony &apos;Ace&apos; Thomas</name>
+        <role>Lego&apos;s Owner</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/dZxlbeSACcPdNfyX4spPXMCktVg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Alves</name>
+        <role>Boxing Trainer</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/fpSzBe918GyFj4QatyJWM7ZRLsn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rich Skinner</name>
+        <role>Billy</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/A4YCTFzLLbAQCyoup9u4dnLh5gj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Trevor Robertson</name>
+        <role>&apos;Skinny&apos;</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donald Cerrone</name>
+        <role>&apos;Big Boy&apos;</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/lRIa01PrI9M6ARwg70xSLvQYoLR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Weigel</name>
+        <role>Hipster</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/yEsLXLW0WKl9wztAm0qXlQpN9tx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arthur Wahlberg</name>
+        <role>Archie</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/dFIvtGxR76I16nCFBtrTybSqk7O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Rosales Jr.</name>
+        <role>Marcelo</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/ffDrcpKGvjPgpcjd0t9T6EtQ2hz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Rodgers</name>
+        <role>Boylan&apos;s Daughter</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miles Walters</name>
+        <role>Driscoll&apos;s Son</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paris Nixon</name>
+        <role>Harbor Health Club Receptionist</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marilyn Leung</name>
+        <role>Mimi</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ricardo Pitts-Wiley</name>
+        <role>Baptist Minister</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/s8uVYMl3H8Tm9JYDOuGxqtmpI1w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bo Cleary</name>
+        <role>Cissy&apos;s Date</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Boyd</name>
+        <role>News Anchor #1</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bianca de la Garza</name>
+        <role>News Anchor #2</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/mOW2jLGNeAESx1p2hUwphNPjFMF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenny Johnson</name>
+        <role>Reporter at Letitia&apos;s</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alberto Vasallo III</name>
+        <role>Crime Scene Reporter</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Va Lynda K. Robinson</name>
+        <role>Field Reporter</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Carresi</name>
+        <role>Vegan Chef</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Schechter</name>
+        <role>Vegan Waitress</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marina Varano</name>
+        <role>Vegan Diner #1</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/YFqVhLA72XXdG8hwf9gbrCwP92.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kallie Tabor</name>
+        <role>Vegan Diner #2</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dennis Montgomery III</name>
+        <role>Piano Player</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mikelyn Roderick</name>
+        <role>Choir Singer</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andresito Germosen De La Cruz</name>
+        <role>Van Driver</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/9u2V57E2Oj74Po4htwE45sAqL4A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Weinstein</name>
+        <role>Truck School Student</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/yPYIjSrc1SLiVHAsBaB5RAOhINh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Vincent Thompson</name>
+        <role>Batallion Chief Foley</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Josh Brogadir</name>
+        <role>Newscaster</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin McCormick</name>
+        <role>Detective Mulligan</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leah Procito</name>
+        <role>Salon Girl</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/qfweXm8hw3MqGPoIo778DoTTx12.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Cyr</name>
+        <role>Driscoll&apos;s Buddy</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Regis Prograis</name>
+        <role>Trinitario #1</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason A. Martinez</name>
+        <role>Trinitario #2</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon M. Shaw</name>
+        <role>Trinitario #3</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Molina</name>
+        <role>Trinitario #4</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Escarfullery</name>
+        <role>Trinitario #5</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carrick O&apos;Quinn</name>
+        <role>Police Officer #1</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/y6P1IRcdqc3eBQWqPaja26qxgu2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wayne Dalglish</name>
+        <role>Police Officer #2</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adrian M. Mompoint</name>
+        <role>Police Officer #3</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sal Mirabella Jr.</name>
+        <role>Police Officer #4</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Bouffard</name>
+        <role>Police Officer #5</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dennis Pietrantonio</name>
+        <role>Police Officer #6</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Billy Concha</name>
+        <role>Officer Billy</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cary &apos;Big Shug&apos; Guy</name>
+        <role>Prison Guard #1</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Molis</name>
+        <role>Prison Guard #2</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pat O&apos;Shea</name>
+        <role>Prison Guard #3</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lawrence Duran</name>
+        <role>Construction Worker #1</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark &apos;Cowboy&apos; Schotz</name>
+        <role>Construction Worker #2</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thanhminh Tan Thai</name>
+        <role>Construction Worker #3</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 11:53:45</dateadded>
+</movie>

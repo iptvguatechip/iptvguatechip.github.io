@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La vida de Peel</title>
+    <originaltitle>Peel</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.100000</value>
+            <votes>848</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>25</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Tras ser abandonado por su padre cuando aún era un niño y tras ser criado por su madre, una persona emocionalmente inestable, la única vida que conoce Peel Munter (Emile Hirsch) se encuentra entre las cuatro paredes de su casa de toda la vida. La muerte de su madre cambia radicalmente sus circunstancias, viéndose forzado a alquilar varias habitaciones de su hogar a personas desconocidas a las que pronto comienza a considerar su nueva familia. Sin embargo, sus nuevos amigos no tardan en traicionarle, algo que lleva a Peel Munter a buscar desesperadamente a sus hermanos, con los que perdió el contacto hace algunas décadas.</plot>
+    <tagline>There&apos;s no roadmap to finding your true family</tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/of68Pm2SfWcKikHUKAsuKnBT4KH.jpg">https://image.tmdb.org/t/p/original/of68Pm2SfWcKikHUKAsuKnBT4KH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dCuBhVpJ1zbqK134X4EzYqYAOnq.jpg">https://image.tmdb.org/t/p/original/dCuBhVpJ1zbqK134X4EzYqYAOnq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1Uuy5laJ5KjZ4ZkrKHg8ATU08eb.jpg">https://image.tmdb.org/t/p/original/1Uuy5laJ5KjZ4ZkrKHg8ATU08eb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9l3PmfGEGDj4HIIOChxK036nwNQ.jpg">https://image.tmdb.org/t/p/original/9l3PmfGEGDj4HIIOChxK036nwNQ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ybk7A2DOT8WrFQ7LVZqNGbl4pQI.jpg">https://image.tmdb.org/t/p/original/ybk7A2DOT8WrFQ7LVZqNGbl4pQI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/awdxcXWGtMZ97yiNAa6GF1YrgCM.jpg">https://image.tmdb.org/t/p/original/awdxcXWGtMZ97yiNAa6GF1YrgCM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yYKJWHeVzRQLixuHSa7mReoSWR.jpg">https://image.tmdb.org/t/p/original/yYKJWHeVzRQLixuHSa7mReoSWR.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8226892</id>
+    <uniqueid type="imdb" default="true">tt8226892</uniqueid>
+    <uniqueid type="tmdb">574188</uniqueid>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>United Kingdom</country>
+    <credits>Lee Karaim</credits>
+    <director>Rafael Monserrate</director>
+    <premiered>2019-02-07</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Head Gear Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZBsy5cASXxk</trailer>
+    <actor>
+        <name>Emile Hirsch</name>
+        <role>Peel</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ah8BYOB7P8tX9jnQVrnAbL2kxYJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Kesy</name>
+        <role>Roy</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ilvKAf8mCvz48EcchLYuQiafsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garrett Clayton</name>
+        <role>Chad</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/n5m1u9r1zmS8m6fRYPU8izRZ5a7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Troy Hall</name>
+        <role>Will</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shiloh Fernandez</name>
+        <role>Sam</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/rAT01EFhhiyQiqBa1Cq8YvUp6Pf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Vargas</name>
+        <role>Chuck</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jYGD9OcN0Qgn9DLv7WgaDuZuZx2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angelina Joo</name>
+        <role>Chun Ja</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hana Hwang</name>
+        <role>Jooeun</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amy Brenneman</name>
+        <role>Lucille</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/kbLoCpvnQWn5oHlAr70pZ6QXoa3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yaya DaCosta</name>
+        <role>Sarah</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/9diTHV1EIUNbXIYsTeDM5M3oQU9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lew Temple</name>
+        <role>Floyd</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1Q6rCVGaqEoCqsF8iPsVX5TZ3KN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victor Verhaeghe</name>
+        <role>Howard</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/dWQM3gr2ri92NZUI8zHttxQ5P3m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brayden Frasure</name>
+        <role>Little Peel</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kale Culley</name>
+        <role>Little Will</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/xc8HyurxUgqeMT0CALpUyXl5KWM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Gregory</name>
+        <role>Little Sam</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rplZmvH3OafmzG7InyPbuk6JMcU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vana Kim</name>
+        <role>Grandma Ja</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ray Bouderau</name>
+        <role>Lawyer</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/l3XJElzo5WqVzeNnL2CdAeVPjmp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mikaela Kimani Armstrong</name>
+        <role>Ashley</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Xavier DuPriest</name>
+        <role>Seth</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chloe Romanski</name>
+        <role>Molly</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Polk</name>
+        <role>Delivery Boy</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlie Shively</name>
+        <role>Blonde</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-07-31 14:15:23</dateadded>
+</movie>

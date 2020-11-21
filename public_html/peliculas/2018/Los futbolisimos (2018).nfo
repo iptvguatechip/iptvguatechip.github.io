@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Los futbolísimos</title>
+    <originaltitle>Los futbolísimos</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>269</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>25</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Francisco and his closest friends play on a soccer team that has reached its lowest point. They’ve got to win one of the next three games to keep the school from cutting their team altogether. A series of strange events take place in the first two games. Coincidence? Conspiracy? Francisco and his friends decide to create The Footballest, an investigative team that will get them into all kinds of adventures, where their ingenuity and their friendships will be put to the test.</plot>
+    <tagline></tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ddIpRudVq0kzq5LAiML8i5wB8x3.jpg">https://image.tmdb.org/t/p/original/ddIpRudVq0kzq5LAiML8i5wB8x3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yrc7aCdL3N73gBAfonpMQo6NFHi.jpg">https://image.tmdb.org/t/p/original/yrc7aCdL3N73gBAfonpMQo6NFHi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7e9b3H8BeAz8pzSwfBafRtAb6Tc.jpg">https://image.tmdb.org/t/p/original/7e9b3H8BeAz8pzSwfBafRtAb6Tc.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1M4OtaIQSRKkF5NQtNzegClwzlY.jpg">https://image.tmdb.org/t/p/original/1M4OtaIQSRKkF5NQtNzegClwzlY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dqsycZuwekcRwkZdekzbcF39UxT.jpg">https://image.tmdb.org/t/p/original/dqsycZuwekcRwkZdekzbcF39UxT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5BDjrsN7aMmhzJ9zGcEmSbAStLz.jpg">https://image.tmdb.org/t/p/original/5BDjrsN7aMmhzJ9zGcEmSbAStLz.jpg</thumb>
+    </fanart>
+    <mpaa>Rated APTA</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7132578</id>
+    <uniqueid type="imdb" default="true">tt7132578</uniqueid>
+    <uniqueid type="tmdb">517317</uniqueid>
+    <genre>Comedia</genre>
+    <country>Spain</country>
+    <credits>Miguel Ángel Lamata</credits>
+    <credits>Roberto Santiago</credits>
+    <credits>Pablo Fernández Vázquez</credits>
+    <director>Miguel Ángel Lamata</director>
+    <premiered>2018-08-24</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Chester Producciones</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E8hVRi3pUyw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6106</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Julio Bohigas</name>
+        <role>Pakete</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/f03QCJA1Cp12my7umZnDZMM1icI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Milene Mayer</name>
+        <role>Helena</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carmen Ruiz</name>
+        <role>Juana</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/htEzZBGjknkv9sK4SQBpLF9lYhr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge Usón</name>
+        <role>Chacón</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Toni Acosta</name>
+        <role>Laura</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/bEZcHLjWD8aA8UTq1YIcubNtSoJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Reyes</name>
+        <role>Emilio</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nmYj32Pgnt60N99nI503K63QMK5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordi Aguilar</name>
+        <role>Doctor Luesma</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bbBqYCcqDd4j9dboM65qRL7GTEp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norma Ruíz</name>
+        <role>Alicia</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6bbWr4lV8xYNSA5odCK8kPlNdhC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Pagudo</name>
+        <role>Felipe</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/1O8W1c4GVPXPOnl3GcoHlPDlRBJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerald B. Fillmore</name>
+        <role>Gordillo</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maria José  Moreno</name>
+        <role>Doña Remedios</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marcos Milara</name>
+        <role>Toni</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Iker Castiñeira</name>
+        <role>Camuñas</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alejandro Arestegui</name>
+        <role>Entrenador Santo Ángel</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/iWUXuufQQzZfZ5XOoUAbLGsKuJO.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:24:12</dateadded>
+</movie>

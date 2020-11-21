@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Vamos a la luna</title>
+    <originaltitle>Fly Me to the Moon</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.500000</value>
+            <votes>4215</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.300000</value>
+            <votes>107</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Tres moscas jóvenes viajan como polizones en el Apolo 11 y ayudan a defender la nave espacial de los insectos rusos que quieren sabotear la misión.</plot>
+    <tagline>First ever animated movie created for 3D</tagline>
+    <runtime>80</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lEqzr1JKMQXpHZBWQaVCPC8FQDl.jpg">https://image.tmdb.org/t/p/original/lEqzr1JKMQXpHZBWQaVCPC8FQDl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p42h1Z488l6PBCKyQ12cZRhPLm.jpg">https://image.tmdb.org/t/p/original/p42h1Z488l6PBCKyQ12cZRhPLm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1VzeitHcrg3dBzYgfYDtWlQUDWG.jpg">https://image.tmdb.org/t/p/original/1VzeitHcrg3dBzYgfYDtWlQUDWG.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0486321</id>
+    <uniqueid type="imdb" default="true">tt0486321</uniqueid>
+    <uniqueid type="tmdb">13956</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>Belgium</country>
+    <credits>Domonic Paris</credits>
+    <director>Ben Stassen</director>
+    <premiered>2008-08-15</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>uFilm</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3TCI9Ptkyeg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4853</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tim Curry</name>
+        <role>Yegor (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Patrick</name>
+        <role>Louie (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qRv2Es9rZoloullTbzss3I5j1Mp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Ripa</name>
+        <role>Nat&apos;s Mom (voice)</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Trevor Gagnon</name>
+        <role>Nat (voice)</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philip Bolden</name>
+        <role>I.Q. (voice)</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicollette Sheridan</name>
+        <role>Nadia (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5jClu0aOq5hLzXa0ic3NoZBuZG4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ed Begley Jr.</name>
+        <role>Poopchev (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/mmGS9QQLlTfe3aT8WERMLsIBnZU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Gore</name>
+        <role>Scooter (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/gSIMC4UykXqtuEd2fykSinqusXo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Lloyd</name>
+        <role>Amos (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrienne Barbeau</name>
+        <role>Scooters Mom (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/pXzL9YhpavVCXf4z0huyZLvP2Ob.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Buzz Aldrin</name>
+        <role>Himself</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4nIxSaaZDTR1m9kgzWj2eCsf4wM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eddie Frierson</name>
+        <role>Commander Aldrin</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Cowgill</name>
+        <role>Commander Collins</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/A3OFXT1LRCzIjvV7VXe4SDTg5U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Kramer</name>
+        <role>Leonide</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophie Simpson</name>
+        <role>Katie (voice)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sandy Simpson</name>
+        <role>Commander Armstrong (voice)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil Proctor</name>
+        <role>Senior Official (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/wAfx3qAEvcsLpEEIP0zwdhuDIcW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lloyd Sherr</name>
+        <role>Mission Control 1969 (voice)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Guest</name>
+        <role>Fly Buddy #1 (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/dSA11Xw5JX7uJ3SSFWc1eimtoY4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Archie Hahn</name>
+        <role>Fly Buddy #2</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/tz7GYtvLFVekyL1rt5uG0jCrART.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynnanne Zager</name>
+        <role>Fly at Launch (voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/bLnda9dG3y7j0hr6W1F8h3Pr0qM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Menville</name>
+        <role>Butch (voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/siBtL81DEUWujwhvvnA4r3NJpcJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael McConnohie</name>
+        <role>American Newscaster (voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/9iom0gczD2zgh7d6Wih7a7TyN0G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doug Stone</name>
+        <role>Russian Newscaster (voice)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Gee-George</name>
+        <role>Maggot #1 (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/1qQ6m28PasNeNQLy5nlXWYp8ZVu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mona Marshall</name>
+        <role>Maggot #2 (voice)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barbara Goodson</name>
+        <role>Maggot #3 (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/tiLlOlaP5boOpL9RKKzQGb1RQAN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gregg Berger</name>
+        <role>Pale Russian Fly (voice)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/bMlJUmhblX50gQrnA8XWG7UuaLk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant George</name>
+        <role>Pale Russian Fly (voice)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/julROMpew9wvfV1z6Lzik1qngsn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Wein</name>
+        <role>Additional Voices (voice)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melora Harte</name>
+        <role>Additional Voices (voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/zp00HY4uZEypDGuN1naHSqFt9FS.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:18:48</dateadded>
+</movie>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Isla Larva: La película</title>
+    <originaltitle>The Larva Island Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.000000</value>
+            <votes>379</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>101</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Chuck le cuenta las alocadas anécdotas de sus amigos isleños a una periodista escéptica. Esta película animada sigue la historia de la exitosa serie de dibujos animados.</plot>
+    <tagline>Isla Larva: La película</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg">https://image.tmdb.org/t/p/original/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/53aUwtolUZxgzMr2KbDpOnD8jo3.jpg">https://image.tmdb.org/t/p/original/53aUwtolUZxgzMr2KbDpOnD8jo3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hR2Hes7Y75iFpUxIFfloDf21Kyr.jpg">https://image.tmdb.org/t/p/original/hR2Hes7Y75iFpUxIFfloDf21Kyr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aHzlAcqdmkHhMBtP7pU5vt9clXu.jpg">https://image.tmdb.org/t/p/original/aHzlAcqdmkHhMBtP7pU5vt9clXu.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt12588448</id>
+    <uniqueid type="imdb" default="true">tt12588448</uniqueid>
+    <uniqueid type="tmdb">718867</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>South Korea</country>
+    <credits>Kang Min-seong</credits>
+    <credits>Kim Jee-hyun</credits>
+    <credits>Ahn Byoung-wook</credits>
+    <credits>Meang Joo-gong</credits>
+    <credits>Koh Tae-wook</credits>
+    <credits>Kim Seung-hun</credits>
+    <credits>Kim Pil-sung</credits>
+    <credits>Jeong Mi-rin</credits>
+    <credits>Nam Sang-won</credits>
+    <credits>Park Keun-hong</credits>
+    <director>Ahn Byoung-wook</director>
+    <premiered>2020-07-23</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TUBAn</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BlNyQk2W83k</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5459</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Hong Beom-gi</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kang Shin-hyung</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eddy Lee</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ahn Hyo-min</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kim Yeon-woo</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Choi Nak-yoon</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Wayland</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erica Schroeder</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-07-31 14:15:06</dateadded>
+</movie>

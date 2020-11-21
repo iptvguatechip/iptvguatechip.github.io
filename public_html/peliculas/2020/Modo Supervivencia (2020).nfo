@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Modo Supervivencia</title>
+    <originaltitle>Jusqu&apos;au déclin</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>6349</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>262</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Tras un accidente en un campo de entrenamiento, un grupo de preparacionistas queda atrapado y dividido en una dura lucha por sus vidas.</plot>
+    <tagline></tagline>
+    <runtime>83</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5UYMBvZzMZOWfwPaTZsqIuMrmTd.jpg">https://image.tmdb.org/t/p/original/5UYMBvZzMZOWfwPaTZsqIuMrmTd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sIPNjDEf1iXOqULOXiRhqprllbz.jpg">https://image.tmdb.org/t/p/original/sIPNjDEf1iXOqULOXiRhqprllbz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o7kjNgbiJABYTbX1OQddxCL96pY.jpg">https://image.tmdb.org/t/p/original/o7kjNgbiJABYTbX1OQddxCL96pY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cmN7iUe4HDlRl4H3wFUjfKUe2Kw.jpg">https://image.tmdb.org/t/p/original/cmN7iUe4HDlRl4H3wFUjfKUe2Kw.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9gXOA57zkxDko4yEE6vjFF538Xn.jpg">https://image.tmdb.org/t/p/original/9gXOA57zkxDko4yEE6vjFF538Xn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3YywlgKez4EQaebxuSeaLExdUzv.jpg">https://image.tmdb.org/t/p/original/3YywlgKez4EQaebxuSeaLExdUzv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m7qQxk2cGdScNmmhow6nI4QDa9G.jpg">https://image.tmdb.org/t/p/original/m7qQxk2cGdScNmmhow6nI4QDa9G.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10307440</id>
+    <uniqueid type="imdb" default="true">tt10307440</uniqueid>
+    <uniqueid type="tmdb">674607</uniqueid>
+    <genre>Suspense</genre>
+    <country>Canada</country>
+    <credits>Patrice Laliberté</credits>
+    <credits>Charles Dionne</credits>
+    <credits>Nicolas Krief</credits>
+    <director>Patrice Laliberté</director>
+    <premiered>2020-02-27</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Couronne Nord</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cc4SrtApxxA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4994</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>eac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>eac3</codec>
+                <language>fra</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Réal Bossé</name>
+        <role>Alain</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6TH7ICiId7renKZbWjMhn0YuXp2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc-André Grondin</name>
+        <role>François</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/zDhXXY7f1nJlejdKcYOhMWmyoVu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guillaume Laurin</name>
+        <role>Antoine</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ernEcWmmO71uaGZB4YrerF5BN1l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marie-Evelyne Lessard</name>
+        <role>Rachel</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xaBqXXLIQr4vMPNGdJseuToRT7W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc Beaupré</name>
+        <role>David</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qGBBmUfj5xlDWK15po0axpTUm3K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marilyn Castonguay</name>
+        <role>Anna</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/k7X3ojSMfmhgwGIpCSthuzNzVbA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guillaume Cyr</name>
+        <role>Sébastien</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bq5tuAm8fX45JQAritH6QiWozFz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isabelle Giroux</name>
+        <role>Hélène</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/jv542UtGDuXAkerCQfXC8Q5xBmM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juliette Maxyme Proulx</name>
+        <role>Daphnée</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 11:52:46</dateadded>
+</movie>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>BLAME!</title>
+    <originaltitle>ブラム</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>6829</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>181</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El solitario y misterioso Killy aparece en una ciudad enorme que se expande y busca eliminar todo rastro de vida. Tiene un destino: salvar lo que queda de la humanidad.</plot>
+    <tagline></tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oSAlpVXRXcj6Fj6c9guA7PzOkTV.jpg">https://image.tmdb.org/t/p/original/oSAlpVXRXcj6Fj6c9guA7PzOkTV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aZpWYM7sF0XQFdvU3Q2nbass7TQ.jpg">https://image.tmdb.org/t/p/original/aZpWYM7sF0XQFdvU3Q2nbass7TQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g0g13zIud92P30vKEIyeSX5b0Mm.jpg">https://image.tmdb.org/t/p/original/g0g13zIud92P30vKEIyeSX5b0Mm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9orgGrjh0Jivz0zZLn1Ufj4NRZP.jpg">https://image.tmdb.org/t/p/original/9orgGrjh0Jivz0zZLn1Ufj4NRZP.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6574146</id>
+    <uniqueid type="imdb" default="true">tt6574146</uniqueid>
+    <uniqueid type="tmdb">409421</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Animación</genre>
+    <country>Japan</country>
+    <credits>Sadayuki Murai</credits>
+    <director>Hiroyuki Seshita</director>
+    <premiered>2017-05-20</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Polygon Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tz5siEX72nY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6361</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>jpn</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Takahiro Sakurai</name>
+        <role>Killy (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cXVu8xUA3CFHB0RJLyTcrUP38j3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kana Hanazawa</name>
+        <role>Cibo (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5bK9ttcRydQBWmyZp7gXDmJYOPF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sora Amamiya</name>
+        <role>Zuru (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qCluSXgVrlKYVziZmBDvYlfUyhk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mamoru Miyano</name>
+        <role>Sutezo (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8n9U3JlujjyPmiZPHGkpwxkh7X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aya Suzaki</name>
+        <role>Tae (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5WseHNh19237dDQqzsoqzTjmdQz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nobunaga Shimazaki</name>
+        <role>Fusata (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/4pxyicwlU8PMTUn6Y40ODu61lS8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nanako Mori</name>
+        <role>Fuku (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/v2gFDclDJdXLSWSL5fQCyRnqHZV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazuhiro Yamaji</name>
+        <role>Pop (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/naEawoNGwRCsJ4zXQojkUdNvDaw.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 13:18:10</dateadded>
+</movie>

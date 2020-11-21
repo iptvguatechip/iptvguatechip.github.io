@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>En busca de un milagro</title>
+    <originaltitle>For the Love of Jessee</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>143</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>30</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Luke Matthews se convierte en padre y pierde a su esposa en la misma noche. Después de la tragedia contrata como niñera a Sage, una joven paciente suya que también sufre por una pérdida reciente. Juntos aprenden que es posible amar de nuevo.</plot>
+    <tagline></tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mJOiiP4mN5aSadoQY31UKDwlQLG.jpg">https://image.tmdb.org/t/p/original/mJOiiP4mN5aSadoQY31UKDwlQLG.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lHJ9DJCeQDQdcKXZmiwPaC6qWzb.jpg">https://image.tmdb.org/t/p/original/lHJ9DJCeQDQdcKXZmiwPaC6qWzb.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7411120</id>
+    <uniqueid type="imdb" default="true">tt7411120</uniqueid>
+    <uniqueid type="tmdb">699060</uniqueid>
+    <genre>Drama</genre>
+    <director>David McAbee</director>
+    <premiered>2020-05-01</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rxql7CyeCaI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.900000</aspect>
+                <width>1912</width>
+                <height>1008</height>
+                <durationinseconds>5661</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Randy Wayne</name>
+        <role>Luke Matthews</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/p0SENcEiSxd3uy31ekcFF4xXvJP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mandahla Rose</name>
+        <role>Sage Smith</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/v6jPmLHp1atIZq71zeV853crq28.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrienne Barbeau</name>
+        <role>Katharyn</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/pXzL9YhpavVCXf4z0huyZLvP2Ob.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Denman</name>
+        <role>Sean Frazier</role>
+        <order>4</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMDY1NDM1ZmUtMTNjZS00ZWVkLWIwNjctYTIxNWYzOWJlY2QzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bre Blair</name>
+        <role>Jessica</role>
+        <order>5</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMWJjY2RmZmYtYzA0ZC00ZGVhLWFjOTgtYTZmYTIzYmQyYjViXkEyXkFqcGdeQXVyMTM5NjE3NQ@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Curta Edwards Schlarbaum</name>
+        <role>Nurse Michelle</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/ljuRGYmClIkFZQsKDUUGSsX34ru.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-07-26 18:26:47</dateadded>
+</movie>

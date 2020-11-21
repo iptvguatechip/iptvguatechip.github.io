@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Novato</title>
+    <originaltitle>Amateur</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>3536</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>189</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un joven jugador de baloncesto se enfrenta a las dificultades de encajar en el nuevo equipo. Adaptación en largo de un corto del propio Ryan Koo.</plot>
+    <tagline>Every dream has a price.</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nWUvlNxKSMdegAoY5eMOqPwMKIb.jpg">https://image.tmdb.org/t/p/original/nWUvlNxKSMdegAoY5eMOqPwMKIb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oVOIiGcvoJqDaIYqqCieXiKiCNI.jpg">https://image.tmdb.org/t/p/original/oVOIiGcvoJqDaIYqqCieXiKiCNI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bKWTj2RSTjktbHPh2GyjWo2iMdP.jpg">https://image.tmdb.org/t/p/original/bKWTj2RSTjktbHPh2GyjWo2iMdP.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xXpATYKBOKacswyO465SNu0bh8R.jpg">https://image.tmdb.org/t/p/original/xXpATYKBOKacswyO465SNu0bh8R.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4yvpCEvPh7F4cyG77DZtpSEWet2.jpg">https://image.tmdb.org/t/p/original/4yvpCEvPh7F4cyG77DZtpSEWet2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nyPhGNNtQEIhmhxPVDGihIl3KvX.jpg">https://image.tmdb.org/t/p/original/nyPhGNNtQEIhmhxPVDGihIl3KvX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5580392</id>
+    <uniqueid type="imdb" default="true">tt5580392</uniqueid>
+    <uniqueid type="tmdb">515333</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Ryan Koo</credits>
+    <director>Ryan Koo</director>
+    <premiered>2018-04-06</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Mandalay Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0cQ3sBXpNtw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5780</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Rainey Jr.</name>
+        <role>Terron Forte</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/hDO7TEKzKPuCFpwLGBfmXy2qvca.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Charles</name>
+        <role>Coach Gaines</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/hedIAse3q3w1Pz7BhrGnzKcmYX8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sharon Leal</name>
+        <role>Nia</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/3dJCnAZDG2ZN7Hxct8UAdPePpuz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian J. White</name>
+        <role>Vince</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/m6JMZU4Qap10PHD4smyOmjIWTBs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corey Parker Robinson</name>
+        <role>Coach Curtis</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8fctwyprz58xol3vDLcGUNOb0gQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashlee Brian</name>
+        <role>Anton</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/rZ8w4inabA1Bn2ewQaPlkPl97Kg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tekola Cornetet</name>
+        <role>Stavian</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Maritz</name>
+        <role>JP</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/dsV2ffiFkPcosZ28F0HIpJqfgRF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Collin Blackford</name>
+        <role>Student</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/uiQVx5UbN3yFALKJepmMPysUjjA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Warner</name>
+        <role>Coach Rob</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/aGvyRkYr1oBMSHx7bvCqafo7h5P.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:22:35</dateadded>
+</movie>

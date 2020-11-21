@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Encuéntrame</title>
+    <originaltitle>Come and Find Me</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>7965</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>169</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando su novia se pierde, David debe rastrear su paradero después de que se da cuenta que no es lo que ella pretendía ser.</plot>
+    <tagline>Todo por encontrar, nada que perder.</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg">https://image.tmdb.org/t/p/original/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2597768</id>
+    <uniqueid type="imdb" default="true">tt2597768</uniqueid>
+    <uniqueid type="tmdb">345918</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Zack Whedon</credits>
+    <director>Zack Whedon</director>
+    <premiered>2016-11-11</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Oddfellows Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YImOJ96IiXE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6731</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Aaron Paul</name>
+        <role>David</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/u8UdsB9yenM4uHEjmce4nkBn48X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Annabelle Wallis</name>
+        <role>Claire</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/a06MeZ81XsMoBBEos1amv9SXar4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garret Dillahunt</name>
+        <role>John Hall</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/w5Ziqypp23AMTOaAolAW7RM5pnH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valerie Tian</name>
+        <role>Student</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/znUa1enmheF0mvHPIw8upy54ay.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zachary Knighton</name>
+        <role>Charlie</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/dtpt1IvPKHaEQmakARofIGhrJOL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terry Chen</name>
+        <role>Det. Chris Sloan</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uOusHiGq3pj3UyFuEj063YZ3Tnf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordana Largy</name>
+        <role>Mrs. Garan&apos;s Assistant</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/a6NAez2SywVsklnNzbkquFEmcST.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Chalk</name>
+        <role>Buck Cameron / Kyle</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3jY94OrGYM2FFEaaCjMdlDeQzp3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Kopsa</name>
+        <role>Rezart</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6J24oJfHH4rb8O0HlKnt6IkrgK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Redman</name>
+        <role>Jackson</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8BpwDpWAQ6TQsX0TAfpqWsi5JPU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Heafey</name>
+        <role>Colleen</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cUCf3JASNQkc1GmwVd3uS1DEwLR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Artine Brown</name>
+        <role>Detective Gill</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/sRpZIys55snLyF6fuP90MECcM7t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Perez</name>
+        <role>Mr. Yorkes</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/8tvhjyGnPJMSgofcQszg0NL5OKp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corey Schmitt</name>
+        <role>Fisnik</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/pbiXwQT51Vad3wu0iGsz30QVWyk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Enver Gjokaj</name>
+        <role>Aleksandr</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/1M3ISdFIaf4p1N3ZZTK7KnZwj9p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Serge Jaswal</name>
+        <role>Young Guard</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/afFtRhcCdGGnD9gQ33tKFtZYyYj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan O&apos;Silva</name>
+        <role>David / Torture Man</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/1IgV2CQipkSzvKNZ5QtZLgHzISU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Silverman</name>
+        <role>Agent</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/cFK8oiq3Q5LAvtHiibhjw8Lmp8M.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:30:27</dateadded>
+</movie>

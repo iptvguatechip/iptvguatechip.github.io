@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La boda de Valentina</title>
+    <originaltitle>La Boda de Valentina</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.700000</value>
+            <votes>582</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>11</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Valentina aparentemente tiene la vida perfecta en Estados Unidos. Su universo tiembla cuando Jason, su novio, le propone matrimonio y debe enfrentar a su familia “los perfectos Tate” con la suya “los Hidalgo”, la dinastía política más caótica y surrealista de la historia de México. Ambos, tendrán que sobrevivir al choque cultural y a su carismático exnovio Ángel (Omar Chaparro) descubriendo en el camino que al final, las cosas que de verdad importan no tienen apellido, ni fronteras.</plot>
+    <tagline>Get ready to fight for your future wife</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sD6o09KA4KyxWvvB8rKn8bQuuD5.jpg">https://image.tmdb.org/t/p/original/sD6o09KA4KyxWvvB8rKn8bQuuD5.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nvSHwiWDU2yX6sNlCiKiGeeiNoW.jpg">https://image.tmdb.org/t/p/original/nvSHwiWDU2yX6sNlCiKiGeeiNoW.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4823538</id>
+    <uniqueid type="imdb" default="true">tt4823538</uniqueid>
+    <uniqueid type="tmdb">498919</uniqueid>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <director>Marco Polo Constandse</director>
+    <premiered>2018-02-09</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Filmadora Nacional</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tK90aK9rtQQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>478.000000</aspect>
+                <width>1912</width>
+                <height>796</height>
+                <durationinseconds>6486</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Omar Chaparro</name>
+        <role>Angel</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jlkwvIMFKUOSfsKelfmghxYmCcV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Vernon</name>
+        <role>Melanie Tate</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sXpp9WE4YiWrvrhEN2G5bzqXr76.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Carnes</name>
+        <role>Jason Tate</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/AoxslpDD77CAoMUl6AH7YBJHqoF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marimar Vega</name>
+        <role>Valentina</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/3639VKHT8xkO7wbWkpzKVcFSc6k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesús Zavala</name>
+        <role>Bernardo</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/afNGp603RWWtFj8sRcxlFbNYOHf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Dalton</name>
+        <role>Adrián Corcuera</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/pCzLBmRVd4ry6jAcOdfSGBpyjfJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Tappán</name>
+        <role>Demetrio</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/nxZfEjscDlc24ETnRmkPnNasSY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ingrid Dion</name>
+        <role>Traveller</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sabine Moussier</name>
+        <role>Oralia</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/A3hsfEIqtAOrv2UGhjoYU9AB5ON.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harding Junior</name>
+        <role>El Haitiano</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Prosha Hussein</name>
+        <role>Cake Girl</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yolanda Abbud L.</name>
+        <role>Rosita</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Álvaro Carcaño</name>
+        <role>Don Fidel</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amparo Barcia</name>
+        <role>Voluntaria</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:24</dateadded>
+</movie>

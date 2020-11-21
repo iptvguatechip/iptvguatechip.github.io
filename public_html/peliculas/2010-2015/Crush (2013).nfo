@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Crush</title>
+    <originaltitle>Crush</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>5568</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>211</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un atleta de secundaria se convierte en el foco de una admiradora secreta y pronto descubre que la inocente obsesión de una fan, puede convertirse en peligrosa y mortal.</plot>
+    <tagline>Cuidado con lo que deseas.</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zhkznv0Xt6g3dXYWMB8VT0GYOSb.jpg">https://image.tmdb.org/t/p/original/zhkznv0Xt6g3dXYWMB8VT0GYOSb.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dPGn9ONgU9vYuViebCoBdHGDbHc.jpg">https://image.tmdb.org/t/p/original/dPGn9ONgU9vYuViebCoBdHGDbHc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/90QzWrjrvWgPzsFzJn9CL91lBJs.jpg">https://image.tmdb.org/t/p/original/90QzWrjrvWgPzsFzJn9CL91lBJs.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2093977</id>
+    <uniqueid type="imdb" default="true">tt2093977</uniqueid>
+    <uniqueid type="tmdb">183662</uniqueid>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Sonny Mallhi</credits>
+    <director>Malik Bader</director>
+    <premiered>2013-03-13</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Intrepid Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gIOPUCCrGXE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5691</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Caitriona Balfe</name>
+        <role>Andie</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/jYL0apdQhz5CH7EU5vSyqt5tA7m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Bolger</name>
+        <role>Jules</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/buw6aDGctZMOTaPFAd9EaBPa76n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Holt McCallany</name>
+        <role>Mike Norris</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NvOcP35qv5UHWEdpqAvQrKnQQz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucas Till</name>
+        <role>Scott</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xCJqL57d7TCZXxfRf9MeBwx9qgc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Crystal Reed</name>
+        <role>Bess</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/884tMEhSdzV7I8BpvIYLvhFnyYP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meredith Salenger</name>
+        <role>Bess&apos; Mother</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/yr1I1ovBucHEx4ifuO8CGg6xZss.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashleigh Craig</name>
+        <role>Young Girl</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cody Hamilton</name>
+        <role>Young Boy</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Isaiah Mustafa</name>
+        <role>Coach Evans</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/cdXLqmG0nZWjfwfduZk22eBDsmP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Metcalfe</name>
+        <role>Referee</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/vz44si8SiD8S4ZRiCLAuSapNq0N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariah Buzolin</name>
+        <role>Karen</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Camille Guaty</name>
+        <role>Mrs. Brown</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/i0pnKX7zLVCOSlrRnFQACnBxfJE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leigh Whannell</name>
+        <role>David</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/aMYJ69b5lU9XaZ7hhDQVPaCWzfl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reid Ewing</name>
+        <role>Jeffrey</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/77OEcXBAEitkY1Bj7CNGHzmtfX5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Preston Davis</name>
+        <role>Corey (Teammate)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>D.J. Kemp</name>
+        <role>Brock</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristin Quick</name>
+        <role>Goth Girl</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/edMwimyxgqZG4XkysqXZCVMlmi1.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-25 13:08:06</dateadded>
+</movie>

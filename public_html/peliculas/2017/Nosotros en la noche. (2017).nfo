@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Nosotros en la noche.</title>
+    <originaltitle>Our Souls at Night</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>10920</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>287</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En Colorado, la viuda Addie Moore (Jane Fonda) le hace una visita sorpresa a su vecino Louis Waters (Robert Redford). Su esposo falleció hace años, al igual que su mujer y, a pesar de vivir en un pequeño pueblo y ser vecinos desde hace décadas, mantenían poco contacto. Sus hijos viven lejos y se ven obligados a vivir solos, pero ella quiere entablar una relación y aprovechar al máximo el tiempo que les queda.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/s6OmZkk23VmjKy5tVsEkt9wOJH1.jpg">https://image.tmdb.org/t/p/original/s6OmZkk23VmjKy5tVsEkt9wOJH1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i1oU2hABDdqUXkSHvSQ42bBX07i.jpg">https://image.tmdb.org/t/p/original/i1oU2hABDdqUXkSHvSQ42bBX07i.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/49136pSuzcNpzOgn4slkU9shHhi.jpg">https://image.tmdb.org/t/p/original/49136pSuzcNpzOgn4slkU9shHhi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aBz0JHvulz9YwiS3ZpdRWI6WH4K.jpg">https://image.tmdb.org/t/p/original/aBz0JHvulz9YwiS3ZpdRWI6WH4K.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/16b6R4Mdb2Zf2tOXe2ntpPlmSQ6.jpg">https://image.tmdb.org/t/p/original/16b6R4Mdb2Zf2tOXe2ntpPlmSQ6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lc0rSeJUsvXu5hfItEdjMjK5dtP.jpg">https://image.tmdb.org/t/p/original/lc0rSeJUsvXu5hfItEdjMjK5dtP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mQdYLyYk9V7Ue74whn1QRnH37K8.jpg">https://image.tmdb.org/t/p/original/mQdYLyYk9V7Ue74whn1QRnH37K8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6v5k7I2kZDu8T3X3sNzgEC8DZI2.jpg">https://image.tmdb.org/t/p/original/6v5k7I2kZDu8T3X3sNzgEC8DZI2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5034266</id>
+    <uniqueid type="imdb" default="true">tt5034266</uniqueid>
+    <uniqueid type="tmdb">433252</uniqueid>
+    <genre>Romance</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Scott Neustadter</credits>
+    <credits>Michael H. Weber</credits>
+    <credits>Kent Haruf</credits>
+    <director>Ritesh Batra</director>
+    <premiered>2017-09-01</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lci71HjGvaM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6196</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Robert Redford</name>
+        <role>Louis Waters</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/fUj0y9f69EYqWcGgjDhEcHlyzTW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jane Fonda</name>
+        <role>Addie Moore</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/uF48Qq1frslzSQuQsV75Uq1v0ou.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthias Schoenaerts</name>
+        <role>Gene</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/56abqjiihp8XS2kiktfRHXNat7w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iain Armitage</name>
+        <role>Jamie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qyTGPSm68j3YEuD8myTWStmTBf2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judy Greer</name>
+        <role>Holly</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/jW4ui3qQj7kH34OsmcNRsJ9fSdQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phyllis Somerville</name>
+        <role>Ruth</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/motrffoZUrUpMbESD9wEvbgzjHU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Dern</name>
+        <role>Dorlan</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/or8f1huzZ6sYQfjUgpWKUjx0Xow.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John C. Ashton</name>
+        <role>Old Rudy</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Randy Moore</name>
+        <role>Charlie</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Audrey Walters</name>
+        <role>Realtor</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chantal Bushell</name>
+        <role>Nurse</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Myra Warren</name>
+        <role>Band Singer</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laurence Anthony Curry</name>
+        <role>Desk Attendant</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jordan Leigh</name>
+        <role>Shelter Volunteer</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Constance Freeman</name>
+        <role>Hostess</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jerry Middleton</name>
+        <role>Barber Old Man Harris</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Maritz</name>
+        <role>Priest</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/dsV2ffiFkPcosZ28F0HIpJqfgRF.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 19:59:44</dateadded>
+</movie>

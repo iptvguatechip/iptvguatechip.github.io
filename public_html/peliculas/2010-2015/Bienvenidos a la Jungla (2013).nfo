@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Bienvenidos a la jungla</title>
+    <originaltitle>Welcome to the Jungle</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.900000</value>
+            <votes>12234</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.200000</value>
+            <votes>283</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un empleado acosado debe dar rienda suelta a su bestia interior después de un retiro de trabajo en equipo en la jungla resulta mal.</plot>
+    <tagline>Unleash your inner beast!</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ugaKE7mNU49Wm51aIRg75LwMqf9.jpg">https://image.tmdb.org/t/p/original/ugaKE7mNU49Wm51aIRg75LwMqf9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aWR0zrlDjrm8qEIkKUb0yZmhOgM.jpg">https://image.tmdb.org/t/p/original/aWR0zrlDjrm8qEIkKUb0yZmhOgM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wRHaPGBBmQhUVgYofPoaqTEdUWq.jpg">https://image.tmdb.org/t/p/original/wRHaPGBBmQhUVgYofPoaqTEdUWq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xWXn2Pfrkbe7Xuwv2BZ2UL53Wdf.jpg">https://image.tmdb.org/t/p/original/xWXn2Pfrkbe7Xuwv2BZ2UL53Wdf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pZL3jziFAEOuvvNx0GTdSpFRDMh.jpg">https://image.tmdb.org/t/p/original/pZL3jziFAEOuvvNx0GTdSpFRDMh.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zbdJczDXVpVLXe5FMLWQlz3P4Bw.jpg">https://image.tmdb.org/t/p/original/zbdJczDXVpVLXe5FMLWQlz3P4Bw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m6y4oV4f84Cjc2GqsvGV50z8zxl.jpg">https://image.tmdb.org/t/p/original/m6y4oV4f84Cjc2GqsvGV50z8zxl.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2193265</id>
+    <uniqueid type="imdb" default="true">tt2193265</uniqueid>
+    <uniqueid type="tmdb">205724</uniqueid>
+    <genre>Comedia</genre>
+    <country>United Kingdom</country>
+    <credits>Jeff Kauffmann</credits>
+    <director>Rob Meltzer</director>
+    <premiered>2013-04-27</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Private Island Trax</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x9C00Xs93wA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5653</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jean-Claude Van Damme</name>
+        <role>Storm</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qAHXPJ4IybMsCbNY3811CytFj3H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Brody</name>
+        <role>Chris</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/2JT47vNEinUv3TZMpDCElzGakcR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Huebel</name>
+        <role>Phil</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/uHz2fiBMRz2E6GmAH5sRJNvKHWI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristen Schaal</name>
+        <role>Brenda</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/7dy6AKXVqYVizR0nXFFaHvnIuJZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megan Boone</name>
+        <role>Lisa</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8SjSPu2IJQVvuM2rP0KPNmze6Dz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bianca Bree</name>
+        <role>Ashley</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/1bwKdE1oYtW4ahUxS80i4leKPWN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Takahashi</name>
+        <role>Troy</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/yzSzRLKozW5g2G1gFXdlM8npqTU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Peters</name>
+        <role>Dale</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ub1u7ydCng5T71w1gtHfH3KC2Hl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Edelstein</name>
+        <role>Jared</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQN5B3T2fepG81NFBD7Y2ODoGKv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dennis Haysbert</name>
+        <role>Mr. Palmer</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Tester</name>
+        <role>Senior Naval Officer</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan C. Defendini</name>
+        <role>Javier</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zev Glassenberg</name>
+        <role>Javier</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tommy Kavelin</name>
+        <role>Bob Krayton</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael J. Morris</name>
+        <role>Michael</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teeadora Paz</name>
+        <role>Stephanie (as Stephanie Lopez)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Sherman</name>
+        <role>Sailor Bob</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kris Van Damme</name>
+        <role>Brett (as Kristopher Van Varenberg)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/4465DC6Fz3RUtOGwD2E4xidFr8z.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-25 13:03:34</dateadded>
+</movie>

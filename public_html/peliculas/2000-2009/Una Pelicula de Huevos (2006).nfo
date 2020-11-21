@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Una Película de Huevos</title>
+    <originaltitle>Una Película de Huevos</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>906</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.700000</value>
+            <votes>176</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un pequeño huevo llamado Toto decide que quiere cumplir su propósito en la vida y convertirse en un pollo en lugar de morir en una sartén; por lo que comienza una búsqueda para regresar a las granjas junto con su nuevo amigo, el ruidoso huevo Willy y una loca raya de tocino. Los tres amigos enfrentarán muchos obstáculos en su búsqueda.</plot>
+    <tagline>Una pelicula de huevos &quot; es la historia de dos huevitos. Toto y Willy, que escapan de una cocina, en compania de un tocino crudo, para no ser convertidos en huevos motulenos. En el camino combatiran a una pandilla de huevos de reptil y mas .</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/gzIxxusMXfPiXLR4179HXEppsYx.jpg">https://image.tmdb.org/t/p/original/gzIxxusMXfPiXLR4179HXEppsYx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nOpKmdBFxUBcB9XS8dEi78UZMWd.jpg">https://image.tmdb.org/t/p/original/nOpKmdBFxUBcB9XS8dEi78UZMWd.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bdo313RjHEymI0W5tKYBKE54Las.jpg">https://image.tmdb.org/t/p/original/bdo313RjHEymI0W5tKYBKE54Las.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0824696</id>
+    <uniqueid type="imdb" default="true">tt0824696</uniqueid>
+    <uniqueid type="tmdb">16761</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <set>
+        <name>Huevos - Collection</name>
+    </set>
+    <credits>Francisco Arriagada</credits>
+    <director>Rodolfo Riva Palacio Alatriste</director>
+    <director>Gabriel Riva Palacio Alatriste</director>
+    <premiered>2006-04-21</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>320.000000</aspect>
+                <width>720</width>
+                <height>366</height>
+                <durationinseconds>5408</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language></language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bruno Bichir</name>
+        <role>Toto (voz)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/af6MbUchuOv9bPh080cF7Awqxi7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Espejel</name>
+        <role>Willy (voz)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/d4MddC8jW6fHIazuA6vX31gOFHx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angélica Vale</name>
+        <role>Bibi (voz)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/1vOPWuoC7vNHv3x0pCpJDbytUho.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodolfo Riva Palacio Alatriste</name>
+        <role>Coco / Cuache / Iguano (voz)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/3l2GOj0Bgh8EyIWqhQ2tJftOoQr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Riva Palacio Alatriste</name>
+        <role>Serp / Confi / Torti / Huevo Poeta (voz)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ZydxnfCecBkjgD5iQh0QEXVHZb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Humberto Vélez</name>
+        <role>Huevo de chocolate (voz)</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blas García</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rubén Moya</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enzo Fortuni</name>
+        <role>Bebe</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mario Filio</name>
+        <role>Bubi</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gaby Torres</name>
+        <role>Clara</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Cobos</name>
+        <role>Huevito Afeminado</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/xq5BC0f1EdnwyeDcZQz1A3pJ6ME.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Irwin Daayan</name>
+        <role></role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fernando Meza</name>
+        <role>Tlacua/Lagartijo</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joana Brito</name>
+        <role>Señora</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Armando Coria</name>
+        <role>Señor</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sandra Coria</name>
+        <role>Claudia</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mitzi Corona</name>
+        <role>Niña</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erick Morales</name>
+        <role>Niño 1</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Claudio Velázquez</name>
+        <role>Niño 2</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Irving Corona</name>
+        <role>Niño 3</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Iván Filio</name>
+        <role>Pepito</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Humberto Espinoza</name>
+        <role>Granjero</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alejandra Estrada</name>
+        <role>Gallina Flaca</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/vK1O4RFqLvxAYlITP6hnpnCCN1N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Santander</name>
+        <role>Gallina Gorda</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francisco Arriagada</name>
+        <role>Durazno</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lulú Morán</name>
+        <role>Gallina</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miguel Guerrero</name>
+        <role>Tocino</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Oppenheim</name>
+        <role>Gusanito Cantor</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rodolfo Riva Palacio Velasco</name>
+        <role>Hue Bond</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Verónica Catán</name>
+        <role></role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Keila Ferrer</name>
+        <role></role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Olga Fernández</name>
+        <role></role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Delgadillo</name>
+        <role></role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Odalís Loeza</name>
+        <role></role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gabriela Cervantez</name>
+        <role></role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gloria Zamora</name>
+        <role></role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Guadalupe Arellano</name>
+        <role></role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Armando Hernández</name>
+        <role></role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nora García</name>
+        <role></role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erick Rafael Luna Aranda</name>
+        <role></role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alberto Madrazo</name>
+        <role></role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Salcido</name>
+        <role></role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Alejandro Bolaños Huerta</name>
+        <role></role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fernanda Huerta Jadra</name>
+        <role></role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Salma Brito Sánchez</name>
+        <role></role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aldo Gerardo Brito Sánchez</name>
+        <role></role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Geovana Brito Sánchez</name>
+        <role></role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emiliano Fonseca Roa</name>
+        <role></role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Hansen Camarena</name>
+        <role></role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tabatha Monserrat Hansen</name>
+        <role></role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:09</dateadded>
+</movie>

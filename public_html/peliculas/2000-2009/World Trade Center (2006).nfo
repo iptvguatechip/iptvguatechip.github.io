@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Las Torres Gemelas</title>
+    <originaltitle>World Trade Center</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>77179</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>1033</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El 11 de septiembre de 2001, dos aviones de pasajeros se estrellan contra las Torres Gemelas del complejo World Trade Center de Nueva York. Dos policías, el sargento John McLoughlin (Nicolas Cage) y Will Jimeno (Michael Peña), intentarán ayudar a las personas afectadas por la tragedia.</plot>
+    <tagline>The world saw evil that day. Two men saw something else.</tagline>
+    <runtime>129</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fHypEYGaes8lGYcK0kBIoVvD7VG.jpg">https://image.tmdb.org/t/p/original/fHypEYGaes8lGYcK0kBIoVvD7VG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2Avnxb8k8LgFR6kqprboh4x2Pmf.jpg">https://image.tmdb.org/t/p/original/2Avnxb8k8LgFR6kqprboh4x2Pmf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6PpcU7vAu2Ob2UXmDRYGBensygC.jpg">https://image.tmdb.org/t/p/original/6PpcU7vAu2Ob2UXmDRYGBensygC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7cM6wGgRRdWsrh7hzLznzPKSx8G.jpg">https://image.tmdb.org/t/p/original/7cM6wGgRRdWsrh7hzLznzPKSx8G.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ydLNZ27IVoYE6lIpCVcEhZT5xCK.jpg">https://image.tmdb.org/t/p/original/ydLNZ27IVoYE6lIpCVcEhZT5xCK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aVla1q6mV3yK6y7Ry0YYhkCViv0.jpg">https://image.tmdb.org/t/p/original/aVla1q6mV3yK6y7Ry0YYhkCViv0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0469641</id>
+    <uniqueid type="imdb" default="true">tt0469641</uniqueid>
+    <uniqueid type="tmdb">1852</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Andrea Berloff</credits>
+    <director>Oliver Stone</director>
+    <premiered>2006-08-09</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paramount</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QH_9vgtVVvk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>7748</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Nicolas Cage</name>
+        <role>John McLoughlin</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Bello</name>
+        <role>Donna McLoughlin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tFkbad0JoWvYc6XYBITv6EfeLwR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maggie Gyllenhaal</name>
+        <role>Allison Jimeno</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qxgM5LzzG4uWTprCL3gBVVJ2Q1K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Nucci</name>
+        <role>Officer Giraldi</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKGDLd1ylioWhpNLkunHQ2sfYSa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Dorff</name>
+        <role>Scott Strauss</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kuFyGa2HZB7hAQTUn3WKlgKAVjm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Peña</name>
+        <role>Will Jimeno</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/tu5CtDtVP4oZBVQgi0s4vgZErIg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Hernandez</name>
+        <role>Dominick Pezzulo</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/86mlhxglLYYCac1CWWj4s9uR9U9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Shannon</name>
+        <role>Dave Karnes</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dorothy Lyman</name>
+        <role>Allison&apos;s Mother</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/fXBwBgxKyOIwha47Csx5AEAVSEe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter McRobbie</name>
+        <role>Allison&apos;s Father</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wass Stevens</name>
+        <role>Pat McLoughlin</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/A6vRAhw3PEfRC93yJSMIsxSsIuA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Whaley</name>
+        <role>Chuck Sereika</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/fYcqfn6nQy8qO40DMBdDzWQuloq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stoney Westmoreland</name>
+        <role>Paddy McGee</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Viola Davis</name>
+        <role>Mother in Hospital with Donna</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/xDssw6vpYNRjsybvMPRE30e0dPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lola Cook</name>
+        <role>Olivia Jimeno</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Connor Paolo</name>
+        <role>Steven McLoughlin</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqu5ZAlXRRbaaCmCxcEUEHuAOFn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Piccininni</name>
+        <role>JJ McLoughlin</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexa Gerasimovich</name>
+        <role>Erin McLoughlin</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Morgan Flynn</name>
+        <role>Caitlin McLoughlin</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Armando Riesco</name>
+        <role>Antonio Rodrigues</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/p6lYNZPYmyW83dgW43bhuvkFIRv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Bernthal</name>
+        <role>Christopher Amoroso</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/ht1aCYH4q6MB6A12Szf7IfP72Fb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jude Ciccolella</name>
+        <role>Inspector Fields</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/mOkVE96JvxszwE3Zzudnxt1GqAx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Adams</name>
+        <role>Allison&apos;s Grandmother</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/uIHWhDTSISwHXziBttr7V34MXTt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Starr</name>
+        <role>Subway Rider</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Jimeno</name>
+        <role>Port Authority Officer</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nick Damici</name>
+        <role>Lieutenant Kassimatis</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/cyuulFTdzMSegCsJqopVDlfgKtv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Pfefferkorn</name>
+        <role>Homeless Addict #1</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/sKIQ68d6pZYqAL6Lpn9ry42yFJu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Razame de la Crackers</name>
+        <role>Homeless Addict #2</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nelson Peña</name>
+        <role>Street Hood #1</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marcos Palma</name>
+        <role>Street Hood #2</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andre Ward</name>
+        <role>Port Authority Hustler</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/plxnPnxaLiWTGmRwVUqdaVfUHkD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Yuen</name>
+        <role>Port Authority Tourist</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cliff Bemis</name>
+        <role>Desk Cop</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/fdyZToQ7xujmAjhqfFccrf5qz7e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harmonica Sunbeam</name>
+        <role>9th Avenue Hooker</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ned Eisenberg</name>
+        <role>Officer Polnicki</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Turturro</name>
+        <role>Officer Colovito</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/cEMidXA2J6ow6yTR5U2to3pHDkj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyree Michael Simpson</name>
+        <role>Officer Washington</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Feely</name>
+        <role>Plain Clothes Officer</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Elliot Wilson</name>
+        <role>Street Businessman</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tawny Cypress</name>
+        <role>Bleeding Woman</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/4cO0s4aZGGHW8R0wNRsdu1lbE8K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Blanche</name>
+        <role>WTC Desk Officer</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Wright</name>
+        <role>Officer Reynolds</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/lJ4L5fdXBeNr528gBB4eMTdvfd4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terry Quinn</name>
+        <role>Fire Fighter in Concourse</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ed Jewett</name>
+        <role>Wisconsin Cop</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maria Helan</name>
+        <role>Allison&apos;s Co-Worker</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brad William Henke</name>
+        <role>Allison&apos;s Brother</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/6VedPxFRbFblXeWMAkIvURmPEZM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patti D&apos;Arbanville</name>
+        <role>Donna&apos;s Neighbor</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/jj2Xk1PjqmiOzGkBa5D8l2UMmfa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donna Murphy</name>
+        <role>Judy Jonas</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/tmre2oZkIHGqnLhWeldpX2Ujgl0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicky Katt</name>
+        <role>Volunteer Fireman</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/hilP3OGSQQjCYw1YSUeiggnSZ9A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucia Brawley</name>
+        <role>Will&apos;s Sister</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/bNQ1h9DRf0ecp9HnB40KNBlFJo7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimberly Scott</name>
+        <role>Sergeant King</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/hCNssyKntFcwHaJOdkMj9alHVlw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dara Coleman</name>
+        <role>Officer Boel</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/7DKoCereCzdXidtmjrzSPM4BkU3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Romano</name>
+        <role>Bianca Jimeno</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregory Jbara</name>
+        <role>Accountant in Karnes Office</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/nYkdyh9E0iNuue8k4437gCWD70G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Lage</name>
+        <role>Karnes&apos; Pastor</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/ogeyO33wOmV7XXBii1U8A0kkBgC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Genaro</name>
+        <role>Will&apos;s Father</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/QfDoKbyezCA8wYM19Du0PLtF4i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aixa Maldonado</name>
+        <role>Will&apos;s Mother</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay Acovone</name>
+        <role>Donna&apos;s Male Neighbor</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/jJR6JKsuwExjUUheA9JlIC7mgY5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Howard Samuelsohn</name>
+        <role>Downtown Resident</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David H. Ahl</name>
+        <role>National Guard Officer at Barricade</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arthur J. Nascarella</name>
+        <role>Fire Chief at Ground Zero</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/76LAigu7y50aPIhkAJbJZIC8p70.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thom Prin Jr.</name>
+        <role>Fireman at Ground Zero</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Chappell</name>
+        <role>Figure of Jesus</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Mapother</name>
+        <role>Marine Sergeant Thomas</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/pjBLAJUQFctPaYjCV7WQAnKKEec.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas F. Duffy</name>
+        <role>NYC Command Centre Operator</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/8hfCbyrE0nqISnwIDhlQbVrH5Vr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Asher</name>
+        <role>Fireman in Hole</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles A. Gargano</name>
+        <role>Port Authority Commander</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/xkpkujZYHAJkMHLCUZlb6NQEI2Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas McHale</name>
+        <role>Port Authority Sergeant</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lalanya Masters</name>
+        <role>Allison&apos;s Nurse</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Collins</name>
+        <role>Will&apos;s Rescue Fireman</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Fox</name>
+        <role>Firefighter #1 John&apos;s Rescue</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louis Raimondi</name>
+        <role>Firefighter #2 John&apos;s Rescue</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victor Spadaro</name>
+        <role>Firefighter #3 John&apos;s Rescue</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Kiernan</name>
+        <role>Firefighter #4 John&apos;s Rescue</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Liz A. Randall</name>
+        <role>Will&apos;s Arrival Nurse</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roger Cross</name>
+        <role>Will&apos;s Doctor</role>
+        <order>75</order>
+        <thumb>https://image.tmdb.org/t/p/original/eqYZgz4FMJSDp79E5QanlK1NHqe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jossara Jinaro</name>
+        <role>Will&apos;s Operation Nurse</role>
+        <order>76</order>
+        <thumb>https://image.tmdb.org/t/p/original/5CmkRjVhGFID9seW5cYNvP5U50.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Esposito</name>
+        <role>Fireman Joe</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Stretch</name>
+        <role>John&apos;s Paramedic</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/4J4nE44FVP6DMOKcDkWid5kWhO8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kurt Caceres</name>
+        <role>John&apos;s Rescue Fireman</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Myers</name>
+        <role>Commuter (uncredited)</role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/eEsh5ySBVDMFMF2smWvXyYRXoqZ.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-01 21:26:41</dateadded>
+</movie>

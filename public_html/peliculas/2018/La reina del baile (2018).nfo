@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La reina del baile</title>
+    <originaltitle>Psycho Prom Queen</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.700000</value>
+            <votes>463</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.600000</value>
+            <votes>27</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de un suicidio, Julie asume el cargo de profesora de Matemática durante las últimas semanas de clase, pero comienza a preocuparse cuando su hija se hace amiga de la chica más mala de la escuela.</plot>
+    <tagline></tagline>
+    <runtime>89</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c6GaNqVH2dqAPlRBP9UrfAGAFdf.jpg">https://image.tmdb.org/t/p/original/c6GaNqVH2dqAPlRBP9UrfAGAFdf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cDlcBsQiAPdGEkZNkrVHqXoni1l.jpg">https://image.tmdb.org/t/p/original/cDlcBsQiAPdGEkZNkrVHqXoni1l.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qIrnmT5kcqeT2MELbouTNpIc4Nb.jpg">https://image.tmdb.org/t/p/original/qIrnmT5kcqeT2MELbouTNpIc4Nb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9CMILS3Iu4rbRkIaPMdJtT4XY5D.jpg">https://image.tmdb.org/t/p/original/9CMILS3Iu4rbRkIaPMdJtT4XY5D.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6K3O4JJ35ALLzB4uwCvwu3xuzYo.jpg">https://image.tmdb.org/t/p/original/6K3O4JJ35ALLzB4uwCvwu3xuzYo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rggMlWg9chPs8wIu71TC9Lyu04z.jpg">https://image.tmdb.org/t/p/original/rggMlWg9chPs8wIu71TC9Lyu04z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bZoERqyQebNIwhW8VYZshRCs1lu.jpg">https://image.tmdb.org/t/p/original/bZoERqyQebNIwhW8VYZshRCs1lu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/48CWKf7vbef8hh5QlksnsCwy3FZ.jpg">https://image.tmdb.org/t/p/original/48CWKf7vbef8hh5QlksnsCwy3FZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8320402</id>
+    <uniqueid type="imdb" default="true">tt8320402</uniqueid>
+    <uniqueid type="tmdb">559302</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Película de TV</genre>
+    <country>Canada</country>
+    <credits>Barbara Kymlicka</credits>
+    <director>Philippe Gagnon</director>
+    <premiered>2018-11-04</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Incendo Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SxVTjxr6xvo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>5378</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Zoe McLellan</name>
+        <role>Julie Taylor</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/huiEUbbsbTF3t2kk8wcLM1HMTNu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allie MacDonald</name>
+        <role>Amy Turner</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pDDzL7HJrV1YX7IojUyNAk7tXLa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nia Roam</name>
+        <role>Miya Fowler</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/gNq4AOSGEILYUdRQiqbueQMEhLm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anana Rydvald</name>
+        <role>Joanne Harvey</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/1xWKz3AuJEUMRcZs4cbGFW6vTGi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judith Baribeau</name>
+        <role>Elaine</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erika Rosenbaum</name>
+        <role>Kate</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/9wDv693GRtAxiThxrfWoBtCHRVE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Trevor Momesso</name>
+        <role>Dylan</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/tvsnfoW5al8vxVlQyex2ZNfZwAG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Holland</name>
+        <role>Mr. Peters</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ic37ED27NTrKm5FnJS2tTts1vVG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susan Glover</name>
+        <role>Ms. Carol Saunders</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Catherine Saindon</name>
+        <role>Brook</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jean Nicolai</name>
+        <role>Principal (Vicky)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/2iuJIkNbPF5dNWqxATObKHPKDhI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Alan Taylor</name>
+        <role>Mark Taylor</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/hOjBHO0si8Z59ce0oppJYmnRdQF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Saskia Rose Gaucher</name>
+        <role>Sophie</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jenna Wheeler-Hughes</name>
+        <role>Sara</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/2z3gPIKVdtXf0u44RRHMz3rEfrE.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 14:21:56</dateadded>
+</movie>

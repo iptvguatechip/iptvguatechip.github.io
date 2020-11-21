@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ahí te encargo</title>
+    <originaltitle>Ahí te encargo</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>691</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.200000</value>
+            <votes>156</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Alex (Mauricio Ochmann), un creativo en una agencia de publicidad, se muere de ganas de ser papá, pero su esposa Ceci (Esmeralda Pimentel) es una exitosa ejecutiva en el momento más alto de su carrera, y ser madre no entra en sus planes. Sin embargo, un invitado inesperado los hará replantearse todo, y pondrá en jaque su futuro como pareja.</plot>
+    <tagline></tagline>
+    <runtime>111</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v230KtHmd261EA4OSMMSC2TCiA8.jpg">https://image.tmdb.org/t/p/original/v230KtHmd261EA4OSMMSC2TCiA8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2bN7DbfJHrgOAnGLRuQUmImDaqY.jpg">https://image.tmdb.org/t/p/original/2bN7DbfJHrgOAnGLRuQUmImDaqY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6SgC3O0JrEXagBxAitxQRj7GBIY.jpg">https://image.tmdb.org/t/p/original/6SgC3O0JrEXagBxAitxQRj7GBIY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3elhhPDPSD3m0T0SQDJN00O6WhQ.jpg">https://image.tmdb.org/t/p/original/3elhhPDPSD3m0T0SQDJN00O6WhQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7VJowheUV063oOCf2jlZw0Rz1XQ.jpg">https://image.tmdb.org/t/p/original/7VJowheUV063oOCf2jlZw0Rz1XQ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt13118012</id>
+    <uniqueid type="imdb" default="true">tt13118012</uniqueid>
+    <uniqueid type="tmdb">746957</uniqueid>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <credits>Tiaré Scanda</credits>
+    <credits>Leonardo Zimbrón</credits>
+    <director>Salvador Espinosa</director>
+    <premiered>2020-10-02</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Traziende Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WmoBV_wqc44</trailer>
+    <actor>
+        <name>Mauricio Ochmann</name>
+        <role></role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/2HM0oHAqSvrOpkp27iPhetyPYUT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Esmeralda Pimentel</name>
+        <role></role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/9wqHEG7LcKZlfVE087gQmTV0Ep1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tato Alexander</name>
+        <role></role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tL8I83Y0ojblBoiFqdOM46IlCMy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Moisés Arizmendi</name>
+        <role></role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/d7EnUCO4fGCgRBfgi19KoVkOmT8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Krizia Bajos</name>
+        <role>Jackie / Bety (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hwnM4tl3pFx5nF3AbSLRkvxVJaE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fernando Becerril</name>
+        <role></role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uXLDfgUyasdneTKIqLh6duwNtfV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Bertram</name>
+        <role>Mario</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Verónica Bravo</name>
+        <role></role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/vwwlZuekgBFeUT1QXGnoSbq0tFD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariana Cabrera</name>
+        <role></role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Ma4ok9Ssb2YWmOlApio0bxZYy9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesse Corti</name>
+        <role>Gonzalo (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/oI6zfkWgkMP3UFT5KCi5B6etzCa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robbie Daymond</name>
+        <role>Rafa (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6gydaEfhPZYyjWqrShAoczkija.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dorothy Elias-Fahn</name>
+        <role>Charlie&apos;s Wife (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/rmlbd49l1Xvmgng2eoqKXmbPMlu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisa Gabrielli</name>
+        <role>Alejandro&apos;s Mom (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYVa8kVL0Qgf1yNmMf5KFM2HFHN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matteo Giannini</name>
+        <role></role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Todd Haberkorn</name>
+        <role>Additional Voices (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/pQgclvlmf0rTpplFZquNtT1ypIR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erika Harlacher</name>
+        <role>Sylvia (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Tdwg8CTYHo50b73pFcvLFqk6Du.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Martín Jáuregui</name>
+        <role></role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/xPxk4Mpo7v6p105DNtwRkVJHFF7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Verónica Langer</name>
+        <role></role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/5RpHzRKp52jHnmE0hxiJtMHH5q3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Montserrat Marañon</name>
+        <role></role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/ldggdFAFZ2xjD5zMa9xpNzaNAOo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erica Mendez</name>
+        <role>Karime (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/kpsisDMviM4111ZLoYXZFpoO0TJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Regina Reynoso</name>
+        <role></role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Roye</name>
+        <role>Alejandro (voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/mz96EUwWlbAeXrv2ybvx6uAR7Fj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiaré Scanda</name>
+        <role></role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/zjc22O77Rw4wu0TnsaarYvVuR55.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Sheh</name>
+        <role>Additional Voices (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/id00Jc4uwGnffNT1bp2SQWEoSH3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gregory Snegoff</name>
+        <role>Guillermo (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/pa0bDRIM0gdCaeHFlVGmijeK8SA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Swindle</name>
+        <role>Charlie (voice)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/aoXWOAd1SLMZ5QGZ6SHSk1txUOM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeannie Tirado</name>
+        <role>Ceci (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Mu1azELbyw94pHNqZFloWp8FBI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Xander Mobus</name>
+        <role>Mario (voice)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-11-01 10:23:21</dateadded>
+</movie>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Ritual</title>
+    <originaltitle>The Ritual</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>74718</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>1688</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un grupo de amigos del colegio se reúne para un viaje al bosque, pero encuentra una presencia amenazante en los bosques esto los acecha.</plot>
+    <tagline>Tu sueño mas oscuro espera</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hHuJqzby593lmYmw1SzT0XYy99t.jpg">https://image.tmdb.org/t/p/original/hHuJqzby593lmYmw1SzT0XYy99t.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9022CYEGqYETCeXN1oE3uwYJWub.jpg">https://image.tmdb.org/t/p/original/9022CYEGqYETCeXN1oE3uwYJWub.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pngiM3A6mQkqPuXVTS8QgfsWoIE.jpg">https://image.tmdb.org/t/p/original/pngiM3A6mQkqPuXVTS8QgfsWoIE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kJoFXZPTDwCy5ekrNV1JygBXvnD.jpg">https://image.tmdb.org/t/p/original/kJoFXZPTDwCy5ekrNV1JygBXvnD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vLW0UQ0yFlskE2mdY6oER1SCwgu.jpg">https://image.tmdb.org/t/p/original/vLW0UQ0yFlskE2mdY6oER1SCwgu.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vaArQHq1lHFNppoJlMlv30Gs2fQ.jpg">https://image.tmdb.org/t/p/original/vaArQHq1lHFNppoJlMlv30Gs2fQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/10FT23hpt4euQbIu0q2wdSy3Ypn.jpg">https://image.tmdb.org/t/p/original/10FT23hpt4euQbIu0q2wdSy3Ypn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zSfDiWdMBH0ZtYDDWGM6trcNeHP.jpg">https://image.tmdb.org/t/p/original/zSfDiWdMBH0ZtYDDWGM6trcNeHP.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5638642</id>
+    <uniqueid type="imdb" default="true">tt5638642</uniqueid>
+    <uniqueid type="tmdb">433808</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <country>Canada</country>
+    <credits>Joe Barton</credits>
+    <director>David Bruckner</director>
+    <premiered>2017-10-11</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Entertainment One</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1Wu9tkloFnk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>958</height>
+                <durationinseconds>5671</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Rafe Spall</name>
+        <role>Luke</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert James-Collier</name>
+        <role>Hutch</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Troughton</name>
+        <role>Dom</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qBttSdS1BM93uCTd4idfbnK3jQU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arsher Ali</name>
+        <role>Phil</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/aJuC920mFXOsyt5hKdcOS8H4UXQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Reid</name>
+        <role>Robert</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerri McLean</name>
+        <role>Gayle</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/pftvjKQxvhDBAOpby0Bs0OFARYX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob James Beswick</name>
+        <role>Fiend</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/zdXqPO42sFulUn10suNuzAG69fZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Erwolter</name>
+        <role>Sara</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4iHA0bA5jhjWTLnIeMGmsWLfHSS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hilary Reeves</name>
+        <role>The Curate</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/powWNVRDVzI984ZQPHUkIBX4IpD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Liddell</name>
+        <role>The Logger</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/Xoh3jJKDV447jajRhuPluXuweb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Francesca Mula</name>
+        <role>The Witch</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/oNgwjM5gzrkeyTno0PiUM7XDSn2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Needham</name>
+        <role>Junkie</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1bvdiczJX670NWfLRke2QEenxsF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gheorghe Mezei</name>
+        <role>Parishioner</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adriana Macsut</name>
+        <role>Parishioner</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/u9mrNLgLLEbjjghkZxWWgGpBQ5O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Constantin Codrea</name>
+        <role>Parishioner</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zane Jarcu</name>
+        <role>Shop Keeper</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/Tg1SRtv2dT89bhvbVOAxyvJ5jS.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 12:07:07</dateadded>
+</movie>

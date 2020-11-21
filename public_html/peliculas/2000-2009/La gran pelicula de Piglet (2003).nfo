@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La gran película de Piglet</title>
+    <originaltitle>Piglet&apos;s Big Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>6821</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>222</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una historia de amistad y de aprendizaje; para sentirse grande no hace falta hacer grandes cosas. El pequeño cerdito Piglet se siente inferior porque sus amigos comienzan la &quot;cosecha de la miel&quot; y a él le dicen que es demasiado pequeño para participar. Cuando Piglet desaparece, todos sus amigos comienzan a buscarle, y descubrirán que el pequeño animal ha sido un gran héroe en muchos aspectos.</plot>
+    <tagline>A tale you&apos;ll never forget.</tagline>
+    <runtime>75</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3gumCa7HRNHE2wBLWdDgj0tvaKx.jpg">https://image.tmdb.org/t/p/original/3gumCa7HRNHE2wBLWdDgj0tvaKx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9Dlb8HCzhO6rMv9KsOwrbL5P5kl.jpg">https://image.tmdb.org/t/p/original/9Dlb8HCzhO6rMv9KsOwrbL5P5kl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yX5ReJ5ZtzhEMw18MzZFrKknFU8.jpg">https://image.tmdb.org/t/p/original/yX5ReJ5ZtzhEMw18MzZFrKknFU8.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yrIL6TukQ3m2KLf9oFoLMF7kDnz.jpg">https://image.tmdb.org/t/p/original/yrIL6TukQ3m2KLf9oFoLMF7kDnz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iXZ6kJGVrd9IIe4gSwAdX0q9psq.jpg">https://image.tmdb.org/t/p/original/iXZ6kJGVrd9IIe4gSwAdX0q9psq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0323642</id>
+    <uniqueid type="imdb" default="true">tt0323642</uniqueid>
+    <uniqueid type="tmdb">13691</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <credits>Brian Hohlfeld</credits>
+    <director>Francis Glebas</director>
+    <premiered>2003-03-16</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Disney Television Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wgbU7gfpxTw</trailer>
+    <actor>
+        <name>John Fiedler</name>
+        <role>Piglet (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6vfLLGeGuO6Ko0VRnyhgE2v6RUu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Cummings</name>
+        <role>Winnie the Pooh / Tigger (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andre Stojka</name>
+        <role>Owl (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/uK4S8aOJD0VgSDDEJaiec4ciJHJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kath Soucie</name>
+        <role>Kanga / Christopher Robin (singing) (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/62hvT4USvGa9OAsMP9guIBtJqkf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Cullen</name>
+        <role>Eeyore (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Sansom</name>
+        <role>Rabbit (voice)</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nikita Hopkins</name>
+        <role>Roo (voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Wheatley</name>
+        <role>Christopher Robin (voice)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:06:08</dateadded>
+</movie>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Y dónde esta el fantasma 2</title>
+    <originaltitle>A Haunted House 2</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.700000</value>
+            <votes>19504</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>883</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Habiendo exorcizado los demonios de su ex, Malcolm está comenzando fresco con su nueva novia y sus dos hijos. Después de mudarse a su casa de ensueño, sin embargo, Malcolm es una vez más plagado de extraños eventos paranormales.</plot>
+    <tagline>It&apos;ll scare the #2 out of you.</tagline>
+    <runtime>86</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ycm511kfyzVVjRU70nxtAGjAPbQ.jpg">https://image.tmdb.org/t/p/original/ycm511kfyzVVjRU70nxtAGjAPbQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6OHNDLSvTxvis1oWGdIqmH8jrEH.jpg">https://image.tmdb.org/t/p/original/6OHNDLSvTxvis1oWGdIqmH8jrEH.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5NTJZ571646mTziTOGt0jnq7uKe.jpg">https://image.tmdb.org/t/p/original/5NTJZ571646mTziTOGt0jnq7uKe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qv3uZUta4UWRNDMdDKSRGhA6lwC.jpg">https://image.tmdb.org/t/p/original/qv3uZUta4UWRNDMdDKSRGhA6lwC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oV7M00fPXy5P0nbdeMbSUjYv0vx.jpg">https://image.tmdb.org/t/p/original/oV7M00fPXy5P0nbdeMbSUjYv0vx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u5dhtJC7a3qc11JgJjZxFvCl3ar.jpg">https://image.tmdb.org/t/p/original/u5dhtJC7a3qc11JgJjZxFvCl3ar.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gzwZYGnp4c4iO6yMw4pCxyJ4rMm.jpg">https://image.tmdb.org/t/p/original/gzwZYGnp4c4iO6yMw4pCxyJ4rMm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6gycezbvc8iHSune1Evq79dcYIY.jpg">https://image.tmdb.org/t/p/original/6gycezbvc8iHSune1Evq79dcYIY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iSMUo3G248S8rwbTMkZXVKSPbY5.jpg">https://image.tmdb.org/t/p/original/iSMUo3G248S8rwbTMkZXVKSPbY5.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2828996</id>
+    <uniqueid type="imdb" default="true">tt2828996</uniqueid>
+    <uniqueid type="tmdb">184345</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Y donde esta el fantasma - Colección</name>
+        <overview>Una parodia de todas las películas de &quot;found-footage/documentary style&quot; lanzadas en los últimos años.</overview>
+    </set>
+    <credits>Marlon Wayans</credits>
+    <credits>Rick Alvarez</credits>
+    <director>Michael Tiddes</director>
+    <premiered>2014-04-17</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Open Road Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BZ0dUW-15lk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5213</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language></language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Marlon Wayans</name>
+        <role>Malcolm</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaime Pressly</name>
+        <role>Megan</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/zH677OefzDCCbzJ3s1Tt4iKn1YX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Essence Atkins</name>
+        <role>Kisha</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5cBdIVRJmy7IntOk3E3yyqGk2fJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Iglesias</name>
+        <role>Miguel</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/n4RRL96ftX4dYWSZyEiakbpHnz1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Missi Pyle</name>
+        <role>Noreen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qIeLygSouOCNuESQMvf2Pz9mft.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Rickards</name>
+        <role>Becky</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/x7V5nMB95egubp1AdMDkD7ARmtz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Affion Crockett</name>
+        <role>Ray- Ray</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steele Stebbins</name>
+        <role>Wyatt</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rick Overton</name>
+        <role>Professor Wilde</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/6TYFFjEKcS7ielkYru6MvJa8jSY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Sheridan</name>
+        <role>Agouhl</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/pNP7NGCjfSn6nHpoLbCOf7RsexL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cedric the Entertainer</name>
+        <role>Father Doug</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/k5j649G9C8OSayff8HqVWr0jV6S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sophie Dee</name>
+        <role>Hot Coed</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/s9Ql2j3qeuNButQIo4fGD0NiclU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Audrey Petenbrink</name>
+        <role>Pool Daughter (uncredited)</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Burn</name>
+        <role>Kill Family Dad (uncredited)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Gann</name>
+        <role>Pool Dad (uncredited)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/jX73lEGi5TNjordeEEZRKjqGL9x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Barker</name>
+        <role>Pool Mom (uncredited)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/AvgPOhPqxFiX0Va62bFl61yloO4.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-31 17:12:28</dateadded>
+</movie>

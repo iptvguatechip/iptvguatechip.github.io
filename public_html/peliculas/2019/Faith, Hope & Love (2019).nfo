@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>En el ritmo del amor</title>
+    <originaltitle>Faith, Hope &amp; Love</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>497</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.800000</value>
+            <votes>15</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Faith, recién divorciada, participa en un concurso de baile para salvar a su estudio. Allí conoce a Jimmy, quien le ayudará a recuperar sus sueños.</plot>
+    <tagline>God was listening</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d2hkZoeL9urftGeF8dN1RBafZsN.jpg">https://image.tmdb.org/t/p/original/d2hkZoeL9urftGeF8dN1RBafZsN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oggrI3I9lbpO0a2ZES1btSTWYV0.jpg">https://image.tmdb.org/t/p/original/oggrI3I9lbpO0a2ZES1btSTWYV0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/f4TURwRYuHyrcTKlSRu6OVGZBni.jpg">https://image.tmdb.org/t/p/original/f4TURwRYuHyrcTKlSRu6OVGZBni.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gWKSdGr1If6IOtWmqmCa8VdeS2K.jpg">https://image.tmdb.org/t/p/original/gWKSdGr1If6IOtWmqmCa8VdeS2K.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9ncipW2ZWBvzHZnRJH1BUMZHk3k.jpg">https://image.tmdb.org/t/p/original/9ncipW2ZWBvzHZnRJH1BUMZHk3k.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8310924</id>
+    <uniqueid type="imdb" default="true">tt8310924</uniqueid>
+    <uniqueid type="tmdb">581998</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Robert Krantz</credits>
+    <director>Robert Krantz</director>
+    <director>J. J. Englert</director>
+    <premiered>2019-03-15</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CbiVRYDCKDU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>239.000000</aspect>
+                <width>1912</width>
+                <height>1072</height>
+                <durationinseconds>6364</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Peta Murgatroyd</name>
+        <role>Faith Turley</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xg3AEzBuSSOpqZy43ZF9WqjQyYe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Krantz</name>
+        <role>Jimmy Hope</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/nrHVlmfjDxq1dZOrNrNCFvwfbzR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Richards</name>
+        <role>Daddy Hogwood</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bAYwmBdPJAiFkossWq56pEDmUh4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corbin Bernsen</name>
+        <role>Brian Fuller</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mLftTYHrvct0VBB8pGhJjLHZUXQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>M. Emmet Walsh</name>
+        <role>Fr. John</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cirz2AGsQgh34yMoMaEmttAq0qS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nancy Stafford</name>
+        <role>Mary Sue</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/uYKD12pqy1HX6WCSBnN4OnMQTN8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Hershberger</name>
+        <role>Tommy</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aria Walters</name>
+        <role>Demetra Elpidas</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-09 16:49:19</dateadded>
+</movie>

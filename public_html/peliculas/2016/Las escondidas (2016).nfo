@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Las escondidas</title>
+    <originaltitle>捉迷藏</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>612</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>22</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un hombre vive en un precioso piso con su esposa y dos hijos. Está ofuscado con la limpieza, tiene sueños extraños y lucha con un misterio en su pasado.  Él va a una parte mala de la caza de la urbe para un hermano perdido largo, dejando a su esposa y pequeños en su vehículo. Mientras que trata de lograr la colaboración de los vecinos, la esposa halla que sus hijos están desaparecidos.</plot>
+    <tagline></tagline>
+    <runtime>104</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7wnOZoMeLiDRRrIOaLKPL4GTlUq.jpg">https://image.tmdb.org/t/p/original/7wnOZoMeLiDRRrIOaLKPL4GTlUq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5gsNLF6AkCpAT7zxv5oyu28qNCq.jpg">https://image.tmdb.org/t/p/original/5gsNLF6AkCpAT7zxv5oyu28qNCq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vayBT9quTPfaWDa4Ir5Au4Ob8II.jpg">https://image.tmdb.org/t/p/original/vayBT9quTPfaWDa4Ir5Au4Ob8II.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tSq7dqnJuwrOVHzS44AGusblXEO.jpg">https://image.tmdb.org/t/p/original/tSq7dqnJuwrOVHzS44AGusblXEO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/OAOxS2CAxyxfcrbcuL1DbYan5c.jpg">https://image.tmdb.org/t/p/original/OAOxS2CAxyxfcrbcuL1DbYan5c.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5662906</id>
+    <uniqueid type="imdb" default="true">tt5662906</uniqueid>
+    <uniqueid type="tmdb">416306</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Misterio</genre>
+    <country>China</country>
+    <director>Liu Jie</director>
+    <premiered>2016-11-04</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6259</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>zho</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Wallace Huo</name>
+        <role></role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kiuLPAKlIT98fgjuwnYF9u6Wus7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Qin Hailu</name>
+        <role></role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kjjuhkonpWzQOWSyERqGot7CR5p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wan Qian</name>
+        <role></role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sDasmyAYEAfUgVHf1U3zgfCzd8m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessie Li</name>
+        <role></role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/r2OskCyYncaPmBVBWng4GLjVT4z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dong Zijian</name>
+        <role></role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kiD5fhNmyIMWKam5xRP3rrasnBE.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 11:19:31</dateadded>
+</movie>

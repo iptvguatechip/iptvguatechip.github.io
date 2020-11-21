@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Batman: El caballero de la noche</title>
+    <originaltitle>The Dark Knight</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>9.000000</value>
+            <votes>2265167</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.500000</value>
+            <votes>23590</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos</plot>
+    <tagline>Bienvenidos a un mundo sin reglas.</tagline>
+    <runtime>152</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg">https://image.tmdb.org/t/p/original/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/l4T8JVwircGZlZuSl29U3TS9mpl.jpg">https://image.tmdb.org/t/p/original/l4T8JVwircGZlZuSl29U3TS9mpl.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hGvOMQBD88jAV0olS2DT1AxreHn.jpg">https://image.tmdb.org/t/p/original/hGvOMQBD88jAV0olS2DT1AxreHn.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/jyJ0aWWJamLUzEyYq0XENwp8jX6.jpg">https://image.tmdb.org/t/p/original/jyJ0aWWJamLUzEyYq0XENwp8jX6.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lvI9k6dBqCPjisNlq0TBu1iiEZW.jpg">https://image.tmdb.org/t/p/original/lvI9k6dBqCPjisNlq0TBu1iiEZW.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/p4AJrMODIAI4zvF7McCyTrMikat.jpg">https://image.tmdb.org/t/p/original/p4AJrMODIAI4zvF7McCyTrMikat.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rN2Qld2RAtSxxVVkKSDF1lbOz1s.jpg">https://image.tmdb.org/t/p/original/rN2Qld2RAtSxxVVkKSDF1lbOz1s.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rOlGeB2lvS60pt5da4s2KXx7MSH.jpg">https://image.tmdb.org/t/p/original/rOlGeB2lvS60pt5da4s2KXx7MSH.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rl2FZ3xEeKt7siW48gxFLAPLibb.jpg">https://image.tmdb.org/t/p/original/rl2FZ3xEeKt7siW48gxFLAPLibb.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/f3V5SoCu3u3cooGqN5vf6Pa6Nf7.jpg">https://image.tmdb.org/t/p/original/f3V5SoCu3u3cooGqN5vf6Pa6Nf7.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/naVY1jDDqyEmOxyguvnlbJ3mTcT.jpg">https://image.tmdb.org/t/p/original/naVY1jDDqyEmOxyguvnlbJ3mTcT.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/oBcU8VvCq3yhfS2dI6UEayq8YM8.jpg">https://image.tmdb.org/t/p/original/oBcU8VvCq3yhfS2dI6UEayq8YM8.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/k3tiiqwn5hsLISd3rgcNfR7F5NG.jpg">https://image.tmdb.org/t/p/original/k3tiiqwn5hsLISd3rgcNfR7F5NG.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/g6wIblSdRJHhe1Xh3ggTFLrkxXE.jpg">https://image.tmdb.org/t/p/original/g6wIblSdRJHhe1Xh3ggTFLrkxXE.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/czOGUDtoCLvRS5p5MO1VhM3SLD6.jpg">https://image.tmdb.org/t/p/original/czOGUDtoCLvRS5p5MO1VhM3SLD6.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/i1UzQ9PEjCUjVYq7NSVM1a6zqcC.jpg">https://image.tmdb.org/t/p/original/i1UzQ9PEjCUjVYq7NSVM1a6zqcC.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bMXVRyn8NfHaKJIB9mgJXchPfju.jpg">https://image.tmdb.org/t/p/original/bMXVRyn8NfHaKJIB9mgJXchPfju.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/mS4U6pRjZzKBVWofye4cg7D0M6N.jpg">https://image.tmdb.org/t/p/original/mS4U6pRjZzKBVWofye4cg7D0M6N.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/cxbsHB3XAdr18jPOFTu0ChGKvTo.jpg">https://image.tmdb.org/t/p/original/cxbsHB3XAdr18jPOFTu0ChGKvTo.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/krBamTBi8H7c4N8Bqf5PhRMqw1G.jpg">https://image.tmdb.org/t/p/original/krBamTBi8H7c4N8Bqf5PhRMqw1G.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1SwQRPV5Y4eelz8k4h2a58tSgmY.jpg">https://image.tmdb.org/t/p/original/1SwQRPV5Y4eelz8k4h2a58tSgmY.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3JQrTOUz7NGUkP2s9Cyf2nC1SSk.jpg">https://image.tmdb.org/t/p/original/3JQrTOUz7NGUkP2s9Cyf2nC1SSk.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8tbAhQGl01EmtQSUeGTa8HCYje8.jpg">https://image.tmdb.org/t/p/original/8tbAhQGl01EmtQSUeGTa8HCYje8.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6h3b8TZ4GOsJ9FsF3obyjzIIPaf.jpg">https://image.tmdb.org/t/p/original/6h3b8TZ4GOsJ9FsF3obyjzIIPaf.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hnDozC2OTt9QgXYkMLg07j4BNkB.jpg">https://image.tmdb.org/t/p/original/hnDozC2OTt9QgXYkMLg07j4BNkB.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/y7O4g7tgsWhfCNUavPZjOB3FS4L.jpg">https://image.tmdb.org/t/p/original/y7O4g7tgsWhfCNUavPZjOB3FS4L.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/uvfx2IU1VazBdOKRRhB1OoSvMQZ.jpg">https://image.tmdb.org/t/p/original/uvfx2IU1VazBdOKRRhB1OoSvMQZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/v7LkmS9AqdouZg3mWcErNjHDJYL.jpg">https://image.tmdb.org/t/p/original/v7LkmS9AqdouZg3mWcErNjHDJYL.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hrwUCwXJxoYe0Gw2nTPpQOOnGw0.jpg">https://image.tmdb.org/t/p/original/hrwUCwXJxoYe0Gw2nTPpQOOnGw0.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/n7gW4MyRJYhUxGRG4mMDKcmsrvV.jpg">https://image.tmdb.org/t/p/original/n7gW4MyRJYhUxGRG4mMDKcmsrvV.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sQA86Mlt0ubemyg9XzpNaLKawqY.jpg">https://image.tmdb.org/t/p/original/sQA86Mlt0ubemyg9XzpNaLKawqY.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pMxR4Z2qU7l8KmDCNQPPq9lqyGb.jpg">https://image.tmdb.org/t/p/original/pMxR4Z2qU7l8KmDCNQPPq9lqyGb.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rb3hD0RREIqrN5PMZdAMfiuQguB.jpg">https://image.tmdb.org/t/p/original/rb3hD0RREIqrN5PMZdAMfiuQguB.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/f4ZWFYKPFce34mlPvqsaPHQzNhA.jpg">https://image.tmdb.org/t/p/original/f4ZWFYKPFce34mlPvqsaPHQzNhA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4gpfFq2IbwPIz9dv8tBHlJXj4Zg.jpg">https://image.tmdb.org/t/p/original/4gpfFq2IbwPIz9dv8tBHlJXj4Zg.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/g6GS2eUfH89lzqFU8HuKXDZaYsd.jpg">https://image.tmdb.org/t/p/original/g6GS2eUfH89lzqFU8HuKXDZaYsd.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg">https://image.tmdb.org/t/p/original/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/kgT0UJILk2jORdaqj5bBQ03mu3y.jpg">https://image.tmdb.org/t/p/original/kgT0UJILk2jORdaqj5bBQ03mu3y.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/l72h19zcMxwIJqKZJpod7gW1dRO.jpg">https://image.tmdb.org/t/p/original/l72h19zcMxwIJqKZJpod7gW1dRO.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bOlmziRtsUY2RedJn35DRMzpN42.jpg">https://image.tmdb.org/t/p/original/bOlmziRtsUY2RedJn35DRMzpN42.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/btez6xZKEWxSwsd0ZMcY2KHmpeA.jpg">https://image.tmdb.org/t/p/original/btez6xZKEWxSwsd0ZMcY2KHmpeA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rQ1dXElpmlBcdaQxuyFDBeTToMP.jpg">https://image.tmdb.org/t/p/original/rQ1dXElpmlBcdaQxuyFDBeTToMP.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/i2FBnh4rgO5VXKkJWGSYor8vKPm.jpg">https://image.tmdb.org/t/p/original/i2FBnh4rgO5VXKkJWGSYor8vKPm.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/f1akS5c7RnnhAT49Am9TG41CenV.jpg">https://image.tmdb.org/t/p/original/f1akS5c7RnnhAT49Am9TG41CenV.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/36GV1PV6rNBnNSl5znFXCy25swn.jpg">https://image.tmdb.org/t/p/original/36GV1PV6rNBnNSl5znFXCy25swn.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg">https://image.tmdb.org/t/p/original/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg">https://image.tmdb.org/t/p/original/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/jz1eErpJSx7ToDVDgV9HKFv4hAa.jpg">https://image.tmdb.org/t/p/original/jz1eErpJSx7ToDVDgV9HKFv4hAa.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/cZqtkEd3DWt9BphzCnzk77BTggX.jpg">https://image.tmdb.org/t/p/original/cZqtkEd3DWt9BphzCnzk77BTggX.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/j1SsFnbEEYwdd6zEGvjRXbsUvZl.jpg">https://image.tmdb.org/t/p/original/j1SsFnbEEYwdd6zEGvjRXbsUvZl.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/3j4bh25BrFH34RPW8tmYrD6Qnlu.jpg">https://image.tmdb.org/t/p/original/3j4bh25BrFH34RPW8tmYrD6Qnlu.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/77PgyH3q5smEcSgAQL2BD8EmPgR.jpg">https://image.tmdb.org/t/p/original/77PgyH3q5smEcSgAQL2BD8EmPgR.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/wUuoVG18yjF8fDzBaJQusbfHSPB.jpg">https://image.tmdb.org/t/p/original/wUuoVG18yjF8fDzBaJQusbfHSPB.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/y2Ts1CZt8FO7M0i1xrhJh4b4Slz.jpg">https://image.tmdb.org/t/p/original/y2Ts1CZt8FO7M0i1xrhJh4b4Slz.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/ZcHnznfVczsOMia3qqoq7li8DM.jpg">https://image.tmdb.org/t/p/original/ZcHnznfVczsOMia3qqoq7li8DM.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/c5FNkwBK6c4ZqiEua9WgaYtjBBM.jpg">https://image.tmdb.org/t/p/original/c5FNkwBK6c4ZqiEua9WgaYtjBBM.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/q7zgnewrtH6Y9TZp4ydpYhAEiZ5.jpg">https://image.tmdb.org/t/p/original/q7zgnewrtH6Y9TZp4ydpYhAEiZ5.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/52s85GIqlUmQww4JThjkhWaLEki.jpg">https://image.tmdb.org/t/p/original/52s85GIqlUmQww4JThjkhWaLEki.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/mylenMgWcp5aUFlViOOVbwmhMJP.jpg">https://image.tmdb.org/t/p/original/mylenMgWcp5aUFlViOOVbwmhMJP.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/24ZzYtZB4fQDj3ckwKIhMvF3XdJ.jpg">https://image.tmdb.org/t/p/original/24ZzYtZB4fQDj3ckwKIhMvF3XdJ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/7h2PRgZHl9g31XQl0c0kRsNEk0D.jpg">https://image.tmdb.org/t/p/original/7h2PRgZHl9g31XQl0c0kRsNEk0D.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/iIg6mP724PefmZ32Asb0FxHakSJ.jpg">https://image.tmdb.org/t/p/original/iIg6mP724PefmZ32Asb0FxHakSJ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/qgddsR7eY1yQ8d2692hPUwmF2Op.jpg">https://image.tmdb.org/t/p/original/qgddsR7eY1yQ8d2692hPUwmF2Op.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/cZFYv7HleP6Fb90GirtshZ1aHMW.jpg">https://image.tmdb.org/t/p/original/cZFYv7HleP6Fb90GirtshZ1aHMW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg">https://image.tmdb.org/t/p/original/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tSIH3DTA4oFQDhPaJgHxxQZoqHh.jpg">https://image.tmdb.org/t/p/original/tSIH3DTA4oFQDhPaJgHxxQZoqHh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1PEFfYM4PV80dDqqO7jkCBdjbZa.jpg">https://image.tmdb.org/t/p/original/1PEFfYM4PV80dDqqO7jkCBdjbZa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vLFCrzI3V4kbze877tP1H7TqppL.jpg">https://image.tmdb.org/t/p/original/vLFCrzI3V4kbze877tP1H7TqppL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/noYJ2sbKQE5384I9kB4h0k2YTlG.jpg">https://image.tmdb.org/t/p/original/noYJ2sbKQE5384I9kB4h0k2YTlG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg">https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/25cE7rTmSWVoRbBWTqIHAcvCtlK.jpg">https://image.tmdb.org/t/p/original/25cE7rTmSWVoRbBWTqIHAcvCtlK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/txSJ30aWZY9rDg9OuE2QpDJ7WwZ.jpg">https://image.tmdb.org/t/p/original/txSJ30aWZY9rDg9OuE2QpDJ7WwZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5GTnnwpF1aj2kc91IogJHSn229K.jpg">https://image.tmdb.org/t/p/original/5GTnnwpF1aj2kc91IogJHSn229K.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nW75pjnVcsTJcmxbzZkI5KmDb7A.jpg">https://image.tmdb.org/t/p/original/nW75pjnVcsTJcmxbzZkI5KmDb7A.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pKKvCaL1TPTVtbI6EeliyND3api.jpg">https://image.tmdb.org/t/p/original/pKKvCaL1TPTVtbI6EeliyND3api.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uOYWdGpymxSgPMkHo3SgINpWUgk.jpg">https://image.tmdb.org/t/p/original/uOYWdGpymxSgPMkHo3SgINpWUgk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eP5NL7ZlGoW9tE9qnCdHpOLH1Ke.jpg">https://image.tmdb.org/t/p/original/eP5NL7ZlGoW9tE9qnCdHpOLH1Ke.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2Pf0Dtw6P9CWshK6GYVXmmq9NFS.jpg">https://image.tmdb.org/t/p/original/2Pf0Dtw6P9CWshK6GYVXmmq9NFS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lvNjH1zyN1w3FYkO8ZZJsICKpgN.jpg">https://image.tmdb.org/t/p/original/lvNjH1zyN1w3FYkO8ZZJsICKpgN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r05GcDOai2tlc5hASixe6BB4zpj.jpg">https://image.tmdb.org/t/p/original/r05GcDOai2tlc5hASixe6BB4zpj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aArYQMWP5R6PwlFpSSawLLpYEvy.jpg">https://image.tmdb.org/t/p/original/aArYQMWP5R6PwlFpSSawLLpYEvy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z4XwvnDZSm40PCdg9vFJmo0W9ri.jpg">https://image.tmdb.org/t/p/original/z4XwvnDZSm40PCdg9vFJmo0W9ri.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tAgldVsdvZQ9GZuFMifjtl7kMTn.jpg">https://image.tmdb.org/t/p/original/tAgldVsdvZQ9GZuFMifjtl7kMTn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/k6hExQBHOLPiGe0K5CBWrVaM3XK.jpg">https://image.tmdb.org/t/p/original/k6hExQBHOLPiGe0K5CBWrVaM3XK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kMq65QVRSL6YWpN5WQwLbaQjV3P.jpg">https://image.tmdb.org/t/p/original/kMq65QVRSL6YWpN5WQwLbaQjV3P.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2Ka2nOtSlwuFlsHtrtfHKMIjldC.jpg">https://image.tmdb.org/t/p/original/2Ka2nOtSlwuFlsHtrtfHKMIjldC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uruzphNWfIo0MxygPDQ5dvlgEQh.jpg">https://image.tmdb.org/t/p/original/uruzphNWfIo0MxygPDQ5dvlgEQh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7MQT7G87WK7Y6ZeDB7c6mGRrzK9.jpg">https://image.tmdb.org/t/p/original/7MQT7G87WK7Y6ZeDB7c6mGRrzK9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vGYJRor3pCyjbaCpJKC39MpJhIT.jpg">https://image.tmdb.org/t/p/original/vGYJRor3pCyjbaCpJKC39MpJhIT.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg">https://image.tmdb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lHhZrxYk8pi25UYKgHVJSbGCwI9.jpg">https://image.tmdb.org/t/p/original/lHhZrxYk8pi25UYKgHVJSbGCwI9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg">https://image.tmdb.org/t/p/original/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/k2LjYpR59GAkB0troXs3I9vQq69.jpg">https://image.tmdb.org/t/p/original/k2LjYpR59GAkB0troXs3I9vQq69.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg">https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kxCRNTZ96dbftDPt7SQWA3LQCiK.jpg">https://image.tmdb.org/t/p/original/kxCRNTZ96dbftDPt7SQWA3LQCiK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wdQ016RX0MpQjILr5xBnrocf6Pi.jpg">https://image.tmdb.org/t/p/original/wdQ016RX0MpQjILr5xBnrocf6Pi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gCXqGU0TpsLr6NJrCPU5J3rmxRs.jpg">https://image.tmdb.org/t/p/original/gCXqGU0TpsLr6NJrCPU5J3rmxRs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3xyth9V7S3hQJeKtfbSgvVf0Pry.jpg">https://image.tmdb.org/t/p/original/3xyth9V7S3hQJeKtfbSgvVf0Pry.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hMn3BsD4s4Y8FV0kbwq8Y88EmCv.jpg">https://image.tmdb.org/t/p/original/hMn3BsD4s4Y8FV0kbwq8Y88EmCv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2kXNQCe5E1kOxRTywrerai6i4mp.jpg">https://image.tmdb.org/t/p/original/2kXNQCe5E1kOxRTywrerai6i4mp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pbEkjhdfP7yuDcMB78YEZwgD4IN.jpg">https://image.tmdb.org/t/p/original/pbEkjhdfP7yuDcMB78YEZwgD4IN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oCAycJv4s6OIulOeYFbqO9qc0nh.jpg">https://image.tmdb.org/t/p/original/oCAycJv4s6OIulOeYFbqO9qc0nh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tLvSjFaqKDPYcV0OUJ2TLXq70Di.jpg">https://image.tmdb.org/t/p/original/tLvSjFaqKDPYcV0OUJ2TLXq70Di.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pjyzrh1bdv1UTpDRHvM850TJAmT.jpg">https://image.tmdb.org/t/p/original/pjyzrh1bdv1UTpDRHvM850TJAmT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/enNubozHn9pXi0ycTVYUWfpHZm.jpg">https://image.tmdb.org/t/p/original/enNubozHn9pXi0ycTVYUWfpHZm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qejZvo4zzL6KQ74h2IVnfGDbeQj.jpg">https://image.tmdb.org/t/p/original/qejZvo4zzL6KQ74h2IVnfGDbeQj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg">https://image.tmdb.org/t/p/original/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/Aemg4VLcVgMqQIfQqUNpIe5jmPy.jpg">https://image.tmdb.org/t/p/original/Aemg4VLcVgMqQIfQqUNpIe5jmPy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6SfX1p5G4EEEDnEulFJeSxgbtSV.jpg">https://image.tmdb.org/t/p/original/6SfX1p5G4EEEDnEulFJeSxgbtSV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2lvBcFv2rbrAYsegEFWNkcbMnbU.jpg">https://image.tmdb.org/t/p/original/2lvBcFv2rbrAYsegEFWNkcbMnbU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/490wJKm0TBib51SG5LZP3ksnFAj.jpg">https://image.tmdb.org/t/p/original/490wJKm0TBib51SG5LZP3ksnFAj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hjmpaUo7JDzImgGvsisefIbPrTX.jpg">https://image.tmdb.org/t/p/original/hjmpaUo7JDzImgGvsisefIbPrTX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/adlPZoRdysBMVTSTsGamcn5apYt.jpg">https://image.tmdb.org/t/p/original/adlPZoRdysBMVTSTsGamcn5apYt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qtD799RpbfZ4PokJWlGuZQGfbbH.jpg">https://image.tmdb.org/t/p/original/qtD799RpbfZ4PokJWlGuZQGfbbH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6xzwlLDDGhpB1NylkE4IDTQwiUp.jpg">https://image.tmdb.org/t/p/original/6xzwlLDDGhpB1NylkE4IDTQwiUp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yJYvW3FQKqk3qCpdgCaU8pTivSL.jpg">https://image.tmdb.org/t/p/original/yJYvW3FQKqk3qCpdgCaU8pTivSL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5vo36sxboTIyHU1TNMq5aWBvZDo.jpg">https://image.tmdb.org/t/p/original/5vo36sxboTIyHU1TNMq5aWBvZDo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nqU0eVOm08kFzNEW3I2NIiMi1CQ.jpg">https://image.tmdb.org/t/p/original/nqU0eVOm08kFzNEW3I2NIiMi1CQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg">https://image.tmdb.org/t/p/original/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bxOoYytUGsWOVRuHLLB4zn2zLbS.jpg">https://image.tmdb.org/t/p/original/bxOoYytUGsWOVRuHLLB4zn2zLbS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cSQdkKYxi8kmOLf9BEEvnfwR42U.jpg">https://image.tmdb.org/t/p/original/cSQdkKYxi8kmOLf9BEEvnfwR42U.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vRTuvuTiJR5FrmPak2IMoeHbFmU.jpg">https://image.tmdb.org/t/p/original/vRTuvuTiJR5FrmPak2IMoeHbFmU.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0468569</id>
+    <uniqueid type="imdb" default="true">tt0468569</uniqueid>
+    <uniqueid type="tmdb">155</uniqueid>
+    <genre>Drama</genre>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>United Kingdom</country>
+    <set>
+        <name>Batman: El caballero de la noche - Colección</name>
+        <overview>La trilogía está protagonizada por Christian Bale como Bruce Wayne / Batman, Michael Caine como Alfred Pennyworth, Gary Oldman como James Gordon, y Morgan Freeman como Lucius Fox. Las tres películas fueron escritas y dirigidas por Christopher Nolan, las películas recibieron aclamaciones casi universales de los críticos y las audiencias, siendo elogiadas por la dirección, los temas y el desarrollo de personajes de Nolan, las actuaciones del reparto, un reinvención más realista y oscura del material original, un mayor uso de efectos prácticos sobre las imágenes generadas por computadora, y la música de Hans Zimmer para cada película.</overview>
+    </set>
+    <credits>Christopher Nolan</credits>
+    <credits>Jonathan Nolan</credits>
+    <director>Christopher Nolan</director>
+    <premiered>2008-07-16</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DC Comics</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zrXP6TYK8rY</trailer>
+    <actor>
+        <name>Christian Bale</name>
+        <role>Bruce Wayne / Batman</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/b7fTC9WFkgqGOv77mLQtmD4Bwjx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heath Ledger</name>
+        <role>Joker</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Y9HnYYa9jF4NunY9lSgJGjSe8E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Caine</name>
+        <role>Alfred Pennyworth</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/klNx4UqkcE9u7P3vsg20AKwgplw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Oldman</name>
+        <role>Commissioner James Gordon</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Eckhart</name>
+        <role>Harvey Dent / Two-Face</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/u9daQmQQU10r3l6R2NW5UVWyeKv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maggie Gyllenhaal</name>
+        <role>Rachel Dawes</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/qxgM5LzzG4uWTprCL3gBVVJ2Q1K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morgan Freeman</name>
+        <role>Lucius Fox</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIciQWr8VwKoR8TmAw1owaiZFyb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nestor Carbonell</name>
+        <role>Mayor Anthony Garcia</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/o0cZNlnRq8SMnTNKObm0WM7nuQt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Monique Gabriela Curnen</name>
+        <role>Anna Ramirez</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/lJgLQs7cfM49m8VzVviwxIByz76.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Dean</name>
+        <role>Michael Wuertz</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/mgqdr4VFrTVZatkki2suNLYxeDG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ng Chin Han</name>
+        <role>Lau</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/ivYou79LrkVDr30kNmv3m45XESp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Roberts</name>
+        <role>Sal Maroni</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/o0EyI0Otwyg0jwxLpbmV20I57oi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ritchie Coster</name>
+        <role>Chechen</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kYXTkSP5fbgM1kBrYlqOwI8vrlJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Michael Hall</name>
+        <role>Mike Engel</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/pSQNbyQFHBBfSKHiCCbu30rsNf0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keith Szarabajka</name>
+        <role>Gerard Stephens</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/drXhJoVUmm352h4G1QWnvHZgudT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Harto</name>
+        <role>Coleman Reese</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/4UHIM6hTWCC5uS1drjw4JbbHuNu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melinda McGraw</name>
+        <role>Barbara Gordon</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/thG0lL7maozskCZHaa5iK4gBgg7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathan Gamble</name>
+        <role>James Gordon Jr.</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/axIGmU00IoNxQgiL5jv7Rf9EC2l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Jai White</name>
+        <role>Gambol</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/YPoHYuzR37wFpPpwEXZYQlhLln.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin McFarlane</name>
+        <role>Gillian B. Loeb</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/dJDcUzJEhy1vTjnLm72kPaYPpbK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nydia Rodriguez Terracina</name>
+        <role>Judge Janet Surrillo</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/tHxDG9LChaP6wnNdb2fLnjjflpW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Lister Jr.</name>
+        <role>Tattooed Prisoner</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/fwZoX5VWtXM55Mb11eLguixyIXI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Fichtner</name>
+        <role>Bank Manager</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/vBzu65yIaQpLPZ7qJRADJRAvTpL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cillian Murphy</name>
+        <role>Jonathan Crane / Scarecrow</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/3DZAf9CwXmfV2HZOEdqeZAGTndV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Leahy</name>
+        <role>Gentleman at Party</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/vj91AYjmPzhG0cmDNey46ahMWfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Skiba</name>
+        <role>Man Trying to Reach Coleman Reese (uncredited)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/f8gd8LVG9G0PDU0Tnvk9FMuy69I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Dastmalchian</name>
+        <role>Thomas Schiff</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/3cdrnfthY40ZsIhq1FBEwGJq9mE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Vieau</name>
+        <role>Rossi</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/4aZrIaxj9Lh7I7Z4AjTOSZeYUm5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Stoyanov</name>
+        <role>Dopey</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/wfJKDz5uA3QbEIm8FmhyFcaUpi8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Smillie</name>
+        <role>Happy</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/tDQ1cWAbzOUWcCb4EMoeadHed12.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Goldring</name>
+        <role>Grumpy</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/tYeXyMnmeCVvIqSy9I7NkbEIe02.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew O&apos;Neill</name>
+        <role>Chuckles</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Olumiji Olawumi</name>
+        <role>Drug Dealer</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/qddoJ9YHwWHm4XynBLXUltxPJg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Beam</name>
+        <role>Drug Buyer</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erik Hellman</name>
+        <role>Junkie</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beatrice Rosen</name>
+        <role>Natascha</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/r6SOgmpY4lCByduoRkuCNVRLYAV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincenzo Nicoli</name>
+        <role>Crime Boss</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edison Chen</name>
+        <role>LSI VP</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/zbV9UFmygySEGTOsqEamkne8E96.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Luther</name>
+        <role>Brian</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Farruggio</name>
+        <role>Man No. 1</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/yDZJZKKXkDLgPM6TmlM43nHoOMC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom McElroy</name>
+        <role>Man No. 2</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Will Zahrn</name>
+        <role>Assistant DA</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/5JDnuufySepQ1fig7Hga4xL4nio.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Fierro</name>
+        <role>Thug at Party</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/35aSfehvNKjTSntcRgpdQG6TZzy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Derence</name>
+        <role>Male Guest</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Knox</name>
+        <role>Female Guest</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patrick Clear</name>
+        <role>Judge Freel</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/5P7Qup6N7HCA9q1faM6j7PfIXuN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Jayne Dunn</name>
+        <role>Maroni&apos;s Mistress</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Venn</name>
+        <role>Gambol&apos;s Bodyguard</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/duN2ovF5cWP9jIOuE9O4kB1aue9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Winston G. Ellis</name>
+        <role>Gambol&apos;s Bodyguard (as Winston Ellis)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophia Hinshelwood</name>
+        <role>Reporter</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Keith Kupferer</name>
+        <role>Heckler</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/8iYC1mkinpTGXF39FiKRYLlkwtQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Luis Caballero</name>
+        <role>Cop Heckler</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/lorIBDZXyHqVtO5Kuhs5b9OB8Kb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Dillane</name>
+        <role>Acting Commissioner</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/4DVdlTFkhPlERFyFoeH6UoXb2un.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daryl Satcher</name>
+        <role>Officer at Intersection</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Petschler</name>
+        <role>Convoy Leader</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aidan Feore</name>
+        <role>Fat Thug</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philip Bulcock</name>
+        <role>Murphy</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Birchard</name>
+        <role>Cop with Fat Thug</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/3A8JwCXwIE3qYwaFLFyaixUp070.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walter Lewis</name>
+        <role>Medic</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vincent Riotta</name>
+        <role>Cop at 250 52nd St.</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/emNPSoWXnj6K5o8jrJP0E8dTWa0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nancy Crane</name>
+        <role>Nurse</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/nWdjMa7DCZRuKuDHc7f8X4sJBmn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>K. Todd Freeman</name>
+        <role>Polk</role>
+        <order>61</order>
+        <thumb>https://www.thetvdb.com/banners/actors/408107.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Shallenberger</name>
+        <role>Berg</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Andrew Gorman</name>
+        <role>Cop at Hospital</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/7xHTl0KTx26OaLE1WK585XMIfjV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lanny Lutz</name>
+        <role>Bartender</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter DeFaria</name>
+        <role>Civilian</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt Rippy</name>
+        <role>First Mate</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/nJhQoU3YaGcdd9xFbdXGjO1ciMN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Bicknell</name>
+        <role>Prison Ferry Pilot</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/vmsE8VHaXGbkxvUYafsOCVc8iyQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ariyon Bakare</name>
+        <role>Guard Commander</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/9M9tcUNydZaPkWUV99ZCTfQMre7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doug Ballard</name>
+        <role>Businessman</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/pWn5DbZikKsYRv8vR6OEGX8eqJR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helene Wilson</name>
+        <role>Mother</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tommy Campbell</name>
+        <role>Passenger</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/1AkUnOFAkTZ0WRisDy6LtEMxroF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Heaney</name>
+        <role>Passenger</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/iXn4TTCntTmIBqtpVhBQNqBDrRw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lorna Gayle</name>
+        <role>Passenger</role>
+        <order>73</order>
+        <thumb>https://image.tmdb.org/t/p/original/vtOeqxrUyOrjayBp989WQCQBDxF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa McAllister</name>
+        <role>Passenger</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Brooke</name>
+        <role>Passenger</role>
+        <order>75</order>
+        <thumb>https://image.tmdb.org/t/p/original/f5n8ZTFB6fKjQP23qwcsCyTIws5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Rollins</name>
+        <role>SWAT Sniper</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dale Rivera</name>
+        <role>SWAT Leader</role>
+        <order>77</order>
+        <thumb>https://image.tmdb.org/t/p/original/wVwh9rYwvSNSMjuFGko5ag7PkSI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Leitch</name>
+        <role>Prisoner on Ferry</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/jj9iELpbQ6p6RaCVYxbv67cFSsn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Gaitsch</name>
+        <role>Reporter #3</role>
+        <order>79</order>
+        <thumb>https://image.tmdb.org/t/p/original/rRmNpCk20tcdiCEGrcHE3dItqiw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Armstrong</name>
+        <role>Evans</role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/lW4dqrVuKKi3CK094JBJedSH6Qz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Kalesperis</name>
+        <role>Honor Guard Man</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tristan Tait</name>
+        <role>Uniform Cop</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bronson Webb</name>
+        <role>Bounty Hunter</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/foMvmr6ch16GGM1L413KA9UQKIO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Ajala</name>
+        <role>Bounty Hunter</role>
+        <order>84</order>
+        <thumb>https://image.tmdb.org/t/p/original/iD0ztIXTm4fGKf5IJ2PlngSbt0G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gertrude Kyles</name>
+        <role>Fox&apos;s Secretary</role>
+        <order>85</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Ryland</name>
+        <role>Passenger Ferry Pilot</role>
+        <order>86</order>
+        <thumb>https://image.tmdb.org/t/p/original/8rg718AwyzDR8hmn57IEnt9z7ha.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Scales</name>
+        <role>Guardsman</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nigel Carrington</name>
+        <role>Warden</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Pirie</name>
+        <role>Corrections Officer</role>
+        <order>89</order>
+        <thumb>https://image.tmdb.org/t/p/original/63VIC2jPUgrhSLvwAcbn3NeCFF5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lateef Lovejoy</name>
+        <role>Prisoner</role>
+        <order>90</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grahame Edwards</name>
+        <role>Prisoner</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roger Monk</name>
+        <role>Prisoner</role>
+        <order>92</order>
+        <thumb>https://image.tmdb.org/t/p/original/DI6xymNX68YWeF5uDgZdflmkIp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ronan Summers</name>
+        <role>Prisoner</role>
+        <order>93</order>
+        <thumb>https://image.tmdb.org/t/p/original/ruDRdRRhgC179bZjugtRWBeCqYm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wai Wong</name>
+        <role>Hong Kong Detective</role>
+        <order>94</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Corey Foster</name>
+        <role>Honor Guard Leader</role>
+        <order>95</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hannah Gunn</name>
+        <role>Gordon&apos;s Daughter</role>
+        <order>96</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Lambdin</name>
+        <role>Armored Car SWAT</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jon Lee Brody</name>
+        <role>Waiter (uncredited)</role>
+        <order>98</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Debbi Burns</name>
+        <role>Bank Patron (uncredited)</role>
+        <order>99</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maritza Cabrera</name>
+        <role>Party Guest (uncredited)</role>
+        <order>100</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shirin Caiola</name>
+        <role>Party Guest with Glass (uncredited)</role>
+        <order>101</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laura Chernicky</name>
+        <role>Party Guest (uncredited)</role>
+        <order>102</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Henry Milton Chu</name>
+        <role>Lau Henchman (uncredited)</role>
+        <order>103</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kelli Clevenger</name>
+        <role>Paramedic (uncredited)</role>
+        <order>104</order>
+        <thumb>https://image.tmdb.org/t/p/original/jWgexVNg98n124drNJKhs4DXihQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Divizio</name>
+        <role>Chechen Gangster (uncredited)</role>
+        <order>105</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Domino</name>
+        <role>Press Conference Heckler (uncredited)</role>
+        <order>106</order>
+        <thumb>https://image.tmdb.org/t/p/original/hjfhnichBBTXvWHptvgJ4xFcKSP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Fultz</name>
+        <role>Pedestrian (uncredited)</role>
+        <order>107</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natalie Hallam</name>
+        <role>Ferry Passenger (uncredited)</role>
+        <order>108</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Ag2kN9CfbZQFuJhVrljD1gMBOy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordon Hodges</name>
+        <role>Police Officer (uncredited)</role>
+        <order>109</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erron Jay</name>
+        <role>Prisoner (uncredited)</role>
+        <order>110</order>
+        <thumb>https://image.tmdb.org/t/p/original/mTPr4MS1FtWVGL6yLTo6oluPi7w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicky Katt</name>
+        <role>Shotgun SWAT (uncredited)</role>
+        <order>112</order>
+        <thumb>https://image.tmdb.org/t/p/original/hilP3OGSQQjCYw1YSUeiggnSZ9A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Kosik</name>
+        <role>Parade Police Officer (uncredited)</role>
+        <order>113</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Kress</name>
+        <role>Maroni&apos;s Henchman (uncredited)</role>
+        <order>114</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tim Krueger</name>
+        <role>Assistant D.A. (uncredited)</role>
+        <order>115</order>
+        <thumb>https://image.tmdb.org/t/p/original/hwvT9KI7v7OX19JhlkuyYDhyjRM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Latham</name>
+        <role>Police Sgt. Spellman / Gotham Bomb Squad (uncredited)</role>
+        <order>116</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom McComas</name>
+        <role>Helicopter SWAT Sniper (uncredited)</role>
+        <order>117</order>
+        <thumb>https://image.tmdb.org/t/p/original/aUuO4bZ4oKkCgljT4wPrEyvqq4S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Mellor</name>
+        <role>Ferry Passenger (uncredited)</role>
+        <order>118</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph Oliveira</name>
+        <role>Officer (uncredited)</role>
+        <order>119</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Buster Reeves</name>
+        <role>Joker&apos;s Thug #2 (uncredited)</role>
+        <order>120</order>
+        <thumb>https://image.tmdb.org/t/p/original/2HzxVrNFJN8CGx45XAByl8EXise.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Rnic</name>
+        <role>Prisoner (uncredited)</role>
+        <order>121</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amit Shah</name>
+        <role>Party Guest (uncredited)</role>
+        <order>122</order>
+        <thumb>https://image.tmdb.org/t/p/original/s6zx8CumxTGq0kULxp6H6nc1DDA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Shields</name>
+        <role>Angry Hospital Relative (uncredited)</role>
+        <order>123</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sofiya Smirnova</name>
+        <role>Evacuee (uncredited)</role>
+        <order>124</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bruce Spielbauer</name>
+        <role>High-Ranking Police Official (uncredited)</role>
+        <order>125</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Patrick Stern</name>
+        <role>Extra (uncredited)</role>
+        <order>126</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Stone</name>
+        <role>Dept. of Corrections Resident (uncredited)</role>
+        <order>127</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Strobel</name>
+        <role>Detective (uncredited)</role>
+        <order>128</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Townsend</name>
+        <role>Police Officer (uncredited)</role>
+        <order>129</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Turk</name>
+        <role>Chechen&apos;s Bodyguard (uncredited)</role>
+        <order>130</order>
+        <thumb>https://image.tmdb.org/t/p/original/96XhhHhxID2L72uvXHaNmClWwIO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Warman</name>
+        <role>Detective (uncredited)</role>
+        <order>131</order>
+        <thumb>https://image.tmdb.org/t/p/original/vn9yprak8rarcy99iRB1Kfn7DA8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Wilson</name>
+        <role>Major Crime Unit Detective (uncredited)</role>
+        <order>133</order>
+        <thumb>https://image.tmdb.org/t/p/original/AbN1FqJYx6R14B8jHmBBFFZ75oY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Zaideman</name>
+        <role>Party Staff (uncredited)</role>
+        <order>134</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rob Clark</name>
+        <role>Party Guest (uncredited)</role>
+        <order>135</order>
+        <thumb>https://image.tmdb.org/t/p/original/vjlYmYotFTAI9WZeZG5ENk41igf.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 16:58:01</dateadded>
+</movie>

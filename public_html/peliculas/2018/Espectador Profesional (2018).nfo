@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Espectador Profesional</title>
+    <originaltitle>The Clapper</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>6324</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.800000</value>
+            <votes>169</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Eddie Krumble vive una vida feliz y modesta trabajando como un aplaudidor en la televisión. Pero sus quince minutos de fama amenazan con arruinar su vida.</plot>
+    <tagline>Puede encontrar el uno al otro cuando todo el mundo se está buscando?</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg">https://image.tmdb.org/t/p/original/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/k8EJCeDsI42jqA9ipGhjUpY3q2i.jpg">https://image.tmdb.org/t/p/original/k8EJCeDsI42jqA9ipGhjUpY3q2i.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rjSxV0WID9u9GSUcFpT70EZfbUM.jpg">https://image.tmdb.org/t/p/original/rjSxV0WID9u9GSUcFpT70EZfbUM.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xKtwGBji7GJSevvapkT0xZwBR0Y.jpg">https://image.tmdb.org/t/p/original/xKtwGBji7GJSevvapkT0xZwBR0Y.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/byZVGv6Ltd56mosfbe1mOaaREbA.jpg">https://image.tmdb.org/t/p/original/byZVGv6Ltd56mosfbe1mOaaREbA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dnBpa3Ih5TvgWs29G1J74akoXCi.jpg">https://image.tmdb.org/t/p/original/dnBpa3Ih5TvgWs29G1J74akoXCi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uE9O0drJxMfM4wJldX9VtNFouvD.jpg">https://image.tmdb.org/t/p/original/uE9O0drJxMfM4wJldX9VtNFouvD.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5461956</id>
+    <uniqueid type="imdb" default="true">tt5461956</uniqueid>
+    <uniqueid type="tmdb">422615</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Dito Montiel</credits>
+    <director>Dito Montiel</director>
+    <premiered>2018-01-26</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pacific Electric Picture Company</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hFYwmBzqoac</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5403</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ed Helms</name>
+        <role>Eddie Krumble</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amanda Seyfried</name>
+        <role>Judy</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tracy Morgan</name>
+        <role>Chris</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/v7l37yzapiVav6dAUxnYseu9tZq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Levine</name>
+        <role>Ranter</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ucSpYIUJ0gKkHlPhQrHEs2HdFxZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Russell Peters</name>
+        <role>Stillerman</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/yVOYFZsklBt3726FcVwfZcVhoU1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>P. J. Byrne</name>
+        <role>Mr. Caldwell</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/sKqr3A3LjLYlRCXJGJI8rjpdMOs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leah Remini</name>
+        <role>Producer Louise</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/19QpURecs6wDY9G46AmT7JnTchS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Ransone</name>
+        <role>Darth Guy</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/9j39UVIex7nIAOMaNqo0w9yJpSG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brenda Vaccaro</name>
+        <role>Ida Krumble</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/oTaUQjl7YBbXnvUR4BdQAouKMlb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Thicke</name>
+        <role>Alan Thicke</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/7GpmdCl6aeTbRyqXWmcqkWoQMlF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Guenveur Smith</name>
+        <role>Dr. Rogers B Hay</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/nirMuzBKoMSq4ufqydS2VFdiAdJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Cuban</name>
+        <role>Mark Cuban</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/iK8LVp8R9Pf2MnYWBP6c0HKPf2D.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nico Santos</name>
+        <role>Buffet Person</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/e96iYbxaqC9zGaFPxZ2fH82MBNu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Giebenhain</name>
+        <role>Tambakis</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/uXisUiQerenRllpRJw2yVORoeyO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Blanks</name>
+        <role>Billy Blanks</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/bs7utYFkIbc40BGImAa2QRhsLX5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Gronkowski</name>
+        <role>Rob Gronkowski</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/3YSJQDoZArlPfA9eatMaEb0MQvU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Sampaio</name>
+        <role>Sara Sampaio</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/47pKw1N34igDLHTp33RVKSwobb6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Halford</name>
+        <role>Ronnie</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/mrCy6dA5AHqczA4aJX4drCQ3tjC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendy Braun</name>
+        <role>Wendy</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/37e6hVBjMMMdPNwX9DOK8AzFhVR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cody Renee Cameron</name>
+        <role>Mohawk Girl</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/wJBmJEPiFGjtEewEiwPMsz44DZh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Anthony Tambakis</name>
+        <role>Blue-Eyed Intern</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mickey Gooch Jr.</name>
+        <role>Yugoslavia</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Diona Reasonover</name>
+        <role>Big Bang Theory Producer</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/1X7UkPIA6hnGlOMAoq4gHxIChY2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isabella Sanchez</name>
+        <role>Sexy Bailiff</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Vrotsos</name>
+        <role>Hercules Karesh</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/nhAiwpRV9QjtGlsLP0xsPbXf5Dg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger V. Burton</name>
+        <role>Elderly Man</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/w2ewhb36suQ5vYMlwY7YKCVPr0t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Bouderau</name>
+        <role>Man in Line</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/l3XJElzo5WqVzeNnL2CdAeVPjmp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rogelio T. Ramos</name>
+        <role>Defense Attorney</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marcela Macias</name>
+        <role>Spanish TV Producer</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/wRFCu1eQvJYq847k9M1wXj06TTf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Barroso</name>
+        <role>Spiderman</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/A3BWUd2GdFBumWvuAYkh96z0Pfz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margaret Newborn</name>
+        <role>Bus Passenger / Pedestrian</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/fd0EyXszte0j9TwB9oNc5EPEIZB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darrion Scoggins</name>
+        <role>Burger Patron</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Hermosa</name>
+        <role>Audience Member</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/crZ8EgDsoqdpC1VcekfdPzGXFPW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Callaway</name>
+        <role>Audience Member</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/bB321kmvCAg8CH3y4cmtNmywgnu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Randazzo</name>
+        <role>Naked Thomas</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/ufifD3uO2pqNNsrLAwbAkbyzJ7i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teya Patt</name>
+        <role>Frantic Woman</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/778xyYguunFecmWcdQerG9b5MeN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liana Legaspi</name>
+        <role>Hallway Reporter</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/eyierdHXyKvsd9Zmsvt0GuSMKan.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aemilia Scott</name>
+        <role>Pet Store Owner</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/3kiTdmHIg5lknoO8BiJYJ17buX7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victor A. Chapa</name>
+        <role>Alfie</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/wBory8LmlBPKsgafa2pAw2dPYyE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wade Barrett</name>
+        <role>Mother</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/a59B0ClvtkmPJtZntmlQyzFaIPU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Gilbert</name>
+        <role>New Attendant</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/5YefjdRYjWDMWCOzW7Iph1SoY2A.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 22:16:30</dateadded>
+</movie>

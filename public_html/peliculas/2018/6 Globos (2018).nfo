@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>6 Globos</title>
+    <originaltitle>6 Balloons</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>3522</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>189</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En el transcurso de una noche, una mujer recorre Los Ángeles con su hermano, adicto a la heroína, en busca de un centro de desintoxicación</plot>
+    <tagline>Let go with love.</tagline>
+    <runtime>75</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d5iOt4FZcTsnxLtpq0UXkT0JuOZ.jpg">https://image.tmdb.org/t/p/original/d5iOt4FZcTsnxLtpq0UXkT0JuOZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg">https://image.tmdb.org/t/p/original/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j15dMVioCx4QArhchBRtldHJIBw.jpg">https://image.tmdb.org/t/p/original/j15dMVioCx4QArhchBRtldHJIBw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gTMV74rEOxH5ESsWg8RbReJgEr5.jpg">https://image.tmdb.org/t/p/original/gTMV74rEOxH5ESsWg8RbReJgEr5.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vnPl93ld9Sfp9gkSFGOh7v0cjRy.jpg">https://image.tmdb.org/t/p/original/vnPl93ld9Sfp9gkSFGOh7v0cjRy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1NjPFOhZJ4K0zpuytc8Tyh9QrXN.jpg">https://image.tmdb.org/t/p/original/1NjPFOhZJ4K0zpuytc8Tyh9QrXN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1RQGjJ3FN5nZbcXpJFjOTu6jxqV.jpg">https://image.tmdb.org/t/p/original/1RQGjJ3FN5nZbcXpJFjOTu6jxqV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tOScxFY4A4Cmm1i5VY6vqmSnR2N.jpg">https://image.tmdb.org/t/p/original/tOScxFY4A4Cmm1i5VY6vqmSnR2N.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6142496</id>
+    <uniqueid type="imdb" default="true">tt6142496</uniqueid>
+    <uniqueid type="tmdb">500634</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Marja-Lewis Ryan</credits>
+    <director>Marja-Lewis Ryan</director>
+    <premiered>2018-03-12</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Campfire</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9uF4XjvS_Z0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4515</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Abbi Jacobson</name>
+        <role>Katie</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/tYTlv2MmiOjPfkOE9ywGAaqllbv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Franco</name>
+        <role>Seth</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/lgzjs56hk0ucf2rwQnSG5U3Q49i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Matheson</name>
+        <role>Gary</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/trZ4QaDidCOPNy7HK9cYnmKHkg9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jane Kaczmarek</name>
+        <role>Gayle</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/feFWEstrs4gHDIYNMACdvMGdNb9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maya Erskine</name>
+        <role>Cameron</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/w38pRqT38KYiPWO5L1Ex5jBw1Ge.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jen Tullock</name>
+        <role>Bianca</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ol2UKDIJMLrzfZHUEt9u95uxym.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dawan Owens</name>
+        <role>Jack</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/hHnauRllKwfZU9IJFbHwSTLp8oI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Carel</name>
+        <role>Ella</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Heidi Sulzman</name>
+        <role>Pharmacist</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tahmus Rounds</name>
+        <role>Dealer</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lindsey Haun</name>
+        <role>Meditation Podcast</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:22:29</dateadded>
+</movie>

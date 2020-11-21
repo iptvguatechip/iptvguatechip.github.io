@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ARQ</title>
+    <originaltitle>ARQ</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>34102</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>752</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En un futuro distópico, un ingeniero atrapado en una casa y rodeado por una misteriosa banda de intrusos enmascarados debe proteger una tecnología que podría desarrollar energía ilimitada y poner fin a las guerras que han consumido el mundo. Esa tecnología ha creado un bucle temporal que hace que revivan el mismo ataque mortal a su laboratorio una y otra vez.</plot>
+    <tagline></tagline>
+    <runtime>87</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg">https://image.tmdb.org/t/p/original/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oX6rYilUqQJMcMzCn6K61UifOnN.jpg">https://image.tmdb.org/t/p/original/oX6rYilUqQJMcMzCn6K61UifOnN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lmWgxzQ7elUxUYvOfxbSmifaJz6.jpg">https://image.tmdb.org/t/p/original/lmWgxzQ7elUxUYvOfxbSmifaJz6.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5640450</id>
+    <uniqueid type="imdb" default="true">tt5640450</uniqueid>
+    <uniqueid type="tmdb">410199</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Tony Elliott</credits>
+    <director>Tony Elliott</director>
+    <premiered>2016-09-16</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>MXN Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vK_9XqNpFTU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5278</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Robbie Amell</name>
+        <role>Renton</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachael Taylor</name>
+        <role>Hannah</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/wpnZClDzLWOQKUUlTAylTQKIaK3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gray Powell</name>
+        <role>Father</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jacob Neayem</name>
+        <role>Brother</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/1HA5cQCXLRZDShexHIse8LhVyCO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaun Benson</name>
+        <role>Sonny</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/dmCEoh9fQAT9gP2AseLWKiqJUUn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Butcher</name>
+        <role>Cuz</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqQBmOIZ0ddv0H9P26OWiSchbnA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Spilchuk</name>
+        <role>Mobius Common (voice)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tantoo Cardinal</name>
+        <role>The Pope</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/v4OxVfmt8mxrgf37Fs1JDdWemoV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Van Burek</name>
+        <role>News Anchor (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/ttIKylc0Ok75g9tES1h9lEvyZhH.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-14 17:29:24</dateadded>
+</movie>

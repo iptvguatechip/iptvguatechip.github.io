@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El brujo y la serpiente blanca</title>
+    <originaltitle>白蛇传说</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>8010</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>132</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La historia de la película se basa en la leyenda china y se centra en un joven estudiante (Raymond Lam) que se enamora de una bella mujer (Huang Shengyi), sin saber que ella es una serpiente blanca que ha tomado forma humana. Un monje llamado Fahai (Jet Li) interviene para salvar el alma de joven encerrando a la serpiente blanca en un pozo profundo. Nuevo remake de un clásico de la Shaw Brothers. La cinta original de 1962, White Snake, ya tuvo una adaptación en 1993 titulada Green Snake que dirigio Tsui Hark y protagonizó entre otros, Maggie Cheung.</plot>
+    <tagline></tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5Jfv3CtMULd41C5jpLR8PGAMgE3.jpg">https://image.tmdb.org/t/p/original/5Jfv3CtMULd41C5jpLR8PGAMgE3.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vq37qUPoLiigM0OCmzPX4ty3Qaw.jpg">https://image.tmdb.org/t/p/original/vq37qUPoLiigM0OCmzPX4ty3Qaw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/utA5E2VYnHhChxTryexq05dONBP.jpg">https://image.tmdb.org/t/p/original/utA5E2VYnHhChxTryexq05dONBP.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1857913</id>
+    <uniqueid type="imdb" default="true">tt1857913</uniqueid>
+    <uniqueid type="tmdb">75948</uniqueid>
+    <genre>Acción</genre>
+    <genre>Fantasía</genre>
+    <country>China</country>
+    <director>Ching Siu-Tung</director>
+    <premiered>2011-09-27</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Juli Entertainment Media</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E5KR-SDeQII</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>640.000000</aspect>
+                <width>1280</width>
+                <height>538</height>
+                <durationinseconds>5632</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jet Li</name>
+        <role>Abbot Fahai</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/5a6u17dAf11kLvdRUG6QdoRRURj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eva Huang</name>
+        <role>White Snake / Su Su</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/gslX12K81KDhS78izlSSH9oBNLB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raymond Lam</name>
+        <role>Xu Xian</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bdHFJR6TwwVyPDWOFu9PG7XrRof.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wen Zhang</name>
+        <role>Monk Neng Ren</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/1HbnM698Czsd7wc00f6cCgGRYEp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlene Choi</name>
+        <role>Green Snake / Qing Qing</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9f4cT2AgaDsvEwMQRirs0w01mF1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vivian Hsu</name>
+        <role>Ice Harpy</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wVSmw5KI0UsghScemnU9SupeOaC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jiang Wu</name>
+        <role>Turtle Devil</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2eUlOQ4JlGUMMAPNHgxZ4uO4ONA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miriam Yeung</name>
+        <role>Rabbit Devil</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/wP7EuJ7Iy3ZjoneWxjF41fntIOk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chapman To</name>
+        <role>Toad Monster/Gu Gu</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/xkgw8jyF4JFX2LANQ8kJKwUmq4A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lam Suet</name>
+        <role>Chicken Devil</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5ZvphtA3dwsDu81lF3TV8rIwt4l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Song Wenjia</name>
+        <role>Fox spirit</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angela Tong</name>
+        <role>Cat Demon</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/zuCEjX7yWPFbWQOIa6cjcfTiE5I.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-31 17:12:28</dateadded>
+</movie>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Oddball y sus pingüinos</title>
+    <originaltitle>Oddball</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>2519</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>48</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Basada en la historia real de Allan y su perro, quien convenció a las autoridades locales para permitir que su mascota protegiera una colonia de pequeños pingüinos en Middle Island del ataque de ciertos animales salvajes.</plot>
+    <tagline>Cada desvalido tiene su día.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8DoiFnHXzZhkyNyGw6s7DGpaauA.jpg">https://image.tmdb.org/t/p/original/8DoiFnHXzZhkyNyGw6s7DGpaauA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2qp2iBbdPNyt8Rfy0aE4RAkbw1Y.jpg">https://image.tmdb.org/t/p/original/2qp2iBbdPNyt8Rfy0aE4RAkbw1Y.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wDNlL4f71ie3uVC2hQ79vVxveT8.jpg">https://image.tmdb.org/t/p/original/wDNlL4f71ie3uVC2hQ79vVxveT8.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3401748</id>
+    <uniqueid type="imdb" default="true">tt3401748</uniqueid>
+    <uniqueid type="tmdb">356905</uniqueid>
+    <genre>Familia</genre>
+    <genre>Aventura</genre>
+    <country>Australia</country>
+    <credits>Peter Ivan</credits>
+    <director>Stuart McDonald</director>
+    <premiered>2015-09-17</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>WTFN Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P7AV2ZYlxvI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5708</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Alan Tudyk</name>
+        <role>Bradley Slater</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/w56mp2ky1t7ORDsoGQP00OHlyic.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Snook</name>
+        <role>Emily Marsh</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/zRJgAGsu9dxpLEwwqmAslTQbwx1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Coco Jack Gillies</name>
+        <role>Olivia</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/uwV9xZIgryrH1wTEqs36iDZRZiC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Jacobson</name>
+        <role>Swampy</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9AatyV42M7x6JufAOpHKqOTGts3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deborah Mailman</name>
+        <role>Mayor Lake</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/pYVz0DnBF7O84mHsckye4LUaaM2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terry Camilleri</name>
+        <role>Judge Burns</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7snba5wE56wgHLUrASQxZySSm8C.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 20:20:27</dateadded>
+</movie>

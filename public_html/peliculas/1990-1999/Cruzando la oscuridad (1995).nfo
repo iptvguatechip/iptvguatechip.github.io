@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Crossing Guard</title>
+    <originaltitle>The Crossing Guard</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>12620</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>158</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>After his daughter died in a hit and run, Freddy Gale has waited six years for John Booth, the man responsible, to be released from prison. On the day of release, Gale visits Booth and announces that he will kill him in one week. Booth uses his time to try and make peace with himself and his entourage, and even finds romance. Gale, whose life is spiraling down because of his obsession towards Booth, will bring himself on the very edge of sanity. At he end of the week, both men will find themselves on a collision course with each other.</plot>
+    <tagline>...some lives cross, others collide.</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kogaCIIylHmWQo2gJrrdq8Br8b8.jpg">https://image.tmdb.org/t/p/original/kogaCIIylHmWQo2gJrrdq8Br8b8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9XS98BfqZHmJmVBJdJVXJWkOyMT.jpg">https://image.tmdb.org/t/p/original/9XS98BfqZHmJmVBJdJVXJWkOyMT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/otL93Cs0pHAc0pR4CF3yAY436tY.jpg">https://image.tmdb.org/t/p/original/otL93Cs0pHAc0pR4CF3yAY436tY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9Z9o36DhJak92HdgAuZsfITsBAm.jpg">https://image.tmdb.org/t/p/original/9Z9o36DhJak92HdgAuZsfITsBAm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oi9RFxqb5Tncm7VvDnVT6sZUWyH.jpg">https://image.tmdb.org/t/p/original/oi9RFxqb5Tncm7VvDnVT6sZUWyH.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0112744</id>
+    <uniqueid type="imdb" default="true">tt0112744</uniqueid>
+    <uniqueid type="tmdb">27526</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Sean Penn</credits>
+    <director>Sean Penn</director>
+    <premiered>1995-11-15</premiered>
+    <year>1995</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Miramax</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jZBxl80GCqI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>mpeg4</codec>
+                <aspect>24.000000</aspect>
+                <width>720</width>
+                <height>390</height>
+                <durationinseconds>6364</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jack Nicholson</name>
+        <role>Freddy Gale</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Morse</name>
+        <role>John Booth</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xPBjyyrnEDSaOdcQRXvA6NlyilW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anjelica Huston</name>
+        <role>Mary</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Wright</name>
+        <role>Jojo</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/roJedXmjqEcSOC1HaQ4e9gEWdR3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Piper Laurie</name>
+        <role>Helen Booth</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/huDPKTgm9IHFaX8dLwCnLqqAA8f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Bradford</name>
+        <role>Stuart Booth</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/oxLUtBUC5V0Uws7hvrBAwTBXQ38.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Priscilla Barnes</name>
+        <role>Verna</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7v7otvkFHxwJ7ZTpuwatkIRoDOA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Baerwald</name>
+        <role>Peter</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robbie Robertson</name>
+        <role>Roger</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Savage</name>
+        <role>Bobby</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/sVhvlTxebRJPQBwD0UYpI8IAonn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kari Wuhrer</name>
+        <role>Mia</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/sTWVUK4WBcSpuIotCjlU7sRaEH7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Leigh Warren</name>
+        <role>Jennifer</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kellita Smith</name>
+        <role>Tanya</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/9TFf7JHih0faZ28zVPAmDwvI4KT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobby Cooper</name>
+        <role>Coop</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Morris</name>
+        <role>Silas</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/nAZRsstL5d88PlqSeTdocqOm29U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Buddy Anderson</name>
+        <role>Buddy</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward L. Katz</name>
+        <role>Eddie</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Viterelli</name>
+        <role>Joe</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/tGXum13Ec5Uigw7myg4qcU9wahy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eileen Ryan</name>
+        <role>Woman in shop</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryo Ishibashi</name>
+        <role>Jefferey</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntzIO0QqNS8xKYwYnYhE3m3Dc5d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dennis Fanning</name>
+        <role>Cop #1</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lisa Crawford</name>
+        <role>Cop #2</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay Koiwai</name>
+        <role>Asian Man</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Gilliam</name>
+        <role>Little Asian Girl</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Ryan</name>
+        <role>Twin Boy #1</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/zLPWbwdHNCCe1nfD8gYSqZRsazy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leo Penn</name>
+        <role>Hank</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/efb6SAVE9jBrHaBxAWMMRiMr1CG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penelope Allen</name>
+        <role>Woman On Bus</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/e9C2At9GpsvCmYGdMOce7uyNL7T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard C. Sarafian</name>
+        <role>Sunny Ventura</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Ryan</name>
+        <role>Twin Boy #2</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-23 18:31:16</dateadded>
+</movie>

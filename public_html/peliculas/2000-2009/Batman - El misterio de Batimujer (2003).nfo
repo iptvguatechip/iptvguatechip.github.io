@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Batman: El misterio de Batimujer</title>
+    <originaltitle>Batman: Mystery of the Batwoman</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>11020</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>224</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un nuevo vigilante denominada Batwoman esta asolando la ciudad de Gotham. Mientras esta se dedica a desbaratar los planes del Pingüino, Batman tratara de descubrir su verdadera identidad Pero cuando ella es capturada por Bane, el caballero oscuro tendrá que rescatarla, derrotar a Bane y acabar con los planes del Pingüino.</plot>
+    <tagline>Gotham City&apos;s newest hero... or criminal?</tagline>
+    <runtime>74</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4fDffWkGuIt62GQVAUTUgRoZxT2.jpg">https://image.tmdb.org/t/p/original/4fDffWkGuIt62GQVAUTUgRoZxT2.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/feOIJaQTUDaPRgt3g9U5xQhJPoq.jpg">https://image.tmdb.org/t/p/original/feOIJaQTUDaPRgt3g9U5xQhJPoq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zZRHTnkgjEbhomBAeq60JSQvchg.jpg">https://image.tmdb.org/t/p/original/zZRHTnkgjEbhomBAeq60JSQvchg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mlmhpUArJdpRPO211v3lETe3uzg.jpg">https://image.tmdb.org/t/p/original/mlmhpUArJdpRPO211v3lETe3uzg.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/n18ZlhGHwlOTIKvcdOran1T7std.jpg">https://image.tmdb.org/t/p/original/n18ZlhGHwlOTIKvcdOran1T7std.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7B0nHoJ8761XZE4x4R2K55QZy4R.jpg">https://image.tmdb.org/t/p/original/7B0nHoJ8761XZE4x4R2K55QZy4R.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1LGFQ68E8sIDHNHAugHZj2iJ9sU.jpg">https://image.tmdb.org/t/p/original/1LGFQ68E8sIDHNHAugHZj2iJ9sU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xgF9ZVBVYMe51lMXrUeQE52ImVa.jpg">https://image.tmdb.org/t/p/original/xgF9ZVBVYMe51lMXrUeQE52ImVa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2Li2vaWeCIMYwcgC9yU3Z99LDVL.jpg">https://image.tmdb.org/t/p/original/2Li2vaWeCIMYwcgC9yU3Z99LDVL.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0346578</id>
+    <uniqueid type="imdb" default="true">tt0346578</uniqueid>
+    <uniqueid type="tmdb">21683</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Fantasía</genre>
+    <genre>Animación</genre>
+    <genre>Acción</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Batman (DC Universo Animado) - Colección</name>
+    </set>
+    <credits>Alan Burnett</credits>
+    <director>Curt Geda</director>
+    <director>Tim Maltby</director>
+    <premiered>2003-10-21</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DC Comics</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qe9evYaBZ9M</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>4488</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kevin Conroy</name>
+        <role>Bruce Wayne / Batman</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/4MVApMiARrecuVjTCPfi6Z7biLW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tara Strong</name>
+        <role>Barbara Gordon</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9S3QzI3L5aARP8GYYO86rREKxU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Héctor Elizondo</name>
+        <role>Bane</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyra Sedgwick</name>
+        <role>Batwoman</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/aA5pdU9SpM2F5vmVRPrj0gPYUll.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Ogden Stiers</name>
+        <role>Oswald Chesterfield Cobblepot / The Penguin</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Efrem Zimbalist Jr.</name>
+        <role>Alfred Pennyworth</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nMfmluUYjgQODrLwwUDHh7QQtww.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Hastings</name>
+        <role>Commissioner Jim Gordon</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/j8Bcul6PCSDOwY4tl2wLkcelgYf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Ripa</name>
+        <role>Dr. Roxanne &apos;Rocky&apos; Ballantine</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kimberly Brooks</name>
+        <role>Kathleen &apos;Kathy&apos; Duquesne</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/lgcinmzMVw9PSleeF9TrGPgRCaX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisa Gabrielli</name>
+        <role>Detective Sonia Alcana</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYVa8kVL0Qgf1yNmMf5KFM2HFHN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Vernon</name>
+        <role>Rupert Thorne</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/gcDiT7lbejFskdFMEx5syWSRfnj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Michael Richardson</name>
+        <role>Carlton Duquesne</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/vgCGZMxz06kfnF97ilZTujyk7Ye.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Costanzo</name>
+        <role>Detective Harvey Bullock</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ca97VpbTgX7jhBfAUIsczRCHRV5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eli Marienthal</name>
+        <role>Tim Drake / Robin</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/lrIygexYKs1bhcIjbHtyCejRaAe.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:51</dateadded>
+</movie>

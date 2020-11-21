@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Reina de las Nieves 3: Fuego y hielo</title>
+    <originaltitle>Снежная королева 3. Огонь и лед</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>2014</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>29</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de derrotar heroicamente tanto a la Reina de la Nieve como al Rey de la Nieve, Gerda y sus amigos emprenden un largo viaje para encontrar a sus padres, que tiempo atrás se los llevó el Viento del Norte. Durante el viaje, encontrarán un antiguo artefacto mágico, la Piedra de Fuego y Hielo, y a partir de ese momento las cosas no irán de acuerdo con el plan inicial.</plot>
+    <tagline></tagline>
+    <runtime>89</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/r2ONwf2TcKULpPAEpqfOAK2bgXi.jpg">https://image.tmdb.org/t/p/original/r2ONwf2TcKULpPAEpqfOAK2bgXi.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/S53UcTvYXmfwNm5dOqXu6yMbuN.jpg">https://image.tmdb.org/t/p/original/S53UcTvYXmfwNm5dOqXu6yMbuN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cOGD8MNfb6Fs18GBsbj3GHfj4ut.jpg">https://image.tmdb.org/t/p/original/cOGD8MNfb6Fs18GBsbj3GHfj4ut.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1sSjMQs3c9PbfXAa19oAoSqX3dG.jpg">https://image.tmdb.org/t/p/original/1sSjMQs3c9PbfXAa19oAoSqX3dG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kGTpW3l5psK3sNg5ckZeNr11nO7.jpg">https://image.tmdb.org/t/p/original/kGTpW3l5psK3sNg5ckZeNr11nO7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1vEGW6lMv2978fUnyh6ybfftCPq.jpg">https://image.tmdb.org/t/p/original/1vEGW6lMv2978fUnyh6ybfftCPq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zbUMFpLxBxZaLnS0ZJvOVStOoVD.jpg">https://image.tmdb.org/t/p/original/zbUMFpLxBxZaLnS0ZJvOVStOoVD.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4685554</id>
+    <uniqueid type="imdb" default="true">tt4685554</uniqueid>
+    <uniqueid type="tmdb">362058</uniqueid>
+    <genre>Familia</genre>
+    <genre>Animación</genre>
+    <genre>Fantasía</genre>
+    <genre>Comedia</genre>
+    <country>Russia</country>
+    <set>
+        <name>La Reina de las Nieves - Colección</name>
+    </set>
+    <credits>Robert Lence</credits>
+    <credits>Alexey Tsitsilin</credits>
+    <director>Alexey Tsitsilin</director>
+    <premiered>2016-12-29</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Wizart Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-jLLXKW385g</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5350</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Natalya Bystrova</name>
+        <role>(voice)</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Filipp Lebedev</name>
+        <role>(voice)</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Diomid Vinogradov</name>
+        <role>(voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4VXryQlIAvpsXwUm2VTqsQI4ouJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandr Gruzdev</name>
+        <role>(voice)</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Olga Zubkova</name>
+        <role>(voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/btG5MZUXShaaDSNwfG99sdPlr7v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nikolai Bystrov</name>
+        <role>(voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-03 17:23:57</dateadded>
+</movie>

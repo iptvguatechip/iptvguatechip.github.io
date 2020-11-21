@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Winnie the Pooh</title>
+    <originaltitle>Winnie the Pooh</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>21508</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.900000</value>
+            <votes>559</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Mientras buscan miel, Pooh y sus amigos se embarcan en una aventura para encontrar la cola perdida de Igor y rescatar a Christopher Robin de un monstruo desconocido llamado Pronto.</plot>
+    <tagline>Oh Pooh.</tagline>
+    <runtime>63</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4BmdbKqbKln9hmCazLAGCTE8tGf.jpg">https://image.tmdb.org/t/p/original/4BmdbKqbKln9hmCazLAGCTE8tGf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wMZU69sPEP8dSNU0nMWVt7b54EQ.jpg">https://image.tmdb.org/t/p/original/wMZU69sPEP8dSNU0nMWVt7b54EQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9T8emBz4BqhahoAuhcOU9X2y0IQ.jpg">https://image.tmdb.org/t/p/original/9T8emBz4BqhahoAuhcOU9X2y0IQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/84jyBXwnjeR0ntphOQ2C1dlsLT5.jpg">https://image.tmdb.org/t/p/original/84jyBXwnjeR0ntphOQ2C1dlsLT5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n5jvXJwr8brjjOFVhLYAqaUg2DN.jpg">https://image.tmdb.org/t/p/original/n5jvXJwr8brjjOFVhLYAqaUg2DN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ajKPZ54u5V8i9p2XGaZlBrRmSQN.jpg">https://image.tmdb.org/t/p/original/ajKPZ54u5V8i9p2XGaZlBrRmSQN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v5vos0QiEIGvRbaBkbN0B3egQqC.jpg">https://image.tmdb.org/t/p/original/v5vos0QiEIGvRbaBkbN0B3egQqC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xlFs85nq62jeR4a9iHNGB113m6x.jpg">https://image.tmdb.org/t/p/original/xlFs85nq62jeR4a9iHNGB113m6x.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7F5oUpUqyDGuz4NUF805XiOnLHp.jpg">https://image.tmdb.org/t/p/original/7F5oUpUqyDGuz4NUF805XiOnLHp.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5lTe0toKgE7wfpCP6YuyWrXtKqU.jpg">https://image.tmdb.org/t/p/original/5lTe0toKgE7wfpCP6YuyWrXtKqU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v5QO5ow2E8UJun9EyoURm4nhVu5.jpg">https://image.tmdb.org/t/p/original/v5QO5ow2E8UJun9EyoURm4nhVu5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e0SlSnLQzIhdcr86akVJinA1Jau.jpg">https://image.tmdb.org/t/p/original/e0SlSnLQzIhdcr86akVJinA1Jau.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2Yxc2a64oklIGfpbCHp6Be4cEbF.jpg">https://image.tmdb.org/t/p/original/2Yxc2a64oklIGfpbCHp6Be4cEbF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4PmVFGjEIXhAhAPeeXX6PLfTjrY.jpg">https://image.tmdb.org/t/p/original/4PmVFGjEIXhAhAPeeXX6PLfTjrY.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1449283</id>
+    <uniqueid type="imdb" default="true">tt1449283</uniqueid>
+    <uniqueid type="tmdb">51162</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <director>Stephen J. Anderson</director>
+    <director>Don Hall</director>
+    <premiered>2011-04-13</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Walt Disney Animation Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hRT86ZggCEk</trailer>
+    <actor>
+        <name>John Cleese</name>
+        <role>Narrator (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Cummings</name>
+        <role>Winnie the Pooh / Tigger (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bud Luckey</name>
+        <role>Eeyore (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/csLjHwg7x1OFTiHjJAPpqNjjDiH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Ferguson</name>
+        <role>Owl (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/sN9x6gELldBvQ9cuRUBSLl8MVf8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Travis Oates</name>
+        <role>Piglet (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/pM1lp3yqGslYdgIOXLIgBGmNrDd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristen Anderson-Lopez</name>
+        <role>Kanga (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/j0IJP06I5SVUtxcbZ1oRG0SB2D8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Boulter</name>
+        <role>Christopher Robin (voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wyatt Hall</name>
+        <role>Roo (voice)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Kenny</name>
+        <role>Rabbit (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Huell Howser</name>
+        <role>Backson (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/rxC0nvVok6LmixWpSKIuzoQW1W2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Linder</name>
+        <role>Additional Voices (voice)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Lopez</name>
+        <role>Additional Voices (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/9UrQyBJHYZTl3STt3rATt9vBXfI.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 11:57:21</dateadded>
+</movie>

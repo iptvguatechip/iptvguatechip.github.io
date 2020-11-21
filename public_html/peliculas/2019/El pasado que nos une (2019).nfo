@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El pasado que nos une</title>
+    <originaltitle>After the Wedding</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>5406</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>97</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La directora de un orfanato hindú (Michelle Williams) se encuentra al borde de la bancarrota. Cuando descubre que su organización está a punto de recibir una considerable donación por parte de una empresaria norteamericana (Julianne Moore), viaja a Nueva York para conocerla. Sin embargo, allí se verá obligada a confrontar un pasado del que huyó tiempo atrás. Remake de la película danesa &quot;After the Wedding&quot;.</plot>
+    <tagline>Every family has a secret</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b0oOxSAtphpRJRmS1J1nf9PAGiE.jpg">https://image.tmdb.org/t/p/original/b0oOxSAtphpRJRmS1J1nf9PAGiE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg">https://image.tmdb.org/t/p/original/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yFLIAWYSB87toA8znkCrEXwKLO3.jpg">https://image.tmdb.org/t/p/original/yFLIAWYSB87toA8znkCrEXwKLO3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cYV73T6kfLZMKKw5rZ5xBd9IsRs.jpg">https://image.tmdb.org/t/p/original/cYV73T6kfLZMKKw5rZ5xBd9IsRs.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lmGjhhVlmulHCBZs8OANapElHj5.jpg">https://image.tmdb.org/t/p/original/lmGjhhVlmulHCBZs8OANapElHj5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ofPRKAHbAhKHzo1mjOACLZDdMaF.jpg">https://image.tmdb.org/t/p/original/ofPRKAHbAhKHzo1mjOACLZDdMaF.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7985692</id>
+    <uniqueid type="imdb" default="true">tt7985692</uniqueid>
+    <uniqueid type="tmdb">527385</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Bart Freundlich</credits>
+    <director>Bart Freundlich</director>
+    <premiered>2019-08-09</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paradox Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=22pa0wpGa9Q</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6727</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Julianne Moore</name>
+        <role>Theresa</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7G0Y2igys4ZIqz0WeR6wvAneKtn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Williams</name>
+        <role>Isabel</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tGRbxGPNIH1NuL2FhwEV0JJzuNf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Crudup</name>
+        <role>Oscar</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2fuCSqWskRaHNBJQsfb0iDPfnWa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abby Quinn</name>
+        <role>Grace</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xCUWxNskfb0ilBN4f7d3X32nGH3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Esola</name>
+        <role>Jonathan</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/fhNn8IUK4SaXPwa6ieaXTEX3KSV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susan Blackwell</name>
+        <role>Gwen</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mn8G5PuzlNz6I5hTOiPAl9jkTvZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Chase</name>
+        <role>Frank</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eisa Davis</name>
+        <role>Tanya</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greta Quispe</name>
+        <role>Cibele</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/AgpK6EzaI2WNxXPLW74le36ES4F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Cranmer</name>
+        <role>Eddie</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/jJJzpHya9UztPP7dAdlCWZ7isfq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric D. Hill Jr.</name>
+        <role>Friend</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Kim</name>
+        <role>Simon</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/xDK3KqQWXBuyXEvldqTQmpp5Mbi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doris McCarthy</name>
+        <role>Jonathan&apos;s Grandmother</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqHrbT8exZoyS2w7dmLGzmBldV8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Owens</name>
+        <role>Young Grace</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-05 18:49:40</dateadded>
+</movie>

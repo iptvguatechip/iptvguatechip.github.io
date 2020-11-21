@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Deadwood: La película</title>
+    <originaltitle>Deadwood: The Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>18290</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>185</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Mientras los residentes de Deadwood se reúnen para conmemorar la estadía de Dakota en 1889, el dueño del salón Al Swearengen y el marshal Seth Bullock chocan con el senador George Hearst.</plot>
+    <tagline>Welcome the fuck back.</tagline>
+    <runtime>110</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/crF3Q7tFEOeRWfmuSwj4ZkIryH9.jpg">https://image.tmdb.org/t/p/original/crF3Q7tFEOeRWfmuSwj4ZkIryH9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fCQ13cqd02dop7Chkov0fPl4r3t.jpg">https://image.tmdb.org/t/p/original/fCQ13cqd02dop7Chkov0fPl4r3t.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6RfWIIyin17GR5aFDlpivBlecmp.jpg">https://image.tmdb.org/t/p/original/6RfWIIyin17GR5aFDlpivBlecmp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/34iSCBqVkcw1nRaxSPSaVysX8Hu.jpg">https://image.tmdb.org/t/p/original/34iSCBqVkcw1nRaxSPSaVysX8Hu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hLRUlyjtTMJC1J3RsvjBds3DQKv.jpg">https://image.tmdb.org/t/p/original/hLRUlyjtTMJC1J3RsvjBds3DQKv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3Exig5lZ8OJXjfRvYbcqxkO62HB.jpg">https://image.tmdb.org/t/p/original/3Exig5lZ8OJXjfRvYbcqxkO62HB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6hwtHntak4KSWRcqRR99QhLu8sj.jpg">https://image.tmdb.org/t/p/original/6hwtHntak4KSWRcqRR99QhLu8sj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kIXJRoqUdqU9AowvS7PqBqMK8N8.jpg">https://image.tmdb.org/t/p/original/kIXJRoqUdqU9AowvS7PqBqMK8N8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zTyrr7jlOl9SC7vfA4uLq8n8j2N.jpg">https://image.tmdb.org/t/p/original/zTyrr7jlOl9SC7vfA4uLq8n8j2N.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zD6CAWSohk6yoELx0sEvkBMtOXh.jpg">https://image.tmdb.org/t/p/original/zD6CAWSohk6yoELx0sEvkBMtOXh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8LkIia2DSnQ1IRiBdgtPshenM8Z.jpg">https://image.tmdb.org/t/p/original/8LkIia2DSnQ1IRiBdgtPshenM8Z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7vO3IUxjjn3Q48lu3d7GbhbTYW5.jpg">https://image.tmdb.org/t/p/original/7vO3IUxjjn3Q48lu3d7GbhbTYW5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/A4cGBhzGeviOZxLL8mRDkC4Aukc.jpg">https://image.tmdb.org/t/p/original/A4cGBhzGeviOZxLL8mRDkC4Aukc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rzIE3Rq5aHivKWF508r7RUi3WWP.jpg">https://image.tmdb.org/t/p/original/rzIE3Rq5aHivKWF508r7RUi3WWP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/chlvTgnIiBK64x42qwbdn5UVXgd.jpg">https://image.tmdb.org/t/p/original/chlvTgnIiBK64x42qwbdn5UVXgd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h5KlF4paZYlvcPJoA9tYFB4dL6W.jpg">https://image.tmdb.org/t/p/original/h5KlF4paZYlvcPJoA9tYFB4dL6W.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ob9W014dVgOVZQRwZtUMj7XVLwG.jpg">https://image.tmdb.org/t/p/original/ob9W014dVgOVZQRwZtUMj7XVLwG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yLLy11BCvOFibG4b7Hvl8XHMZgD.jpg">https://image.tmdb.org/t/p/original/yLLy11BCvOFibG4b7Hvl8XHMZgD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jNF9jWMnKInLkOsO7TYt8DXBg4I.jpg">https://image.tmdb.org/t/p/original/jNF9jWMnKInLkOsO7TYt8DXBg4I.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bE9xYn64KsA5DB8qL1inwKN9olb.jpg">https://image.tmdb.org/t/p/original/bE9xYn64KsA5DB8qL1inwKN9olb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/38Q6FDwvnH0a15zcWhq3qw4DwdY.jpg">https://image.tmdb.org/t/p/original/38Q6FDwvnH0a15zcWhq3qw4DwdY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jYJ3PrFqvppKsTq4ZMsYBlipgKe.jpg">https://image.tmdb.org/t/p/original/jYJ3PrFqvppKsTq4ZMsYBlipgKe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wif4xwwxMZxoyWIXJSqzylJTaBx.jpg">https://image.tmdb.org/t/p/original/wif4xwwxMZxoyWIXJSqzylJTaBx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kRjWrkMEOrgTCpLjUvAD5GjsBZ.jpg">https://image.tmdb.org/t/p/original/kRjWrkMEOrgTCpLjUvAD5GjsBZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rzOYdGUafa7M6NMrJTgu4aLD9k4.jpg">https://image.tmdb.org/t/p/original/rzOYdGUafa7M6NMrJTgu4aLD9k4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/41O3uruGyAP65A8wiJTCs69YvXK.jpg">https://image.tmdb.org/t/p/original/41O3uruGyAP65A8wiJTCs69YvXK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lWHIMQsLoLOmX0EUrdTtkJQGJ6H.jpg">https://image.tmdb.org/t/p/original/lWHIMQsLoLOmX0EUrdTtkJQGJ6H.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w6a6hsRDWTTTfcfZcoWyHtU4PKl.jpg">https://image.tmdb.org/t/p/original/w6a6hsRDWTTTfcfZcoWyHtU4PKl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dbR220nUh7AYjZywwiwvWRuq9l8.jpg">https://image.tmdb.org/t/p/original/dbR220nUh7AYjZywwiwvWRuq9l8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h5pWclqlDhRmkfKHCD101YmS8u1.jpg">https://image.tmdb.org/t/p/original/h5pWclqlDhRmkfKHCD101YmS8u1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5wNMgE38YUFbqUlcNATXCkC5W2b.jpg">https://image.tmdb.org/t/p/original/5wNMgE38YUFbqUlcNATXCkC5W2b.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4943998</id>
+    <uniqueid type="imdb" default="true">tt4943998</uniqueid>
+    <uniqueid type="tmdb">538225</uniqueid>
+    <genre>Western</genre>
+    <genre>Película de TV</genre>
+    <country>United States of America</country>
+    <credits>David Milch</credits>
+    <director>Daniel Minahan</director>
+    <premiered>2019-05-31</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>HBO Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=t1mwucx2SC8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.000000</aspect>
+                <width>1920</width>
+                <height>960</height>
+                <durationinseconds>6607</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Timothy Olyphant</name>
+        <role>Seth Bullock</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian McShane</name>
+        <role>Al Swearengen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/q9qKbux5Jo76Sj8g3luxBt6rYtz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Molly Parker</name>
+        <role>Alma Ellsworth</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xo0GT4MAUkqCKKL8qq6WEmHDre5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paula Malcomson</name>
+        <role>Trixie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>W. Earl Brown</name>
+        <role>Dan Dority</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/wTZF15gk5rwH94oREtj6WBoqzio.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dayton Callie</name>
+        <role>Charlie Utter</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/miB43H7L4OYY5aRSxhoScjcOxu3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Dickens</name>
+        <role>Joanie Stubbs</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYIQGHeSIt4G2tLrLt61FJ2CD7h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Dourif</name>
+        <role>Doc Cochran</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/z2LYR7Ickql7g5hnWJSIAWMPD4o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Gunn</name>
+        <role>Martha Bullock</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/adppyeu1a4REN3khtgmXusrapFi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Hawkes</name>
+        <role>Sol Star</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/vzQ5SdCcu9ZCeUyfAT0bnzyfeJh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leon Rippy</name>
+        <role>Tom Nuttall</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Sanderson</name>
+        <role>E.B. Farnum</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/i3JfaavAFq9ayeJ4doUaOGjHMMW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Weigert</name>
+        <role>Calamity Jane</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/ifGimfhXs7WIyDJMIX8kJtUte88.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brent Sexton</name>
+        <role>Harry Manning</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/wjxWvYZZIWIKb7rQnJXRoXPRqwh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Bridgers</name>
+        <role>Johnny Burns</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/lG8vV5g49RML5WkaN6Mb3GnLgge.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geri Jewell</name>
+        <role>Jewel</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Jones</name>
+        <role>A.W. Merrick</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/zLodpqWUb9OzQLpK1ZY9im1Lh0p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Franklyn Ajaye</name>
+        <role>Samuel Fields</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/bgvjWwTlzE4fx9WWoyeH1PWLBOj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keone Young</name>
+        <role>Mr. Wu</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/nDTQe7D7NmbzAryfKQKx2NALmid.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Jason</name>
+        <role>Con Stapleton</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/lhL7IguCMTr0WXA4mi34UM7H5rT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cleo King</name>
+        <role>Aunt Lou</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/teEPJgvrvPrNEh83FdOroNSLJzO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Curran</name>
+        <role>James Smith</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/pmEt3NTwNO7Tnoeu9qUCtqaYaMV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jade Pettyjohn</name>
+        <role>Caroline</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/8eugK43mK2ntOneqYnhWwksYKWP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lily Keene</name>
+        <role>Sofia Ellsworth</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/5FHh5DUWeJKm2AqnF4mj2Hd7Es5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Swayze</name>
+        <role>Seacrest</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/lewJdPYpyb8sacBQWLAJFNhpeAU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerald McRaney</name>
+        <role>George Hearst</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/qSqmLqAwK2gIdQ8aaiSzgBfcQiK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Ko</name>
+        <role>Mengyao</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Alan Makovy</name>
+        <role>Sheriff Laraby</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Noelle E. Parker</name>
+        <role>Margaret Bullock</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/aXu0lHcB2oLazSdgbnx4ufAXYsl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leticia Lagutenko</name>
+        <role>Florence Bullock</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luke Patrick Dodge</name>
+        <role>Stanley Bullock</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Van Epperson</name>
+        <role>Jerry</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/nqijaVwx4Tu3un2hfonnGaPM0ux.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryan Veronneau</name>
+        <role>Hearst Worker</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tommy Lamey</name>
+        <role>Arty</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/nZIx1Q9E06g62l5ZMoKGW9YieDy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teya Patt</name>
+        <role>Lisa</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/778xyYguunFecmWcdQerG9b5MeN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shelby Steel</name>
+        <role>Jojo</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adrian Snow</name>
+        <role>Bella Girl</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Desiree Hall</name>
+        <role>Bella Girl</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/8HVcZ1I3kuovJf2UjBSIrdG9ckB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah B. Lund</name>
+        <role>Gem Whore</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Troy Christian</name>
+        <role>Wedding Dancer</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nancy Dobbs Owen</name>
+        <role>Wedding Dancer</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Garret Dillahunt</name>
+        <role>Drunk Number 2 (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/w5Ziqypp23AMTOaAolAW7RM5pnH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mikaella Ashley</name>
+        <role>Deenie (uncredited)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Anderson</name>
+        <role>Hearst Henchman (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ego Mikitas</name>
+        <role>Hearst Henchman (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/6bpMVYgZVbrpWiEFn2jNwaYQWv4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>April Audia</name>
+        <role>Bella Girl (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerry Westcott</name>
+        <role>Prostitute (uncredited)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/a6LkiANuO65XXjAUVvHcxhN9Twz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Beaver</name>
+        <role>Whitney Ellsworth (archive footage)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harris Callahan</name>
+        <role>Newman (archive footage)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Keith Carradine</name>
+        <role>Wild Bill Hickok (archive footage)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/d0rowTuGZazLIyqJ5NJYUhul59L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Lutheran</name>
+        <role>Jen (archive footage)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 11:51:49</dateadded>
+</movie>

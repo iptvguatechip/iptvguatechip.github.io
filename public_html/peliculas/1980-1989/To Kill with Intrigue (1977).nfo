@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Matar a traición</title>
+    <originaltitle>Jian hua yan yu Jiang Nan</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>1053</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>22</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una mujer planea matar a la familia del hombre que la desfiguró. Protegida con una máscara cumple su venganza excepto con el hijo, Hsiao (Jackie Chan), del que se enamora. Pero para su sorpresa, Hsiao la rechaza aunque ella no sabe que él lo hace para protegerla. Al mismo tiempo Hsiao descubre que su amigo es realmente el líder del Clan de la Lluvia Mortal quien ha matado a sus otros amigos. Hsiao para vengar la muerte de sus amigos se deberá enfrentar con su antiguo amigo.</plot>
+    <tagline></tagline>
+    <runtime>110</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rZ55iy0UQHzkVYYxox768gPbC2k.jpg">https://image.tmdb.org/t/p/original/rZ55iy0UQHzkVYYxox768gPbC2k.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/MswN2TTrAZMhUdQskfEMXSj7ZS.jpg">https://image.tmdb.org/t/p/original/MswN2TTrAZMhUdQskfEMXSj7ZS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jNlewlJZHDWVttTZfYbdeFtmNRi.jpg">https://image.tmdb.org/t/p/original/jNlewlJZHDWVttTZfYbdeFtmNRi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mTV5ZFZRhoxSmBekfd1e8mkL4F6.jpg">https://image.tmdb.org/t/p/original/mTV5ZFZRhoxSmBekfd1e8mkL4F6.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4KsVg0QcCQ1y9PKgopWOS2FARsU.jpg">https://image.tmdb.org/t/p/original/4KsVg0QcCQ1y9PKgopWOS2FARsU.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0076227</id>
+    <uniqueid type="imdb" default="true">tt0076227</uniqueid>
+    <uniqueid type="tmdb">18758</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <country>Hong Kong</country>
+    <credits>Ku Long</credits>
+    <director>Lo Wei</director>
+    <premiered>1977-07-22</premiered>
+    <year>1977</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lo Wei Motion Picture Co.</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dcjdsjItFmo</trailer>
+    <actor>
+        <name>Jackie Chan</name>
+        <role>Cao Lei (as Chen Lung)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hsu Feng</name>
+        <role>Ting Chan Yen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/uA1LHF62vkphNiCzrfRxCPC2mHz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shin Il-ryong</name>
+        <role>Chen Chun</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/9lXvOXQfGohIkS2KITmgctAf3uI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yu Ling-Lung</name>
+        <role>Chin Chin</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George Wang</name>
+        <role>Master of Dragon Escort</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lpZbBRr8hr1rJ9KJWpPxAbcm1iR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tung Lam</name>
+        <role>Master&apos;s assistant</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ma Chi</name>
+        <role>Lei Chi Fung</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/xfkH0HiZzUWAGavTDper1MpiAvp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chiang Ching-Hsia</name>
+        <role>Lei&apos;s mother</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chan Wai-Lau</name>
+        <role>Bloody Rain assassin chief</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lee Man-Tai</name>
+        <role>Master&apos;s assistant</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chan San-Yat</name>
+        <role>Rascal</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Weng Hsiao-Hu</name>
+        <role>Bloody Rain assassin</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tsang Ming-Cheong</name>
+        <role>Bloody Rain assassin</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 12:40:17</dateadded>
+</movie>

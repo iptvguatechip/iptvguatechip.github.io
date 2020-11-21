@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Patrulla</title>
+    <originaltitle>Cop Car</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>29854</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>563</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dos chavales de diez años encuentran un coche de policía aparentemente abandonado y deciden montarse para dar una vuelta. Pero esto será el inicio de un tortuoso y desesperado juego del gato y el ratón en el que la única salida será darle al acelerador y conducir tan rápido como puedan.</plot>
+    <tagline>Their first drive could be their last.</tagline>
+    <runtime>87</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vctchuhLkObVFZJVmpPrCtBhEjQ.jpg">https://image.tmdb.org/t/p/original/vctchuhLkObVFZJVmpPrCtBhEjQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/igI13hzmUNsFhn6BzsX0ZjvRiVI.jpg">https://image.tmdb.org/t/p/original/igI13hzmUNsFhn6BzsX0ZjvRiVI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o1JBr2htdBNyEKeIwGGr8Bwh1Bn.jpg">https://image.tmdb.org/t/p/original/o1JBr2htdBNyEKeIwGGr8Bwh1Bn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l3QVf8aNJo5L8nSMz6XT6trmtqX.jpg">https://image.tmdb.org/t/p/original/l3QVf8aNJo5L8nSMz6XT6trmtqX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1Mmsptvy2ybdxzLhvJUZHkknLmy.jpg">https://image.tmdb.org/t/p/original/1Mmsptvy2ybdxzLhvJUZHkknLmy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gNxNfyz6QLLnntYjVIB7RNn92uR.jpg">https://image.tmdb.org/t/p/original/gNxNfyz6QLLnntYjVIB7RNn92uR.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lfLFO7yJgoMfHlHjyvJ9ipCPeFJ.jpg">https://image.tmdb.org/t/p/original/lfLFO7yJgoMfHlHjyvJ9ipCPeFJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qNwmXl9QyK37cmZHaLEU1xZyZd6.jpg">https://image.tmdb.org/t/p/original/qNwmXl9QyK37cmZHaLEU1xZyZd6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ajeBUvbf2osju0qXjNDj3G3ifZx.jpg">https://image.tmdb.org/t/p/original/ajeBUvbf2osju0qXjNDj3G3ifZx.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3813310</id>
+    <uniqueid type="imdb" default="true">tt3813310</uniqueid>
+    <uniqueid type="tmdb">310133</uniqueid>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Christopher D. Ford</credits>
+    <credits>Jon Watts</credits>
+    <director>Jon Watts</director>
+    <premiered>2015-08-07</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>End Cue</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p0abWuHBJRg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5277</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kevin Bacon</name>
+        <role>Sheriff Kretzer</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Freedson-Jackson</name>
+        <role>Travis</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5A3IAxyB2T2zBzM20PH0iVVDMXE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hays Wellford</name>
+        <role>Harrison</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/gTuoxG9OJxPld8UWsM8OCq6L7LS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Camryn Manheim</name>
+        <role>Bev</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/eI42MrAyzJ3vbiGSIQB0FCwecba.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shea Whigham</name>
+        <role>Man</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Hartley</name>
+        <role>Motorcycle Cop</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kyra Sedgwick</name>
+        <role>Dispatch</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/aA5pdU9SpM2F5vmVRPrj0gPYUll.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Loi Nguyen</name>
+        <role>Waiter</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sit Lenh</name>
+        <role>Hostess</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chuck Kull</name>
+        <role>Officer</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas Coates</name>
+        <role>Officer</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathleen Bentley</name>
+        <role>Trailer Park Lady</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Barr</name>
+        <role>Guy in Trailer Park</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adam Barr</name>
+        <role>Drunk at Intersection</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lily Heber</name>
+        <role>Dog</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cooter Heber</name>
+        <role>Dog</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bluebell</name>
+        <role></role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 07:05:19</dateadded>
+</movie>

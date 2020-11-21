@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Salud a la venta</title>
+    <originaltitle>The Bleeding Edge</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.700000</value>
+            <votes>2092</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>43</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Esta esclarecedora mirada a la creciente industria de los dispositivos médicos revela cómo la premura por innovar puede acarrear terribles consecuencias al paciente.</plot>
+    <tagline>What You Don&apos;t Know Can Hurt You</tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/weWAoaNOWi5VBnnGF5wEDI14LYi.jpg">https://image.tmdb.org/t/p/original/weWAoaNOWi5VBnnGF5wEDI14LYi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x1lCtpJCbLVM7fp4bo6qk61fMTR.jpg">https://image.tmdb.org/t/p/original/x1lCtpJCbLVM7fp4bo6qk61fMTR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vq862g0IQD9WHXBHdTXLXSby30T.jpg">https://image.tmdb.org/t/p/original/vq862g0IQD9WHXBHdTXLXSby30T.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7PRIyUrKCnmWv8LZRFEveL5m5ZS.jpg">https://image.tmdb.org/t/p/original/7PRIyUrKCnmWv8LZRFEveL5m5ZS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/44a8UiaPRPPDbIJ81Q3tpyhOxOr.jpg">https://image.tmdb.org/t/p/original/44a8UiaPRPPDbIJ81Q3tpyhOxOr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nAPl2KIJQIAShcwMQA8tpFleGwa.jpg">https://image.tmdb.org/t/p/original/nAPl2KIJQIAShcwMQA8tpFleGwa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hjm4SDcHu5PIrtsLwrhOdYy38V0.jpg">https://image.tmdb.org/t/p/original/hjm4SDcHu5PIrtsLwrhOdYy38V0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8106576</id>
+    <uniqueid type="imdb" default="true">tt8106576</uniqueid>
+    <uniqueid type="tmdb">511815</uniqueid>
+    <genre>Documental</genre>
+    <country>United States of America</country>
+    <credits>Kirby Dick</credits>
+    <director>Kirby Dick</director>
+    <premiered>2018-07-27</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Chain Camera Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=slmilObZl28</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6032</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Robert Bridges</name>
+        <role>Himself - Diagnostic Radiologist</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angie Firmalino</name>
+        <role>Herself - Essure contraceptive victim</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rita Redberg</name>
+        <role>Herself</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Tower</name>
+        <role>Himself - Orthopedic Surgeon</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:01:45</dateadded>
+</movie>

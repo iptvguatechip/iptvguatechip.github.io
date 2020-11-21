@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mátame tres veces</title>
+    <originaltitle>Kill Me Three Times</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>20372</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>308</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Charlie Wolfe es un asesino profesional que descubre que no es el único que intenta acabar con su próxima víctima y rápidamente se verá envuelto en un triángulo de mutilación, chantaje y venganza.</plot>
+    <tagline>Once is never enough.</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fGXUyaCEWL4r8v8fSfM31ASp7eS.jpg">https://image.tmdb.org/t/p/original/fGXUyaCEWL4r8v8fSfM31ASp7eS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rH4dI2FysCf6DeRQs7V8IaODC4T.jpg">https://image.tmdb.org/t/p/original/rH4dI2FysCf6DeRQs7V8IaODC4T.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ujlbSoqLejPZqXtWM5N6Ba4k7Ae.jpg">https://image.tmdb.org/t/p/original/ujlbSoqLejPZqXtWM5N6Ba4k7Ae.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fyFxUv5teTNfeEbyWDAaQ8Mjice.jpg">https://image.tmdb.org/t/p/original/fyFxUv5teTNfeEbyWDAaQ8Mjice.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2393845</id>
+    <uniqueid type="imdb" default="true">tt2393845</uniqueid>
+    <uniqueid type="tmdb">237756</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Suspense</genre>
+    <genre>Misterio</genre>
+    <country>United States of America</country>
+    <credits>James McFarland</credits>
+    <director>Kriv Stenders</director>
+    <premiered>2015-04-10</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cargo Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MoApWLxwEr8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5422</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Simon Pegg</name>
+        <role>Charlie Wolfe</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ftW0kUeYno1kYfuwSTBILOtxjj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teresa Palmer</name>
+        <role>Lucy Webb</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbGnqOmLieJctfjmdcWIVQTiwhT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sullivan Stapleton</name>
+        <role>Nathan Webb</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/zT25J9Jtbhkimul2KSeCZZulIPU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alice Braga</name>
+        <role>Alice Taylor</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qD0lIN0SqTqXExLRMyET3VIj3BD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Hemsworth</name>
+        <role>Dylan Smith</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9ojAbulUrowMBTfwnBVqir8xFJu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Callan Mulvey</name>
+        <role>Jack Taylor</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/dSTWVK03Ajl1mWViJxMPypQUgqB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryan Brown</name>
+        <role>Bruce Jones</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/x0NqVqpJSET0oVdJxbbwwd7hrFA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Le Marquand</name>
+        <role>Sam</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/b6iPJ3duOxAe7Jvnj0olNFWejUR.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 21:48:32</dateadded>
+</movie>

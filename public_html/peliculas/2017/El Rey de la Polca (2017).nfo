@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Rey de la Polca</title>
+    <originaltitle>The Polka King</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>8858</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>184</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El auge y la caída del artista polaco, Jan Lewan, quien se convirtió en un icono de la polka y sorprendió al mundo entero. Decidido a triunfar en EE UU, el cantante engaña a sus fans con una estafa piramidal</plot>
+    <tagline>The greatest scandal in polka history.</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bqq4YP0sLwtI6kRy61OFFk3PAs6.jpg">https://image.tmdb.org/t/p/original/bqq4YP0sLwtI6kRy61OFFk3PAs6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dU1XG1DI6lkZ567vmtM9ifQJ38F.jpg">https://image.tmdb.org/t/p/original/dU1XG1DI6lkZ567vmtM9ifQJ38F.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wJXC652ZGCnpDSn94kcucdplKYC.jpg">https://image.tmdb.org/t/p/original/wJXC652ZGCnpDSn94kcucdplKYC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l6n71RjczWQ74oceGKkOW88k8B9.jpg">https://image.tmdb.org/t/p/original/l6n71RjczWQ74oceGKkOW88k8B9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ydYvre7WZL8Ti2Cj8S1BNONrgZ.jpg">https://image.tmdb.org/t/p/original/ydYvre7WZL8Ti2Cj8S1BNONrgZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eSyZ2vWHPNwAgexhkl37nwnF87I.jpg">https://image.tmdb.org/t/p/original/eSyZ2vWHPNwAgexhkl37nwnF87I.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lsXUgHQ4ByMjH6esGNTtFFMYDR1.jpg">https://image.tmdb.org/t/p/original/lsXUgHQ4ByMjH6esGNTtFFMYDR1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/90147e6MgbxP5pJQHi48IgQ3CN2.jpg">https://image.tmdb.org/t/p/original/90147e6MgbxP5pJQHi48IgQ3CN2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5539052</id>
+    <uniqueid type="imdb" default="true">tt5539052</uniqueid>
+    <uniqueid type="tmdb">419472</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Wallace Wolodarsky</credits>
+    <credits>Maya Forbes</credits>
+    <director>Maya Forbes</director>
+    <premiered>2017-01-22</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>ShivHans Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZWGh7si0Y50</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5640</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jack Black</name>
+        <role>Jan Lewan</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenny Slate</name>
+        <role>Marla Lewan</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8YgcvpcNPjfIvnqXGJ31dzIWl17.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Schwartzman</name>
+        <role>Mickey Pizzazz</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacki Weaver</name>
+        <role>Barb</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/1bc9fUnbFQdDeXKho22eyXrNR63.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J.B. Smoove</name>
+        <role>Ron Edwards</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Capron</name>
+        <role>David Lewan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/guZBTo6pY4B2iKpIjTZ0Nnmfwrz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willie Garson</name>
+        <role>Lonny</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/lsODqbgT4mpzXHxf8MWCYOZGULc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Bayer</name>
+        <role>Bitsy Bear</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXHdc6TmRXSWorovGhCWwFtDLfJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Macaux</name>
+        <role>Christopher</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mary Klug</name>
+        <role>Anita Krzyewski</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wallace Wolodarsky</name>
+        <role>Vince</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/a6npTg5wUQIHkyH17m5FPc9hJPV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lew Schneider</name>
+        <role>Lou Laroue</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phyllis Kay</name>
+        <role>Marilyn</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/uElGDG3LnJVdwr91PuYLBHaU60P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Donelly</name>
+        <role>Stan Moetek</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kati Salowsky</name>
+        <role>Connie Klopski</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/bcASevWp73PU8U4NgoxiYoA0b6P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Lloyd</name>
+        <role>Debra Johnson</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachel Annette Helson</name>
+        <role>Beauty Pageant Judge</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/9isIds9j7tcxdobwToQxyP9LXwa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Estrella</name>
+        <role>Presenter</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melody Vasquez</name>
+        <role>Agent Ramirez</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Randy Tow</name>
+        <role>Mr. Lee</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marilyn Busch</name>
+        <role>Sheila</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Russell Gibson</name>
+        <role>Gorski</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>China Forbes</name>
+        <role>Grammy Reporter</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Boyd</name>
+        <role>Reporter</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Portland Helmich</name>
+        <role>Anchorwoman</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bruce-Robert Serafin</name>
+        <role>Customer</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/vIXgI9dVdT5AuzUxNoHvjU2n2im.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendy Overly</name>
+        <role>Conga Woman</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Baade</name>
+        <role>Trish</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Keith Mascoll</name>
+        <role>Applesauce</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Owen Burke</name>
+        <role>Prison Guard</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/ltwdXnOKYeHmoou0vIffxn5qlGD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juani Feliz</name>
+        <role>PR Woman</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Ackerman</name>
+        <role>Priest</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Irvin Wallace</name>
+        <role>Ruined Old Man</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Jibrin</name>
+        <role>Tyrone</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mickey Gilmore</name>
+        <role>Prison Guard</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leah Procito</name>
+        <role>Nurse</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/qfweXm8hw3MqGPoIo778DoTTx12.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Ziwak</name>
+        <role>Prison Inmate</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arthur Hiou</name>
+        <role>Security for Pope</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8sMGXQbfAnu9jG2cR3v7xHQbhN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn Contois</name>
+        <role>Bus Driver</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brina</name>
+        <role>Dance Hall Patron</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Scales</name>
+        <role>Prison Inmate</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/y954SAZj3Zov7PrinOcanx8y2q9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anastasia Tsikhanava</name>
+        <role>Rock Star</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marybeth Paul</name>
+        <role>Pageant Contestant</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lara Pezza</name>
+        <role>Denny</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bella Moore</name>
+        <role>Polka Kid</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Marsella</name>
+        <role>Waiter / Performance Attendee</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Daigneault</name>
+        <role>Performance Attendee</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/6WgfaAHZ8SAbKLrqS1jOjUOoAIO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angel Connell</name>
+        <role>Performance Attendee</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rob Lévesque</name>
+        <role>Jan Lewan Group</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/jedOhOS3KknCvf0OPyEvZ0uYmv2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lance Norris</name>
+        <role>Pizzeria Customer</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Pacheco</name>
+        <role>Performance Attendee / Polka Dancer</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leonel Severino</name>
+        <role>Celebrity on the Red Carpet</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sigrid Lium</name>
+        <role>Rock Star</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/s4paUqL10dVN5jQkKhfQUAgcyrI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Franchi</name>
+        <role>Performance Attendee</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kobi Polisky</name>
+        <role>Polka Child</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Sterner</name>
+        <role>Country Music Producer</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jed Griswold</name>
+        <role>Polka Dancer</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffery Kincannon</name>
+        <role>Performance Attendee</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Suzanne Gillies</name>
+        <role>Security Agent</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/hKOY60SGHvQN6PVEom6Yff0Okwk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harold Rudolph</name>
+        <role>Polka Dancer</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michele Mortensen</name>
+        <role>Polka Dancer</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benjamin James Chaplin</name>
+        <role>Teen Party Goer</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wendy Hartman</name>
+        <role>Wife Prison Visitor</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lino Tanaka</name>
+        <role>Doctor</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron G. Young</name>
+        <role>Performance Attendee</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rich Rothbell</name>
+        <role>Uncle Rich / Polka Pro</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Glenn W. Kane</name>
+        <role>Pope&apos;s Bodyguard</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Moreira</name>
+        <role>Prison Visitor</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kayla Kohla</name>
+        <role>Teenage Girl</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Berghman</name>
+        <role>Background Dancer</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexa Hartman</name>
+        <role>Daughter Prison Visitor</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Jones</name>
+        <role>Basketball Playing Prisoner</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mary Jane Brennan Sangiolo</name>
+        <role>Dance Hall Patron</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Paul Healey</name>
+        <role>Ed</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Provizer</name>
+        <role>Polka Band Musician</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luke Nelson</name>
+        <role>Pope Visitor</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pasquale Dalessio</name>
+        <role>Bus Tour Group</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Cacciola</name>
+        <role>Polka Dancer (uncredited)</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Cali</name>
+        <role>Tourist (uncredited)</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charlie Flannery</name>
+        <role>Performance Attendee (uncredited)</role>
+        <order>80</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Kyle</name>
+        <role>Telethon operator (uncredited)</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Marshall</name>
+        <role>Polka Dancer (uncredited)</role>
+        <order>82</order>
+        <thumb>https://image.tmdb.org/t/p/original/67ZKPilBOCRoeH1o5OJewiUJS4P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Americo Presciutti</name>
+        <role>Pope&apos;s Security (uncredited)</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/ufKPijwTQJ1fdcL9pNDt1CKlFDs.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 12:06:19</dateadded>
+</movie>

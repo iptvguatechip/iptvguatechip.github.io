@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Contragolpe</title>
+    <originaltitle>Counterpunch</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>768</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>32</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A medida que disminuye la popularidad del boxeo, tres luchadores en diferentes etapas de su carrera hacen sacrificios para perseguir sus sueños de convertirse en campeones.</plot>
+    <tagline>La historia cambia con un golpe.</tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pkV3UPUqAZ9YsUDVQ6KfqpxeVP6.jpg">https://image.tmdb.org/t/p/original/pkV3UPUqAZ9YsUDVQ6KfqpxeVP6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lu57SMWZvFLT9l2K36EGcefVkC2.jpg">https://image.tmdb.org/t/p/original/lu57SMWZvFLT9l2K36EGcefVkC2.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wbDHjrSXTUWZ09OcF3gJGSmtFBE.jpg">https://image.tmdb.org/t/p/original/wbDHjrSXTUWZ09OcF3gJGSmtFBE.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7022034</id>
+    <uniqueid type="imdb" default="true">tt7022034</uniqueid>
+    <uniqueid type="tmdb">462104</uniqueid>
+    <genre>Documental</genre>
+    <country>United States of America</country>
+    <director>Jay Bulger</director>
+    <premiered>2017-06-16</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Mandalay Sports Media</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p1Q4cfiho-4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5462</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 08:13:14</dateadded>
+</movie>

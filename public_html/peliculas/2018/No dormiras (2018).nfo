@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>No dormirás</title>
+    <originaltitle>No dormirás</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>1115</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>99</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En un hospital psiquiátrico abandonado, un grupo de teatro experimenta con insomnio para la preparación de una obra teatral. Con el paso de los días sin dormir, alcanzan nuevos umbrales de percepción que los exponen a los secretos del lugar y las energías que lo habitan. Cuando Bianca, una joven y prometedora actriz, se une al elenco, compitiendo por el papel principal, debe sobrevivir no solo a la intensidad del trabajo y sus compañeros de reparto, sino a la fuerza desconocida que los empuja hacia un resultado trágico.</plot>
+    <tagline>Your fear will keep you awake</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3B3RJyLRb18OD99U9qoNzhIJAMJ.jpg">https://image.tmdb.org/t/p/original/3B3RJyLRb18OD99U9qoNzhIJAMJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg">https://image.tmdb.org/t/p/original/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/focUKeWnXs9WLJLOSxP5A2VXnEc.jpg">https://image.tmdb.org/t/p/original/focUKeWnXs9WLJLOSxP5A2VXnEc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tQLzt5ENxAyzescCqmbcw1TCPeK.jpg">https://image.tmdb.org/t/p/original/tQLzt5ENxAyzescCqmbcw1TCPeK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3au8VZAlLFYqTMk9irxtarG5J9b.jpg">https://image.tmdb.org/t/p/original/3au8VZAlLFYqTMk9irxtarG5J9b.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a6sGMxkOeaUiltWQcmtFuIqXfno.jpg">https://image.tmdb.org/t/p/original/a6sGMxkOeaUiltWQcmtFuIqXfno.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/brKb0S5OERGwhB55TyZltg2rb2d.jpg">https://image.tmdb.org/t/p/original/brKb0S5OERGwhB55TyZltg2rb2d.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jgEakFf3tD0v6rjJsKLEpAqEEcE.jpg">https://image.tmdb.org/t/p/original/jgEakFf3tD0v6rjJsKLEpAqEEcE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4bMIbukXP2zoteCAMIdMUQfu3cj.jpg">https://image.tmdb.org/t/p/original/4bMIbukXP2zoteCAMIdMUQfu3cj.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7158686</id>
+    <uniqueid type="imdb" default="true">tt7158686</uniqueid>
+    <uniqueid type="tmdb">496212</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <country>Spain</country>
+    <credits>Juma Fodde</credits>
+    <director>Gustavo Hernández</director>
+    <premiered>2018-01-11</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pampa Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RunY-tRHo9A</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6382</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eva De Dominici</name>
+        <role>Bianca</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ad9JRbR7MkBIlbFmHhykIKoPKca.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Belén Rueda</name>
+        <role>Alma Böhm</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/1J3Wy42UCkCR77iF3P1PTC8yWTs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalia de Molina</name>
+        <role>Cecilia</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vXuyN0FsexRgF7J1I1auqT3ukCn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Germán Palacios</name>
+        <role></role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/4l2LkBDGmkH0Cf0e545TMzYzznY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Manuel Guilera</name>
+        <role></role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/b48XGrTnLCVU914nxWHrAwpRNr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susana Hornos</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miguel Angel Maciel</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:19:11</dateadded>
+</movie>

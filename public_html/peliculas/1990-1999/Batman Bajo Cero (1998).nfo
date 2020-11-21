@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Batman: Bajo Cero</title>
+    <originaltitle>Batman &amp; Mr. Freeze: SubZero</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>13532</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>244</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Sólo en el Artico puede sobrevivir sin su traje especial Mr. Freeze. Cuando un submarino de investigación emerge bruscamente en el refugio del criminal, la esposa de éste ve interrumpido su sueño criogénico y corre el riesgo de perecer, por lo cual Freeze regresa a Gotham y secuestra a un científico experto en criogénesis, con el fin de lograr salvar a su amada. Comprobando los grupos sanguíneos afines con la misma, descubren que Barbara Gordon figura en la lista, por lo cual procederán a su secuestro.</plot>
+    <tagline></tagline>
+    <runtime>66</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4fDffWkGuIt62GQVAUTUgRoZxT2.jpg">https://image.tmdb.org/t/p/original/4fDffWkGuIt62GQVAUTUgRoZxT2.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/feOIJaQTUDaPRgt3g9U5xQhJPoq.jpg">https://image.tmdb.org/t/p/original/feOIJaQTUDaPRgt3g9U5xQhJPoq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eIeT9dsFeKiKNxjWyXHTL92TTrJ.jpg">https://image.tmdb.org/t/p/original/eIeT9dsFeKiKNxjWyXHTL92TTrJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kjjz8mVNrwNUa9uz8IMnqS79rxj.jpg">https://image.tmdb.org/t/p/original/kjjz8mVNrwNUa9uz8IMnqS79rxj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3jU5X8XkrD6ue8jiCRIrVMPv2ah.jpg">https://image.tmdb.org/t/p/original/3jU5X8XkrD6ue8jiCRIrVMPv2ah.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eDQYEZuTIB8p5qfyYKC7zJ5q12w.jpg">https://image.tmdb.org/t/p/original/eDQYEZuTIB8p5qfyYKC7zJ5q12w.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0143127</id>
+    <uniqueid type="imdb" default="true">tt0143127</uniqueid>
+    <uniqueid type="tmdb">15805</uniqueid>
+    <genre>Animación</genre>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Batman (DC Universo Animado) - Colección</name>
+    </set>
+    <credits>Boyd Kirkland</credits>
+    <credits>Randy Rogel</credits>
+    <director>Boyd Kirkland</director>
+    <premiered>1998-02-11</premiered>
+    <year>1998</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DC Comics</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u7yHdSyCqxE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>4.000000</aspect>
+                <width>960</width>
+                <height>720</height>
+                <durationinseconds>3994</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kevin Conroy</name>
+        <role>Bruce Wayne / Batman</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/4MVApMiARrecuVjTCPfi6Z7biLW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Ansara</name>
+        <role>Victor Fries / Mr. Freeze</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pNhnbt9rGypREvKdeE9xqBcdB8u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Kay Bergman</name>
+        <role>Barbara Gordon / Batgirl</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Loren Lester</name>
+        <role>Dick Grayson / Robin</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/AmdxCKx7ehFXtOglUH02iewTHqI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Efrem Zimbalist Jr.</name>
+        <role>Alfred Pennyworth</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nMfmluUYjgQODrLwwUDHh7QQtww.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Dzundza</name>
+        <role>Dr. Gregory Belson</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/z0BI9G0Q617p02dV7q027uuWPD3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Hastings</name>
+        <role>Commissioner James Gordon</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/j8Bcul6PCSDOwY4tl2wLkcelgYf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Costanzo</name>
+        <role>Detective Harvey Bullock</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ca97VpbTgX7jhBfAUIsczRCHRV5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marilu Henner</name>
+        <role>Veronica Vreeland</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/10t8hp04H7rAFnCMpUYVyGToud.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Jones</name>
+        <role>Dean Arbagast</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/dZKNpJxKSWFyBf03URGD3UrtiRd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mari Devon</name>
+        <role>Summer Gleeson</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rSNbZOfncGh7vbAyjt1rnCZ46sL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liane Schirmer</name>
+        <role>Lieutenant Renee Montoya</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:30</dateadded>
+</movie>

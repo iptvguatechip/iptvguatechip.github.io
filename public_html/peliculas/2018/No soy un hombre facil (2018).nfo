@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>No soy un hombre fácil</title>
+    <originaltitle>Je ne suis pas un homme facile</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>11826</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>760</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El chauvinista Damien se despierta en un mundo donde las mujeres y los hombres tienen sus roles invertidos en la sociedad, y todo está dominado por mujeres.</plot>
+    <tagline></tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lyvClxJIl815HaBVBZK9RQsysCO.jpg">https://image.tmdb.org/t/p/original/lyvClxJIl815HaBVBZK9RQsysCO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aqmoXFBChT47MVpBVh1dzzP5EPf.jpg">https://image.tmdb.org/t/p/original/aqmoXFBChT47MVpBVh1dzzP5EPf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ohxJVvgq04LRol8aOztPmeH33hx.jpg">https://image.tmdb.org/t/p/original/ohxJVvgq04LRol8aOztPmeH33hx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jnAtRqnP4mVZZmrJd2AOtU6t1zu.jpg">https://image.tmdb.org/t/p/original/jnAtRqnP4mVZZmrJd2AOtU6t1zu.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xyl9E3Bph0AZzqwwM6RFMI8WNJi.jpg">https://image.tmdb.org/t/p/original/xyl9E3Bph0AZzqwwM6RFMI8WNJi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/l6V9uWgQPz2kReUFYbfNUpPO1R3.jpg">https://image.tmdb.org/t/p/original/l6V9uWgQPz2kReUFYbfNUpPO1R3.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6857988</id>
+    <uniqueid type="imdb" default="true">tt6857988</uniqueid>
+    <uniqueid type="tmdb">515841</uniqueid>
+    <genre>Comedia</genre>
+    <country>France</country>
+    <credits>Ariane Fert</credits>
+    <credits>Éléonore Pourriat</credits>
+    <director>Éléonore Pourriat</director>
+    <premiered>2018-04-13</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Autopilot Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4IWKcuV-62I</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5922</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>fra</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Vincent Elbaz</name>
+        <role>Damien</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/uj2N223BJ1V78W8mNK20M3IGYus.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Moon Dailly Monira</name>
+        <role>La Coach</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marie-Sophie Ferdane</name>
+        <role>Alexandra</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/gdKgcR58UMMaFctXxrViAmdeNqL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blanche Gardin</name>
+        <role>Sybille</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/76CGw2wtJAu4MHZzMP5WiYYJSa2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pierre Bénézit</name>
+        <role>Christophe</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/jhI0swH7rr9H1xu1zSSWcdROD6l.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:18:47</dateadded>
+</movie>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hardcore: Misión extrema</title>
+    <originaltitle>Hardcore Henry</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>85440</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>1592</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>No recuerdas nada, principalmente porque has sido devuelto a la vida por tu esposa. Eres un cyborg llamado Henry y cuando descubres lo que ha sucedido con tu mujer, tu objetivo será vengarte atravesando toda Moscú si es necesario. Cinta de acción rodada íntegramente en primera persona.</plot>
+    <tagline>Primero lo hicieron peligroso, después lo hicieron enfurecer.</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wqu4G6sghlca1CGBIa5TXKVtGLP.jpg">https://image.tmdb.org/t/p/original/wqu4G6sghlca1CGBIa5TXKVtGLP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jQc0yUCGL7GIRO9pq0yTyn1oBOg.jpg">https://image.tmdb.org/t/p/original/jQc0yUCGL7GIRO9pq0yTyn1oBOg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uzoW684uyO6g4MqdEonbVBC2Z5G.jpg">https://image.tmdb.org/t/p/original/uzoW684uyO6g4MqdEonbVBC2Z5G.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a0UJ6H9iZNmW7ivEhiz8ALPAwHQ.jpg">https://image.tmdb.org/t/p/original/a0UJ6H9iZNmW7ivEhiz8ALPAwHQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2uXaBBwUM42tVyxrsHJO5U3wULn.jpg">https://image.tmdb.org/t/p/original/2uXaBBwUM42tVyxrsHJO5U3wULn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bmH7lfMK2lHph4uR13gk2NTwNpm.jpg">https://image.tmdb.org/t/p/original/bmH7lfMK2lHph4uR13gk2NTwNpm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2t6OUcM8SQVurkgkTz2gukNsAim.jpg">https://image.tmdb.org/t/p/original/2t6OUcM8SQVurkgkTz2gukNsAim.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d1c94ACrC4NwiG989bIk2fp4miR.jpg">https://image.tmdb.org/t/p/original/d1c94ACrC4NwiG989bIk2fp4miR.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3072482</id>
+    <uniqueid type="imdb" default="true">tt3072482</uniqueid>
+    <uniqueid type="tmdb">325348</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Ciencia ficción</genre>
+    <country>Russia</country>
+    <credits>Ilya Naishuller</credits>
+    <director>Ilya Naishuller</director>
+    <premiered>2015-09-12</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Huayi Brothers Media</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VqILTls36MQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5811</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sharlto Copley</name>
+        <role>Jimmy</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/5yTG0JGHAwcQMMZwD3k5N7nHKrT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrei Dementiev</name>
+        <role>Henry / Slick Dmitry</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5ldGmFwKlxf28WhKma3E8fhLsME.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haley Bennett</name>
+        <role>Estelle</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/8HRgGypSwHeI27ffmcAELNoxIOw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danila Kozlovsky</name>
+        <role>Akan</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tCyw5GzBFUwEgB8Qg2JSR3ZWd0y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Roth</name>
+        <role>Henry&apos;s Father</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ilya Naishuller</name>
+        <role>Timothy / Higher-Self Merc / Henry</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gvBwViahAMgKrrXi5RX69JZ60dY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darya Charusha</name>
+        <role>Katya the Dominatrix</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ApqL2R78NzT2OPfLwH57mHdFRg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Svetlana Ustinova</name>
+        <role>Olga the Dominatrix</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6tMHnnNthcoTn8U4G88E0lhqYUw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Stewart</name>
+        <role>Robbie</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cyrus Arnold</name>
+        <role>Nat/Young Bully #2</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/p9ugSy9MyfBhYrlGOMpH81lk8iT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oleg Poddubnyy</name>
+        <role>Yuri</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Hahn</name>
+        <role>Young Bully #1</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/kVOuBAUGL9njVdjwvh5di5qHMSp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Karlen</name>
+        <role>Young Bully #3</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/qtRztxIaZCECC6IJVxMT1FQ47UB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aleksandr Pal</name>
+        <role>Mr. Fahrenheit</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qsEfwms7pAGk4LxHsyYcCSdHnYo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Cooke</name>
+        <role>Marty</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sergey Chekrygin</name>
+        <role>Parking Lot Security</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Evgeniy Bazhenov</name>
+        <role>Electric Skeleton Cyborg</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/cMV9XqdItLYo1iucC3oSt3kPFR0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexey Alexeev</name>
+        <role>Elevator Guard #1</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vladimir Lukyanchikov</name>
+        <role>Windshield Merc</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/2ePLzo6xWEv4Io8rKdfWhdgZCd2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ivan Isyanov</name>
+        <role>Stoner</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/pkJfEF5FBsnE16fd3imIzRm6Kxn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ravshana Kurkova</name>
+        <role>Shop Girl</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/s9VFz89vPounTYfgMOtxijiJqot.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Varvara Borodina</name>
+        <role>Stoner&apos;s Girlfriend</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Am1zPK0tgX3vsRnTxDjfgulrjg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lado Kvataniya</name>
+        <role>Anti-Cat Guard</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/zN3RIjzt4VoWiqwng2RFKxwwyxz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sergey Shnurov</name>
+        <role>Security Guy Interacting with Pliers</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/d4MiFx5I7gMqbBA4c6QeUi4r4JB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mikhail Izotov</name>
+        <role>Thug in the Water #2</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 08:23:00</dateadded>
+</movie>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Todo, todo</title>
+    <originaltitle>Everything, Everything</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>32113</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>3154</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Madeline, una adolescente que vive completamente aislada del mundo exterior porque es alérgica a todo, se enamora de Olly, su vecino de la puerta de al lado.</plot>
+    <tagline>Arriesgando todo... por amor.</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/otDv3BdUoMPl1h6qmAvFucVcefP.jpg">https://image.tmdb.org/t/p/original/otDv3BdUoMPl1h6qmAvFucVcefP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zPlX6BbOetDsXk4G6uSotN9Uw2C.jpg">https://image.tmdb.org/t/p/original/zPlX6BbOetDsXk4G6uSotN9Uw2C.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c8W3Go48Mw0GoNXsGK4W9hNO4Vf.jpg">https://image.tmdb.org/t/p/original/c8W3Go48Mw0GoNXsGK4W9hNO4Vf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/O0eFYISUcy35Zs3nf3KFVVo23D.jpg">https://image.tmdb.org/t/p/original/O0eFYISUcy35Zs3nf3KFVVo23D.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gukkmf3W5Cev7winxBa8FHvKLql.jpg">https://image.tmdb.org/t/p/original/gukkmf3W5Cev7winxBa8FHvKLql.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg">https://image.tmdb.org/t/p/original/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/afV7eDDYZJ9Q72E6WwyTHtkprn.jpg">https://image.tmdb.org/t/p/original/afV7eDDYZJ9Q72E6WwyTHtkprn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gG2cyPs6O6HZyBAeTxUnkvMWXI9.jpg">https://image.tmdb.org/t/p/original/gG2cyPs6O6HZyBAeTxUnkvMWXI9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uEPPWeJmjJNjYpM2GkmMIseOpzR.jpg">https://image.tmdb.org/t/p/original/uEPPWeJmjJNjYpM2GkmMIseOpzR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jbhf3JrbOf8O8uesSJogooJ5eIQ.jpg">https://image.tmdb.org/t/p/original/jbhf3JrbOf8O8uesSJogooJ5eIQ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sSJiJKqNcejUAQDplhWyjykLbqB.jpg">https://image.tmdb.org/t/p/original/sSJiJKqNcejUAQDplhWyjykLbqB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vviO5ovNoNuQpHoP2hictPMetQu.jpg">https://image.tmdb.org/t/p/original/vviO5ovNoNuQpHoP2hictPMetQu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zUpaUQmlUp6vROYvZ4BuUDlfsKF.jpg">https://image.tmdb.org/t/p/original/zUpaUQmlUp6vROYvZ4BuUDlfsKF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bz0GV6c89AV0391ZzYXC3YaEBx0.jpg">https://image.tmdb.org/t/p/original/bz0GV6c89AV0391ZzYXC3YaEBx0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dbyOZeE1tOwpQTN40eyTfmTxUdG.jpg">https://image.tmdb.org/t/p/original/dbyOZeE1tOwpQTN40eyTfmTxUdG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AftdgExni4I71XpSSlC7hZljv26.jpg">https://image.tmdb.org/t/p/original/AftdgExni4I71XpSSlC7hZljv26.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pmdXiUGegaI5uASdsmkPCBpeNEB.jpg">https://image.tmdb.org/t/p/original/pmdXiUGegaI5uASdsmkPCBpeNEB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j8TXfIOzOOHWDCBuzXFnfg8JS4n.jpg">https://image.tmdb.org/t/p/original/j8TXfIOzOOHWDCBuzXFnfg8JS4n.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nJMWdMB02WR642tsPNBgeCldbXA.jpg">https://image.tmdb.org/t/p/original/nJMWdMB02WR642tsPNBgeCldbXA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hTLydq9rAuO0Eus1WWqab1tpyGg.jpg">https://image.tmdb.org/t/p/original/hTLydq9rAuO0Eus1WWqab1tpyGg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/19mOLQMsyreM43Aoeht2A2aw3xx.jpg">https://image.tmdb.org/t/p/original/19mOLQMsyreM43Aoeht2A2aw3xx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/A4v6fpOPdVIDFH9Q4vxccQBWZSd.jpg">https://image.tmdb.org/t/p/original/A4v6fpOPdVIDFH9Q4vxccQBWZSd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e4zbwTvIxZCZNzPHhXgIsv2Wi6x.jpg">https://image.tmdb.org/t/p/original/e4zbwTvIxZCZNzPHhXgIsv2Wi6x.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1dNJaa3eiLJUuTzITgnsOdMLFsX.jpg">https://image.tmdb.org/t/p/original/1dNJaa3eiLJUuTzITgnsOdMLFsX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wj7tWI75cOtP1aClRSY953YE9ZQ.jpg">https://image.tmdb.org/t/p/original/wj7tWI75cOtP1aClRSY953YE9ZQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vtaIPblTmSt8pguy6ojBuwbduyM.jpg">https://image.tmdb.org/t/p/original/vtaIPblTmSt8pguy6ojBuwbduyM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jDIGU8pKVLzHKRY5bbAKxD6Quij.jpg">https://image.tmdb.org/t/p/original/jDIGU8pKVLzHKRY5bbAKxD6Quij.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iFWSTGHlzzNR9yTniaY1lbO3t0B.jpg">https://image.tmdb.org/t/p/original/iFWSTGHlzzNR9yTniaY1lbO3t0B.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nMnUUG9fEFnsckLhwdNoH3hDOVC.jpg">https://image.tmdb.org/t/p/original/nMnUUG9fEFnsckLhwdNoH3hDOVC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xhnbdpo5dH3BKwoKAxnuQWWsHNT.jpg">https://image.tmdb.org/t/p/original/xhnbdpo5dH3BKwoKAxnuQWWsHNT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/f03jDEaZhTFaCVxOltWdxilVFfj.jpg">https://image.tmdb.org/t/p/original/f03jDEaZhTFaCVxOltWdxilVFfj.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5001718</id>
+    <uniqueid type="imdb" default="true">tt5001718</uniqueid>
+    <uniqueid type="tmdb">417678</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>J. Mills Goodloe</credits>
+    <director>Stella Meghie</director>
+    <premiered>2017-05-18</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Alloy Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=42KNwQ6u42U</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5792</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Amandla Stenberg</name>
+        <role>Maddy Whittier</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kgLB6xhhZKqqwn1lnL5YjIv5frS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Robinson</name>
+        <role>Olly Bright</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/mzYszYVPvTdirjkUueziWUHvye7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anika Noni Rose</name>
+        <role>Dr. Pauline Whittier</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana de la Reguera</name>
+        <role>Carla Romero</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5ABHVktvlIMyfLCZo2sJsOIMQCo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Hickson</name>
+        <role>Kayra Bright</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qYc16SYLGSwm31MklUP42oKeTmO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danube R. Hermosillo</name>
+        <role>Rosa Romero</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/dlouBwJ1lnoGX0X2x5dP5OwdA2t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Payne</name>
+        <role>Joe Bright</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/oaKJV67XtJNQLtSGlO1YVveGqly.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fiona Loewi</name>
+        <role>Mae Bright</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/V6F6CQtdT5dH5lMjCtwfcYJgMY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Lawrenson</name>
+        <role>Mr. Waterman</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/a4r5lGyaGcy9qB2TG54Fj88ZW5h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Benson</name>
+        <role>Dr. Chase</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/btcuZXvGZcO1AyCQXcAeWWLf0jI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Françoise Yip</name>
+        <role>Dr. Francis</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/2fBymfOzhw8wB6wHFHbxulNysB4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marion Eisman</name>
+        <role>Nurse Janet</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/bCE3eqMyGlcVrLzM3kczaWpIieX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Farryn VanHumbeck</name>
+        <role>Ruby</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Allison Riley</name>
+        <role>Police Officer</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/aBXtOujx80gFkPFfq6lgV6LSVgT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sage Brocklebank</name>
+        <role>Astronaut</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/7BFFanLsfc2m4FU7Hvw8GDTGOEt.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:00:26</dateadded>
+</movie>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Première année</title>
+    <originaltitle>Première année</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>1847</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>514</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Antoine is about to start his first year of medical school… for the third time. Benjamin, just out of high school, will make his first try. He soon realizes it&apos;s not exactly a walk in the park. In a fiercely competitive environment, with nights dedicated to hard studying rather than hard partying, the two freshmen will have to adapt and find a middle ground between despair for the present and hope for the future.</plot>
+    <tagline></tagline>
+    <runtime>92</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4Rdz3bsTsMFjRoIvkLYkJIbida5.jpg">https://image.tmdb.org/t/p/original/4Rdz3bsTsMFjRoIvkLYkJIbida5.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yAhvYxF9J9P4lqGdznkxoN1pbF5.jpg">https://image.tmdb.org/t/p/original/yAhvYxF9J9P4lqGdznkxoN1pbF5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fTjDrGs2GObUFLvebBOP4vek1YV.jpg">https://image.tmdb.org/t/p/original/fTjDrGs2GObUFLvebBOP4vek1YV.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6690004</id>
+    <uniqueid type="imdb" default="true">tt6690004</uniqueid>
+    <uniqueid type="tmdb">463858</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>France</country>
+    <credits>Thomas Lilti</credits>
+    <director>Thomas Lilti</director>
+    <premiered>2018-09-12</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Le Pacte</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>45.000000</aspect>
+                <width>720</width>
+                <height>304</height>
+                <durationinseconds>5527</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Vincent Lacoste</name>
+        <role>Antoine Verdier</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1hp8PALjdPV57pnmk7VU3N4Pdf7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Lebghil</name>
+        <role>Benjamin Sitbon</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2XM21zWhLuLwTPcqNNa7Dz8iS4L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandre Brazy</name>
+        <role>Simon Sitbon</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/puEqXbjCRElm5SFz6w5SgPJ9ZPC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darina Al Joundi</name>
+        <role>Martine</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8H8hlmpKeYhxJNq8T59WvlbhJa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michel Lerousseau</name>
+        <role>Serge</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benoît Di Marco</name>
+        <role>Francois</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Graziella Delerm</name>
+        <role>Annick</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Guillaume Clérice</name>
+        <role>Vincent Grimaldi</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/zphFc6wlWnL7WcPNZaFJwgBI7bY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noémi Silvania</name>
+        <role>Nenni</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-03-02 18:42:21</dateadded>
+</movie>

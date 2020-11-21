@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La pelea estelar</title>
+    <originaltitle>The Main Event</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.700000</value>
+            <votes>1703</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>116</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Leo Thompson (Seth Carr) tiene 11 años y se ha encontrado una máscara de lucha libre que le da superfuerza. Con ella y con el apoyo de su abuela (Tichina Arnold), se presenta a un campeonato de la WWE. Leo hará todo lo posible para cumplir su sueño: ser una superestrella de la WWE. ¿Podrá un niño vencer a los contrincantes más demoledores en el ring y ser un gran campeón?</plot>
+    <tagline>Big Dreams Need A Little Magic</tagline>
+    <runtime>102</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mWTh9XfbDSOZiafEbtaCfyp75s4.jpg">https://image.tmdb.org/t/p/original/mWTh9XfbDSOZiafEbtaCfyp75s4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg">https://image.tmdb.org/t/p/original/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kfvpLrkpoYEf45OaC6pRIhe5sb6.jpg">https://image.tmdb.org/t/p/original/kfvpLrkpoYEf45OaC6pRIhe5sb6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z0Kp2Oom7INCM1F544VVCzxRIEI.jpg">https://image.tmdb.org/t/p/original/z0Kp2Oom7INCM1F544VVCzxRIEI.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/c6JmDkXh0o9Fs2aJ8dF7AVLem0D.jpg">https://image.tmdb.org/t/p/original/c6JmDkXh0o9Fs2aJ8dF7AVLem0D.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lN5xMrU52PdFopj3vED7LtSYfFT.jpg">https://image.tmdb.org/t/p/original/lN5xMrU52PdFopj3vED7LtSYfFT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vofdxC3ZG6sArT5D6b9MTFMnc6E.jpg">https://image.tmdb.org/t/p/original/vofdxC3ZG6sArT5D6b9MTFMnc6E.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10540242</id>
+    <uniqueid type="imdb" default="true">tt10540242</uniqueid>
+    <uniqueid type="tmdb">637157</uniqueid>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Peter Hoare</credits>
+    <credits>Jim Mahoney</credits>
+    <credits>Larry Postel</credits>
+    <director>Jay Karas</director>
+    <premiered>2020-04-10</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>WWE Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qt1sP3TBgPk</trailer>
+    <actor>
+        <name>Seth Carr</name>
+        <role>Leo Thompson</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yUB4bPUv7pKU1hSfzxNjL16HVnn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tichina Arnold</name>
+        <role>Denise Thompson</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/aBv6pccSsbO6DwfHfIz5wTZTux8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Pally</name>
+        <role>Steve Thompson</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Marino</name>
+        <role>Frankie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/7MeXvFGhzBwDm6c7lvdalA3GJYM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Mizanin</name>
+        <role>The Miz</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lpmLGdtUWkgKPVXC4tWb7ze7BBC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Momona Tamada</name>
+        <role>Erica</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/kJezH6Ua2Y6nf4Pv4tv0KxVEH9k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keith Lee</name>
+        <role>Smooth Operator</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gfpny79sJznbYQ41FjiDFgqwaJn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Babatunde Łukasz Aiyegbusi</name>
+        <role>Samson</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kofi Sarkodie-Mensah</name>
+        <role>Kofi Kingston</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iLcXlDIAMhbyP2F8KvOwoshiSfF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Farrelly</name>
+        <role>Sheamus</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/3QEksVcpGbmBruNb3K1zO4FK0S4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Polinsky</name>
+        <role>Corey Graves</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucie Guest</name>
+        <role>Ms. Cartwright</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/vIqTpvWUFuYVVwCMMEj4kWe6btj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Durupt</name>
+        <role></role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/2utVhkZBCac31x32owWntUmfieQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donna Benedicto</name>
+        <role>Announcer</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/muXNSartYyLpgZHQuoJ9NTzqoya.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Lazenby</name>
+        <role>Lord Copperhead</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/91tIFh3vNTOvclY20RVTC0slsmQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bodhi Sabongui</name>
+        <role>Luke</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dallas Dupree Young</name>
+        <role>Mason</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/2whzoMgXAmyGCQthZsFtkuEplXL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Hawes</name>
+        <role>WWE Fan</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Glen Gordon</name>
+        <role>Caleb</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/gy80doAcYAjSqmAFlh2uffto0Pc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Zaharia</name>
+        <role>Trevor</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jiPVcr2zLOwapACbkxPl3YzccrM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Furci</name>
+        <role>Robber</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/uUwfPVdysKXhspgI5V33HDkKafc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nevin Burkholder</name>
+        <role>Barbarian Wrestler</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/civ1nIZbuz4FvPxxhLmEGFUmy8O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arkie Kandola</name>
+        <role>Director</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/hVxuHPdxGGjwnN6qWQCGgKlXtvO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aryan Simhadri</name>
+        <role>Riyaz</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amy Ambrosio</name>
+        <role>Reporter #1</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Copeland</name>
+        <role>Beth Phoenix</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/i5N195CnGdvPjfitZyqWj7KyttV.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 09:29:38</dateadded>
+</movie>

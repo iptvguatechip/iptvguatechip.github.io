@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Punto de Quiebre</title>
+    <originaltitle>Point Break</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>57765</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>1622</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Thriller de acción cargado de altas dosis de adrenalina y un ritmo trepidante en el que un joven agente del FBI , Johnny Utah, se infiltra en un equipo de atletas de élite a la búsqueda de emociones, liderado por el carismático Bodhi. Los atletas son sospechosos de llevar a cabo una serie de crímenes de forma extremadamente inusual.  Infiltrado en el grupo de forma encubierta y arriesgando su vida a cada instante, Utah se esfuerza por demostrar que son los artífices de una cadena de crímenes inconcebibles.</plot>
+    <tagline>Encuentra tu límite</tagline>
+    <runtime>113</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/q94is4wMyWzDIMbdOzAAhk3oWqE.jpg">https://image.tmdb.org/t/p/original/q94is4wMyWzDIMbdOzAAhk3oWqE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/srHpbR1nfUM7MqrkvfQCiqvSD5n.jpg">https://image.tmdb.org/t/p/original/srHpbR1nfUM7MqrkvfQCiqvSD5n.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3GVzvHh55NRLgEuvDNflEXzdQTW.jpg">https://image.tmdb.org/t/p/original/3GVzvHh55NRLgEuvDNflEXzdQTW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z7JOvw5Lqs9ezoFTJxmz3nx3av2.jpg">https://image.tmdb.org/t/p/original/z7JOvw5Lqs9ezoFTJxmz3nx3av2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ybHwFsSjGO2MfIyyDBiZf4wHJHp.jpg">https://image.tmdb.org/t/p/original/ybHwFsSjGO2MfIyyDBiZf4wHJHp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5k2TNBRXkH73CsUxtWSGmBqakHC.jpg">https://image.tmdb.org/t/p/original/5k2TNBRXkH73CsUxtWSGmBqakHC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sOx9rsJYpf9oJx7HavFwDNKQaM8.jpg">https://image.tmdb.org/t/p/original/sOx9rsJYpf9oJx7HavFwDNKQaM8.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3zJnkABcx8xNsD22jYJXEShTjcg.jpg">https://image.tmdb.org/t/p/original/3zJnkABcx8xNsD22jYJXEShTjcg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7ZIBTfoQEoHTZgpbHYosclBlhi0.jpg">https://image.tmdb.org/t/p/original/7ZIBTfoQEoHTZgpbHYosclBlhi0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7fdy9iThI5qfJ9WMra8SrdvQs02.jpg">https://image.tmdb.org/t/p/original/7fdy9iThI5qfJ9WMra8SrdvQs02.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2058673</id>
+    <uniqueid type="imdb" default="true">tt2058673</uniqueid>
+    <uniqueid type="tmdb">257088</uniqueid>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>Austria</country>
+    <credits>Kurt Wimmer</credits>
+    <director>Ericson Core</director>
+    <premiered>2015-12-03</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Studio Babelsberg</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ncvFAm4kYCo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6830</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Edgar Ramírez</name>
+        <role>Bodhi</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7VZnIAI7Yye0rfs7fPM5wI2CI6N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Bracey</name>
+        <role>Johnny Utah</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/18mfKOJhNnXcLNT2jsxbrYpwHlr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teresa Palmer</name>
+        <role>Samsara Dietz</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbGnqOmLieJctfjmdcWIVQTiwhT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Winstone</name>
+        <role>Angelo Pappas</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tycHZh88ZF0Uv81ZJV3xuTXSrQP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Thieriot</name>
+        <role>Jeff</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ceCeFvmzTrADF1HYU0jIlcKUBvQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Delroy Lindo</name>
+        <role>FBI Instructor</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tobias Santelmann</name>
+        <role>Chowder</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wDsLQNsG4WWvwE6pwtV0FhL5JZt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Le Gros</name>
+        <role>FBI Agent</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/rI6wK1WHBTYF9dYC04kUO0kr8oX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>BoJesse Christopher</name>
+        <role>FBI Director Chapman</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/z6OQYBH4nl6JSabTX21tkg6gyZ8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clemens Schick</name>
+        <role>Roach</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/3ANnyM49vTvcT9MyyVvjl5UAdpj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matias Varela</name>
+        <role>Grommet</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/bcVmHCDRqOb57YC9yExVNg3fiBM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nikolai Kinski</name>
+        <role>Pascal Al Fariq</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/hN81FHqEqFjLvU0x4Cy4Zni4n1v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judah Lewis</name>
+        <role>Young Johnny Utah</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1KpsGf1sO1CUhy1zLg9HJCcQsMZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Senta Dorothea Kirschner</name>
+        <role>FBI Head</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/baFTaF00y07EOaHBUTAKSaj9pcL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seumas F. Sargent</name>
+        <role>C-130 Co-Pilot</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/g6d8fb4KA7eCdLhsZJfwHILTgEs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Bonjour</name>
+        <role>voice actor</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/svVlS8WVuztJiRi8rJ7QzkdSjbx.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:40:24</dateadded>
+</movie>

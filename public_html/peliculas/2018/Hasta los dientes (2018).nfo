@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hasta los dientes</title>
+    <originaltitle>Hasta los Dientes</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.200000</value>
+            <votes>427</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.600000</value>
+            <votes>7</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En 2010, el Gobierno mexicano anunció la muerte de dos supuestos sicarios peligrosos, pero en realidad se trataba de dos alumnos de excelencia del Tecnológico de Monterrey, quienes fueron torturados y asesinados por militares.</plot>
+    <tagline></tagline>
+    <runtime>109</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n3akk93FMnTiB1xFp8UnO10OjBq.jpg">https://image.tmdb.org/t/p/original/n3akk93FMnTiB1xFp8UnO10OjBq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zPn37GKzcko4ZFPr0bujEsfHoCo.jpg">https://image.tmdb.org/t/p/original/zPn37GKzcko4ZFPr0bujEsfHoCo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vNFGDeNGlVP6q2SRNdgEL3jeqet.jpg">https://image.tmdb.org/t/p/original/vNFGDeNGlVP6q2SRNdgEL3jeqet.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z96mPpx83UtTo9tYzrKXvHot1bu.jpg">https://image.tmdb.org/t/p/original/z96mPpx83UtTo9tYzrKXvHot1bu.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7609436</id>
+    <uniqueid type="imdb" default="true">tt7609436</uniqueid>
+    <uniqueid type="tmdb">515409</uniqueid>
+    <genre>Documental</genre>
+    <country>Mexico</country>
+    <director>Alberto Arnaut Estrada</director>
+    <premiered>2018-05-04</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>MEDIA-MAC</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6569</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:54:03</dateadded>
+</movie>

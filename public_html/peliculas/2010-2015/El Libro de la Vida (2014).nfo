@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Libro de la Vida</title>
+    <originaltitle>The Book of Life</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>63657</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>1711</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La película cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su corazón y dedicarse a su verdadera pasión: la música. Antes de escoger el camino que seguirá, emprende una aventura recorriendo tres mundos fantásticos, donde tendrá que superar sus peores miedos. Producida por Guillermo del Toro.</plot>
+    <tagline>Una aventura del día de muertos.</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vUqYsOhwDAoFlN2hJktT0XoilXv.jpg">https://image.tmdb.org/t/p/original/vUqYsOhwDAoFlN2hJktT0XoilXv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cLpSuvYBUQpfLXG39ThkSpPjURk.jpg">https://image.tmdb.org/t/p/original/cLpSuvYBUQpfLXG39ThkSpPjURk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/puTDvsUADxCA5NjJuwgEWqQ3xGA.jpg">https://image.tmdb.org/t/p/original/puTDvsUADxCA5NjJuwgEWqQ3xGA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vC3XlWhNTiTAxwKG3gmNx243hKm.jpg">https://image.tmdb.org/t/p/original/vC3XlWhNTiTAxwKG3gmNx243hKm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fhq87M6NNXqYH4OUoIfsM6oDUA3.jpg">https://image.tmdb.org/t/p/original/fhq87M6NNXqYH4OUoIfsM6oDUA3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dRWHyFrswCyT6y3TZPH5rCCaz80.jpg">https://image.tmdb.org/t/p/original/dRWHyFrswCyT6y3TZPH5rCCaz80.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5EJ3B4DpoC1OJ1FYvCIKzNUDwyO.jpg">https://image.tmdb.org/t/p/original/5EJ3B4DpoC1OJ1FYvCIKzNUDwyO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nlG452icactoT6hbqECbSEVfGII.jpg">https://image.tmdb.org/t/p/original/nlG452icactoT6hbqECbSEVfGII.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2262227</id>
+    <uniqueid type="imdb" default="true">tt2262227</uniqueid>
+    <uniqueid type="tmdb">228326</uniqueid>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <genre>Fantasía</genre>
+    <country>Mexico</country>
+    <credits>Doug Langdale</credits>
+    <credits>Jorge R. Gutierrez</credits>
+    <director>Jorge R. Gutierrez</director>
+    <premiered>2014-10-01</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Reel FX Creative Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FPSRMKnNWwM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5787</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Diego Luna</name>
+        <role>Manolo (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/uH8sMbiMmy9sprKr1vJpoPBB40E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Channing Tatum</name>
+        <role>Joaquin (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bhTmp6FA8fOQnGlNk75tdmj2bpu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoe Saldana</name>
+        <role>Maria (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christina Applegate</name>
+        <role>Mary Beth (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/dNLVRcmXAqFje98Wc2X8CNFGvKh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eugenio Derbez</name>
+        <role>Chato (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/947gI1TgtqYRoxcZ2M0RsglBRH9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cheech Marin</name>
+        <role>Pancho Rodriguez (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Iglesias</name>
+        <role>Pepe Rodriguez (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/n4RRL96ftX4dYWSZyEiakbpHnz1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Perlman</name>
+        <role>Xibalba (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate del Castillo</name>
+        <role>La Muerte (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/7m4oa23hAsqW3cE8cDF72QhIv9t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana de la Reguera</name>
+        <role>Carmen Sánchez (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5ABHVktvlIMyfLCZo2sJsOIMQCo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Navarro</name>
+        <role>Chakal (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/86wg3iN8D7fG9UQKUSMZOoZ8GtT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ice Cube</name>
+        <role>Candle Maker (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Héctor Elizondo</name>
+        <role>Carlos Sanchez (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Trejo</name>
+        <role>Skeleton Luis (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/gCWJybpDGAuKZ0mG2uTBVfsLuZX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Alazraqui</name>
+        <role>General Posada / Dali / Chuy (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emil-Bastien Bouffard</name>
+        <role>Young Manolo (voice)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elijah Rodriguez</name>
+        <role>Young Joaquin</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/mktEdTn775j5xMu8Py2A38U70L3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Genesis Ochoa</name>
+        <role>Young Maria (voice)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Plácido Domingo</name>
+        <role>Skeleton Jorge (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/1Zr9uMnynhzTaAYAVJk0DiqiqxL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grey DeLisle</name>
+        <role>Grandmother (voice) (as Grey Griffin)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/oOEZHnPBW8K86xUp3vqosexfgyP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Trey Bumpass</name>
+        <role>Goth Kid / Orphan</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miguel Sandoval</name>
+        <role>Land of the Remembered Captain (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Gleib</name>
+        <role>Goya / Dali (voice)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ricardo El Mandril Sanchez</name>
+        <role>Pablo Rodriguez (voice)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ishan Sharma</name>
+        <role>Sanjay</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jorge R. Gutierrez</name>
+        <role>Skeleton Carmelo (voice)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anjelah Johnson-Reyes</name>
+        <role>Adelita / Nina (voice)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/aMTTPuXs9AF2nW3zj7ZnvqooCQz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kennedy Peil</name>
+        <role>Sasha (voice)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sandra Equihua</name>
+        <role>Scardelita (voice)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Callahan Clark</name>
+        <role>Jane (voice)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gunnar Sizemore</name>
+        <role>Ignacio (voice)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/tFKQOBc89Itm7Y4XLGZgXzoq5Zk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angélica María</name>
+        <role>Sister Ana (voice)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Bauza</name>
+        <role>Father Domingo / Cave Guardian (voice)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/afOlsVPQxbtkom604MeCemjlwEV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aron Warner</name>
+        <role>Thomas (voice)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/8VFfsfSRKabBgRQOZ344kEgy7RX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandra Echeverría</name>
+        <role>Claudia (voice)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/2BrDCExAKY7ikVy7Budm4f7f3Pz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tonita Castro</name>
+        <role>La Muerte as Old Woman (voice)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Troy Evans</name>
+        <role>Old Man Hemingway (voice)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/56m9RDIDGH0DfNrRVMPuiTqi5m4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guillermo del Toro</name>
+        <role>Land of the Remembered Captain&apos;s Wife (voice)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Booker</name>
+        <role>Conductor (voice)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/8LXhkzkXf81HCCh41bTG9GNkF69.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosemary Alexander</name>
+        <role>Additional Voices (voice)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/fk1MDk512i4ou8YOInuGHCD7Nlu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Alterman</name>
+        <role>Additional Voices (voice)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/9R2n0Af956rnRUTQxE2H7v0JKF9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eva Bella</name>
+        <role>Additional Voices (voice)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/8XmnkpEEEtXYXTQ9PFBBtIUAaBR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Carlon</name>
+        <role>Additional Voices (voice)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vicki Davis</name>
+        <role>Additional Voices (voice)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/USXMj1xQi3Qb7SeFNDqn4t6ipr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Moosie Drier</name>
+        <role>Additional Voices (voice)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/qgfmFwKc5NbSEsD46ihFOb5QIPj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maximilian Ehrenreich</name>
+        <role>Manolo (voice)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cullen McCarthy</name>
+        <role>Additional Voices (voice)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/p0nqW3jXGdsbLeZpSpv3XtcFHkn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Michie</name>
+        <role>Additional Voices (voice)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/87z5A1ylR4I3jB8lzrLgfILYdYu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Moores</name>
+        <role>Additional Voices (voice)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Nichols</name>
+        <role>Additional Voices (voice)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/fbX4KkFBhKjDsvlsMUrsJO5tBka.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Al Rodrigo</name>
+        <role>Additional Voices (voice)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/kyQSlxHVnla3MfXzs2XhKCRHWMw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcelo Tubert</name>
+        <role>Additional Voices (voice)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/94XR27kAYZlkDDDnp6OSrGeyuvn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynnanne Zager</name>
+        <role>Additional Voices (voice)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/bLnda9dG3y7j0hr6W1F8h3Pr0qM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ruth Zalduondo</name>
+        <role>Additional Voices (voice)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/sf9FN5qZg07PdRR49N1ijBmcMap.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Newell Alexander</name>
+        <role>Additional Voices (voice)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/jXz5ahA0uyxPeMcPIlZeS9Rtldb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jose Alvarez</name>
+        <role>Additional Voices (voice)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/216LTp3VScNyViUtbK5URgb5DtN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Cowgill</name>
+        <role>Additional Voices (voice)</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/A3OFXT1LRCzIjvV7VXe4SDTg5U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisa Gabrielli</name>
+        <role>Additional Voices (voice)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYVa8kVL0Qgf1yNmMf5KFM2HFHN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Miro</name>
+        <role>Additional Voices (voice)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arthur Ortiz</name>
+        <role>Additional Voices (voice)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nathaniel Semsen</name>
+        <role>Additional Voices (voice)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:43</dateadded>
+</movie>

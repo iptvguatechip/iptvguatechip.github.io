@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Sergio</title>
+    <originaltitle>Sergio</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.100000</value>
+            <votes>7536</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>193</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El diplomático brasileño de las Naciones Unidas Sergio Vieira de Mello se ve obligado a superar la misión más importante de su carrera justo cuando finaliza la invasión estadounidense de Iraq.</plot>
+    <tagline>In a world of conflict, he risked everything for peace.</tagline>
+    <runtime>118</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tABtj9BwYVDCM69h7AK38MDgw64.jpg">https://image.tmdb.org/t/p/original/tABtj9BwYVDCM69h7AK38MDgw64.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mkmw4sd0rFSDdMIphDrqwbftUVr.jpg">https://image.tmdb.org/t/p/original/mkmw4sd0rFSDdMIphDrqwbftUVr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oMtKkuTVWjE3jmspWamnWyJqVFe.jpg">https://image.tmdb.org/t/p/original/oMtKkuTVWjE3jmspWamnWyJqVFe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jGX12YFuhOylBj74oJdOh3TLjxe.jpg">https://image.tmdb.org/t/p/original/jGX12YFuhOylBj74oJdOh3TLjxe.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a2UDJvvyDANSKcBRtEDLExVK0Pg.jpg">https://image.tmdb.org/t/p/original/a2UDJvvyDANSKcBRtEDLExVK0Pg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z2VD7OnhLFOzkcOmStUtlEIWup4.jpg">https://image.tmdb.org/t/p/original/z2VD7OnhLFOzkcOmStUtlEIWup4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gLYcFoNfmvoJpM327P3pQygFVsq.jpg">https://image.tmdb.org/t/p/original/gLYcFoNfmvoJpM327P3pQygFVsq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xSECYW2bdaJJCWcuv9IhuiKR9As.jpg">https://image.tmdb.org/t/p/original/xSECYW2bdaJJCWcuv9IhuiKR9As.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eOABj0jZh1GRvYG3rE9tU2BGT89.jpg">https://image.tmdb.org/t/p/original/eOABj0jZh1GRvYG3rE9tU2BGT89.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8750570</id>
+    <uniqueid type="imdb" default="true">tt8750570</uniqueid>
+    <uniqueid type="tmdb">653744</uniqueid>
+    <genre>Drama</genre>
+    <country>Albania</country>
+    <credits>Craig Borten</credits>
+    <director>Greg Barker</director>
+    <premiered>2020-01-28</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Black Rabbit Media</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eVv2-fZ2Zro</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>7119</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>eac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>atmos</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Wagner Moura</name>
+        <role>Sérgio Vieira de Mello</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/7yJVQSXSTOia9y7ShPPuU5pTKFt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana de Armas</name>
+        <role>Carolina</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/14uxt0jH28J9zn4vNQNTae3Bmr7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garret Dillahunt</name>
+        <role>Bill von Zehle</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/w5Ziqypp23AMTOaAolAW7RM5pnH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Dalton</name>
+        <role>Andre Valentine</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/5MdZHhzE66QSX1j2gTRxTrBp5w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bradley Whitford</name>
+        <role>Paul Bremer</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brían F. O&apos;Byrne</name>
+        <role>Gil</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7ppXakXhRdkouqPFb8YQSSDgJg0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clemens Schick</name>
+        <role>Gaby</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/3ANnyM49vTvcT9MyyVvjl5UAdpj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clarisse Abujamra</name>
+        <role>Gilda Vieira de Mello</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4R7KXttPxctfO3uCPMldqBqyPW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Hossi</name>
+        <role>General Xanana Gusmão</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/x6L8DLp1wLKzee2zep8ZOxzAQHa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sahajak Boonthanakit</name>
+        <role>Ieng Sary</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/a36MI02S0f11bJZjBoxkZTsUDAK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vithaya Pansringarm</name>
+        <role>Indonesian President</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/rGEyRPrs3d9r4NHcHijzzGjP2p9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Mello</name>
+        <role>Laurent, 16 Years Old</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/hzw7s5lIrztRjLCD7lsUvtcKMkY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>João Barreto</name>
+        <role>Adrien, 13 Years Old</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/3n680jWA4XNo66IcECglpr9oBxM.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-03 19:31:23</dateadded>
+</movie>

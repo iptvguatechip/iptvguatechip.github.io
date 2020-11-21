@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Buen Sam</title>
+    <originaltitle>Good Sam</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>2351</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>153</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un misterioso buen samaritano deja bolsas llenas de dinero en las puertas de las casas. La reportera neoyorquina Kate Bradley se propone descubrir su identidad y el objetivo que persigue. Sin embargo, será la vida de la periodista la que dé un gran giro.</plot>
+    <tagline>Sigue el misterio. Descubre un milagro.</tagline>
+    <runtime>89</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aikRqgZnOgjtwjxMJRGXCATzV8J.jpg">https://image.tmdb.org/t/p/original/aikRqgZnOgjtwjxMJRGXCATzV8J.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8HYTN6cCfqUwBEGAlKcXhEjiSEd.jpg">https://image.tmdb.org/t/p/original/8HYTN6cCfqUwBEGAlKcXhEjiSEd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mxUMFdPsquD5q0oQ1Uf3SYkLUJA.jpg">https://image.tmdb.org/t/p/original/mxUMFdPsquD5q0oQ1Uf3SYkLUJA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ceLrVW2tPpUfWNIwATGZVrpOdCj.jpg">https://image.tmdb.org/t/p/original/ceLrVW2tPpUfWNIwATGZVrpOdCj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yePk1Z1IaC5HxnYf9QmTd6hC4TD.jpg">https://image.tmdb.org/t/p/original/yePk1Z1IaC5HxnYf9QmTd6hC4TD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oxoahfl02ATh10ySH0jB95O2Glv.jpg">https://image.tmdb.org/t/p/original/oxoahfl02ATh10ySH0jB95O2Glv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iiB0sm9Ia0k5ruqpEbwqv0oeapN.jpg">https://image.tmdb.org/t/p/original/iiB0sm9Ia0k5ruqpEbwqv0oeapN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9f6H3PosQHrYvldOxELdrzsqHav.jpg">https://image.tmdb.org/t/p/original/9f6H3PosQHrYvldOxELdrzsqHav.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 7</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9032888</id>
+    <uniqueid type="imdb" default="true">tt9032888</uniqueid>
+    <uniqueid type="tmdb">602609</uniqueid>
+    <genre>Romance</genre>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Teena Booth</credits>
+    <credits>Dete Meserve</credits>
+    <director>Kate Miles Melville</director>
+    <premiered>2019-05-16</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Wind Dancer Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x_Vzw-8TMjg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5386</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tiya Sircar</name>
+        <role>Kate Bradley</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ySOwYAheNWApnu9TBJkziNthMA6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chad Connell</name>
+        <role>Eric Hayes</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/r8wUlJ1lo5zVqKktaoKxRkCrqpa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marco Grazzini</name>
+        <role>Jack Hansen</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6QSn9wssoabEmDLsEIH6e7xaSs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesse Camacho</name>
+        <role>Josh</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/yhlO36DEeq7okyDySRZNuc7tmss.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Camacho</name>
+        <role>David Dyal</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/AruZfSgqYW23yTMlIdt0pu6iBf8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elana Dunkelman</name>
+        <role>Lauren</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/7tSkQBw2gz38V4IXOaNHSM3I8Om.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Hope Taylor</name>
+        <role>Susan Andrews</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenny Wong</name>
+        <role>Ed</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/3RJ74D2odaFbA7n4Io8tHhRm1HC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniela Sandiford</name>
+        <role>Alex</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/kbOsiwPvxhIQDDpmMdItuMDBvS7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christina Tannous</name>
+        <role>Christina Gomez</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ivan Smith</name>
+        <role>Senator Ashok Bradley</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/cqBDuExrEcxT0SG0aZitX1UAmiW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stefanie Nakamura</name>
+        <role>Channel 9 Reporter</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/4dCF2hEW0BSLSxEkztqUoRPTcc3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Humphrey</name>
+        <role>Channel 3 Reporter</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jodie Resther</name>
+        <role>Faith Haywood</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vince Benvenuto</name>
+        <role>Jesse Durham</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/zuCBTEOZ4EReAQ2ngGACUIzRXM9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mylène Dinh-Robic</name>
+        <role>Marie Ellis</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/tqnsFFY8AFYbTjbtzPz5uc3ho4Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edem Nyamadi</name>
+        <role>John Baylor</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>André Bédard</name>
+        <role>Young Firefighter</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Ox28B3aIpDkeUMmiAE6CPEacKm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Schorpion</name>
+        <role>Senator Tom Wintour</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/aYHpKplVgIeuN8VoJq5R1Im9QKi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Dinsmore</name>
+        <role>Male Anchor - Chuck</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/aO0qlddrQlogsnlLU9CP5q8N1Mf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brittany Drisdelle</name>
+        <role>Hostess</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/r4ZRxNMT8X9XkNc01XGqctCulKY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wyatt Bowen</name>
+        <role>Police Officer #1</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ziad Ghanem</name>
+        <role>Person for GS&apos;s Video #1</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Linda Joyce Nourse</name>
+        <role>Person for GS&apos;s Video #2</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/4Otgcp6gL8dzmDL3Ue0T5T39m9o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Crooks</name>
+        <role>Eric&apos;s Brother (Photo)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/nrGJWpytpp8zZzjZM0KdrzgwnhP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Domenic Di Rosa</name>
+        <role>Man (uncredited)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sabrina Baribeau</name>
+        <role>Hostess (uncredited)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 22:58:36</dateadded>
+</movie>

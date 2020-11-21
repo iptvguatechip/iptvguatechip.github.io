@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Divergente la serie: Insurgente</title>
+    <originaltitle>Insurgent</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>214822</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>7978</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Tris (Shailene Woodley) y Cuatro (Theo James) son fugitivos que tratan de eludir la persecución de Jeanine (Kate Winslet), la líder de los eruditos. Tris pretende averiguar qué era lo que su familia defendió con tanto sacrificio. Atormentada por las decisiones de su pasado, pero decidida a proteger a los suyos, Tris, con la ayuda de Cuatro, se enfrentará a un reto tras otro para desbloquear la verdad de su pasado y el futuro de su mundo. Secuela de &quot;Divergente&quot; (2014).</plot>
+    <tagline>Una elección puede destruirte.</tagline>
+    <runtime>119</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rDxVDw9Pda8XtvCIpKWNEZ43Ral.jpg">https://image.tmdb.org/t/p/original/rDxVDw9Pda8XtvCIpKWNEZ43Ral.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/nXuCj7NcsC2bPJlwD6t2l9ZTDnt.jpg">https://image.tmdb.org/t/p/original/nXuCj7NcsC2bPJlwD6t2l9ZTDnt.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/jOyG4kTK0EKXz6tAlbA577C4UoZ.jpg">https://image.tmdb.org/t/p/original/jOyG4kTK0EKXz6tAlbA577C4UoZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sh1TKc4DeP2OyvakgsNs7uIdaUa.jpg">https://image.tmdb.org/t/p/original/sh1TKc4DeP2OyvakgsNs7uIdaUa.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/deQOI5htjApAJ8SuhWJijm04ZaS.jpg">https://image.tmdb.org/t/p/original/deQOI5htjApAJ8SuhWJijm04ZaS.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bCahaCHbX3DgGCsJB9s8VXU1Bpa.jpg">https://image.tmdb.org/t/p/original/bCahaCHbX3DgGCsJB9s8VXU1Bpa.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zgME96BPD0pwK5NHuVeiyqPzV3U.jpg">https://image.tmdb.org/t/p/original/zgME96BPD0pwK5NHuVeiyqPzV3U.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/2tVtmjJTwkieDf4c42SMzKEOyXF.jpg">https://image.tmdb.org/t/p/original/2tVtmjJTwkieDf4c42SMzKEOyXF.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/jpdRKw7tPySOdQKGsvtUUDPx4FO.jpg">https://image.tmdb.org/t/p/original/jpdRKw7tPySOdQKGsvtUUDPx4FO.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9kzqauYF3glV2x61cfAjZ4GLmTo.jpg">https://image.tmdb.org/t/p/original/9kzqauYF3glV2x61cfAjZ4GLmTo.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/AuRcFKpgHWInxR7MMomrsV9BPNy.jpg">https://image.tmdb.org/t/p/original/AuRcFKpgHWInxR7MMomrsV9BPNy.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/uExS9jcaFBM1wJhkn1Q1P0MFpv6.jpg">https://image.tmdb.org/t/p/original/uExS9jcaFBM1wJhkn1Q1P0MFpv6.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5ceuT1wxGpbDeGTsXMPh1PJflTZ.jpg">https://image.tmdb.org/t/p/original/5ceuT1wxGpbDeGTsXMPh1PJflTZ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/gJyFdjfepkrhmQ4oDfEMLeiroTy.jpg">https://image.tmdb.org/t/p/original/gJyFdjfepkrhmQ4oDfEMLeiroTy.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/2wvmsE8BE32Po0eo8o9Ajhe27ny.jpg">https://image.tmdb.org/t/p/original/2wvmsE8BE32Po0eo8o9Ajhe27ny.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/hDuz4vw2LLNpfAUZCkiT94H92zL.jpg">https://image.tmdb.org/t/p/original/hDuz4vw2LLNpfAUZCkiT94H92zL.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/z7Vxe0aRexX5Cr8AxE4vR6LgFEu.jpg">https://image.tmdb.org/t/p/original/z7Vxe0aRexX5Cr8AxE4vR6LgFEu.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/n5PHgWukGHmm2ptAF0hdS0dkm3s.jpg">https://image.tmdb.org/t/p/original/n5PHgWukGHmm2ptAF0hdS0dkm3s.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/t5YI1wKBwUOIkfcKtHv6WA42N9h.jpg">https://image.tmdb.org/t/p/original/t5YI1wKBwUOIkfcKtHv6WA42N9h.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jY5sTxd5dROtnINsOUGQvY9CzFn.jpg">https://image.tmdb.org/t/p/original/jY5sTxd5dROtnINsOUGQvY9CzFn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/A5jesmM5JobzXNbFH4tl51NIHfx.jpg">https://image.tmdb.org/t/p/original/A5jesmM5JobzXNbFH4tl51NIHfx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ee1idJWK675HI9qNc36s1hHlRXU.jpg">https://image.tmdb.org/t/p/original/ee1idJWK675HI9qNc36s1hHlRXU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/voSF5nL95xJMI30XGksghnvpGWd.jpg">https://image.tmdb.org/t/p/original/voSF5nL95xJMI30XGksghnvpGWd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1ri6k2iyL33jC2QjO4H89gbgJ9Z.jpg">https://image.tmdb.org/t/p/original/1ri6k2iyL33jC2QjO4H89gbgJ9Z.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg">https://image.tmdb.org/t/p/original/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7SpISiJuwCiAIq3lQ2vXEEO5uZk.jpg">https://image.tmdb.org/t/p/original/7SpISiJuwCiAIq3lQ2vXEEO5uZk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u0n5HFYFcmzy97uiyNDfE9hwEIZ.jpg">https://image.tmdb.org/t/p/original/u0n5HFYFcmzy97uiyNDfE9hwEIZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lX7ZC5Sy1tYFnqfxEAUu7vb5f9o.jpg">https://image.tmdb.org/t/p/original/lX7ZC5Sy1tYFnqfxEAUu7vb5f9o.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ir0VeD2pMtJQLVvOMpsjA83ouhN.jpg">https://image.tmdb.org/t/p/original/ir0VeD2pMtJQLVvOMpsjA83ouhN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cy0FJf8QC4Ctzmveocn2Ltz6skf.jpg">https://image.tmdb.org/t/p/original/cy0FJf8QC4Ctzmveocn2Ltz6skf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/45FQFpQaS0pWw1cKBDd3m2b6rXb.jpg">https://image.tmdb.org/t/p/original/45FQFpQaS0pWw1cKBDd3m2b6rXb.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg">https://image.tmdb.org/t/p/original/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mb0QggTwZi3cqlcVHGC7zRHGcx4.jpg">https://image.tmdb.org/t/p/original/mb0QggTwZi3cqlcVHGC7zRHGcx4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AqqXeHCdy7aYNyFhsXwPHUU1Fnh.jpg">https://image.tmdb.org/t/p/original/AqqXeHCdy7aYNyFhsXwPHUU1Fnh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dLyvZHssvHrC0Y05QEH4HHoxHMA.jpg">https://image.tmdb.org/t/p/original/dLyvZHssvHrC0Y05QEH4HHoxHMA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ib6WXt4LxTs6LdcF7jLETayqSuc.jpg">https://image.tmdb.org/t/p/original/ib6WXt4LxTs6LdcF7jLETayqSuc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1rpBKkk9E4bRhn4xrfp8mIrMlLm.jpg">https://image.tmdb.org/t/p/original/1rpBKkk9E4bRhn4xrfp8mIrMlLm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wVRCgCt3sWSUjOFC0sQgEOcYUTv.jpg">https://image.tmdb.org/t/p/original/wVRCgCt3sWSUjOFC0sQgEOcYUTv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/g6E3007axIAMfVvMP5gJhsttZ5X.jpg">https://image.tmdb.org/t/p/original/g6E3007axIAMfVvMP5gJhsttZ5X.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2908446</id>
+    <uniqueid type="imdb" default="true">tt2908446</uniqueid>
+    <uniqueid type="tmdb">262500</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Divergente - Colección</name>
+    </set>
+    <credits>Akiva Goldsman</credits>
+    <credits>Mark Bomback</credits>
+    <credits>Brian Duffield</credits>
+    <director>Robert Schwentke</director>
+    <premiered>2015-03-18</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Summit Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J7cbKGLQ6W8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>7157</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Shailene Woodley</name>
+        <role>Beatrice &quot;Tris&quot; Prior</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6BHOerIigACwjdJL3Kg1jq5uBz8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Theo James</name>
+        <role>Tobias &quot;Four&quot; Eaton</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/djUMCpSebFhLrWQH7TsH4Q1PVX2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Octavia Spencer</name>
+        <role>Johanna Reyes</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/jnQTP4RRkoWnyO3yL2PgRHZi0tK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jai Courtney</name>
+        <role>Eric Coulter</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9kMUy38pj7oTCuQUhfkbgXOedCq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ray Stevenson</name>
+        <role>Marcus Eaton</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoë Kravitz</name>
+        <role>Christina</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zx74kkI931iiQATJybvRKWYnOe9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miles Teller</name>
+        <role>Peter Hayes</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/4h7wXInwsRIzbn1HfxKiSnYX8eD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ansel Elgort</name>
+        <role>Caleb Prior</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ynceZwoR41V4FBiElUpgG5aFi9i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maggie Q</name>
+        <role>Tori Wu</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/MC6ikXkfsyAsrK6qNDKvHCpWLj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mekhi Phifer</name>
+        <role>Max</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/wQTqi6GmWWjZtUnlTgCaxGSt6mq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janet McTeer</name>
+        <role>Edith Prior</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/kiLmLRkxTW52YrZuBRhrYR8EYZ4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Dae Kim</name>
+        <role>Jack Kang</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/aXbTKgL4u6oVumQ459B9VkGTn4A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naomi Watts</name>
+        <role>Evelyn Johnson-Eaton</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/5s6UE6VjYx5TBDvyFk4vfOdS9GR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Winslet</name>
+        <role>Jeanine Matthews</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emjay Anthony</name>
+        <role>Hector</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/q8lsX9MmYrf9UOpRUZy4ZkziIyO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keiynan Lonsdale</name>
+        <role>Uriah Pedrad</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/wxOgSpv1SoLBUvjhYb4bKJs8TuG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosa Salazar</name>
+        <role>Lynn</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/hrU1Kg1SH03x0RRmWEzmnWEonuU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suki Waterhouse</name>
+        <role>Marlene</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/gR3TLPDvqkrwIKJBw9Mx3VhhM2G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonny Weston</name>
+        <role>Edgar</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/7RFuQiLtcDtt6ycpCYqUVbpcmfV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cynthia Barrett</name>
+        <role>Amity Divergent Woman</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justice Leak</name>
+        <role>Amity Divergent Husband</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lyndsi LaRose</name>
+        <role>Amity Teacher</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/2tjO81SxPICBl1D8btYof7ECiqM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Bodin</name>
+        <role>Amity Server</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Lloyd-Hughes</name>
+        <role>Will</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/zVMVm8YpNp8VpOvmU0Tfal0lAIK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Goldwyn</name>
+        <role>Andrew Prior</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/m4CJX4QwjZsdYJKe8OJamLRnlQh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Judd</name>
+        <role>Natalie Prior</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/dofk0Y9YnGfoakFOonxoyFD7LOC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>A.J. Sexton</name>
+        <role>Amity Girl (uncredited)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hunter Denoyelles</name>
+        <role>Candor Girl (uncredited)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/axedEfXrRezPVvUUXALaKgohOta.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Konrad Howard</name>
+        <role>Connor</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucella Costa</name>
+        <role>Odessa</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Devon Lane Tresan</name>
+        <role>Amity Horse Girl</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Leigh Schlund</name>
+        <role>Amity Hot Blonde</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leonardo Santaiti</name>
+        <role>Amity Seth</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Derick Pritchard</name>
+        <role>Amity Dauntless Soldier</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Casselberry</name>
+        <role>Amity Dauntless Soldier</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/oDaDxzQsiAsE5fMr5HtoGT51Irl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kendrick Cross</name>
+        <role>Candor Guard</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/tYaCFGV5EuxZpj2NOh2oDJ0yDyZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Landry</name>
+        <role>Candor Dauntless Soldier</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lawrence Kao</name>
+        <role>Erudite Tech #1</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/foA82QIwvVRFWCAmw4UOsWdw8UT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Miles</name>
+        <role>Erudite Tech #2</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hunter Burke</name>
+        <role>Erudite Administrator</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/ibR2TL9jwKVDr9E3VJRnPcgcvHN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Rachesky</name>
+        <role>Candor Teenage Girl</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/vTDjoDoDkXxhjXmCLtTgw4nu9Wy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Callie Brook McClincy</name>
+        <role>Candor Small Girl</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pete Burris</name>
+        <role>Candor Divergent Man</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/9FfIl5oggZOkQNzXakbBqAHXSam.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justine Wachsberger</name>
+        <role>Lauren</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Isadore Lieberman</name>
+        <role>Factionless Kid #1</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Martin</name>
+        <role>Factionless Kid #2</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nelson Bonilla</name>
+        <role>Erudite Cell Guard</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/cLD3PPFRxqOx2r5PqFk3I4Dpj5q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arian Ash Clute</name>
+        <role>Erudite Control Room Tech #1</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jane Park Smith</name>
+        <role>Erudite Control Room Tech #2</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 13:51:01</dateadded>
+</movie>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Escuadrón Suicida: Deuda infernal</title>
+    <originaltitle>Suicide Squad: Hell to Pay</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>10808</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>313</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El Escuadrón Suicida tiene la misión de recuperar un objeto místico tan poderoso que están dispuestos a arriesgar sus propias vidas y robárselo para ellos mismos.</plot>
+    <tagline>When the world needs the best, they call on the worst</tagline>
+    <runtime>86</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/q6p3pMY80NjUuX9SuHopBNUDZrk.jpg">https://image.tmdb.org/t/p/original/q6p3pMY80NjUuX9SuHopBNUDZrk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg">https://image.tmdb.org/t/p/original/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7o0OQUf15v2m45gXluRUMTRC14h.jpg">https://image.tmdb.org/t/p/original/7o0OQUf15v2m45gXluRUMTRC14h.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/va1IgsZeWBbKLsZcFwz3CM1MkMu.jpg">https://image.tmdb.org/t/p/original/va1IgsZeWBbKLsZcFwz3CM1MkMu.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dCQufBk08xVYRethCBqXU7I4vYn.jpg">https://image.tmdb.org/t/p/original/dCQufBk08xVYRethCBqXU7I4vYn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aoNr4j80ZQXt0vbabgdh1PFBGys.jpg">https://image.tmdb.org/t/p/original/aoNr4j80ZQXt0vbabgdh1PFBGys.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9kIAWqwHRq2lVZQrBDnNC8j7xK1.jpg">https://image.tmdb.org/t/p/original/9kIAWqwHRq2lVZQrBDnNC8j7xK1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yALPJpySAQHR9ASKA5WY8pRUroV.jpg">https://image.tmdb.org/t/p/original/yALPJpySAQHR9ASKA5WY8pRUroV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/azGxfdKvIhJeSusazngZlbQziIa.jpg">https://image.tmdb.org/t/p/original/azGxfdKvIhJeSusazngZlbQziIa.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7167602</id>
+    <uniqueid type="imdb" default="true">tt7167602</uniqueid>
+    <uniqueid type="tmdb">487242</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <credits>Alan Burnett</credits>
+    <director>Sam Liu</director>
+    <premiered>2018-05-09</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DC Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EPZZvk-wbGE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>hevc</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5163</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>dts</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Christian Slater</name>
+        <role>Floyd Lawton / Deadshot (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tara Strong</name>
+        <role>Harleen Quinzel / Harley Quinn (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9S3QzI3L5aARP8GYYO86rREKxU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Brown</name>
+        <role>Ben Turner / Bronze Tiger (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xE1AQdJeTwgrFq7hdSeSjaHNL9h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liam McIntyre</name>
+        <role>George Harness / Captain Boomerang (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kV8KZINfuuC40NzZ6cZlXdQt2N5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Williams</name>
+        <role>Amanda Waller (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/30O1Af0wy6UBt8EpVRuq28tTGoT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristin Bauer van Straten</name>
+        <role>Crystal Frost / Killer Frost (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/15hNUdK2yHGyK6gFWPWdyoijZiu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gideon Emery</name>
+        <role>Sameer Park / Copperhead (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/o7BHjTmmZ9D5tEK33JHKfB2FQqD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>C. Thomas Howell</name>
+        <role>Eobard Thawne / Professor Zoom (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/jbe1EIWMlIvnIJjPX5H5hAVLBbJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Grunberg</name>
+        <role>Steel Maxum (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ir2QunLf6aTaowpEygbIcjiZLDB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Nathanson</name>
+        <role>Siobhan Smythe / Silver Banshee (voice) / Jewelee (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/nRTSrVAA5txbzITfx1h9ZIutcP4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Fennoy</name>
+        <role>Blockbuster (voice) / Tobias Whale (voice) / Black Manta (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1azEou77GcmST8hYJmV30PhAyO6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dania Ramirez</name>
+        <role>Scandal Savage (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/jfRcoVQLnLb90fnUr3waktfRUYE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cissy Jones</name>
+        <role>Knockout (voice) / Female Announcer (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/6lQhvaqpH2ZwOi73nMtOBPe0aZZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Urbaniak</name>
+        <role>Lazlo Valentin / Professor Pyg (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/6WnlD8c9kHFh6BkQJmQ4CMSTjKT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Pirri</name>
+        <role>Vandal Savage (voice) / Werner Zytle / Count Vertigo (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/xFLEwCYwC90HN9JswdhjHXXXhbF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalie Lander</name>
+        <role>Darma (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/1dDaWfmayfkW5FWkTOP8QHXZHZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Trevor Devall</name>
+        <role>Punch (voice) / Thug #1 (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Boat</name>
+        <role>Harvey Dent / Two-Face (voice) / Thug #2 (voice)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Mercer</name>
+        <role>Savage Gunman (voice) / Argus Scientist (voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/fe1S317253vfMuNuIDjhp9vtNSs.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:18:32</dateadded>
+</movie>

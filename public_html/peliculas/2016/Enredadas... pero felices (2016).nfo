@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Enredadas... pero felices</title>
+    <originaltitle>Mother&apos;s Day</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>32315</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>975</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Historias cruzadas en el Día de la Madre. Sandy (Jennifer Aniston) es una mujer de gran personalidad que lucha por mantener la cordura y hacer su papel de madre cuando su marido se casa con otra mujer más joven. Miranda (Julia Roberts), la presentadora estrella de una importante cadena de TV, está soltera y sin compromiso. Por su parte, Jesse (Kate Hudson) está casada con un indio, cosa que oculta a su madre, que es muy racista, pero ésta ha decidido visitarla con motivo de esa fiesta. Tras la muerte de su mujer, el tímido Bradley (Jason Sudekis) teme que llegue el Día de la Madre, pues será la primera vez que él y sus dos hijas lo pasarán sin ella. Además, Bradley tiene que soportar a los que lo presionan para que empiece a tener citas de nuevo.</plot>
+    <tagline>Romance. Comedia | Historias cruzadas. Comedia romántica</tagline>
+    <runtime>118</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5I427X5vl10xgnhweX0wEpT3KGt.jpg">https://image.tmdb.org/t/p/original/5I427X5vl10xgnhweX0wEpT3KGt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1HPx4Oi0IsmEmZAoD69AEWnCLda.jpg">https://image.tmdb.org/t/p/original/1HPx4Oi0IsmEmZAoD69AEWnCLda.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AvGTqWgDjQ0TwDkApFMAA1BxJOD.jpg">https://image.tmdb.org/t/p/original/AvGTqWgDjQ0TwDkApFMAA1BxJOD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mVLMEyg3wK0eTPEvTaF3UjP36br.jpg">https://image.tmdb.org/t/p/original/mVLMEyg3wK0eTPEvTaF3UjP36br.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1K7I9S3Ld8n9yHAQJ7f0D43NkFL.jpg">https://image.tmdb.org/t/p/original/1K7I9S3Ld8n9yHAQJ7f0D43NkFL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ddLJmgDiC1D7gas6QkEmMhz3ZwX.jpg">https://image.tmdb.org/t/p/original/ddLJmgDiC1D7gas6QkEmMhz3ZwX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4824302</id>
+    <uniqueid type="imdb" default="true">tt4824302</uniqueid>
+    <uniqueid type="tmdb">353069</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Anya Kochoff</credits>
+    <credits>Tom Hines</credits>
+    <credits>Lily Hollander</credits>
+    <director>Garry Marshall</director>
+    <premiered>2016-04-28</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Rice Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IWVCltvEaVo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>7130</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jennifer Aniston</name>
+        <role>Sandy</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qPXG41rYdUGldZhMhuZFvmpZKRp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Roberts</name>
+        <role>Miranda</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pahtuRDpaopvO6rH1RYS2omrO8L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Hudson</name>
+        <role>Jesse</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/vCSuPFndH3sbCYZdi1pMiKvzRIp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Sudeikis</name>
+        <role>Bradley</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cjvq7a1gfSdK4xxjDRfTf9832QT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothy Olyphant</name>
+        <role>Henry</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Chalke</name>
+        <role>Gabi</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margo Martindale</name>
+        <role>Flo</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Lovitz</name>
+        <role>Jackie Burn</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Britt Robertson</name>
+        <role>Kristin</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/6lnipeQ6auGaxn4gQ8UX68xoxOy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shay Mitchell</name>
+        <role>Tina</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/56ZOVgFGbJ4WqZad68Djm2kl19c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Whitehall</name>
+        <role>Zack</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8xRKz1tiVyjLxIMuD0ckOmF3xMY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Loni Love</name>
+        <role>Kimberly</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/zimvN7f2JKjuNrbDTOLzV7oOosI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gianna Simone</name>
+        <role>Val</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/iuZhvgQqGhqe4fa591oAUtXbcLv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron Esposito</name>
+        <role>Max</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/mqR0bYOZI0uk6SFYNNc92LIwvBY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aasif Mandvi</name>
+        <role>Russell</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/sMxD5GKEfVgEhqav2mcgtO8g3M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Garner</name>
+        <role>Dana Barton</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucy Walsh</name>
+        <role>Jody</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sandra Taylor</name>
+        <role>Lexi</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NHNTDoOEkL0JaTrN9uq6T6J3Fk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christine Lakin</name>
+        <role>Hostess</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/oznzRFZe7bl5JjfQQviCuZGpPjU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Owen Vaccaro</name>
+        <role>Charlie</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/pNTtj9L4eVQQIb6o79D0dJC87HS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ella Anderson</name>
+        <role>Vicky</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/snv9S8ta4DsO1A6TUpa6dFbAtCV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ariana Neal</name>
+        <role>Evette</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grayson Russell</name>
+        <role>Tommy</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/j0CYCvlIA73rrgYbY2dvyMSFsgZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Vogt</name>
+        <role>Tiny</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntZMdGgmIFEP4kPxBfSLOPIDQ0x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Inder Kumar</name>
+        <role>Bar Patron</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caleb Brown</name>
+        <role>Mikey</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Spink</name>
+        <role>Peter</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/2ngCvKwwJ434JQD99YLPa2YZtwV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Marshall</name>
+        <role>Peter&apos;s Friend Sam</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Siena LaGambina</name>
+        <role>Paige</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph Leo Bwarie</name>
+        <role>Principal Bobby Lee</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Walker</name>
+        <role>Randy the Clown</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/rY1CEJXmbgF2wmnKGNu8ww7AzNV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Nagle</name>
+        <role>Hotel Bellman</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/8yxTYVAnNtgqba8yQS2dqZyLUwj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penny Marshall</name>
+        <role>Opening Mom Narrator (voice)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/hjLwmV68zqXQnvm5UiUptHRePLh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Héctor Elizondo</name>
+        <role>Lance Wallace</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adreana Gonzalez</name>
+        <role>Publicist Inez</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lisa Roberts Gillan</name>
+        <role>Assistant Betty (as Lisa Roberts Gillian)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/cIpGjGrqTzpOtHPtskkYy8SHd8j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rory O&apos;Malley</name>
+        <role>Customer at Book Signing</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hazel Moder</name>
+        <role>Cartwheel Kid</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Pine</name>
+        <role>Earl</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/xZM1qLqmRprnZYXa8Ugsmo00zL9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ayden Bivek</name>
+        <role>Tanner</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anoush NeVart</name>
+        <role>Sonia</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/66sKr48TlM1CK97VyEm3ORwt28z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Larry Miller</name>
+        <role>Motorcycle Cop</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ai4ZF1w2L6tp75dTiGliGtYMNm5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donielle Artese</name>
+        <role>Female Cop</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean O&apos;Bryan</name>
+        <role>Male Cop</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/5CZMf2bRnV9o5kcylbtUPlSbI7P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wedil David</name>
+        <role>Dog Walker Leah</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kate Linder</name>
+        <role>Dog Walker Gigi</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/ocTXunRCXrECxgufzBRdDTG4EcG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessi Case</name>
+        <role>Rachel</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beth Kennedy</name>
+        <role>Gwenda</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/4RYuVcghqysYJVS6QpkK9dFppMr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brittany Belt</name>
+        <role>Beth Anne</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Blake</name>
+        <role>Male Soccer Referee</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tracey Bonner</name>
+        <role>Grocery Checker</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Drew Matthews</name>
+        <role>Beanzie</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Friedkin</name>
+        <role>Shorty</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/7yIbiI3P6T8pfttjwUIAHpsVlpf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicolette Noble</name>
+        <role>Comedy Audience Couples</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Hines</name>
+        <role>Club Announcer Brady</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:30:48</dateadded>
+</movie>

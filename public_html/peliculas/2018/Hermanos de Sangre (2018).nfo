@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hermanos de Sangre</title>
+    <originaltitle>Blood Brother</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.400000</value>
+            <votes>742</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>30</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un convicto que ha sido liberado luego de ser culpado por un delito que cometió con sus amigos de la infancia, busca vengarse de ellos cueste lo que cueste.</plot>
+    <tagline>Sometimes friends will take you straight to hell</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/46Z8vyP3G10ASVeLKERc3qgta1E.jpg">https://image.tmdb.org/t/p/original/46Z8vyP3G10ASVeLKERc3qgta1E.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/23pWp5cos45I8BSTP8xbk5P5fZ0.jpg">https://image.tmdb.org/t/p/original/23pWp5cos45I8BSTP8xbk5P5fZ0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dE3mszf4N8mRDT0cy39XZlyYPmA.jpg">https://image.tmdb.org/t/p/original/dE3mszf4N8mRDT0cy39XZlyYPmA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gpQaLkUiLzfh24zJTu4DrUas98M.jpg">https://image.tmdb.org/t/p/original/gpQaLkUiLzfh24zJTu4DrUas98M.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/t3KUC4wSzvPwdZfHPvBt7hmib7m.jpg">https://image.tmdb.org/t/p/original/t3KUC4wSzvPwdZfHPvBt7hmib7m.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/Ofvjb8XDemtMh7MXeIMbmW9SPV.jpg">https://image.tmdb.org/t/p/original/Ofvjb8XDemtMh7MXeIMbmW9SPV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hrvhYQ1wMaMzmv7tYnaPL8bWx9t.jpg">https://image.tmdb.org/t/p/original/hrvhYQ1wMaMzmv7tYnaPL8bWx9t.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gpwK6mvDyNA7HrbRSQ73vuS0Wvd.jpg">https://image.tmdb.org/t/p/original/gpwK6mvDyNA7HrbRSQ73vuS0Wvd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hvHDQttXHliJI54B7WLOpUYtc0D.jpg">https://image.tmdb.org/t/p/original/hvHDQttXHliJI54B7WLOpUYtc0D.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ax4JbkEswcFkWbdB1daIaHkUYWv.jpg">https://image.tmdb.org/t/p/original/ax4JbkEswcFkWbdB1daIaHkUYWv.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5246902</id>
+    <uniqueid type="imdb" default="true">tt5246902</uniqueid>
+    <uniqueid type="tmdb">552858</uniqueid>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Karl Gajdusek</credits>
+    <credits>Michael Finch</credits>
+    <director>John Pogue</director>
+    <premiered>2018-11-30</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>WWE Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_d0w0aCgE00</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5127</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Trey Songz</name>
+        <role>Sonny</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/2GqGPF60V6prQn5xKzOY3grvJse.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Kesy</name>
+        <role>Jake Banning</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ilvKAf8mCvz48EcchLYuQiafsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>China Anne McClain</name>
+        <role>Darcy</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cy8UcT0K4ah7MeiPRhwK0rcukUt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chelle Ramos</name>
+        <role>Maria</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/y6eAOxecGBM1iDBIBHeDNGsgQWd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hassan Johnson</name>
+        <role>Joe</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXrCU8Dtb3TimGIaZOHHOXokT9N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fetty Wap</name>
+        <role>Emilio</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7UOdQGnY8yUkdQmoY0XdPyecsMR.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 13:25:23</dateadded>
+</movie>

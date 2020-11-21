@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Lemon</title>
+    <originaltitle>Lemon</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.600000</value>
+            <votes>1774</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.700000</value>
+            <votes>23</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un hombre mira cómo se desenreda su vida después de que lo deja su novia ciega.</plot>
+    <tagline></tagline>
+    <runtime>82</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o3jq9XldDbI0KhmLvTUtuLkH2ad.jpg">https://image.tmdb.org/t/p/original/o3jq9XldDbI0KhmLvTUtuLkH2ad.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tLvK0OdTJzH0mEhVn7q1zv4ycNp.jpg">https://image.tmdb.org/t/p/original/tLvK0OdTJzH0mEhVn7q1zv4ycNp.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9Qyr7lcDOU7jdDYOfrOaFVwo8Ep.jpg">https://image.tmdb.org/t/p/original/9Qyr7lcDOU7jdDYOfrOaFVwo8Ep.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5973364</id>
+    <uniqueid type="imdb" default="true">tt5973364</uniqueid>
+    <uniqueid type="tmdb">428585</uniqueid>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Brett Gelman</credits>
+    <credits>Janicza Bravo</credits>
+    <director>Janicza Bravo</director>
+    <premiered>2017-01-22</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Killer Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pq-AHDVukoA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>4965</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Brett Gelman</name>
+        <role>Isaac</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judy Greer</name>
+        <role>Ramona</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jW4ui3qQj7kH34OsmcNRsJ9fSdQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Cera</name>
+        <role>Alex</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/4zP0MbAeRAxpy8QKdXNfrtTwyBX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nia Long</name>
+        <role>Cleo</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2HnplqKDWkLyReeeAPsbEctkpPQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shiri Appleby</name>
+        <role>Ruthie</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nvH09LMnA8vBmmxHBmf79MtKHsc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Melamed</name>
+        <role>Howard</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/cb5HSNuu6n4OVuxxQCDd5CfEocb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gillian Jacobs</name>
+        <role>Tracy</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/sbZVI3F2t5CjmRANwHk3X6iOQpt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhea Perlman</name>
+        <role>Esther</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/utg7mKbhNvxRWfWBwSb27tQTaOE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Starr</name>
+        <role>Adam</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/gNyCdend3C5gY3ucq42Zt3swfg2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Paymer</name>
+        <role>Dr. Gold</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/owoOdDFgXpls1OFKwmQ104Nkl5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megan Mullally</name>
+        <role>Simone</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/t9uHNK9ueBusQ56UKPaKIHwz7Yq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jodie Turner-Smith</name>
+        <role>Beverly</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/801hOIFSiYfakVDkX0U3vEAHAMt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Daly</name>
+        <role>Toby</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/v8lq3HUmdQk1t50DAP1vt3LcJJM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Garlin</name>
+        <role>Guy Roach</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/fFvztxQKPDaFF6OQgaxIRHgGe2i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kayla Harrity</name>
+        <role>Susan</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/mokAUHCCO4XZedFYegxH4sDaupg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth De Razzo</name>
+        <role>Rosa</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/acfaSCH4k16WMw2OSqq7hnhvEX3.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 14:15:32</dateadded>
+</movie>

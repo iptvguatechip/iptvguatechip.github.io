@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Lo que de verdad importa</title>
+    <originaltitle>The Healer</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>6046</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>310</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Alec es un ingeniero mecánico inglés incapaz de poner en orden su vida. Cuando su tienda de reparación de aparatos electrónicos, “El curandero”, está a punto de quebrar, un familiar que nunca supo que tenía se ofrece a solucionar sus problemas a cambio de que se traslade un año a Canadá, el lugar de origen de sus antepasados. Allí descubrirá que a su alrededor comienzan a suceder las cosas más incomprensibles. Enfrentarse a sí mismo, a su pasado, a su vida y, sobre todo, al don que nunca supo que tenía, inspirará a las personas que le rodean a creer en algo más allá de lo que se puede explicar.</plot>
+    <tagline>lo-que-de-verdad-importa</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8hrfVEsQt1DXntnGEUyG51zJtOx.jpg">https://image.tmdb.org/t/p/original/8hrfVEsQt1DXntnGEUyG51zJtOx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mwBsg7cFE7GwDPKP4Pv26w2Txmp.jpg">https://image.tmdb.org/t/p/original/mwBsg7cFE7GwDPKP4Pv26w2Txmp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6Nrg7c2KTVlF9XDWAZuijU4VBac.jpg">https://image.tmdb.org/t/p/original/6Nrg7c2KTVlF9XDWAZuijU4VBac.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4DbX6KxQMPYq7Ac9MTiv7EJ6JH8.jpg">https://image.tmdb.org/t/p/original/4DbX6KxQMPYq7Ac9MTiv7EJ6JH8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/48pwo2kF9ahZhG0WASGpnYJ21ar.jpg">https://image.tmdb.org/t/p/original/48pwo2kF9ahZhG0WASGpnYJ21ar.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ykuB1CgCzr4kpkukQVFdrzITfOf.jpg">https://image.tmdb.org/t/p/original/ykuB1CgCzr4kpkukQVFdrzITfOf.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dwVF2gVQLfdbTLlDf2gteqa93gw.jpg">https://image.tmdb.org/t/p/original/dwVF2gVQLfdbTLlDf2gteqa93gw.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4356480</id>
+    <uniqueid type="imdb" default="true">tt4356480</uniqueid>
+    <uniqueid type="tmdb">340270</uniqueid>
+    <genre>Familia</genre>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>Canada</country>
+    <credits>Paco Arango</credits>
+    <director>Paco Arango</director>
+    <premiered>2017-02-17</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Topsail Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VjnzLwQ1tsg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6496</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Oliver Jackson-Cohen</name>
+        <role>Alec Bailey</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/hya4m356KlAeH6qaCLGm1Sg02xf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Camilla Luddington</name>
+        <role>Cecilia</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/eKF5lSEdEtOCbsgb5mKjd8vYLck.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Pryce</name>
+        <role>Raymond Heacock</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge Garcia</name>
+        <role>Father Malloy</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaitlyn Bernard</name>
+        <role>Abigail</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/dllK1fxLKBW7Ijjou08O3K8tNvW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian G. Griffiths</name>
+        <role>Tom Ackhurst</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Akerman</name>
+        <role>Priest</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Downey</name>
+        <role>Henry</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Suresh John</name>
+        <role>Amir</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/7pb7qSPYQe2Uvi7dXa2fCTzNN9N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Donat</name>
+        <role>Larry</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Pellerin</name>
+        <role>Philip</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pasha Ebrahimi</name>
+        <role>Frank</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/sFSMPVes4wDbeqgksaiRjTKFo7K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Morris</name>
+        <role>Leslie</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Georgia Rudderham</name>
+        <role>Rebecca</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Rossetti</name>
+        <role>Pilot</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/vPM7QcX3xFWDY6n4A95Ko0cKHju.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Christoffel</name>
+        <role>Bank Executive</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Murray</name>
+        <role>Lunenburg Police Officer</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Glen Lefchak</name>
+        <role>William</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jackie Torrens</name>
+        <role>Linda</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gay Hauser</name>
+        <role>Louise</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 20:10:00</dateadded>
+</movie>

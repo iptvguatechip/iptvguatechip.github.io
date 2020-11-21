@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hannah Montana: La película</title>
+    <originaltitle>Hannah Montana: The Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.500000</value>
+            <votes>39261</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>1473</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Como muchas adolescentes, Miley Stewart se la pasa entre su familia, sus amigos y la escuela, pero a diferencia de sus conocidos, ella tiene una personalidad secreta como la estrella de música llamada Hannah Montana. Cuando la creciente popularidad de Hannah amenaza con apoderarse de la vida de Miley, su papá aparece para regresarla a la realidad. De vuelta en su casa de Tennessee, Miley inicia una aventura que ni la misma Hannah Montana podría imaginar.</plot>
+    <tagline>She has the best of both worlds... now, she has to choose just one</tagline>
+    <runtime>102</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xywrlinKKOhdEHeaOkLNE38Vetw.jpg">https://image.tmdb.org/t/p/original/xywrlinKKOhdEHeaOkLNE38Vetw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8t4IiKYjn0RIQuW5JdqW8H7NQ2c.jpg">https://image.tmdb.org/t/p/original/8t4IiKYjn0RIQuW5JdqW8H7NQ2c.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8pwbnmvshHj2yYPYlyJ8K8Yzecy.jpg">https://image.tmdb.org/t/p/original/8pwbnmvshHj2yYPYlyJ8K8Yzecy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1BN2KLxSQ2nsd0yeNtvDgfsiCHS.jpg">https://image.tmdb.org/t/p/original/1BN2KLxSQ2nsd0yeNtvDgfsiCHS.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1WpQuoJFVykuv69hTEdOEyAy60X.jpg">https://image.tmdb.org/t/p/original/1WpQuoJFVykuv69hTEdOEyAy60X.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rGou22bisrddq6IT89Zkr21OexE.jpg">https://image.tmdb.org/t/p/original/rGou22bisrddq6IT89Zkr21OexE.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1114677</id>
+    <uniqueid type="imdb" default="true">tt1114677</uniqueid>
+    <uniqueid type="tmdb">18126</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Familia</genre>
+    <genre>Música</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Dan Berendsen</credits>
+    <director>Peter Chelsom</director>
+    <premiered>2009-04-10</premiered>
+    <year>2009</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>It&apos;s a Laugh Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KwOcs1E97_w</trailer>
+    <actor>
+        <name>Miley Cyrus</name>
+        <role>Miley Stewart / Hannah Montana</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7slnMlDLR1O65U3Hr8gcOmxDlZz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Ray Cyrus</name>
+        <role>Robby Stewart</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/weENTCw45mTCLjPbXBE3msYFZW4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Osment</name>
+        <role>Lilly Truscott</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/dRIesWlHpmeTMZcZXEgWD64EifU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Swift</name>
+        <role>Herself</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xpTNiyJ5PAogtmdjySMZ1sNlvh1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucas Till</name>
+        <role>Travis Brody</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/xCJqL57d7TCZXxfRf9MeBwx9qgc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Earles</name>
+        <role>Jackson Stewart</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/c0QreOwnzTYpkxTk7D7fDuBr5ni.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mitchel Musso</name>
+        <role>Oliver Oken</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/iglls9NuwYq3QEzqs3KS7HxSdqO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Moisés Arias</name>
+        <role>Rico Suave</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/gcZFNl5xRIjtiDQ2W66A9v2lEih.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Williams</name>
+        <role>Vita</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/30O1Af0wy6UBt8EpVRuq28tTGoT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margo Martindale</name>
+        <role>Ruby</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Gunn</name>
+        <role>Oswald Granger</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1QN2XhLhbzMCSk6cI9e5IN1gNG7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melora Hardin</name>
+        <role>Lorelai</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/w8yg5ZPXelD47sfDRQFvGHD7jP0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Carter</name>
+        <role>Derrick</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1HMKVWBK4IsobSKcnpj02DQNrga.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Bostwick</name>
+        <role>Mr. Bradley</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/z2jlL5g5PMxelSHMXFF03fTSsLl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beau Billingslea</name>
+        <role>Mayor</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/tU2NJQ5m1sRlwpw9ljyt5NJB0Bf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katrina Smith</name>
+        <role>Mayor&apos;s Wife</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emily Grace Reaves</name>
+        <role>Cindy Lou</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jane Carr</name>
+        <role>Lucinda</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/wfmZlw5e6ZIMmTBmDgZJPCCjcAH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Will Clay</name>
+        <role>Volleyball Captain</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary LeVox</name>
+        <role>Rascal Flatts</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay DeMarcus</name>
+        <role>Rascal Flatts</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/aRHMeAJhoqVr8WPgRje0MK9hVNQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Don Rooney</name>
+        <role>Rascal Flatts</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/t921vZBPfvtgpUd6JS6ntQPO3il.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Childs</name>
+        <role>Store Manager</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/kGwEMjJldhLVglopYjHKxDq5Hb1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Woods</name>
+        <role>Phoebe Granger</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natalia Dyer</name>
+        <role>Clarissa Granger</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/abiDpvKQy5yqa8BazNx3nb0aD8c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyra Banks</name>
+        <role>Herself</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/mGR7XmiAnW04AFF9ZQjNjkRL1TU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brooke Shields</name>
+        <role>Susan Stewart</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/qpLcTp5D6t0S0TtNK85VOYwDmTL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerry Foster</name>
+        <role>Elderly Gentleman</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adam Gregory</name>
+        <role>Drew</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/qt5Xd9JfqCkKzh82EQP8ITy6etA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn Carter Peterson</name>
+        <role>Video Director</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jamal Sims</name>
+        <role>Rodeo Drive Dancer</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>D. Todd Hammond</name>
+        <role>Coach</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Cornacchia</name>
+        <role>Security Guard</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/emF1zdKPVtD7mBjo0cZKvxXkiqu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valorie Hubbard</name>
+        <role>Ticket Clerk</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/naW2AjEqrVEfGs0Glw7t7LrXi5R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Barnes</name>
+        <role>Farmer&apos;s Market Vendor</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/A7tY7gXC1bp3WnCYLOQFs3sWCTq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Schleimer</name>
+        <role>Distinguished Man</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jaci Cordell</name>
+        <role>Distinguished Woman</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Hoke</name>
+        <role>Bowtie Jack</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lisa Darr</name>
+        <role>Mother on the Pier</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Perri</name>
+        <role>Father on the Pier</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mario Carter</name>
+        <role>Beach Security Guard</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amber Hubert</name>
+        <role>Hannah Fan</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ashley Sundberg</name>
+        <role>Hannah Fan</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Travis Archer</name>
+        <role>Headset Flunkie</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cole S. McKay</name>
+        <role>Pastry Chef</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/breu8Nt0B8ofjkDD6R6yUGbMyZ8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Hatchell</name>
+        <role>Skateboarder</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris O&apos;Reilly</name>
+        <role>Skateboarder</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Alexander</name>
+        <role>Skateboarder</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/mSwpbABxZZpTCMBW1rM8lhk2oAv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane T. Anderson</name>
+        <role>Limo Driver</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Summer Perry</name>
+        <role>Hannah Montana Body Double / Chase Scene Stolen Golf Cart Driver</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 10:51:10</dateadded>
+</movie>

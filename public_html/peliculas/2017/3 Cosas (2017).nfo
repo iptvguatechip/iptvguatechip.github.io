@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>3 Cosas</title>
+    <originaltitle>3 ting</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>1177</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>20</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuenta la historia de un experto en explosivos de mucho genio que, junto a una banda de criminales serbios, da un golpe de 8 millones de euros. En el último momento, para asegurarse un futuro, delata el crimen a la policía y entra en un programa de protección de testigos. Tendrá que permanecer en un hotel de Copenhague hasta que comience el juicio, así que pide a los policías que le traigan tres cosas: una mujer llamada Camilla, un paquete que se encuentra en un almacén y una ración de pollo de un restaurante.</plot>
+    <tagline></tagline>
+    <runtime>87</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/diYbuAeel7CcC9YfkeHwyU8kayQ.jpg">https://image.tmdb.org/t/p/original/diYbuAeel7CcC9YfkeHwyU8kayQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jC4Ifb5SZlsYdbhCQzZumdQndQI.jpg">https://image.tmdb.org/t/p/original/jC4Ifb5SZlsYdbhCQzZumdQndQI.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4OeXVSedyph75U6mdTaANHf92I.jpg">https://image.tmdb.org/t/p/original/4OeXVSedyph75U6mdTaANHf92I.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5222578</id>
+    <uniqueid type="imdb" default="true">tt5222578</uniqueid>
+    <uniqueid type="tmdb">416772</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <country>Denmark</country>
+    <credits>Jens Dahl</credits>
+    <director>Jens Dahl</director>
+    <premiered>2017-05-18</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Profile Pictures</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5273</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>dan</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Nikolaj Coster-Waldau</name>
+        <role>Mikael</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/dv1zRmSvSg8lDrxeM0SswYze6Z0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Birgitte Hjort Sørensen</name>
+        <role>Camilla</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pFaC6OHQFui1v6jT9HgSW8gRk1H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lærke Winther Andersen</name>
+        <role>Nina</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/aH6MdKMjJzy6wDNyXPeEqsRHhzP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morten Holst</name>
+        <role>Carsten</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rNKT9Hhso9Hhb9D55VuKr5EYA1R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Ulrik Lohmann</name>
+        <role>Sander</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/iOtISPGzgM7vTKfR3ZQIyYb7uWQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aske Bang</name>
+        <role>Receptionist</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/sCz44LNRrspOTz7ggXk5bu9YlD8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mia Nielsen-Jexen</name>
+        <role>Katrine</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/3pKUNk4z4E9Xt4iCeQ3TN37fRbk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Magnus Bruun</name>
+        <role></role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/yCd5hvocvpJvOYnkrknhDy7qA4o.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 19:36:39</dateadded>
+</movie>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Berlín, Berlín: Lolle a la fuga</title>
+    <originaltitle>Berlin, Berlin</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.600000</value>
+            <votes>352</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>27</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En esta secuela de la exitosa serie, Lolle ha dado vuelta la página y está a punto de casarse con su gran amigo Hart. Sin embargo, la llegada de Sven pone en riesgo todo.</plot>
+    <tagline></tagline>
+    <runtime>80</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yfSj073MGzLAcsv5xdSUmUA95No.jpg">https://image.tmdb.org/t/p/original/yfSj073MGzLAcsv5xdSUmUA95No.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg">https://image.tmdb.org/t/p/original/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pDC1m5DgMZioD27EKA43KhBihRW.jpg">https://image.tmdb.org/t/p/original/pDC1m5DgMZioD27EKA43KhBihRW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gHWummM59EXitBSvat0j2TxGS73.jpg">https://image.tmdb.org/t/p/original/gHWummM59EXitBSvat0j2TxGS73.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wMnvfRjgneV6coj8RvaZdzeGYaU.jpg">https://image.tmdb.org/t/p/original/wMnvfRjgneV6coj8RvaZdzeGYaU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/A0O42ttbwzd8BHAEzHsbIXHuPj0.jpg">https://image.tmdb.org/t/p/original/A0O42ttbwzd8BHAEzHsbIXHuPj0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7CWimG2yEnQNiA1QALOi8tyjygq.jpg">https://image.tmdb.org/t/p/original/7CWimG2yEnQNiA1QALOi8tyjygq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10556130</id>
+    <uniqueid type="imdb" default="true">tt10556130</uniqueid>
+    <uniqueid type="tmdb">632587</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>Germany</country>
+    <director>Franziska Meyer Price</director>
+    <premiered>2020-05-08</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k4jFek5U8VA</trailer>
+    <actor>
+        <name>Felicitas Woll</name>
+        <role>Carlotta &quot;Lolle&quot; Holzmann</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/mIcS3nySBiB5vjI8sfUgAbQwOW4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jan Sosniok</name>
+        <role>Sven Ehlers</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9v0Hp1Cjkz6uSRKY0Nhgp9k2Gh0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthias Klimsa</name>
+        <role>Hart</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/whTpS3tJ6naSeJZ9N2aSYLVMXl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janina Uhse</name>
+        <role>Dana</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4hNJMls70kcfEH0mU0csLXbO9nk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kai Lentrodt</name>
+        <role>Harald</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/uK52w7i0F51TePTYP0eqOREOMeB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandra Borgmann</name>
+        <role>Rosalie</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8j1LJ7c21oLExljO1BWZe5xZSa4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Farouk El-Khalili</name>
+        <role>Akay</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/u6E4SDYLajfKqepG6wU9fpmjO4t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gitta Schweighöfer</name>
+        <role>Helene</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/bWyiXYicnEGfRtWgQJkyxo1f87v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abdelkarim</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Armin Rohde</name>
+        <role>Motzmann</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/h1CuhGgADJFD9vw1IYFskJK9q9V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kailas Mahadevan</name>
+        <role>Blue Bull</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4N2diWsVeuzvochWy4L8otHTJ4I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Tramitz</name>
+        <role>Schuldirektor</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/adVIg5zyp42gEej6KmpqiTgC7Bn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Detlev Buck</name>
+        <role>Richter</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kwxXFtWsIvBWqd0CItht2J92O0U.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 12:28:16</dateadded>
+</movie>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Corazón de Dragón 5: La venganza</title>
+    <originaltitle>Dragonheart: Vengeance</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>1247</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>177</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Lukas, un joven agricultor cuya familia es asesinada por salvajes guerreros, se embarca en una aventura épica en busca de venganza, formando un trío imposible con un dragón majestuoso y un mercenario espadachín llamado Darius.</plot>
+    <tagline></tagline>
+    <runtime>97</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bZsqwJnO65wlZ3ez7dopUQMYALY.jpg">https://image.tmdb.org/t/p/original/bZsqwJnO65wlZ3ez7dopUQMYALY.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fU6cMSWzwae6YU3XtW4aGEl1Vfe.jpg">https://image.tmdb.org/t/p/original/fU6cMSWzwae6YU3XtW4aGEl1Vfe.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/kXVmxOnNQ05pf25zv6KBfTVesR1.jpg">https://image.tmdb.org/t/p/original/kXVmxOnNQ05pf25zv6KBfTVesR1.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gG6mq5NZzGoUdYKgLduNGjo6ft9.jpg">https://image.tmdb.org/t/p/original/gG6mq5NZzGoUdYKgLduNGjo6ft9.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/hRucBWgzCc7iA9avUE2k5gc7dkj.jpg">https://image.tmdb.org/t/p/original/hRucBWgzCc7iA9avUE2k5gc7dkj.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/o8m8jd4FOiGMsGoOk5Ol7oQuv7M.jpg">https://image.tmdb.org/t/p/original/o8m8jd4FOiGMsGoOk5Ol7oQuv7M.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg">https://image.tmdb.org/t/p/original/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qs6gz6atyQcAvqC6qZaslOjliUG.jpg">https://image.tmdb.org/t/p/original/qs6gz6atyQcAvqC6qZaslOjliUG.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6mKAKhj8POVGqV1GsroS5mGIUe9.jpg">https://image.tmdb.org/t/p/original/6mKAKhj8POVGqV1GsroS5mGIUe9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m7RH6zl7yPNWh0uLRHRphmxUOWN.jpg">https://image.tmdb.org/t/p/original/m7RH6zl7yPNWh0uLRHRphmxUOWN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q41en2QTJ20ek58gCZIxzJMhQ9w.jpg">https://image.tmdb.org/t/p/original/q41en2QTJ20ek58gCZIxzJMhQ9w.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9711106</id>
+    <uniqueid type="imdb" default="true">tt9711106</uniqueid>
+    <uniqueid type="tmdb">666750</uniqueid>
+    <genre>Fantasía</genre>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Corazón de Dragón - Colección</name>
+    </set>
+    <credits>Matthew Feitshans</credits>
+    <director>Ivan Silvestrini</director>
+    <premiered>2020-02-04</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mKiXQB7Q7nc</trailer>
+    <actor>
+        <name>Joseph Millson</name>
+        <role>Darius</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/vMYpaMMEtRM7kq9UUiWVt6LB1H2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Kane</name>
+        <role>Lukas</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jdT7hIPjf2zg9fJSgtADDjZC8RP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arturo Muselli</name>
+        <role>King Razvan</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7JcySgF6QrH7VeYgLj3onhT3Yho.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helena Bonham Carter</name>
+        <role>Siveth (Voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mW1NolxQmPE16Zg6zuWyZlFgOwL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carolina Carlsson</name>
+        <role>The Snake</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/5DuTKD5Reo0lsRA5qmmeFUOKAdT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tam Williams</name>
+        <role>The Scorpion</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Ashton</name>
+        <role>The Wolf</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vXU9iUlWQ3iniENuebXjjhdtVbQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ross O&apos;Hennessy</name>
+        <role>The Bear</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/puxkY3ou0PJwyz1J57TZgsPpxX3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fabienne Piolini-Castle</name>
+        <role>Oana</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-05 15:47:45</dateadded>
+</movie>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Esto recién comienza</title>
+    <originaltitle>Just Getting Started</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.500000</value>
+            <votes>6108</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.000000</value>
+            <votes>136</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Duke Diver (Morgan Freeman) es el irresponsable manager del Villa Capri, un resort de lujo en Palm Springs. Con un pasado misterioso, Diver es un hacha en asegurarse de que la vida de los residentes de Villa Capri sea una gran fiesta continua. Duke verá peligrar su estatus cuando un encantador exmilitar llamado Leo (Tommy Lee Jones) llega a Villa Capri dispuesto a ser el rey del mambo y compitiendo con Duke por los favores de la recién llegada Suzie (Rene Russo). Pero cuando el pasado de Duke le alcanza inesperadamente, los dos hombres dejarán atrás sus rivalidades y trabajarán juntos para salvar Villa Capri y detener a quien intenta asesinar a Duke.</plot>
+    <tagline>Chivalry meets rivalry</tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg">https://image.tmdb.org/t/p/original/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3Kc1xj7bDeF7UrD2DfK3Ges2thy.jpg">https://image.tmdb.org/t/p/original/3Kc1xj7bDeF7UrD2DfK3Ges2thy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vtfYt7vi0cdzRCD7iUMTg3PPSoi.jpg">https://image.tmdb.org/t/p/original/vtfYt7vi0cdzRCD7iUMTg3PPSoi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aF3sHIj5QeaNdEDTJT6op5iyo0N.jpg">https://image.tmdb.org/t/p/original/aF3sHIj5QeaNdEDTJT6op5iyo0N.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wVmXNJhItWAsFP5ARbQtNhWVyck.jpg">https://image.tmdb.org/t/p/original/wVmXNJhItWAsFP5ARbQtNhWVyck.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vqPI8Zo3bsw9aFxlYNtLL4fRpL4.jpg">https://image.tmdb.org/t/p/original/vqPI8Zo3bsw9aFxlYNtLL4fRpL4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a7pM4QWQxMMa9ifuCPPzp9UGZHv.jpg">https://image.tmdb.org/t/p/original/a7pM4QWQxMMa9ifuCPPzp9UGZHv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xbxqoukQb2lRht4gozESZw4UFlG.jpg">https://image.tmdb.org/t/p/original/xbxqoukQb2lRht4gozESZw4UFlG.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5721088</id>
+    <uniqueid type="imdb" default="true">tt5721088</uniqueid>
+    <uniqueid type="tmdb">398177</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Ron Shelton</credits>
+    <director>Ron Shelton</director>
+    <premiered>2017-12-01</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Reel Chefs Catering</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lqDTpKAtxrs</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5513</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Morgan Freeman</name>
+        <role>Duke</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIciQWr8VwKoR8TmAw1owaiZFyb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Lee Jones</name>
+        <role>Leo</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/zixpaPmOonRh1I3TWgxDkeGxkrv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rene Russo</name>
+        <role>Suzie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bA6GrFuTk9xWYxGOJCLjjdmdAeW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Pantoliano</name>
+        <role>Joey</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/aDOm4xPRtIwBpLd8O2oCz0aVC3s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Glenne Headly</name>
+        <role>Margarite</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/v1uqgxYG3grfF7s7sky8B9oufzP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sheryl Lee Ralph</name>
+        <role>Roberta</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/eq7FeNDJFUVtdHAtvzNkOIapzX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Ashley</name>
+        <role>Lily</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/AtWsVmCyUd6RTgULq6OvcthSi5K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Wallace</name>
+        <role>Larry</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ggukkf32UYeAZchFCAY7X6Z9szI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Graham Beckel</name>
+        <role>Burt</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ubo1j0e7hVuz62JEIS9kkRzvqtv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mel Raido</name>
+        <role>Oscar</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jane Seymour</name>
+        <role>Delilah</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/b4ggW2oi90iAQPIvadyHdjOkOPn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Mathis</name>
+        <role>Johnny Mathis</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/ojrbIsbbo8BWbRnUsplxCBlTGFk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Peine</name>
+        <role>Jimmy</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristen Rakes</name>
+        <role>Ginger</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/vGj2g8CgOz1sfl3Dkl3knpoPwy3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eli Goodman</name>
+        <role>Corporate Santa</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/8FDuzrvXtPiABIM1oZdcokhJ2u5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teddy Eggleston</name>
+        <role>Woman with Walker</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/nYx30Nscpgcy44tkoJeDHacb6hf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Colon</name>
+        <role>Salvation Army Santa</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tasos Hernandez</name>
+        <role>Melvyn&apos;s Valet</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/4jJhm1TBYlXs5EYscmNWxZpkBCf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kat Sawyer-Young</name>
+        <role>Woman Lecturer</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/y20zuHaRfkYWeCsljk7P6fSiFCE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boots Southerland</name>
+        <role>Tow Truck Driver</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/sUIXYHl18ClE8t5o8227VKJ5Cdk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Forrie J. Smith</name>
+        <role>Animal Farm Manager</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/dlfukfoPCoF9PraKuyuIq7rmu8Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Drago Sumonja</name>
+        <role>Patel the Hotel Manager</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vic Browder</name>
+        <role>Tony</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesse Phillips</name>
+        <role>Good Looking Guy</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/oe9mAPhArtp93Tu4APbXrJKrlP9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oscar Avila</name>
+        <role>Arturo</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/8710aiohIdXtZmKcsM92XVs8gJF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Whit Washing</name>
+        <role>Elf Valet</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/jFQd6meC44X0P2XzxRTXLx41U0s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nina Michaels</name>
+        <role>Female Caroler #1</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Connie Atkinson</name>
+        <role>Female Caroler #2</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Michaels</name>
+        <role>Male Caroler #1</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Willie Johns Sr.</name>
+        <role>Male Caroler #2</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 21:28:50</dateadded>
+</movie>

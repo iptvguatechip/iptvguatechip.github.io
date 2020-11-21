@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El lobo de Wall Street</title>
+    <originaltitle>The Wolf of Wall Street</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.200000</value>
+            <votes>1155697</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.000000</value>
+            <votes>16273</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el apodo de “El lobo de Wall Street”. Dinero, poder, mujeres, drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.</plot>
+    <tagline>EARN. SPEND. PARTY.</tagline>
+    <runtime>179</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg">https://image.tmdb.org/t/p/original/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qTu16kpDi8rXQ5co7K5i2sd3xj.jpg">https://image.tmdb.org/t/p/original/qTu16kpDi8rXQ5co7K5i2sd3xj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sOxr33wnRuKazR9ClHek73T8qnK.jpg">https://image.tmdb.org/t/p/original/sOxr33wnRuKazR9ClHek73T8qnK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i1oHi4mPYkrAS99rzVdoiX1s1XQ.jpg">https://image.tmdb.org/t/p/original/i1oHi4mPYkrAS99rzVdoiX1s1XQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tBR1ORO2istuyQKbL47WkoFUj1a.jpg">https://image.tmdb.org/t/p/original/tBR1ORO2istuyQKbL47WkoFUj1a.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dx8ikU8UC4OlZv4u2Y5vcrVqUTN.jpg">https://image.tmdb.org/t/p/original/dx8ikU8UC4OlZv4u2Y5vcrVqUTN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4enhYoAN2vOAqXN2HHCY6WHzYnn.jpg">https://image.tmdb.org/t/p/original/4enhYoAN2vOAqXN2HHCY6WHzYnn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9SSSTKWr2j5Jw3bKIrnlnVCt6dS.jpg">https://image.tmdb.org/t/p/original/9SSSTKWr2j5Jw3bKIrnlnVCt6dS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pWHf4khOloNVfCxscsXFj3jj6gP.jpg">https://image.tmdb.org/t/p/original/pWHf4khOloNVfCxscsXFj3jj6gP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gnsDyUgLVeVo99gx4QJCWt9IKO1.jpg">https://image.tmdb.org/t/p/original/gnsDyUgLVeVo99gx4QJCWt9IKO1.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2DZjKCPnwBKHz5VRX46rKJ9VXnz.jpg">https://image.tmdb.org/t/p/original/2DZjKCPnwBKHz5VRX46rKJ9VXnz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7P5CNFPPkRskskZyO8xkln2PuHY.jpg">https://image.tmdb.org/t/p/original/7P5CNFPPkRskskZyO8xkln2PuHY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/74pgiTEwbgKdPBkhR000wQd1ywI.jpg">https://image.tmdb.org/t/p/original/74pgiTEwbgKdPBkhR000wQd1ywI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg">https://image.tmdb.org/t/p/original/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/criDqw2LTv55YVdLyXAEEaJNIEL.jpg">https://image.tmdb.org/t/p/original/criDqw2LTv55YVdLyXAEEaJNIEL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cWUOv3H7YFwvKeaQhoAQTLLpo9Z.jpg">https://image.tmdb.org/t/p/original/cWUOv3H7YFwvKeaQhoAQTLLpo9Z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gdavHcRqZYOaOprdGoMccgxMhQX.jpg">https://image.tmdb.org/t/p/original/gdavHcRqZYOaOprdGoMccgxMhQX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e4nEtfK1bmtxsKl89XjmgbWLui5.jpg">https://image.tmdb.org/t/p/original/e4nEtfK1bmtxsKl89XjmgbWLui5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yFQacHg8Ay8B3UG3rSYFhmcA4h5.jpg">https://image.tmdb.org/t/p/original/yFQacHg8Ay8B3UG3rSYFhmcA4h5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AoYQfzDz01zgNtrzLDMUK6IBInn.jpg">https://image.tmdb.org/t/p/original/AoYQfzDz01zgNtrzLDMUK6IBInn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kpDMJlddbMibwM08speuC042L5L.jpg">https://image.tmdb.org/t/p/original/kpDMJlddbMibwM08speuC042L5L.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/irbqknM6ZUUk3JxtKn0fxH4zjCL.jpg">https://image.tmdb.org/t/p/original/irbqknM6ZUUk3JxtKn0fxH4zjCL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/16pOd7VDFUOg5ZuDILwurKfsd3.jpg">https://image.tmdb.org/t/p/original/16pOd7VDFUOg5ZuDILwurKfsd3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ylm4ABi9ZFmLRJq4vOxJhuvir6z.jpg">https://image.tmdb.org/t/p/original/ylm4ABi9ZFmLRJq4vOxJhuvir6z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o3Cg114mFhh6dV5QCG2TI5z5A6L.jpg">https://image.tmdb.org/t/p/original/o3Cg114mFhh6dV5QCG2TI5z5A6L.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4J6180LLE5y3k8s3BpZeNJI1uvG.jpg">https://image.tmdb.org/t/p/original/4J6180LLE5y3k8s3BpZeNJI1uvG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gIQsvapmwfnFnEsPcnVRSIyzlDO.jpg">https://image.tmdb.org/t/p/original/gIQsvapmwfnFnEsPcnVRSIyzlDO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8kpC27anImNpIHw3nd5goLeMgQS.jpg">https://image.tmdb.org/t/p/original/8kpC27anImNpIHw3nd5goLeMgQS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i1k5l3QcJYUPkHi3CtrK7iRIE4V.jpg">https://image.tmdb.org/t/p/original/i1k5l3QcJYUPkHi3CtrK7iRIE4V.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fTi3f8ShWCMSY09ihPWrjV0FWlZ.jpg">https://image.tmdb.org/t/p/original/fTi3f8ShWCMSY09ihPWrjV0FWlZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/akz3mKZSHjqyEayq0lLSNq27zFV.jpg">https://image.tmdb.org/t/p/original/akz3mKZSHjqyEayq0lLSNq27zFV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fL8EMHUGkt1qyXlA1fXRNheYSsl.jpg">https://image.tmdb.org/t/p/original/fL8EMHUGkt1qyXlA1fXRNheYSsl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3L1Lx9tlHS60gkERKK5xOcbzTVA.jpg">https://image.tmdb.org/t/p/original/3L1Lx9tlHS60gkERKK5xOcbzTVA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vhgaywtObzPxz0wmFafzNq8klOR.jpg">https://image.tmdb.org/t/p/original/vhgaywtObzPxz0wmFafzNq8klOR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nhf4gIOsj2BSOP5EvNNoDhPP5uu.jpg">https://image.tmdb.org/t/p/original/nhf4gIOsj2BSOP5EvNNoDhPP5uu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7HuCGywfHwdYGqK5peranxnNsVd.jpg">https://image.tmdb.org/t/p/original/7HuCGywfHwdYGqK5peranxnNsVd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tS0PLdmATB8WrSUDTbKWdV24N8o.jpg">https://image.tmdb.org/t/p/original/tS0PLdmATB8WrSUDTbKWdV24N8o.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ooIW0qsMkuFC7sFuAGBmZreSA08.jpg">https://image.tmdb.org/t/p/original/ooIW0qsMkuFC7sFuAGBmZreSA08.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/FzOdq23pNBJBW5zULFzEdjQXZD.jpg">https://image.tmdb.org/t/p/original/FzOdq23pNBJBW5zULFzEdjQXZD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg">https://image.tmdb.org/t/p/original/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0993846</id>
+    <uniqueid type="imdb" default="true">tt0993846</uniqueid>
+    <uniqueid type="tmdb">106646</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Terence Winter</credits>
+    <director>Martin Scorsese</director>
+    <premiered>2013-12-25</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>EMJAG Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DEMZSa0esCU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>10792</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Leonardo DiCaprio</name>
+        <role>Jordan Belfort</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonah Hill</name>
+        <role>Donnie Azoff</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cymlWttB83MsAGR2EkTgANtjeRH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margot Robbie</name>
+        <role>Naomi Lapaglia</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pbSz7d1aURy88HGzFWng5EoFU81.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Reiner</name>
+        <role>Max Belfort</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/axu2DtYr0W0QUcQUqylzYgIU7hB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle Chandler</name>
+        <role>Agent Patrick Denham</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/12ycW6JwP51RJA36mbT7ietI4Ce.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew McConaughey</name>
+        <role>Mark Hanna</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/sY2mwpafcwqyYS1sOySu1MENDse.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Bernthal</name>
+        <role>Brad Bodnick</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/ht1aCYH4q6MB6A12Szf7IfP72Fb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Choi</name>
+        <role>Chester Ming</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ycHOQV42jsYXoWMaobKTzGXy9g4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>P. J. Byrne</name>
+        <role>Nicky &quot;Rugrat&quot; Koskoff</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/sKqr3A3LjLYlRCXJGJI8rjpdMOs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Sacca</name>
+        <role>Robbie &quot;Pinhead&quot; Feinberg</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/wamZV01oViqYBDXs1vMvitmUD9b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Zebrowski</name>
+        <role>Alden &quot;Sea Otter&quot; Kupferberg</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/hcWe0vIbjTqaEKCc3DW41YBWmDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Favreau</name>
+        <role>Manny Riskin</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cristin Milioti</name>
+        <role>Teresa Petrillo</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/bwafIapU1ZKfYzGU91OGpR6SqMc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanna Lumley</name>
+        <role>Aunt Emma</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ieoswZOhNvHB3ASiYIBNPFI4UtX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Hoffman</name>
+        <role>Steve Madden</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9K180Isd28lc3X7Puiu8InPdq4x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Suplee</name>
+        <role>Toby Welch</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhWmMUp7ZyXITAN2snKmLmfSOQG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jean Dujardin</name>
+        <role>Jean-Jacques Handali</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/7dbqWGoqfgPCtoUB6b2FicltQlA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christine Ebersole</name>
+        <role>Leah Belfort</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/zVui49UEgcaSN8oetT39FJT6sWK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shea Whigham</name>
+        <role>Captain Ted Beecham</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katarina Čas</name>
+        <role>Chantalle</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/F5sG3kWJWm5eayCdIhu8jzJQym.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bo Dietl</name>
+        <role>Bo Dietl</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/6mG0MPKlyccmmbunnVBw4qr5VB6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Spinogatti</name>
+        <role>Nicholas the Butler</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aya Cash</name>
+        <role>Janet</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/kanvrW5ZdAS2MFmS0Pj9pSdR7p9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rizwan Manji</name>
+        <role>Kalil</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/mBsLE1sDCWZXR9PWV8xptTpxkQc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Kurtzuba</name>
+        <role>Kimmie Belzer</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/w7PYp3roAQ6KAPOAErNfxzLoM2R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J. C. MacKenzie</name>
+        <role>Lucas Solomon</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/aAy2hzMku50aM2lUYg7yNQYdpMW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashlie Atkinson</name>
+        <role>Rochelle Applebaum</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/c9V6hxyUQ5pfo3nJNV032dipiQI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Kunken</name>
+        <role>Jerry Fogel</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/4WbttnF6FOrx0DjKYoW9atYw21m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ted Griffin</name>
+        <role>Agent Hughes</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/yTqm4q3yJduJseTjoDlwYPk5PhX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandra Nelson</name>
+        <role>Aliyah Farran</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/sERELRAytnbw5SAXI7CcAmwldFj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Bittner</name>
+        <role>Rothschild Broker #1</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/58GQW52kl5sCYSkcXqQaYnhj2kO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spike Jonze</name>
+        <role>Dwayne</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Meehan</name>
+        <role>Hildy Azoff</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/udiRjaPHASCXHTxv7M6HG0yp55W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Middleditch</name>
+        <role>Stratton Broker in a Bowtie</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/e6rjipqOp5iPjMMdU9YgGy8ueI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward Herrmann</name>
+        <role>Stratton Oakmont Commercial (voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/uHpwYqee5hxAOxjxwL4BDICu8iY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordan Belfort</name>
+        <role>Auckland Straight Line Host</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fran Lebowitz</name>
+        <role>Honorary Samantha Stogel</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/ivFaoK9TTJAqXsEzHCEddKsw5Pq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Clohessy</name>
+        <role>Nolan Drager (Jordan&apos;s Lawyer)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/4f6F5F2pU4ng5NBAykagciSDqZT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Welker White</name>
+        <role>Waitress</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/3LiWDlyFUjajol7p8PE8893zMqT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Flaherty</name>
+        <role>Zip (Lude Buying Teenager #1)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/2ZICtE27qlbiiiQhYiPeXSPlnWj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carla Corvo</name>
+        <role>Pam</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Madison McKinley</name>
+        <role>Heidi</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Lazar</name>
+        <role>Blair Hollingsworth</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/yWdPAR3SihD6FjZelNLEeWLLE3e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Routman</name>
+        <role>SEC Attorney #1</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/851DM8F2cOlCvLxc82c9iu4j0bQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Witting</name>
+        <role>SEC Attorney #2</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/xpCi5RVLq2X6xtz4LzOBsVVmevD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charley Morgan</name>
+        <role>SEC Attorney #3</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Nathanson</name>
+        <role>Barry Kleinman</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathleen Fellegara</name>
+        <role>Straight Line Testimonial #1</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Behlmann</name>
+        <role>Rothschild Broker #2</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ward Horton</name>
+        <role>Rothschild Broker #3</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/qN28HktqfOCIaLVRK8W6bofdbvs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bret Shuford</name>
+        <role>Rothschild Broker #4</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/xsnPmkZcnE8wgKzx2wpx6AQDWwr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J.T. O&apos;Connor</name>
+        <role>Rothschild Broker #8</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven Boyer</name>
+        <role>Investor&apos;s Center Broker #1</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/3rt0I7SWke8YqSmtzySypnlR2vf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny A. Abeckaser</name>
+        <role>Investor&apos;s Center Broker #2</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Rauch</name>
+        <role>Stratton Broker #1</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Izquierdo</name>
+        <role>Stratton Broker #2</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donnie Keshawarz</name>
+        <role>Stratton Broker #3</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Johnathan Tchaikovsky</name>
+        <role>Stratton Broker #4</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Glaser</name>
+        <role>Stratton Broker #5</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Rameaka</name>
+        <role>Stratton Broker #6</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Charles Johnson</name>
+        <role>Young Broker</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/dX0E6oOEEjwyQFEQJ3YmMeBy4FN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Tillinger</name>
+        <role>Another Broker</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/9LftSCPFPENjpIZIQhNDSA50Aud.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Riggi</name>
+        <role>Party Broker #1</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/6H3qa1cDSRs3zvL1rumpnNqThL4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meghan Rafferty</name>
+        <role>Donnie&apos;s Assistant</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/wcF048lDVdqeDEFG1fdyzMGJBRf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Ramón Rosario</name>
+        <role>Maitre d&apos; Hector</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Davram Stiefler</name>
+        <role>Broker in Men&apos;s Room</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Daily</name>
+        <role>Honorary Raymond Samitz</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/jFYNOxujY6tOV3KsMThUyq3wxXL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Van Bergen</name>
+        <role>Swiss Customs Officer #1</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matte Osian</name>
+        <role>Swiss Customs Officer #2</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/xY65blSwyVEQcH6QxXgKOeEnAdE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Devine</name>
+        <role>Cop #1</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Furlani</name>
+        <role>Cop #2</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Bobb</name>
+        <role>Police Officer #2</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/gomL7VWzJeDfhewAgQy0xh25Hre.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Greer</name>
+        <role>Brookville Police Officer #2</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sharon Jones</name>
+        <role>Wedding Singer #1</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emily Tremaine</name>
+        <role>Cristy</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/sddwYkf10JKGedbAcasXEPZhSAp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zineb Oukach</name>
+        <role>Hostess on The Naomi</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Giselle Eisenberg</name>
+        <role>Skylar Belfort (4 Years Old)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deema Aitken</name>
+        <role>Lude Buying Teenager #2</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ashley Springer</name>
+        <role>Job Applicant #1</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rémy Bennett</name>
+        <role>Abby</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Catherine Curtin</name>
+        <role>FBI Agent #1</role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/giB5pkibdukMBHAE0yLGs1JsPOH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Urcioli</name>
+        <role>FBI Agent #2</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael O&apos;Hara</name>
+        <role>Prison Guard</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Bryan French</name>
+        <role>Inmate Playing Tennis #2</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/pWPCAhPpmFAIKzybnmIWTDyPqWp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Armen Garo</name>
+        <role>Rao&apos;s Patron #1</role>
+        <order>84</order>
+        <thumb>https://image.tmdb.org/t/p/original/fBQtWbHI4329bhplNGbaylabV7L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garry Pastore</name>
+        <role>Rao&apos;s Patron #2</role>
+        <order>85</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Ad2tXuIDbEv9rbpdH3EL0tAW2Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louis Vanaria</name>
+        <role>Rao&apos;s Patron #3</role>
+        <order>86</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Vc5mxFxePd3pTLUaORMMy6po3V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Youngblood Hills</name>
+        <role>Audience Member #1</role>
+        <order>87</order>
+        <thumb>https://image.tmdb.org/t/p/original/dPSZv0dJY0tpMWvSxgpVjpNA7cC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brendan Griffin</name>
+        <role>Audience Member #3</role>
+        <order>88</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Z7LT5K3yzDOkmmKa1C1MgJFoau.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek Milman</name>
+        <role>Audience Member #4</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victor Verhaeghe</name>
+        <role>Audience Member #5</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/dWQM3gr2ri92NZUI8zHttxQ5P3m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Caldovino</name>
+        <role>Rocco #1</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fileena Bahris</name>
+        <role>Wedding Guest (uncredited)</role>
+        <order>92</order>
+        <thumb>https://image.tmdb.org/t/p/original/sxbHLlfBpu3k10rbkbDETQN2I5p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Silvia Kal</name>
+        <role>Wedding Guest (uncredited)</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kamron Leal</name>
+        <role>Wedding Guest (uncredited)</role>
+        <order>94</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tommy Bayiokos</name>
+        <role>Kacandes Diner Man (uncredited)</role>
+        <order>95</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gianni Biasetti Jr.</name>
+        <role>Italian Coastguard (uncredited)</role>
+        <order>96</order>
+        <thumb>https://image.tmdb.org/t/p/original/frt102sL0yaSl51pTv3hWj5NQAY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Bolander</name>
+        <role>Broker (uncredited)</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Spenser Granese</name>
+        <role>Broker (uncredited)</role>
+        <order>98</order>
+        <thumb>https://image.tmdb.org/t/p/original/1tJmKfdcYhCVOYwt8kTesg08wcA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Brand</name>
+        <role>Stratton Broker (uncredited)</role>
+        <order>99</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Carrella</name>
+        <role>Stratton Broker (uncredited)</role>
+        <order>100</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Austin Farwell</name>
+        <role>Stratton Broker (uncredited)</role>
+        <order>101</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zach Miko</name>
+        <role>Stratton Broker (uncredited)</role>
+        <order>102</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyler Evan Rowe</name>
+        <role>Stratton Broker (uncredited)</role>
+        <order>103</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stefano Villabona</name>
+        <role>Stratton Broker (uncredited)</role>
+        <order>104</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregory Brown</name>
+        <role>Upper Eastside Pedestrian (uncredited)</role>
+        <order>105</order>
+        <thumb>https://image.tmdb.org/t/p/original/pqnzVHwdqAjWAMp66ot7jyuSEIx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tucker Bryan</name>
+        <role>Wolfpack #4 (uncredited)</role>
+        <order>106</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Jefferson</name>
+        <role>Wolfpack #1 (uncredited)</role>
+        <order>107</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan Burton</name>
+        <role>Young Stratton Inc. Broker (uncredited)</role>
+        <order>108</order>
+        <thumb>https://image.tmdb.org/t/p/original/hITWWqTdg24rc1Ey2uleu8hxQxI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Catapano</name>
+        <role>Broker Applicant (uncredited)</role>
+        <order>109</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven Conroy</name>
+        <role>Audience Member (uncredited)</role>
+        <order>110</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kelsey Deanne</name>
+        <role>Pool Party Guest (uncredited)</role>
+        <order>111</order>
+        <thumb>https://image.tmdb.org/t/p/original/m9PUfCp6MOsOMOJm64r3ziAGg2w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Di Angelis</name>
+        <role>Nicky Koskoff&apos;s Escort (uncredited)</role>
+        <order>112</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Gooley</name>
+        <role>Tai Chi Inmate (uncredited)</role>
+        <order>113</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>London Hall</name>
+        <role>Swiss Airline Passenger (uncredited)</role>
+        <order>114</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rosemary Howard</name>
+        <role>Rao&apos;s Pedestrian (uncredited)</role>
+        <order>115</order>
+        <thumb>https://image.tmdb.org/t/p/original/DJj5tzb25LanRIeHoNtDccNm7b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Kerson</name>
+        <role>Kimmie Belzer&apos;s Desk Mate (uncredited)</role>
+        <order>116</order>
+        <thumb>https://image.tmdb.org/t/p/original/4IktQBREhdw3Ldep3SiJVitgs6O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natasha Key</name>
+        <role>Singer</role>
+        <order>117</order>
+        <thumb>https://image.tmdb.org/t/p/original/6s00jLmMqhIXGsbE5vPiT7nONLr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Leasure</name>
+        <role>Brantley (uncredited)</role>
+        <order>118</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Jude Letersky</name>
+        <role>Marina Sightseer (uncredited)</role>
+        <order>119</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Will MacAdam</name>
+        <role>Irritated Plane Passinger (uncredited)</role>
+        <order>120</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Moffitt</name>
+        <role>Party Goer (uncredited)</role>
+        <order>121</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Nunez</name>
+        <role>Miami Busboy (uncredited)</role>
+        <order>122</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seregon O&apos;Dassey</name>
+        <role>Masseuse to Donnie Azoff (uncredited)</role>
+        <order>123</order>
+        <thumb>https://image.tmdb.org/t/p/original/51gu7SUO1JmBl8KkXYJTeVydlTj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Oliveira</name>
+        <role>Court Room Attendant (uncredited)</role>
+        <order>124</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>And Palladino</name>
+        <role>Stratton Applicant (uncredited)</role>
+        <order>125</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Power</name>
+        <role>Seminar Guest (uncredited)</role>
+        <order>126</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicole Rutigliano</name>
+        <role>Stripper (uncredited)</role>
+        <order>128</order>
+        <thumb>https://image.tmdb.org/t/p/original/1sVOjXuKTDnuFhLhKsQA2XlluYx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sibyl Santiago</name>
+        <role>Convention Attendee (uncredited)</role>
+        <order>129</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vitaliy Shtabnoy</name>
+        <role>Kent - Broker (uncredited)</role>
+        <order>131</order>
+        <thumb>https://image.tmdb.org/t/p/original/ywgUuqy2NkqsvsZgfazf4vSLH4c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blago Simon</name>
+        <role>Stock Broker (uncredited)</role>
+        <order>132</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Thornton</name>
+        <role>1st Class Swiss Airline Passenger (uncredited)</role>
+        <order>133</order>
+        <thumb>https://image.tmdb.org/t/p/original/62bXSs85mg8HZm3LBZKuGkunMc8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madeleine Wade</name>
+        <role>Call Girl (uncredited)</role>
+        <order>134</order>
+        <thumb>https://image.tmdb.org/t/p/original/n8SePV247HYcqAj81J9Aadrs1lg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Wenzel</name>
+        <role>Banker (uncredited)</role>
+        <order>135</order>
+        <thumb>https://image.tmdb.org/t/p/original/pPCt3LdXHtvYagO8rRyMGJwcZqh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Zaso</name>
+        <role>Rudy (uncredited)</role>
+        <order>136</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francis Brooke</name>
+        <role>Conference Attendee (uncredited)</role>
+        <order>137</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-21 09:56:00</dateadded>
+</movie>

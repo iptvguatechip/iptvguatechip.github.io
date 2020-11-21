@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Grey Lady</title>
+    <originaltitle>Grey Lady</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.300000</value>
+            <votes>847</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.500000</value>
+            <votes>16</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A Boston police officer goes to Nantucket to investigate the murder of his partner, but he finds more than he bargained for.</plot>
+    <tagline></tagline>
+    <runtime>109</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/S3BRZj3FJkYSvxco7pvPCUsQYK.jpg">https://image.tmdb.org/t/p/original/S3BRZj3FJkYSvxco7pvPCUsQYK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p5dOXQds89JftDGmVV6N6eJzcun.jpg">https://image.tmdb.org/t/p/original/p5dOXQds89JftDGmVV6N6eJzcun.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mmfE5lZbQX7yNqh5xug2rt7woe5.jpg">https://image.tmdb.org/t/p/original/mmfE5lZbQX7yNqh5xug2rt7woe5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h0Vl0eo3tlG4FMX48G2cGpn0ePR.jpg">https://image.tmdb.org/t/p/original/h0Vl0eo3tlG4FMX48G2cGpn0ePR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5A6f9erylJlsaVWXOeMVLbokfbF.jpg">https://image.tmdb.org/t/p/original/5A6f9erylJlsaVWXOeMVLbokfbF.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3693042</id>
+    <uniqueid type="imdb" default="true">tt3693042</uniqueid>
+    <uniqueid type="tmdb">430598</uniqueid>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>John Shea</credits>
+    <director>John Shea</director>
+    <premiered>2017-04-28</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pataphysical Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FCMRSRu0ibo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>478.000000</aspect>
+                <width>1912</width>
+                <height>820</height>
+                <durationinseconds>6570</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eric Dane</name>
+        <role>Doyle</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/rTQqWQnvnHDy35otg2KArofOcgv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalie Zea</name>
+        <role>Melissa Reynolds</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/gzGx4oD7fvHBV9SzQyeiobH70aP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Madigan</name>
+        <role>Lola</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Lester</name>
+        <role>Johnson</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/agpu7yrnUjbXJRRd6lH2q47kwOl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carolyn Stotesbery</name>
+        <role>Eli Morrison</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Meyer</name>
+        <role>Perry Morrison</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uiVPQ3f3a4XhQp4H194dyoczGo2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Gayheart</name>
+        <role>Maggie Wynn</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/eDOraPifMP9ljb9rLzUzBslavo7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Cummings</name>
+        <role>Marty Maloney</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/fVedSxKuTiF4tJcC2qqkQ8M4jSf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laila Robins</name>
+        <role>The Duchess</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/iezRiFJWOFAD7GJDYLrBWirNAEr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Shea</name>
+        <role>Chief Maguire</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/wJN9RqOC666WZay9ABgAhKm4DDK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rocky Rodriques</name>
+        <role>Tony Ramos</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eilin O&apos;Dea</name>
+        <role>Clara Burke</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Perri Lauren</name>
+        <role>Young Lola</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 09:15:14</dateadded>
+</movie>

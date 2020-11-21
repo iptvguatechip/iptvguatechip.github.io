@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Godzilla</title>
+    <originaltitle>Godzilla</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>371504</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>6258</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un monstruo marino prehistórico, que ha permanecido décadas aletargado después de que la humanidad tratara de destruirlo, se enfrenta a malvadas criaturas que, animadas por la arrogancia científica del hombre, amenazan la vida de la raza humana.</plot>
+    <tagline>The world ends, Godzilla begins.</tagline>
+    <runtime>123</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/inNN466SKHNjbGmpfhfsaPQNleS.jpg">https://image.tmdb.org/t/p/original/inNN466SKHNjbGmpfhfsaPQNleS.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/dXftJdA6IMemp8NaOAz2n8mPOGO.jpg">https://image.tmdb.org/t/p/original/dXftJdA6IMemp8NaOAz2n8mPOGO.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/nuxb7JXztjqfGwkUxguvAZ7bTuG.jpg">https://image.tmdb.org/t/p/original/nuxb7JXztjqfGwkUxguvAZ7bTuG.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gsquLHxpVk8PxIQnnRYAIAzArWE.jpg">https://image.tmdb.org/t/p/original/gsquLHxpVk8PxIQnnRYAIAzArWE.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gaLQd06TJyWFknH7JvMtcbU90Rp.jpg">https://image.tmdb.org/t/p/original/gaLQd06TJyWFknH7JvMtcbU90Rp.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/eGtFA2wRrfLdvNq9YrRl2cOw4FE.jpg">https://image.tmdb.org/t/p/original/eGtFA2wRrfLdvNq9YrRl2cOw4FE.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/uUveFXEWZSUHGaQv3bj7xXZ4XMe.jpg">https://image.tmdb.org/t/p/original/uUveFXEWZSUHGaQv3bj7xXZ4XMe.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/37khHa8rLEbkreBDW4w0CGqnlRs.jpg">https://image.tmdb.org/t/p/original/37khHa8rLEbkreBDW4w0CGqnlRs.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pbMAsyYePY40a8Qxod8LV2xlpWy.jpg">https://image.tmdb.org/t/p/original/pbMAsyYePY40a8Qxod8LV2xlpWy.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/t7RoFUcA6j3uRuLv5GLH7DYgH63.jpg">https://image.tmdb.org/t/p/original/t7RoFUcA6j3uRuLv5GLH7DYgH63.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/wMczftFw9kxoIHdpNIIg3sLHBSm.jpg">https://image.tmdb.org/t/p/original/wMczftFw9kxoIHdpNIIg3sLHBSm.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/uPkLrsLIt79OPLAjq9xd4cgbTTV.jpg">https://image.tmdb.org/t/p/original/uPkLrsLIt79OPLAjq9xd4cgbTTV.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/mbWfVI9NiurnlSv71TbfVEZXUqD.jpg">https://image.tmdb.org/t/p/original/mbWfVI9NiurnlSv71TbfVEZXUqD.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8udJYMIUy3PI2j22IKRDi4hfvf0.jpg">https://image.tmdb.org/t/p/original/8udJYMIUy3PI2j22IKRDi4hfvf0.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/xKrVlaVSQe9tkKzTzBQdPe2vmBY.jpg">https://image.tmdb.org/t/p/original/xKrVlaVSQe9tkKzTzBQdPe2vmBY.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg">https://image.tmdb.org/t/p/original/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/hAdiHEBoqTsuyUCgUNpVEYdPIk.jpg">https://image.tmdb.org/t/p/original/hAdiHEBoqTsuyUCgUNpVEYdPIk.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/w2DObrwssMctpZrGdsGY6myeKaj.jpg">https://image.tmdb.org/t/p/original/w2DObrwssMctpZrGdsGY6myeKaj.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/ejsLb6vSMEzk6J9ZWjMQ11suQgk.jpg">https://image.tmdb.org/t/p/original/ejsLb6vSMEzk6J9ZWjMQ11suQgk.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/u0HG8Yzepp4f0lPzsqk6El2njCe.jpg">https://image.tmdb.org/t/p/original/u0HG8Yzepp4f0lPzsqk6El2njCe.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/pxgELEaMIYEwB8KZfvC9uTHvcLc.jpg">https://image.tmdb.org/t/p/original/pxgELEaMIYEwB8KZfvC9uTHvcLc.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rgUy42XHhUyrM1IZzSLYjQcchq4.jpg">https://image.tmdb.org/t/p/original/rgUy42XHhUyrM1IZzSLYjQcchq4.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/yvLSZ1m1ec1AfukPkWWYhjes2K5.jpg">https://image.tmdb.org/t/p/original/yvLSZ1m1ec1AfukPkWWYhjes2K5.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/wdhknwKweYnvo0sSAWBgGuKOXvB.jpg">https://image.tmdb.org/t/p/original/wdhknwKweYnvo0sSAWBgGuKOXvB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1t0FcqSsBs51PDhDkFd7EiEytU6.jpg">https://image.tmdb.org/t/p/original/1t0FcqSsBs51PDhDkFd7EiEytU6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6R0xEIeXpOJt3vg1SsQuJkOKBWu.jpg">https://image.tmdb.org/t/p/original/6R0xEIeXpOJt3vg1SsQuJkOKBWu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oviYOrpDnDlAeZ7UnQCX7Vulx5k.jpg">https://image.tmdb.org/t/p/original/oviYOrpDnDlAeZ7UnQCX7Vulx5k.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg">https://image.tmdb.org/t/p/original/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/il1kto7rjSO6We97tyUVqY04pVD.jpg">https://image.tmdb.org/t/p/original/il1kto7rjSO6We97tyUVqY04pVD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2iKhs503NQRL6jcwt8wPdozNis.jpg">https://image.tmdb.org/t/p/original/2iKhs503NQRL6jcwt8wPdozNis.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j7OrELWmm9GFFSD7Rk3qdprvXOE.jpg">https://image.tmdb.org/t/p/original/j7OrELWmm9GFFSD7Rk3qdprvXOE.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zCjZfevPFBbOh2SAx2syIBHSqEI.jpg">https://image.tmdb.org/t/p/original/zCjZfevPFBbOh2SAx2syIBHSqEI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6CLNOzMXO9bvapDD8gsdwkJU4wN.jpg">https://image.tmdb.org/t/p/original/6CLNOzMXO9bvapDD8gsdwkJU4wN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kWmmwHomO7zgZGu70XdKPmTABnR.jpg">https://image.tmdb.org/t/p/original/kWmmwHomO7zgZGu70XdKPmTABnR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wfSGen3egE0qJ81yVv0ePRuqhNK.jpg">https://image.tmdb.org/t/p/original/wfSGen3egE0qJ81yVv0ePRuqhNK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ugZlHRo8wxb8zFXWreaWJ7NbRQP.jpg">https://image.tmdb.org/t/p/original/ugZlHRo8wxb8zFXWreaWJ7NbRQP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cHvwgJPaT59H1HiQsvBrGD5I46g.jpg">https://image.tmdb.org/t/p/original/cHvwgJPaT59H1HiQsvBrGD5I46g.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ysM8L4XcP1R7P0a4GOTa6IIS5tW.jpg">https://image.tmdb.org/t/p/original/ysM8L4XcP1R7P0a4GOTa6IIS5tW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6z3fnOJwSKkEkkOfXgwKaLHuOGL.jpg">https://image.tmdb.org/t/p/original/6z3fnOJwSKkEkkOfXgwKaLHuOGL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6npu5lrAIGRrjBUiAs3ueOf4Ypt.jpg">https://image.tmdb.org/t/p/original/6npu5lrAIGRrjBUiAs3ueOf4Ypt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9HnI44thI9mfg5bbIFIFekseurs.jpg">https://image.tmdb.org/t/p/original/9HnI44thI9mfg5bbIFIFekseurs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cMvyGLhCgP9YT1C4H5dDZNySdnp.jpg">https://image.tmdb.org/t/p/original/cMvyGLhCgP9YT1C4H5dDZNySdnp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qvUd68xxD6zupuyVbVWAiDO3t6y.jpg">https://image.tmdb.org/t/p/original/qvUd68xxD6zupuyVbVWAiDO3t6y.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cHWqwVPII8w7H26D2YdTkMg3L5i.jpg">https://image.tmdb.org/t/p/original/cHWqwVPII8w7H26D2YdTkMg3L5i.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aShP9NU9hWxgAomLdZH8SWBErrB.jpg">https://image.tmdb.org/t/p/original/aShP9NU9hWxgAomLdZH8SWBErrB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tvG8RQ5wHEck79gz97GpbopQnZu.jpg">https://image.tmdb.org/t/p/original/tvG8RQ5wHEck79gz97GpbopQnZu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/GW88HSrhD6An3dG4cu9gl52JOE.jpg">https://image.tmdb.org/t/p/original/GW88HSrhD6An3dG4cu9gl52JOE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6jt3XjLQUokc9lhIFjDmHL90owY.jpg">https://image.tmdb.org/t/p/original/6jt3XjLQUokc9lhIFjDmHL90owY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w87Vn6o7B0gl0q72i6lBndvybsc.jpg">https://image.tmdb.org/t/p/original/w87Vn6o7B0gl0q72i6lBndvybsc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xJfK97vWl5HZ06kunVrYnuQQMrX.jpg">https://image.tmdb.org/t/p/original/xJfK97vWl5HZ06kunVrYnuQQMrX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4zlldq7eXysYuFJGKO1GUmbulK2.jpg">https://image.tmdb.org/t/p/original/4zlldq7eXysYuFJGKO1GUmbulK2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wAaVmdVnl2LxWJB8k2EW8cipMD0.jpg">https://image.tmdb.org/t/p/original/wAaVmdVnl2LxWJB8k2EW8cipMD0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bdom03cqTEGCUurgjjnPDzFmu7w.jpg">https://image.tmdb.org/t/p/original/bdom03cqTEGCUurgjjnPDzFmu7w.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5eTAteCnLXx3j4Z4QDP45QSICWj.jpg">https://image.tmdb.org/t/p/original/5eTAteCnLXx3j4Z4QDP45QSICWj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wAKwclaXUIKves887eyPDrGoA7L.jpg">https://image.tmdb.org/t/p/original/wAKwclaXUIKves887eyPDrGoA7L.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aT4rsAukQryK3yl1rJt6rbMwy9j.jpg">https://image.tmdb.org/t/p/original/aT4rsAukQryK3yl1rJt6rbMwy9j.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0831387</id>
+    <uniqueid type="imdb" default="true">tt0831387</uniqueid>
+    <uniqueid type="tmdb">124905</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <genre>Ciencia ficción</genre>
+    <country>Japan</country>
+    <set>
+        <name>MonsterVerse</name>
+        <overview>El MonsterVerse​ es una franquicia y universo cinematográfico compartido, centrado en una serie de películas de monstruos protagonizadas por Godzilla y King Kong, distribuidas por Warner Bros. y Legendary Entertainment, en compañía de Toho (para las películas de Godzilla). La primera entrega fue Godzilla (2014), un reinicio de la franquicia de Godzilla, seguida de Kong: La Isla Calavera (2017), un reinicio de la franquicia de King Kong. La siguiente película es Godzilla: King of the Monsters (2019) una Secuela de Godzilla (2014). La próxima entrega será Godzilla vs. Kong (2020).</overview>
+    </set>
+    <credits>Max Borenstein</credits>
+    <director>Gareth Edwards</director>
+    <premiered>2014-05-14</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>RatPac-Dune Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_MVDpmKxLNg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>7387</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Aaron Taylor-Johnson</name>
+        <role>Ford Brody</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ldIRyeraVFHwprWhe8BK441UJYn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Olsen</name>
+        <role>Elle Brody</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/wIU675y4dofIDVuhaNWPizJNtep.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryan Cranston</name>
+        <role>Joe Brody</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Watanabe</name>
+        <role>Dr. Ishiro Serizawa</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/AqK1DSCibb8VuMO6t5qH1LVMIYG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sally Hawkins</name>
+        <role>Dr. Vivienne Graham</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/osYgwtQIiNbPFc8JkFDxreBgqxZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Al Sapienza</name>
+        <role>Huddleston</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rWTWUwOcNj5SsLb9FS3dbseosWv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Strathairn</name>
+        <role>Admiral William Stenz</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/fhkvTcrCDPTAclTnE7sqQS1NZKq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Pizzinato</name>
+        <role>HALO Jumper</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/kE9S1uDnAQPkLuDGcAAogD1IJHd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juliette Binoche</name>
+        <role>Sandra Brody</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3QtWKWVlhG1pixoPrQmb0AueAMt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>CJ Adams</name>
+        <role>Young Ford</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/fk1zZZwkEgoqWSBQMaCTI7ECwMj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard T. Jones</name>
+        <role>Captain Russell Hampton</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/hdko2C45Wr5G03Z8JwGjWMynP84.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victor Rasuk</name>
+        <role>Tre Morales</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/1vh2Yzp9bhmaxLfpNCrO7DVoURd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Sabongui</name>
+        <role>Master Sargeant Marcus Waltz</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carson Bolde</name>
+        <role>Sam Brody</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jared Keeso</name>
+        <role>Jump Master</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/8otnzB0CmGpYr9EExYQ5YU2mibc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luc Roderique</name>
+        <role>Bomb Tracker</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/jeAxcgvhKGTsiGyNnNTfG2qpK1S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Keenleyside</name>
+        <role>Boyd</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/qBqgDpVvswaZFB4zS9r9bVgW9Sh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Primo Allon</name>
+        <role>Mine Team Member</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/gL9VXWgAyZEuXpmKoj3ExFPAdUS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Allen Gumapac Jr.</name>
+        <role>Lead Guerrilla Fighter</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ken Yamamura</name>
+        <role>Takashi</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jYWt1rm1PvElfmz47gLPeSPqp9o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garry Chalk</name>
+        <role>Stan Walsh</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/jESGnBSP0OjFxJejN1OPsjXA9sJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiro Kanagawa</name>
+        <role>Hayato</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/dyWOPJmZTfy3r3R5eDY2d7yf8Ze.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevan Ohtsji</name>
+        <role>Nervous Engineer</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/wif0qBL0gbAvTOz181vmjNsTaWR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kasey Ryne Mazak</name>
+        <role>Team Member #1</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/pVC3OtRyUV6JPFwsoGtBkD4VNsJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terry Chen</name>
+        <role>Team Member #2</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/uOusHiGq3pj3UyFuEj063YZ3Tnf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mas Morimoto</name>
+        <role>Team Member #3</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James D. Dever</name>
+        <role>Captain Freeman</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/hAszj9McWg2rmsHuhWLpYMfXkwp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akira Takarada</name>
+        <role>Immigration Officer</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/bnL8ZbICuHSXrTJlLYf3EDa3zfW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuko Kiyama</name>
+        <role>Mom in Japanese Jail Waiting Room</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Takeshi Kurokawa</name>
+        <role>Dad in Japanese Jail Waiting Room</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Yoshizawa</name>
+        <role>Goth Dressed Boy</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Furukawa</name>
+        <role>Gruff Smuggler</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/lBHOYcKwK5TTN5geB2MkqiE4fpx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Markinson</name>
+        <role>Whelan</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/26fa857UrEU4aCMHVQbpvNOGuKv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ty Olsson</name>
+        <role>Jainway</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/9KnJ0453movkUNTYuucHXCFVbU0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gardiner Millar</name>
+        <role>Fitzgerald</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/8Tp1zrAhzodqctb7opuQucEn7ui.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kurt Max Runte</name>
+        <role>Crow&apos;s Nest Tech</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WGPyDSfIqSYLeS525VifPHfHlL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Shinkoda</name>
+        <role>Muto Crow&apos;s Nest Tech #1</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/lCQl28poQr4bLwqZjhryGkV73jO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Marchant</name>
+        <role>Muto Crow&apos;s Nest Tech #2</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Tessier</name>
+        <role>Muto Crow&apos;s Nest Tech #3</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Derrick Yamanaka</name>
+        <role>Muto Base Camp Guard</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Kawasaki</name>
+        <role>Muto Crane Operator</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Riki Kosuge</name>
+        <role>Muto Base Camp Security #1</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/vVNaOQOgwQ5mbTB2DINiAdPUsP4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiroyoshi Kajiyama</name>
+        <role>Muto Base Camp Security #2</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tetsuro Shigematsu</name>
+        <role>Muto Base Camp Security #3</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dean Redman</name>
+        <role>National Guard #1</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/8BpwDpWAQ6TQsX0TAfpqWsi5JPU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Nichols</name>
+        <role>Military Analyst</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/2VnYWsBXx19tNvBX1diwfjdLkjU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Konechny</name>
+        <role>Thach</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/4j9H3FpjtVpg6WpHEEYYJGnObTV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Cunanan</name>
+        <role>Akio</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yuki Morita</name>
+        <role>Akio&apos;s Mother</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jill Teed</name>
+        <role>Head Nurse</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/pRu4qqDcb8ze3RKgoKxPwzW9SRP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eli Goree</name>
+        <role>PO #3</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Vax365TiO0NjlMD4nL6vfOBIHP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Warren Takeuchi</name>
+        <role>Akio&apos;s father</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/vElGnrcImXzC6H5WFY13IV1rXxd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chuck Church</name>
+        <role>Survivor</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dalias Blake</name>
+        <role>Missile Tech #1</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/AmULUpiOrl87fq4PQMYpg2tHhu2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lane Edwards</name>
+        <role>Missile Tech #2</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/1SidjTfyEJQP5QCuc6equ3FkCO6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Scott</name>
+        <role>Transport Vessel Soldier</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/2L1E6W5VxUoIiRy0DB3odKFhepa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoe Krivatsy</name>
+        <role>Young Girl on Beach</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Serge M. Krivatsy</name>
+        <role>Father on Beach</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lise Krivatsy</name>
+        <role>Mother on Beach</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Josh Cowdery</name>
+        <role>Pilot</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/2gAoACv2mr31vjqspM9fHIe3MgP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven M. Murdzia</name>
+        <role>Beret Leader</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Keo Woolford</name>
+        <role>Airport Worker</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/mMtqBYVCAuf2UtESYnvqdQDsTFs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynne Halevi</name>
+        <role>Older Woman at Beach Bar</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Kogan</name>
+        <role>Older Man at Beach Bar</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sandy Ritz</name>
+        <role>FEMA Worker</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kyle Riefsnyder</name>
+        <role>SFPD Cop</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Breker</name>
+        <role>Army Soldier</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/bD08h8S2wmXmw6MDD2mHuRO4J2B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesse Reid</name>
+        <role>Ordinance Tech</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melody B. Choi</name>
+        <role>SF School Bus Kid #1</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/tyUsNfGjGtXxSBBi2X4UdWeBwWV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catherine Lough Haggquist</name>
+        <role>PO Martinez</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8WNwTXrfVxmsCfOGirh1MtVppz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Pearl</name>
+        <role>Evacuation Worker #1</role>
+        <order>70</order>
+        <thumb>https://image.tmdb.org/t/p/original/kwc5qUmHwFv78ToK6Uewu3rRr0N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Fox</name>
+        <role>Evacuation Worker #2</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/6mc9Io5vYGlKs2Kh4XURG7SKqSJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rich Paul</name>
+        <role>Officer</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/j7NuewkaHVQcGxSn5LJnLJDXV0E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dee Jay Jackson</name>
+        <role>Bus Driver</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erika Forest</name>
+        <role>SF School Bus Kid #3</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/tp7sfv2poN7wW3XMruMZpJjfGVl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Denis</name>
+        <role>Golden Gate Navy Man on Deck</role>
+        <order>75</order>
+        <thumb>https://image.tmdb.org/t/p/original/8Il6dlmhXy60DM9C8AVLvtgHB0c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taya Clyne</name>
+        <role>SF School Bus Kid #2</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Harrison</name>
+        <role>SF School Bus Kid #4</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grayson Maxwell Gurnsey</name>
+        <role>SF School Bus Kid #5</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/guPsPm16YhgbNa79bWSixv1lYYb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Blayne Lowery</name>
+        <role>Praying Soldier</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Toby Levins</name>
+        <role>Lead Fighting Pilot</role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/xce4pr2wngY2GiJyE50zpyekZmR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marci T. House</name>
+        <role>Government Spokesperson</role>
+        <order>81</order>
+        <thumb>https://image.tmdb.org/t/p/original/rVXLXoLKISSy68xQAowsG2hP5AN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Shields</name>
+        <role>Dispatch Officer</role>
+        <order>82</order>
+        <thumb>https://image.tmdb.org/t/p/original/5nob0kb7labA1LDHHD3kSvotaAG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zach Martin</name>
+        <role>Airman</role>
+        <order>83</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darren Dolynski</name>
+        <role>Civilian Analyst #1</role>
+        <order>84</order>
+        <thumb>https://image.tmdb.org/t/p/original/34Sb5NUodwmU2PlZpYSpbxVZUpI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>P. Lynn Johnson</name>
+        <role>Civilian Analyst #2</role>
+        <order>85</order>
+        <thumb>https://image.tmdb.org/t/p/original/f8JYS6r18x7yIP4QKvtrzESn7Nt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Anagaran</name>
+        <role>Airforce Loadmaster</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin O&apos;Grady</name>
+        <role>Bucket Brigadier</role>
+        <order>87</order>
+        <thumb>https://image.tmdb.org/t/p/original/yTH5u9Sdh06i9BE8W4zU54DQqwU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leif Havdale</name>
+        <role>SF Ground Troop #3</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachary Choe</name>
+        <role>Akio Photo Double</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Rowe</name>
+        <role>Air Force #1 (uncredited)</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/3OdcTtaSCf3mvE0Wctbl5xBDyFJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>T.J. Storm</name>
+        <role>Godzilla (uncredited)</role>
+        <order>91</order>
+        <thumb>https://image.tmdb.org/t/p/original/rfV8gBYJPBTHz0hDXBqRPGIemsV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Leone</name>
+        <role>(additional voices)</role>
+        <order>92</order>
+        <thumb>https://image.tmdb.org/t/p/original/1LkvhGTx1dU1W9jp6A4VgwvrhJA.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 12:07:05</dateadded>
+</movie>

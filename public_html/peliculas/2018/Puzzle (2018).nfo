@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Puzzle</title>
+    <originaltitle>Puzzle</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>6386</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>89</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Agnes, considerada como una madre suburbana, descubre una pasión por resolver rompecabezas que, inesperadamente, la lleva a un nuevo mundo, donde su vida se desarrolla de una forma que nunca podría haber imaginado.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/axEHNlZguGLwmKfDXyRpGVMGRFI.jpg">https://image.tmdb.org/t/p/original/axEHNlZguGLwmKfDXyRpGVMGRFI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jy3BAX8ET2ijn9fpb516wLIOcdl.jpg">https://image.tmdb.org/t/p/original/jy3BAX8ET2ijn9fpb516wLIOcdl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/joBaeNKoeL886lhapFj4sFj0Oqx.jpg">https://image.tmdb.org/t/p/original/joBaeNKoeL886lhapFj4sFj0Oqx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lhKmP6GU032dqqn7djIjgKT5smB.jpg">https://image.tmdb.org/t/p/original/lhKmP6GU032dqqn7djIjgKT5smB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jEKvPCkR4QenBMLvjXSRQAGiOJT.jpg">https://image.tmdb.org/t/p/original/jEKvPCkR4QenBMLvjXSRQAGiOJT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9imSD10wgF10Z3np3aqgdLemvq7.jpg">https://image.tmdb.org/t/p/original/9imSD10wgF10Z3np3aqgdLemvq7.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lMj2HUMzZ1K64IyMuFU8D8JkCtD.jpg">https://image.tmdb.org/t/p/original/lMj2HUMzZ1K64IyMuFU8D8JkCtD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8lbj7ye0U60NU5BIjrQocO6ha75.jpg">https://image.tmdb.org/t/p/original/8lbj7ye0U60NU5BIjrQocO6ha75.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lSqUIu4UZ0zLXtIsLCfV56y8nbX.jpg">https://image.tmdb.org/t/p/original/lSqUIu4UZ0zLXtIsLCfV56y8nbX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aJqObPFJQLopqcLJ4AMfCVob0Yg.jpg">https://image.tmdb.org/t/p/original/aJqObPFJQLopqcLJ4AMfCVob0Yg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xes7DFWwRZzWTRUEDK8ah6xCpYf.jpg">https://image.tmdb.org/t/p/original/xes7DFWwRZzWTRUEDK8ah6xCpYf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ty1Egktzg5lb0HDcmfG2Jz2hkps.jpg">https://image.tmdb.org/t/p/original/ty1Egktzg5lb0HDcmfG2Jz2hkps.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6KaeDlYIPET3uc8bzpKX7wEbGdI.jpg">https://image.tmdb.org/t/p/original/6KaeDlYIPET3uc8bzpKX7wEbGdI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j4UfiOtVGxc4KcBNsCUgLoaPPkC.jpg">https://image.tmdb.org/t/p/original/j4UfiOtVGxc4KcBNsCUgLoaPPkC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v7M5HMI72TyAPa7XNQSEqYkkpWz.jpg">https://image.tmdb.org/t/p/original/v7M5HMI72TyAPa7XNQSEqYkkpWz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w58PZFjcFBvJnvuRaIaKvpDKPuP.jpg">https://image.tmdb.org/t/p/original/w58PZFjcFBvJnvuRaIaKvpDKPuP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AutzJDZI0RlJ1gDAS4QfNdgcGC3.jpg">https://image.tmdb.org/t/p/original/AutzJDZI0RlJ1gDAS4QfNdgcGC3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/c8olLsQ1GHSqKC6FPpW8T0hWvi8.jpg">https://image.tmdb.org/t/p/original/c8olLsQ1GHSqKC6FPpW8T0hWvi8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eOW8HMqGxfqz7le9HnqhQwcE3Tq.jpg">https://image.tmdb.org/t/p/original/eOW8HMqGxfqz7le9HnqhQwcE3Tq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e0ngShdmLVfqA57HtMtzbslVGDb.jpg">https://image.tmdb.org/t/p/original/e0ngShdmLVfqA57HtMtzbslVGDb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yd0gVdU4LaPMKnoiJjkUdOVPDeM.jpg">https://image.tmdb.org/t/p/original/yd0gVdU4LaPMKnoiJjkUdOVPDeM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kPlZBLaA6jokTCVIFD61gnmNuUr.jpg">https://image.tmdb.org/t/p/original/kPlZBLaA6jokTCVIFD61gnmNuUr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rwQSKofZaBfpsWNhiXoJ6Nhg9hc.jpg">https://image.tmdb.org/t/p/original/rwQSKofZaBfpsWNhiXoJ6Nhg9hc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/66DY430akBcRzcDZptoQ15ZG20C.jpg">https://image.tmdb.org/t/p/original/66DY430akBcRzcDZptoQ15ZG20C.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xeNLcBlIE5TG143APUce0oStQFj.jpg">https://image.tmdb.org/t/p/original/xeNLcBlIE5TG143APUce0oStQFj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/phcHbCES3tasDep5p9fI1Emds9v.jpg">https://image.tmdb.org/t/p/original/phcHbCES3tasDep5p9fI1Emds9v.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qEv39VUiB0DiK0aEHWborOV0sDB.jpg">https://image.tmdb.org/t/p/original/qEv39VUiB0DiK0aEHWborOV0sDB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/895r3JTBht8Jp1m0HwsZbuKwNmg.jpg">https://image.tmdb.org/t/p/original/895r3JTBht8Jp1m0HwsZbuKwNmg.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6933454</id>
+    <uniqueid type="imdb" default="true">tt6933454</uniqueid>
+    <uniqueid type="tmdb">492998</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Oren Moverman</credits>
+    <credits>Polly Mann</credits>
+    <director>Marc Turtletaub</director>
+    <premiered>2018-07-27</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Big Beach</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wl_SoMNi0rw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>478.000000</aspect>
+                <width>1912</width>
+                <height>796</height>
+                <durationinseconds>6188</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kelly Macdonald</name>
+        <role>Agnes</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/pLjhxoZfk6RxfnkzlFKwaVeNTDs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Irrfan Khan</name>
+        <role>Robert</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Denman</name>
+        <role>Louie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/4I06ZD8SQ6pU1QYShiUXb711fJW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bubba Weiler</name>
+        <role>Ziggy</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/y0pPKQzYsMl9aCokYnVMEsaKSSl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Austin Abrams</name>
+        <role>Gabe</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liv Hewson</name>
+        <role>Nicki</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rxR5ptYFgUk5nhwOTIbqgN1jOVu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Stewart Sherman</name>
+        <role>Ronnie</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/c7aeOkCHK0881Kyl9VBa73bBbiF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helen Coxe</name>
+        <role>Ezster</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/jokTp8axRPhuWQJTiS29h1UAbtj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mandela Bellamy</name>
+        <role>Grocery Clerk</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/w17tHtYVhwXUmYsltMcQuhB20qK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lori Hammel</name>
+        <role>Fanny</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/fpSvyuznEvnff3kNbv0DJVmvYE1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lawrence Arancio</name>
+        <role>Train Conductor</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Chacon</name>
+        <role>Puzzlemania Clerk</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cK8mbsCLXVqBee0Zgiqysgg4Nzf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Godin</name>
+        <role>Father Kutash</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Shifrin</name>
+        <role>Subway Singer</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Myrna Cabello</name>
+        <role>Maria</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/1AqsWCSN1fRAQI41f2LQHYAb5xV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Audrie Neenan</name>
+        <role>Aunt Emily</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xteimBrBfdXPjcLNiAmehwuOou6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mhari Sandoval</name>
+        <role>Puzzle Competition MC</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/fmOdqYR0xz78FiHnUAb6goSsiOx.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:50</dateadded>
+</movie>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Destino de Júpiter</title>
+    <originaltitle>Jupiter Ascending</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>177226</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>5218</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Jupiter Jones nació en alta mar cuando su madre huía de Rusia rumbo a los Estados Unidos, tras el asesinato de su padre, un astrónomo. Ahora vive en Chicago, y trabaja como limpiadora de casas. Su novio Vasiliy la convence para que se gane algún dinero extra vendiendo óvulos y para ello decide adoptar un nombre nuevo: Katherine Dunlevy. Pero su ADN atraerá la atención de los cazadores de recompensas intergalácticos. En el otro confín de la galaxia se ha descubierto que Júpiter forma parte de una cadena genética extraordinaria que podría alterar el equilibrio de todo el Universo, pues es la reencarnación de la matriarca de la milenaria casa de Abrasax. Un ex-militar genéticamente modificado, el licántropo Caine Wise, llegará a la Tierra para intentar salvarla</plot>
+    <tagline>Expande tu universo.</tagline>
+    <runtime>127</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jBzPlhGrrSgQozGMzyoDPXUWdMt.jpg">https://image.tmdb.org/t/p/original/jBzPlhGrrSgQozGMzyoDPXUWdMt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2NCcAZ3M3F0FxENYmammBknwpVn.jpg">https://image.tmdb.org/t/p/original/2NCcAZ3M3F0FxENYmammBknwpVn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mb4zAOosaO9tHyH1n7g0634moK0.jpg">https://image.tmdb.org/t/p/original/mb4zAOosaO9tHyH1n7g0634moK0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wts7VAuUdzowugHXi7ySQe0VLyD.jpg">https://image.tmdb.org/t/p/original/wts7VAuUdzowugHXi7ySQe0VLyD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qbTHCunsH9dFzInkQ7x45b3hwND.jpg">https://image.tmdb.org/t/p/original/qbTHCunsH9dFzInkQ7x45b3hwND.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oIgXP4H9f9Pv39k8IhQGjOq97Ln.jpg">https://image.tmdb.org/t/p/original/oIgXP4H9f9Pv39k8IhQGjOq97Ln.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vAW0F426PNn6opAZpMUJOmjc4dR.jpg">https://image.tmdb.org/t/p/original/vAW0F426PNn6opAZpMUJOmjc4dR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z8dXSSadzpfTF2wHQlREkuB4d5y.jpg">https://image.tmdb.org/t/p/original/z8dXSSadzpfTF2wHQlREkuB4d5y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/djsQbwamc3b4R6yOO16oz96mFwx.jpg">https://image.tmdb.org/t/p/original/djsQbwamc3b4R6yOO16oz96mFwx.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oj6p9FvZ9sYZT4c9eP3o6S7VOYD.jpg">https://image.tmdb.org/t/p/original/oj6p9FvZ9sYZT4c9eP3o6S7VOYD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w4hk4QG05nDuSgimpa7XAM6OyPX.jpg">https://image.tmdb.org/t/p/original/w4hk4QG05nDuSgimpa7XAM6OyPX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4uwVbzC0NUVkTc4DfaYTESLz5tS.jpg">https://image.tmdb.org/t/p/original/4uwVbzC0NUVkTc4DfaYTESLz5tS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dGLyvMwH7OZOF6ZK4gjnYHIz4wM.jpg">https://image.tmdb.org/t/p/original/dGLyvMwH7OZOF6ZK4gjnYHIz4wM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hKWv6kbAzXOS8GfTjQnU6EPIelJ.jpg">https://image.tmdb.org/t/p/original/hKWv6kbAzXOS8GfTjQnU6EPIelJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ysrFQuuRnM2e0NdsdgwZjgHdeRd.jpg">https://image.tmdb.org/t/p/original/ysrFQuuRnM2e0NdsdgwZjgHdeRd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x5rHPavANiNccltD5UKKSna3fAq.jpg">https://image.tmdb.org/t/p/original/x5rHPavANiNccltD5UKKSna3fAq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mga75fk2KlXylbMitBNpB80Hm69.jpg">https://image.tmdb.org/t/p/original/mga75fk2KlXylbMitBNpB80Hm69.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aLodPtOooVXhBBFY4ti6xo1hkkD.jpg">https://image.tmdb.org/t/p/original/aLodPtOooVXhBBFY4ti6xo1hkkD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4Zk8gbHo3EemLQRvjzw2rDPfksu.jpg">https://image.tmdb.org/t/p/original/4Zk8gbHo3EemLQRvjzw2rDPfksu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3eqLKdEDTajXJrtfs29oZMo4D6E.jpg">https://image.tmdb.org/t/p/original/3eqLKdEDTajXJrtfs29oZMo4D6E.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ezTjyq71x2FDvt0L9Pwvf2unygN.jpg">https://image.tmdb.org/t/p/original/ezTjyq71x2FDvt0L9Pwvf2unygN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/R5zGVrDaJDPsWRbYUkpCQ8y5pa.jpg">https://image.tmdb.org/t/p/original/R5zGVrDaJDPsWRbYUkpCQ8y5pa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3sTBBkb849PI8BkcPLj0sDod2oW.jpg">https://image.tmdb.org/t/p/original/3sTBBkb849PI8BkcPLj0sDod2oW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a7zg09eL5nOnCH0pX6z0VQJMDbI.jpg">https://image.tmdb.org/t/p/original/a7zg09eL5nOnCH0pX6z0VQJMDbI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8TByCcggLIhICx6oc8dvEj1BVT0.jpg">https://image.tmdb.org/t/p/original/8TByCcggLIhICx6oc8dvEj1BVT0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zyPJ9WFTrRzxsH07THeiDTpBJsm.jpg">https://image.tmdb.org/t/p/original/zyPJ9WFTrRzxsH07THeiDTpBJsm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AboRI0EqOYOx0LbwtH15ntLSw9C.jpg">https://image.tmdb.org/t/p/original/AboRI0EqOYOx0LbwtH15ntLSw9C.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aKnNFFgp9R2zwHKQCcQePfTgFPs.jpg">https://image.tmdb.org/t/p/original/aKnNFFgp9R2zwHKQCcQePfTgFPs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m6gpQnFPQd23QKOjbCTMo5oygAb.jpg">https://image.tmdb.org/t/p/original/m6gpQnFPQd23QKOjbCTMo5oygAb.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1617661</id>
+    <uniqueid type="imdb" default="true">tt1617661</uniqueid>
+    <uniqueid type="tmdb">76757</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Fantasía</genre>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <country>United States of America</country>
+    <credits>Lilly Wachowski</credits>
+    <credits>Lana Wachowski</credits>
+    <director>Lilly Wachowski</director>
+    <director>Lana Wachowski</director>
+    <premiered>2015-02-04</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Anarchos Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qkzEXP0rACM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>239.000000</aspect>
+                <width>1912</width>
+                <height>792</height>
+                <durationinseconds>7652</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Channing Tatum</name>
+        <role>Caine Wise</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/bhTmp6FA8fOQnGlNk75tdmj2bpu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mila Kunis</name>
+        <role>Jupiter Jones</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Bean</name>
+        <role>Stinger Apini</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eddie Redmayne</name>
+        <role>Balem Abrasax</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Douglas Booth</name>
+        <role>Titus Abrasax</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/3IQQB5SIMyF5d6Tu4pMKU2FQehP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tuppence Middleton</name>
+        <role>Kalique Abrasax</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYmvH8IqHU1JzGw2FeggoY6QJdI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nikki Amuka-Bird</name>
+        <role>Diomika Tsing</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bbZouEqBH8lhldqYmnBxR7XxhlA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christina Cole</name>
+        <role>Gemma Chatterjee</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/lOcjHQgXg5rgM6zOr4k7SsMoABV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas A. Newman</name>
+        <role>Nesh</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ramon Tikaram</name>
+        <role>Phylo Percadium</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/wtBLiI8tzeqPLMB9uswkyFhChva.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ariyon Bakare</name>
+        <role>Greeghan</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/9M9tcUNydZaPkWUV99ZCTfQMre7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Doyle Kennedy</name>
+        <role>Aleksa</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/nK8DmGEgzGXIbyv3VyK6j7M0Gvw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frog Stone</name>
+        <role>Aunt Nino</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/AhM2ipi1gfuAyS8BA6XpYBVmJkX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Ajala</name>
+        <role>Ibis</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/iD0ztIXTm4fGKf5IJ2PlngSbt0G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bae Doo-na</name>
+        <role>Razo</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/lCL08q20zkqHcLLLZQRlJfG09P4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gugu Mbatha-Raw</name>
+        <role>Famulus</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhdkaZSloWkdyjFkKbXPxp5QI1F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward Hogg</name>
+        <role>Chicanery Night</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/aOxjerJAT9ny9AHTUPu6kxWa1r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Pigott-Smith</name>
+        <role>Malidictes</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/37OZUY7cq8eoWxhKR2VD1ppusJM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James D&apos;Arcy</name>
+        <role>Maximilian Jones</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/m2yEhWXGpxUC9aBFLfJQFEnt0yn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Swift</name>
+        <role>Vasilliy Bolodnikov</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kick Gurry</name>
+        <role>Vladie</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/9TpkarnJkjPE154tveWWeQWBpGN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Larissa Kouznetsova</name>
+        <role>Irina</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/dgAd5V8MrMQDuF9DJ4ktKs1fchW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Demetri Theodorou</name>
+        <role>Moltka</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lieve Carchon</name>
+        <role>Lyudmila</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Oleg Nasobin</name>
+        <role>Zeno</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/5VrhW8KEIADtZXCGVN3Hgjd3XAi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Renée</name>
+        <role>Mikka</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/itJ7BicCmipfwvqZhnQbQ1FJ0Qx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Kirby</name>
+        <role>Katharine Dunlevy</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/a8a9U00KL2JJkkekzhNnueIGKKF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spencer Wilding</name>
+        <role>Falque</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/uF8steIdtweWGf4IvoXWhrafIk6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Ahrens</name>
+        <role>Dante Rothemere</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/rXpF9myu70UcKSQZ5YA46Bz1bbT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Beaumont</name>
+        <role>Kiza</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/5pOvpZeL1DTmKyWpSy6Z8YE0k6g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Georgia Winters</name>
+        <role>Handmaiden</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/mtNgyQvmaIZg4kKbAbaQEQ5sptn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elsa Mollien</name>
+        <role>Handmaiden</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/bocp1Bcf3wZLNJezr086ahKehZF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Baker</name>
+        <role>Doctor</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryony Hannah</name>
+        <role>Nurse Schultz</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/v47jr8GFBvWPs9SinMxKMWVEqDp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Campbell</name>
+        <role>Gynaecological Nurse</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/eTyqqLGYBaAiZYLac3m8Lgct7O9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jiggy Bhore</name>
+        <role>Anesthesiologist</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samuel Barnett</name>
+        <role>Advocate Bob</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/tKTbwAX2PQXih5QkBNBcFUd6MAZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claire Benedict</name>
+        <role>Bureaucrat</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/rA6s8NHuxZ4vKWHFUaXHQkOCouE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Yapp</name>
+        <role>Bureaucrat</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/ySr84zTgN7FYLWLrz2K6jztk4NF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Locke</name>
+        <role>Bureaucrat</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/KH6kgSH51nRacwsLfhCMTqumq6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Stimpson</name>
+        <role>Bureaucrat</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/zE9w4j39HSopWRonlYDkiSyrytX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Crowden</name>
+        <role>Bureaucrat</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/3mc7xMh0hGsHPuxCKjJtHQ7viYH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terry Gilliam</name>
+        <role>Seal and Signet Minister</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/dnI56oXeTBmNgj6ibnUqoHvmau6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rupert Frazer</name>
+        <role>Authentication Minister</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/u5Gns0q6jv2Jv9z1VWUG3A91Dze.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katherine Cunningham</name>
+        <role>Debutante</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/z9O8kEPRiIDh4lhC0GCryQXhmX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Neal</name>
+        <role>Royal guard</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Simon Dutton</name>
+        <role>Tskalikin</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/yikcuP53ahhgHgXCTegO7u0FFTN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neil Fingleton</name>
+        <role>Sargon / Greegan</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ouKgE4iRLpbU21hfoiMynQAlQ5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek Lea</name>
+        <role>Guard</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/fcI8XMeweX1PyGfoalemET40QAM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Walking</name>
+        <role>Keeper</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michela Meazza</name>
+        <role>Keeper</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/2ppPuxGANT6NgPoFtzwdpPIdH9c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cliff Fleming</name>
+        <role>Pilot</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/20Wp9UrwBR8KUU16gBpM2p0DQO6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hazel D&apos;Jan</name>
+        <role>Shiro Miku</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/pUtYET8QADyK47dyCvzOJOOxige.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jozef Aoki</name>
+        <role>Commonwealth</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kara Lily Hayworth</name>
+        <role>Titus Handmaiden</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Symara A. Templeman</name>
+        <role>Aegis Crew</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Browning Johnson</name>
+        <role>Chicago Pedestrian (uncredited)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/qgR04MeuUI9KObTn7elCJ626ef1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elina Alminas</name>
+        <role>Robot Servant (uncredited)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/gblJEM8QEESmsHJ20m3UcFAWi6m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen Anderson</name>
+        <role>Droid (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dilyana Bouklieva</name>
+        <role>Test Subject (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sharon Coleman</name>
+        <role>Pedistrian (uncredited)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/1pCfq6ocwih56mQEB72gvLMQmiz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Connolly</name>
+        <role>Trigger (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/h9QAyc5esNHzn2lWUvLozD1LAnx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamela D&apos;Amico</name>
+        <role>Plinth (uncredited)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/vEywEggnbXkYTH0iXAgK8bRMkt8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rimmel Daniel</name>
+        <role>Royal Guard (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Domino</name>
+        <role>Pedestrian (uncredited)</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/hjfhnichBBTXvWHptvgJ4xFcKSP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelvin Enwereobi</name>
+        <role>Royal Guard (uncredited)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Graeme Ford</name>
+        <role>Plother (uncredited)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas Gaitsch</name>
+        <role>Walker Dunlevy (uncredited)</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/rRmNpCk20tcdiCEGrcHE3dItqiw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Graham</name>
+        <role>Captain of the Aegis (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/wSiQRJuzo25jnU9OUHvUrEYtXdi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Ian</name>
+        <role>Zoe (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/btObxohldy5HQ2znlogtMVa0DYD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raiden Integra</name>
+        <role>Chicago Pedestrian (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Olia Klein</name>
+        <role>Russian Refugee (uncredited)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenny Knight</name>
+        <role>Test Subject (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/o23Emg1L3Dstu3GgvnifuLNvM2J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marion Mitchell</name>
+        <role>Captain of the Royal Guard (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vander McLeod</name>
+        <role>Kalique Gene Tech (uncredited)</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jon Norris</name>
+        <role>Servant (uncredited)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Norris</name>
+        <role>Servant (uncredited)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edd Osmond</name>
+        <role>Droid (uncredited)</role>
+        <order>77</order>
+        <thumb>https://image.tmdb.org/t/p/original/i5KBDy76ac0VAsK8ZKAjieX4RPE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jo Osmond</name>
+        <role>Droid (uncredited)</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/6cTye3OgvI2DCHwVNLqND1A9zQv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlotte Rickard</name>
+        <role>Synth Apini (uncredited)</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emelle Smith</name>
+        <role>Cyber beauty (uncredited)</role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/vBgLBsmhFcDat5D8UG6iGfRRXx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clem So</name>
+        <role>Kalique Coder (uncredited)</role>
+        <order>81</order>
+        <thumb>https://image.tmdb.org/t/p/original/xVu9ibcd3Kyu7uPlKy1huymmhQt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Spearman</name>
+        <role>Cyber Beauty (uncredited)</role>
+        <order>82</order>
+        <thumb>https://image.tmdb.org/t/p/original/7YUgpDUG0IKB7Ap6FkuWbvNXuVR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ekaterina Zalitko</name>
+        <role>Cyber Beauty (uncredited)</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/t7k9FPi3uwvqrGeNY1rBKreiRvp.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 21:34:53</dateadded>
+</movie>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Surrogate</title>
+    <originaltitle>The Sinister Surrogate</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.700000</value>
+            <votes>198</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>13</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Josh (Brian Ames) y Danielle (Kelly Thiebaud) creen haber encontrado a la persona adecuada para dar a luz a su hijo por medio de un vientre de alquiler. Pero cuando Kailee (Jaclyn Hales) da a luz a una hermosa niña, la feliz pareja aprende qué profundo y oscuro puede ser el amor de una madre.</plot>
+    <tagline></tagline>
+    <runtime>86</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rcbVgUBiPpqlmhi4RW5Jtl8vNKk.jpg">https://image.tmdb.org/t/p/original/rcbVgUBiPpqlmhi4RW5Jtl8vNKk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oyAo9oy0repK8G58oKL8MKzcQkO.jpg">https://image.tmdb.org/t/p/original/oyAo9oy0repK8G58oKL8MKzcQkO.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7qivAKdvnBGhXVHrFzK5V9dtt6O.jpg">https://image.tmdb.org/t/p/original/7qivAKdvnBGhXVHrFzK5V9dtt6O.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8046636</id>
+    <uniqueid type="imdb" default="true">tt8046636</uniqueid>
+    <uniqueid type="tmdb">553856</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Película de TV</genre>
+    <country>United States of America</country>
+    <credits>Adam Rockoff</credits>
+    <director>Dena Hysell-Cornejo</director>
+    <director>Isak Borg</director>
+    <premiered>2018-10-13</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5186</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>eac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Maeve Quinlan</name>
+        <role>Carol Morrison</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/7JAJKGDXFYxGitCSAPiGa3r4gpT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Thiebaud</name>
+        <role>Danielle</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sZPcPhEhCi0dmCyzMmrIFeEmAON.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Meskimen</name>
+        <role>Dr. Key</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/913aYSudoetrtOIA8tZPjOj9dTo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brooke Newton</name>
+        <role>Brady</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/veQZA8RA2FSm5Dlix72ZpTHs1ua.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kit Williamson</name>
+        <role>Tyler</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/dpsgs7ud2GVnirNSSSIXyeA0hJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaclyn Hales</name>
+        <role>Kailee</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uQsYQXJ0qgpqAxceZLek6iAqKdy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Beth Evans</name>
+        <role>Dr. Jorgensen</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Ames</name>
+        <role>Josh</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/xbwAKe9sEQPJtZb5A6EuiUrB8rM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John J. York</name>
+        <role>Detective Logan</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nancy Nave</name>
+        <role>Nurse Voss</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/zvCm6rqLLMpucBEFxyh3FaG0zlc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lola Blanc</name>
+        <role>Summer</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/vOkE7XMsTHOQt1U11StSHCQawVP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amaris Davidson</name>
+        <role>Doctor Peggs</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/lSi0GUPFBcZucGNEB04w7mzFkI3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney Nichole</name>
+        <role>Nurse Blaylock</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adrian Avila</name>
+        <role>Thug</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:01:31</dateadded>
+</movie>

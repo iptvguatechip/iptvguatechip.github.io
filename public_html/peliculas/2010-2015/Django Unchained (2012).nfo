@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Django sin cadenas</title>
+    <originaltitle>Django Unchained</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.400000</value>
+            <votes>1331486</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.100000</value>
+            <votes>19353</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En Texas, dos años antes de estallar la Guerra Civil Americana, King Schultz (Christoph Waltz), un cazarrecompensas alemán que sigue la pista a unos asesinos para cobrar por sus cabezas, le promete al esclavo negro Django (Jamie Foxx) dejarlo en libertad si le ayuda a atraparlos. Él acepta, pues luego quiere ir a buscar a su esposa Broomhilda (Kerry Washington), esclava en una plantación del terrateniente Calvin Candie (Leonardo DiCaprio).</plot>
+    <tagline>Life, liberty and the pursuit of vengeance.</tagline>
+    <runtime>165</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/naaYX64yMGzEFsATOFQDaxxQWbJ.jpg">https://image.tmdb.org/t/p/original/naaYX64yMGzEFsATOFQDaxxQWbJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aXWhjLZcJhglz05Ok5hWybYoSXu.jpg">https://image.tmdb.org/t/p/original/aXWhjLZcJhglz05Ok5hWybYoSXu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg">https://image.tmdb.org/t/p/original/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nXZdtWW7djv2eytNXhVJkl6Cu7U.jpg">https://image.tmdb.org/t/p/original/nXZdtWW7djv2eytNXhVJkl6Cu7U.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jRBtCNvzjvwJmO2kbcDCKd6F5f4.jpg">https://image.tmdb.org/t/p/original/jRBtCNvzjvwJmO2kbcDCKd6F5f4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hQoNUjkAOMOr66J21x3ovGEJPGx.jpg">https://image.tmdb.org/t/p/original/hQoNUjkAOMOr66J21x3ovGEJPGx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/siZyd3RUzEjIDrhmF1MZmrGNwop.jpg">https://image.tmdb.org/t/p/original/siZyd3RUzEjIDrhmF1MZmrGNwop.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg">https://image.tmdb.org/t/p/original/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uILtAJQpVB2wiaEgEofEEWgKW0w.jpg">https://image.tmdb.org/t/p/original/uILtAJQpVB2wiaEgEofEEWgKW0w.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5UsiLd9aoenylYEnBFq8J1RqXY2.jpg">https://image.tmdb.org/t/p/original/5UsiLd9aoenylYEnBFq8J1RqXY2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4E4TTsCXVFyhBtYu9fKy0gIT3Ih.jpg">https://image.tmdb.org/t/p/original/4E4TTsCXVFyhBtYu9fKy0gIT3Ih.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/72lbi9vD8ihfeOJTOPnQajVH9DM.jpg">https://image.tmdb.org/t/p/original/72lbi9vD8ihfeOJTOPnQajVH9DM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6aypDs28fsRZmjvTM8orV6d6nK1.jpg">https://image.tmdb.org/t/p/original/6aypDs28fsRZmjvTM8orV6d6nK1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aWdrrXWWejwXFEqiPR1kuK4WvIS.jpg">https://image.tmdb.org/t/p/original/aWdrrXWWejwXFEqiPR1kuK4WvIS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jmHnjDWuiyZUSKjbK6rOFyDWEKT.jpg">https://image.tmdb.org/t/p/original/jmHnjDWuiyZUSKjbK6rOFyDWEKT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xudwJ47Rc8CRtr8jUSfP6QNnI8n.jpg">https://image.tmdb.org/t/p/original/xudwJ47Rc8CRtr8jUSfP6QNnI8n.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5ZN7FlxWFavs31D3nOuQZhLPiZC.jpg">https://image.tmdb.org/t/p/original/5ZN7FlxWFavs31D3nOuQZhLPiZC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vCYisOO87gJx3GI0wjohgWWYDz.jpg">https://image.tmdb.org/t/p/original/vCYisOO87gJx3GI0wjohgWWYDz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y69ZNz2FgtcBqQYekSEbllCLFVs.jpg">https://image.tmdb.org/t/p/original/y69ZNz2FgtcBqQYekSEbllCLFVs.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lVcI3MOtumvEbOdS1Og7QoV6Lfc.jpg">https://image.tmdb.org/t/p/original/lVcI3MOtumvEbOdS1Og7QoV6Lfc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/s4cJQaj40SwMifUrrdtdOJsjnRO.jpg">https://image.tmdb.org/t/p/original/s4cJQaj40SwMifUrrdtdOJsjnRO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ot8Y8XmIjTvoT2Hq7QFlaJuZ8hO.jpg">https://image.tmdb.org/t/p/original/ot8Y8XmIjTvoT2Hq7QFlaJuZ8hO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ltkWGokEIToUYyoUqc6PBI1kHPx.jpg">https://image.tmdb.org/t/p/original/ltkWGokEIToUYyoUqc6PBI1kHPx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg">https://image.tmdb.org/t/p/original/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yLr2uJ6SYXlbzADsfzg01uD7Asu.jpg">https://image.tmdb.org/t/p/original/yLr2uJ6SYXlbzADsfzg01uD7Asu.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1853728</id>
+    <uniqueid type="imdb" default="true">tt1853728</uniqueid>
+    <uniqueid type="tmdb">68718</uniqueid>
+    <genre>Drama</genre>
+    <genre>Western</genre>
+    <country>United States of America</country>
+    <credits>Quentin Tarantino</credits>
+    <director>Quentin Tarantino</director>
+    <premiered>2012-12-25</premiered>
+    <year>2012</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>The Weinstein Company</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qe7ceDkK_oY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>9922</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jamie Foxx</name>
+        <role>Django Freeman</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/hPwCMEq6jLAidsXAX5BfoYgIfg2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christoph Waltz</name>
+        <role>Dr. King Schultz</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Hhztd4mUEV9Y25rfkXDwzL9QI9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonardo DiCaprio</name>
+        <role>Calvin J. Candie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kerry Washington</name>
+        <role>Broomhilda von Shaft</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/u6zfZGHabfSGIHDwbO7aI5Qg37L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samuel L. Jackson</name>
+        <role>Stephen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXN4Gw9tZJVKrLJHde2IcUHmV3P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walton Goggins</name>
+        <role>Billy Crash</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WAXNCOo66vBnSi396Eh2IQUsG6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dennis Christopher</name>
+        <role>Leonide Moguy</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/izYfd86mlERW5EtyNna4aKMXKOW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Remar</name>
+        <role>Butch Pooch / Ace Speck</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/kSRfynHJO2VVFyzT4tsoTPwfHKL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Steen</name>
+        <role>Mr. Stonesipher</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/frsLHFlVY6UVwh0ux4vrqHixO5C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dana Gourrier</name>
+        <role>Cora</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/fY2EicFwLXSnZUTg9dyeUBQGBFt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nichole Galicia</name>
+        <role>Sheba</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laura Cayouette</name>
+        <role>Lara Lee Candie-Fitzwilly</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ato Essandoh</name>
+        <role>D&apos;Artagnan</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kkQFtsIxVUMuYDrVGeRfX2IG2F8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sammi Rotibi</name>
+        <role>Rodney</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clay Donahue Fontenot</name>
+        <role>Big Fred&apos;s Opponent</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/qipU9rM8SyqXDC7mTsynN2f8ze2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Escalante Lundy</name>
+        <role>Big Fred</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miriam F. Glover</name>
+        <role>Betina</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Johnson</name>
+        <role>Spencer &quot;Big Daddy&quot; Bennett</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/ipxE8W5sLJ8K4R9cLKgpZqygKyV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Franco Nero</name>
+        <role>Amerigo Vessepi</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/lwXfTQrFqAw4zcVjrhgq3THfWCg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Russo</name>
+        <role>Dicky Speck</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Wopat</name>
+        <role>U.S. Marshall Gill Tatum</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/wJXXcZe7XCQt1UVzb0W6gLtLR0x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Stroud</name>
+        <role>Sheriff Bill Sharp</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/vHUcVL9KLtjDv8iYsGBNPefDK8e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Tamblyn</name>
+        <role>Daughter of a Son of a Gunfighter</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/wQnqGLRnvBF3ZWFDXK7JaFvf7ie.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Dern</name>
+        <role>Old Man Carrucan</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/or8f1huzZ6sYQfjUgpWKUjx0Xow.jpg</thumb>
+    </actor>
+    <actor>
+        <name>M.C. Gainey</name>
+        <role>Big John Brittle</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/nM82se0lOFbOhhj3J6tRFcdEydO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cooper Huckabee</name>
+        <role>Lil Raj Brittle</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/1DCSpLiEjUDkIX7h1m8C6XoDUfg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doc Duhame</name>
+        <role>Ellis Brittle</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/kfD8oQ1idxwUFeeJGMiAcLEL3VN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonah Hill</name>
+        <role>Bag Head #2</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/cymlWttB83MsAGR2EkTgANtjeRH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Horsley</name>
+        <role>Sheriff Gus (Snowy Snow)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/bliuL03dvetypbV75E0sP0XZ9uE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoë Bell</name>
+        <role>Tracker</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Bowen</name>
+        <role>Tracker</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/vRksdXlhcjOMFRD3szytf74am1f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Carradine</name>
+        <role>Tracker</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/kQrhmy4WKxFP8Zz8H3CUosHrhPp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Garber</name>
+        <role>Tracker</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Neeley</name>
+        <role>Tracker</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/n0Qc1tHSdUtiH1TYkjCK3Ou86V9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Parks</name>
+        <role>Tracker</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/5ZunnUnhjT1FeKf0j7ONog30fis.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Savini</name>
+        <role>Tracker</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/2eUw64Wi0beunf9GpaITUe4fp4q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Parks</name>
+        <role>The LeQuint Dickey Mining Co. Employee</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/sXK8vnVNyYzJl2oE6lxKLtxG9px.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Jarratt</name>
+        <role>The Le Quint Dickey Mining Co. Employee</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/o6aqaluNv2MrMz8ZGXDOVM31Uu3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Quentin Tarantino</name>
+        <role>The LeQuint Dickey Mining Co. Employee</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amari Cheatom</name>
+        <role>Roy</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/kjATtRhdfNTSNBKk6SSLj56JZFC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keith Jefferson</name>
+        <role>Pudgy Ralph</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/sgeLEldvPlTIogfriyoOJHmhH4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcus Henderson</name>
+        <role>Big Sid</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/vTevIy7GKjhmpoAhoayifnwqgn2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lil Chuuch</name>
+        <role>Slave on Chain Gang</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kinetic</name>
+        <role>Franklin</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louise Stratten</name>
+        <role>Daughtrey Saloon Girl</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kim Robillard</name>
+        <role>Saloon Keeper Pete</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shana Stein</name>
+        <role>Daughtrey Bitty</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shannon Hazlett</name>
+        <role>Daughtrey Saloon Girl</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Lucarelli</name>
+        <role>Daughtrey Rifleman</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria Thomas</name>
+        <role>Daughtrey Woman</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grace Collins</name>
+        <role>Grace Bennett</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sharon Pierre-Louis</name>
+        <role>Little Jody</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher Berry</name>
+        <role>Willard</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/8y2HybPVLxUabwnMPjdBREbitKZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Collins</name>
+        <role>Randy</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dane Rhodes</name>
+        <role>Tennessee Redfish</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/g3fJPCVvDzpfOI1QahakwSwEP0h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J.D. Evermore</name>
+        <role>O.D.</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/bTLrDTIj9DNnYP8afZXPTo31CJA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rex Linn</name>
+        <role>Tennessee Harry</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Bacall</name>
+        <role>Smitty Bacall</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/7KfRp9Amz76Q7w1UVrNdYgL5NMg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ronan Hice</name>
+        <role></role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ned Bellamy</name>
+        <role>Wilson</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/uTVy2aJkcLTYxPwLt8dpYxsEZul.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Coennen</name>
+        <role>Mr. Eigglesworth</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danièle Watts</name>
+        <role>Coco</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/wvFZBBjNTSXEVhpKZVe0eZI1q9y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Eyez</name>
+        <role></role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Omar J. Dorsey</name>
+        <role>Chicken Charlie</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/hzHqgqlY2ZqZc1ZHUxEb5dencJI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Parke</name>
+        <role>Baghead</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/hg0bSMu1S28t7VLH9jZfZdcVnax.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Stark</name>
+        <role>Tommy Gilles</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/usu0mET7fq7uXt8MgtHtAD9eyxX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Brown</name>
+        <role>Hoot Peters</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ritchie Montgomery</name>
+        <role>Overseer Johnny Jerome</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/7uFcdrc6pzhxjdy4fFL8xIEopqZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Dashnaw</name>
+        <role>Baghead</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jarrod Bunch</name>
+        <role>Banjo</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edrick Browne</name>
+        <role>Joshua</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerry Sims</name>
+        <role></role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jamal Duff</name>
+        <role>Tatum</role>
+        <order>73</order>
+        <thumb>https://image.tmdb.org/t/p/original/dvfiLVDeE2N79ZeU29htU4xyYfl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Allen</name>
+        <role>Dollar Bill</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/xrbPXMUUwVft8NlwavDMxWkfVqW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lewis Smith</name>
+        <role>Jinglebells Cody</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Keniaryn Mitchell</name>
+        <role></role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jakel Marshall</name>
+        <role>House Servant</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carl Singleton</name>
+        <role>Carl / House Servant</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ashley Toman</name>
+        <role></role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John McConnell</name>
+        <role></role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/gAHxNx9PhT2xVqct6ac61tKFabT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Amos</name>
+        <role>Beard Man (uncredited)</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Monica Rene&apos;e Anderson</name>
+        <role>House Servant (uncredited)</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marsha Stephanie Blake</name>
+        <role>House Slave (uncredited)</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/rmt9fiHA9i0A3pFuguhtODdXFIH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catherine Lambert</name>
+        <role>House Slave (uncredited)</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deborah Ayorinde</name>
+        <role>Cleopatra Pony (uncredited)</role>
+        <order>85</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Takara Clark</name>
+        <role>Pony (uncredited)</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kimberley Drummond</name>
+        <role>Pony (uncredited)</role>
+        <order>87</order>
+        <thumb>https://image.tmdb.org/t/p/original/4yP8MOtfT1Uu17ZsDVb6lGALrnC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tenaj L. Jackson</name>
+        <role>Pony (uncredited)</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carl Bailey</name>
+        <role>Mandingo Overseer (uncredited)</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ross P. Cook</name>
+        <role>Overseer (uncredited)</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/ivHVd8TncXibs39wqyQXMivblaB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gregory Allen Gabroy</name>
+        <role>Overseer (uncredited)</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gene Kevin Hames Jr.</name>
+        <role>Overseer (uncredited)</role>
+        <order>92</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seth Bailey</name>
+        <role>Daughtrey Rifleman (uncredited)</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David G. Baker</name>
+        <role>Slave Master (uncredited)</role>
+        <order>94</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richie J. Ladner</name>
+        <role>Slave Master (uncredited)</role>
+        <order>95</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Glen Warner</name>
+        <role>Slave Overseer (uncredited)</role>
+        <order>96</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kesha Bullard</name>
+        <role>Crazy Sadie (uncredited)</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward J. Clare</name>
+        <role>Plantation Owner (uncredited)</role>
+        <order>98</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jordon Michael Corbin</name>
+        <role>Samson (uncredited)</role>
+        <order>99</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike DeMille</name>
+        <role>Cowboy (uncredited)</role>
+        <order>100</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Grubbs</name>
+        <role>Bob Gibbs (uncredited)</role>
+        <order>102</order>
+        <thumb>https://image.tmdb.org/t/p/original/uXJG4skJTElTQ5BJ9pkJjzfKIDv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Hall</name>
+        <role>Goat Farmer (uncredited)</role>
+        <order>103</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jacquelyn Twodat Jackson</name>
+        <role>Towns person (uncredited)</role>
+        <order>104</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sandra Linz</name>
+        <role>Town Woman (uncredited)</role>
+        <order>105</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kasey James</name>
+        <role>Mule Wrangler (uncredited)</role>
+        <order>106</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Skipper Landry</name>
+        <role>Cleo Master (uncredited)</role>
+        <order>107</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elton LeBlanc</name>
+        <role>Cleo Club Patron / Polly Wolly Singer (uncredited)</role>
+        <order>108</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cindy Mah</name>
+        <role>Chinese Boy (uncredited)</role>
+        <order>109</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Johnny Otto</name>
+        <role>Dr. Brown (uncredited)</role>
+        <order>110</order>
+        <thumb>https://image.tmdb.org/t/p/original/i5LOfr6GLH6hvBdCoMyKY457IQZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Belinda Owino</name>
+        <role>Candyland House Servant (uncredited)</role>
+        <order>111</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Ulano</name>
+        <role>Gabby the Banker (uncredited)</role>
+        <order>113</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Misty Upham</name>
+        <role>Minnie (uncredited)</role>
+        <order>114</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Russ Tamblyn</name>
+        <role>Son of a Gunfighter</role>
+        <order>115</order>
+        <thumb>https://image.tmdb.org/t/p/original/sks5yKFl1ETfvvXAgiwbHjL8p22.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-10 14:07:45</dateadded>
+</movie>

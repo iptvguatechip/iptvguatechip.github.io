@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El abogado del mal</title>
+    <originaltitle>The Whole Truth</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>23335</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>710</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un abogado defensor trabaja para que su cliente adolescente sea absuelto de asesinar a su padre rico.</plot>
+    <tagline>¿Juras solemnemente?</tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ipdtw7T0aqxfh4SEs4LoJtpNfdj.jpg">https://image.tmdb.org/t/p/original/ipdtw7T0aqxfh4SEs4LoJtpNfdj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zGU1A6H4RbgGxjSjqAhb92hCSp9.jpg">https://image.tmdb.org/t/p/original/zGU1A6H4RbgGxjSjqAhb92hCSp9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lHrHkwJ1x1BHELveKKs9jqLMAY8.jpg">https://image.tmdb.org/t/p/original/lHrHkwJ1x1BHELveKKs9jqLMAY8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iL3Bx4YOqYdAMlx4czLyygA09MC.jpg">https://image.tmdb.org/t/p/original/iL3Bx4YOqYdAMlx4czLyygA09MC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kpTe6IbusHoNdatgexobpqWRzqv.jpg">https://image.tmdb.org/t/p/original/kpTe6IbusHoNdatgexobpqWRzqv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6y59ZMftziYZ41VAiOrpB8phZz0.jpg">https://image.tmdb.org/t/p/original/6y59ZMftziYZ41VAiOrpB8phZz0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hfcblpb52F1rqVGQGpNeLsL6bfN.jpg">https://image.tmdb.org/t/p/original/hfcblpb52F1rqVGQGpNeLsL6bfN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j4lwWmioqfRElubhPfAVndmwhoI.jpg">https://image.tmdb.org/t/p/original/j4lwWmioqfRElubhPfAVndmwhoI.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3503406</id>
+    <uniqueid type="imdb" default="true">tt3503406</uniqueid>
+    <uniqueid type="tmdb">331583</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Nicholas Kazan</credits>
+    <director>Courtney Hunt</director>
+    <premiered>2016-03-25</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Atlas Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XZj7DFQEWwo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>5613</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Keanu Reeves</name>
+        <role>Richard Ramsey</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rRdru6REr9i3WIHv2mntpcgxnoY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Renée Zellweger</name>
+        <role>Loretta Lassiter</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6aSRq8LBE7FULueg9K5JEA3GLTy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gugu Mbatha-Raw</name>
+        <role>Janelle</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhdkaZSloWkdyjFkKbXPxp5QI1F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Basso</name>
+        <role>Mike Lassiter</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qehEpxAtYkOskgAs6GJiuYiAZMj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Belushi</name>
+        <role>Boone Lassiter</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/wIvFYH110ER7ukwR0qryQJJDQYH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Bridgers</name>
+        <role>Arthur Westin</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/lG8vV5g49RML5WkaN6Mb3GnLgge.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Berry</name>
+        <role>Jack Legrand</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8y2HybPVLxUabwnMPjdBREbitKZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ritchie Montgomery</name>
+        <role>Judge Robichaux</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/7uFcdrc6pzhxjdy4fFL8xIEopqZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Klock</name>
+        <role>Leblanc</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/8dAUT0ZV9DpRTOlB3yDIYpFo0tD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicole Barré</name>
+        <role>Angela Morley</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/vy61iMo8cNWsBBFbRLnCdXp6Dej.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Kirkpatrick</name>
+        <role>Detective Graves</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/vketB9Udug89v6aEV9fV40BhU5v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackie Tuttle</name>
+        <role>Trixie Westin</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mattie Liptak</name>
+        <role>Alex Westin</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Grego</name>
+        <role>Young Mike</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lara Grice</name>
+        <role>Juror #3</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/mtR3ZcrjQF7zNTG0K2SEhrKHGlm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucky Johnson</name>
+        <role>Limo Driver</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lyndsay Kimball</name>
+        <role>Office Steed</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/bgGOv4E1xEz7vTExBrzZhwixYUN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Francis Murphy</name>
+        <role>Crime Tech</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/w5PH8cT1qu4e5RSPznkjNtnMn6d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dana Gourrier</name>
+        <role>Courthouse Employee</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/fY2EicFwLXSnZUTg9dyeUBQGBFt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samantha Beaulieu</name>
+        <role>Court Clerk</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/9jlx69X3jVWPc0HUuN4kakV3dZh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wes Cannon</name>
+        <role>Van Driver</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Grays</name>
+        <role>Guard</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Barry Smith</name>
+        <role>Bailiff</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Larry McGhee</name>
+        <role>Bailiff #2</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/w7fxEH2KRMjD4sn0y5MVf6YcWW2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chauntrell Shelby</name>
+        <role>Bailiff #3</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mac Alsfeld</name>
+        <role>Mac</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jerome Andries</name>
+        <role>Lawyer</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Angerdina</name>
+        <role>Courtroom Spectator</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael D. Anglin</name>
+        <role>Courtroom Spectator</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/4U35JjpQ3zzLPhP9s8M0QkjlTWw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John L. Armijo</name>
+        <role>Assistant Prosecutor</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jon Arthur</name>
+        <role>Richard Ramsey&apos;s Best Friend</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/l4v7HMpzlfEgFWuXD05JlGL7FgQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nazeema Bartek</name>
+        <role>Office Staff</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Beck</name>
+        <role>Bar Patron</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tearyn Belanger</name>
+        <role>Juror</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jodi Lyn Brockton</name>
+        <role>Waitress</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kina Dach&apos;e Bullock</name>
+        <role>Court Attendee</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle DeVito</name>
+        <role>Bywater Resident</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Geraldine Glenn</name>
+        <role>Juror #12</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Genevieve Grogan</name>
+        <role>Attractive Woman #2</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sadarias Harrell</name>
+        <role>Cafe Parton</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/jpA9eFTaQhmFgTFBKD7rgGCU9aW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamika Shanell Johnson</name>
+        <role>Courtroom Reporter</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patrick Kearns</name>
+        <role>Poolside Guest</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John C. Klein</name>
+        <role>St. Bernard Parish Deputy</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susie Labry</name>
+        <role>Juror</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jamara Laster</name>
+        <role>Sheriff Deputy - Baptiste</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cynthia LeBlanc</name>
+        <role>Juror #8</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elton LeBlanc</name>
+        <role>Courtroom Spectator</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Lebrun</name>
+        <role>Poolside Guest</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tracy B. Mann</name>
+        <role>Lawyer</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Everett Nichols</name>
+        <role>News Camera Man</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lisa Raziano</name>
+        <role>Juror</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gus Rhodes</name>
+        <role>Courtoom Observer</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/nR0MzbdT2cENeA3XIMT53f2yNOX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maritta Viola Sattelmaier</name>
+        <role>Attractive Woman #1</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carl Singleton</name>
+        <role>Juror #2</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Walker</name>
+        <role>Trial Spectator</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesse Yarborough</name>
+        <role>Sheriff Deputy - Robbins</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 12:39:56</dateadded>
+</movie>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Los Duros</title>
+    <originaltitle>The Hard Corps</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.200000</value>
+            <votes>5651</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.000000</value>
+            <votes>80</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Patrick Sauvage (Jean-Claude Van Damme) es un ex-combatiente que formaba parte del las fuerzas especiales en la Tormenta del Desierto, combatiendo en Afganistán e Irak. Tras volver a su país es contratado para ser uno de los guardaespaldas de un ex-campeón de los pesos pesados (Razaaq Adoti) que tiene numerosos problemas con un peligroso magnate del Hip-hop (Viv Leacock). Sauvage crea entonces un grupo de veteranos de combate para proteger al boxeador y a su familia, pero todo se complica cuando la hermana del peso pesado (Vivica A. Fox) se enamora de su protector...</plot>
+    <tagline></tagline>
+    <runtime>110</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jrFtbuUMDMnJtlSVg5DWHFhMMGp.jpg">https://image.tmdb.org/t/p/original/jrFtbuUMDMnJtlSVg5DWHFhMMGp.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m0oZM7q5iu3up55kgsJ0YJLKNBY.jpg">https://image.tmdb.org/t/p/original/m0oZM7q5iu3up55kgsJ0YJLKNBY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9d9nPmiFcRzXtlowF1Lzs5Yx7vL.jpg">https://image.tmdb.org/t/p/original/9d9nPmiFcRzXtlowF1Lzs5Yx7vL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fh6CG8ztFwHdcDcTB4IXtGyyBNB.jpg">https://image.tmdb.org/t/p/original/fh6CG8ztFwHdcDcTB4IXtGyyBNB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3IiWbT6rSIKpUuu61sPF8fogCz8.jpg">https://image.tmdb.org/t/p/original/3IiWbT6rSIKpUuu61sPF8fogCz8.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0462329</id>
+    <uniqueid type="imdb" default="true">tt0462329</uniqueid>
+    <uniqueid type="tmdb">9924</uniqueid>
+    <genre>Acción</genre>
+    <country>Romania</country>
+    <credits>Sheldon Lettich</credits>
+    <credits>George Saunders</credits>
+    <director>Sheldon Lettich</director>
+    <premiered>2006-08-15</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Clubdeal</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>6626</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jean-Claude Van Damme</name>
+        <role>Phillippe Sauvage</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qAHXPJ4IybMsCbNY3811CytFj3H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Razaaq Adoti</name>
+        <role>Wayne Barclay</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bgN6Q0sMzAVLXvsU0CWFN8R42dG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vivica A. Fox</name>
+        <role>Tamara Barclay</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pAHM3Mc1RrWc7fkwheuU3RAezKY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Bryant</name>
+        <role>Kendall Mullins</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/enc6Lz5tsntLpWGjbzMgOk1DHvv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Bottitta</name>
+        <role>Detective Teague</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/bIsQLTqTZhIdm5T1FfgJs4EIkjx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Viv Leacock</name>
+        <role>Terrell Singletery</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zRskxRKD22lbFLiXWKexy4idqZm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Holmes</name>
+        <role>Cujo</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8gfuxasIm5nPx0FccAJQ6JaYxcy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Griffin</name>
+        <role>Casey Bledsoe</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/yBGweCvu8ITsb7rTRsjnRP45nJg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Selmour</name>
+        <role>Simcoe</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/oFzhEgQdd7Ch1gvXhGKc1seYtak.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Au</name>
+        <role>Kim</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/7275NWfMoWCT63D53WYaxhD4In0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dexter Bell</name>
+        <role>High Dog</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/kAwa1CrvqdfN6Wz0DAexcpxgm9h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Christopher</name>
+        <role>Clarence Bowden</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/uRb7mfoCyyTjLkrfZEDTPQ742x9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nneka Croal</name>
+        <role>Jessie Otero</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sharon Amos</name>
+        <role>Lydia</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doron Bell</name>
+        <role>Leonard</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/7KEWS9XUIJTjoiB53fAAixQ6bN8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Mubanda</name>
+        <role>Demar</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/pYgJJlSQ44uQjZrRXkZT8RfCc0W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandi Alexander</name>
+        <role>Cynthia</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/qyU3MZl0YpcUUEklXUI1PQ28cT5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Allan</name>
+        <role>Mayor</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brenda Crichlow</name>
+        <role>Newscaster #1</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/2zdDHbJaTdNDTQQowVSsR3qb751.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chad Riley</name>
+        <role>Autograph Hound</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/1dJSVtszivye5DcHdRfjlA0STlP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Craven</name>
+        <role>Reporter at RC</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/qIVmAk1zbZtWzV1vSkKn6tp1WkX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Humphreys</name>
+        <role>Cop</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Ndukwe</name>
+        <role>D.J.</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tegan Summer</name>
+        <role>Jones</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Pike Daniel</name>
+        <role>Detective Cole</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/hiyEX3uFJWXtFH7kDp80Gm5vlnH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randi Lynne</name>
+        <role>Nurse</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/tM9G2PFCivJYvx6wGblAjg54eeB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Barondes</name>
+        <role>Newscaster #2</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/8vYYbmoKkntMU36X5JTeGVTedTs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Robert Young</name>
+        <role>Prison Reporter</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fraser Aitcheson</name>
+        <role>Crash Banger #2</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/j0fou5tZvXHe3GcVr24UnYQLg6S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ed Anders</name>
+        <role>Parked Car Driver</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dean Redman</name>
+        <role>Drive By Passenger</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/8BpwDpWAQ6TQsX0TAfpqWsi5JPU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edson T. Ribeiro</name>
+        <role>Body Guard #1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hugo Steele</name>
+        <role>Body Guard #2</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/eDIIC6LxptTxx7CDCGEI8DYO0T4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimani Ray Smith</name>
+        <role>Minion #1</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/noJWtfWG21LffJ27YJl4hhuGy13.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Europe</name>
+        <role>Minion #2</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/jdIx1MXtO9OdjvSgIOZwXb4sFRf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Antonakos</name>
+        <role>Dancer (uncredited)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/gbZJhDTupq1rXRFpZwT2kRqN1tB.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-01 20:49:02</dateadded>
+</movie>

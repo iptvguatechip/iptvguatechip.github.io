@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>4x4</title>
+    <originaltitle>4x4</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>1069</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>37</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una lujosa camioneta 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra en ella para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los vidrios tampoco; el vehículo es como un bunker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</plot>
+    <tagline>Welcome aboard</tagline>
+    <runtime>86</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wSbDA4bh5hIcLUakRVJUJfs5dWi.jpg">https://image.tmdb.org/t/p/original/wSbDA4bh5hIcLUakRVJUJfs5dWi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g0PZqEs4wBpUKwXCjQF3ZXAvQFR.jpg">https://image.tmdb.org/t/p/original/g0PZqEs4wBpUKwXCjQF3ZXAvQFR.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8561690</id>
+    <uniqueid type="imdb" default="true">tt8561690</uniqueid>
+    <uniqueid type="tmdb">575769</uniqueid>
+    <genre>Suspense</genre>
+    <country>Argentina</country>
+    <credits>Gastón Duprat</credits>
+    <credits>Mariano Cohn</credits>
+    <director>Mariano Cohn</director>
+    <premiered>2019-04-04</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Mediapro</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2ZAxzP4cfCI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1280</width>
+                <height>536</height>
+                <durationinseconds>5219</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Peter Lanzani</name>
+        <role>Ciro</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7JhPvWMCW3RUnRJrAClFB4oIxY9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dady Brieva</name>
+        <role>Doctor Ferrari</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ixp82EEsceFdcqb5yx6FBoxSIS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Brandoni</name>
+        <role></role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/r20lS8Kxagg8d1LomPzpmCYTNDy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noelia Castaño</name>
+        <role>Mujer Policía</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/37NxCbTi0pxUt6ymd0IERRWEKEp.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 19:37:42</dateadded>
+</movie>

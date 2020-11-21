@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Maze Runner: La cura mortal</title>
+    <originaltitle>Maze Runner: The Death Cure</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>108969</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>5191</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El joven héroe Thomas no puede confiar en la organización CRUEL, entonces con sus amigos se embarca en una misión para encontrar una cura para la enfermedad mortal conocida como La Llamarada.</plot>
+    <tagline>Todo laberinto tiene su final</tagline>
+    <runtime>143</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/wQ0l9sq0Bm6OAeqY4w6NWjP9jwS.jpg">https://image.tmdb.org/t/p/original/wQ0l9sq0Bm6OAeqY4w6NWjP9jwS.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9TzEraXQoy4Y3Ec5AcHaN9Rtb60.jpg">https://image.tmdb.org/t/p/original/9TzEraXQoy4Y3Ec5AcHaN9Rtb60.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/beR71cbwXH0vySlTMPZo0GQ54Q9.jpg">https://image.tmdb.org/t/p/original/beR71cbwXH0vySlTMPZo0GQ54Q9.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/5DDdMqEIoW9E4YsWFudUwhwXETU.jpg">https://image.tmdb.org/t/p/original/5DDdMqEIoW9E4YsWFudUwhwXETU.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/eFx042xT8Y2u8eXNyF2WbTegLMq.jpg">https://image.tmdb.org/t/p/original/eFx042xT8Y2u8eXNyF2WbTegLMq.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3EBLw9YIXsVggIf6CuklZ36QaLD.jpg">https://image.tmdb.org/t/p/original/3EBLw9YIXsVggIf6CuklZ36QaLD.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/oUuLnWCtV4o9O8xwRfkDW8UmGXo.jpg">https://image.tmdb.org/t/p/original/oUuLnWCtV4o9O8xwRfkDW8UmGXo.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/dG46eALQsie4utXSYyg0WAdWoOZ.jpg">https://image.tmdb.org/t/p/original/dG46eALQsie4utXSYyg0WAdWoOZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6baJvzgYDe7JoOdQlzdBwGVr7Hy.jpg">https://image.tmdb.org/t/p/original/6baJvzgYDe7JoOdQlzdBwGVr7Hy.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lG0RuVbAm5Y5D96Ae5ZeEJMJAh9.jpg">https://image.tmdb.org/t/p/original/lG0RuVbAm5Y5D96Ae5ZeEJMJAh9.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3veqFzzPqTD487mi5fsXTRQx8XG.jpg">https://image.tmdb.org/t/p/original/3veqFzzPqTD487mi5fsXTRQx8XG.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bCbM9QEdVHPVFAnkmEqtpl249r1.jpg">https://image.tmdb.org/t/p/original/bCbM9QEdVHPVFAnkmEqtpl249r1.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/te8ibHFhjwWXZTCtQIPRUFjxWX2.jpg">https://image.tmdb.org/t/p/original/te8ibHFhjwWXZTCtQIPRUFjxWX2.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/6My0TVRN0fXnmOoqbcFGBEiMSPJ.jpg">https://image.tmdb.org/t/p/original/6My0TVRN0fXnmOoqbcFGBEiMSPJ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/wpAECQsUCLPbBGn7IMiHkHqZ8l2.jpg">https://image.tmdb.org/t/p/original/wpAECQsUCLPbBGn7IMiHkHqZ8l2.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/eQ8iwAvGfuNnPjBCKTIVp5PsFw.jpg">https://image.tmdb.org/t/p/original/eQ8iwAvGfuNnPjBCKTIVp5PsFw.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/2UnjTuSL31s0WSFByv5oChpoSK8.jpg">https://image.tmdb.org/t/p/original/2UnjTuSL31s0WSFByv5oChpoSK8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/t0NJa8B0QiemnMNg6KkuDvS3Bh7.jpg">https://image.tmdb.org/t/p/original/t0NJa8B0QiemnMNg6KkuDvS3Bh7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/q2icKmDXoj8FSc2IZU3sOIB2EAG.jpg">https://image.tmdb.org/t/p/original/q2icKmDXoj8FSc2IZU3sOIB2EAG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d14LNm0JAr2CgMA1AQ0b3MmL7zy.jpg">https://image.tmdb.org/t/p/original/d14LNm0JAr2CgMA1AQ0b3MmL7zy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kuZOnvzplxPVh71t827F19zY5Ab.jpg">https://image.tmdb.org/t/p/original/kuZOnvzplxPVh71t827F19zY5Ab.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qpVQUSpPjMtl5IVDWHkPCatjdzL.jpg">https://image.tmdb.org/t/p/original/qpVQUSpPjMtl5IVDWHkPCatjdzL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg">https://image.tmdb.org/t/p/original/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg">https://image.tmdb.org/t/p/original/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sTfLRjtyzx2fCBK6Cn8JBAueSPL.jpg">https://image.tmdb.org/t/p/original/sTfLRjtyzx2fCBK6Cn8JBAueSPL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uXE3sLI7FRV39PTLZ4Oko2KCZEr.jpg">https://image.tmdb.org/t/p/original/uXE3sLI7FRV39PTLZ4Oko2KCZEr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gUqEiphtvjcdhXEavyva4sKG5ud.jpg">https://image.tmdb.org/t/p/original/gUqEiphtvjcdhXEavyva4sKG5ud.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2EBZeVp4I1UnH6pT78INflzMrtI.jpg">https://image.tmdb.org/t/p/original/2EBZeVp4I1UnH6pT78INflzMrtI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dwYlX0OjW7gWVSocmSnotjmTMRU.jpg">https://image.tmdb.org/t/p/original/dwYlX0OjW7gWVSocmSnotjmTMRU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dcu9b4NslYCtNOk60JmvD8VROwG.jpg">https://image.tmdb.org/t/p/original/dcu9b4NslYCtNOk60JmvD8VROwG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uqcM8v5lPwmjyIycp2RFgIhZDHV.jpg">https://image.tmdb.org/t/p/original/uqcM8v5lPwmjyIycp2RFgIhZDHV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mHFcLC0yiQ3fSnoJFYpiInMrxix.jpg">https://image.tmdb.org/t/p/original/mHFcLC0yiQ3fSnoJFYpiInMrxix.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wyB3J3jDM5Xljkf0LsNqUGuKxat.jpg">https://image.tmdb.org/t/p/original/wyB3J3jDM5Xljkf0LsNqUGuKxat.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ubSOC0DzuWEsXHQ6EANhWqX2FYA.jpg">https://image.tmdb.org/t/p/original/ubSOC0DzuWEsXHQ6EANhWqX2FYA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oYpF9Gs9rgrTtaX3zEVvhlFAMLn.jpg">https://image.tmdb.org/t/p/original/oYpF9Gs9rgrTtaX3zEVvhlFAMLn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eMvQTRYI42Lovr3RUop1kdVNyK4.jpg">https://image.tmdb.org/t/p/original/eMvQTRYI42Lovr3RUop1kdVNyK4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bvbyidkMaBls1LTaIWYY6UmYTaL.jpg">https://image.tmdb.org/t/p/original/bvbyidkMaBls1LTaIWYY6UmYTaL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rGZkErhzQyBaCrwQyRjRfrEM0EZ.jpg">https://image.tmdb.org/t/p/original/rGZkErhzQyBaCrwQyRjRfrEM0EZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zgcL0xaHxXVvrV1Fu1ZSKoTk0MH.jpg">https://image.tmdb.org/t/p/original/zgcL0xaHxXVvrV1Fu1ZSKoTk0MH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/42wGIEoRH8DxsKO5rbtqe5WYMeX.jpg">https://image.tmdb.org/t/p/original/42wGIEoRH8DxsKO5rbtqe5WYMeX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg">https://image.tmdb.org/t/p/original/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qGk7Ctv9BOi5McaOS3kmSjNstRP.jpg">https://image.tmdb.org/t/p/original/qGk7Ctv9BOi5McaOS3kmSjNstRP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q8juDmtat4jh3gvtj4X7WY1z4TZ.jpg">https://image.tmdb.org/t/p/original/q8juDmtat4jh3gvtj4X7WY1z4TZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1LuWw1m0UdHrhGSUCISAjxCbrO8.jpg">https://image.tmdb.org/t/p/original/1LuWw1m0UdHrhGSUCISAjxCbrO8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/256MeYrsk7IwPET2K0wfDVxEnOE.jpg">https://image.tmdb.org/t/p/original/256MeYrsk7IwPET2K0wfDVxEnOE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/emhzaXnNke9zk5O6qtrIDTW0col.jpg">https://image.tmdb.org/t/p/original/emhzaXnNke9zk5O6qtrIDTW0col.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6ZriPx3aKhnAXpQ50Ic5S8QOaih.jpg">https://image.tmdb.org/t/p/original/6ZriPx3aKhnAXpQ50Ic5S8QOaih.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4500922</id>
+    <uniqueid type="imdb" default="true">tt4500922</uniqueid>
+    <uniqueid type="tmdb">336843</uniqueid>
+    <genre>Acción</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Maze Runner - Colección</name>
+    </set>
+    <credits>T.S. Nowlin</credits>
+    <director>Wes Ball</director>
+    <premiered>2018-01-10</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Gotham Group</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZqlvJSNGfYA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>8632</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Dylan O&apos;Brien</name>
+        <role>Thomas</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gmU3f4aR6Bd8zkk6AiLm0dvWPaE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaya Scodelario</name>
+        <role>Teresa Agnes</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/uVp7VarM5GX08hfCEGt63OM5c5c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Brodie-Sangster</name>
+        <role>Newt</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sMw8Jh8m7O4u0Ige2Kqp3wM5vlZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ki Hong Lee</name>
+        <role>Minho</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/96zkB3e07LB1hw2segekZS1PlQb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosa Salazar</name>
+        <role>Brenda</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/hrU1Kg1SH03x0RRmWEzmnWEonuU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Giancarlo Esposito</name>
+        <role>Jorge</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gvPVjZRelOcbRryhsHQD7Vew35x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Poulter</name>
+        <role>Gally</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gbRgcFBUJ3e3CxubAv3Y5EVVare.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Lofland</name>
+        <role>Aris Jones</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ySPC4kcpxGxuV3HVcAXSmvh6Czn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia Clarkson</name>
+        <role>Ava Paige</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/rHHM9G83fpBAcFathbSyV4Tot5j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aidan Gillen</name>
+        <role>Janson</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/ju5ho6nnwOQ2QLGLnDP9yOZhGpb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walton Goggins</name>
+        <role>Lawrence</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WAXNCOo66vBnSi396Eh2IQUsG6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dexter Darden</name>
+        <role>Frypan</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/4Io5JOdl17GtCaXt0ZBv0p6IEEk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katherine McNamara</name>
+        <role>Sonya</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/o9orkhqhDdbxZoByAjj3YEHyqGS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathalie Emmanuel</name>
+        <role>Harriet</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/722FrTqERFzH7Sra9SLgr8CLqws.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Pepper</name>
+        <role>Vince</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/pmdNUqrpsoozh7QYqUgEgZQ69cA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Smith</name>
+        <role>Jasper</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jake Curran</name>
+        <role>WCKD Lieutenant</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/pC6ozticiOmovaPpwqKVOMhn0b9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Kriek</name>
+        <role>Co Conductor</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scot Cooper</name>
+        <role>Station Chief</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/weo8b0pB3iKi4uHlN6E710UnQ8K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazi Maubert</name>
+        <role>Immune Child</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bart Fouche</name>
+        <role>Engineer</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/f0NkS4MFQhoSn3z5Eyzve7yRtDi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Kriek</name>
+        <role>Co-Conductor</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/isdXPMMvrnHutuVjudqKULNWbnn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul du Toit</name>
+        <role>Berg Pilot</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Liza Scholtz</name>
+        <role>Nurse</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/cE6Xz4xxUyEMKO2xqeGNL5g5w7Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shai Lun Choo</name>
+        <role>Little Girl</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fiona Ramsay</name>
+        <role>Board Member</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Hampshire</name>
+        <role>Soldier</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/s2fZzuZ9CeJMUPG3Ik7uZVOjwlo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathan Barris</name>
+        <role>Soldier</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Drikus Volschenk</name>
+        <role>Team Leader</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clayton Evertson</name>
+        <role>WCKD Operator</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/2kp5998NZrsL1FxuZgy2IEYPe4V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Child</name>
+        <role>Infected Woman</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/bLTYY05wcQ9YyW3WUnoBo2qegO6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dale Jackson</name>
+        <role>Holding Area Guard</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Armando De Leca</name>
+        <role>WCKD Guard</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Lazenby</name>
+        <role>Guard (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/91tIFh3vNTOvclY20RVTC0slsmQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Parm Soor</name>
+        <role>Board Member (uncredited)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 08:02:20</dateadded>
+</movie>

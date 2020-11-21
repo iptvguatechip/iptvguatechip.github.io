@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Novicia</title>
+    <originaltitle>Novitiate</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>3791</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>103</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A mediados de los años 60, la joven de 17 años Cathleen, criada por una madre soltera no religiosa en una zona rural de Tennessee, decide ser una sierva de Dios, pero durante su noviciado comienza a cuestionar su fe católica mientras recibe la formación para convertirse en monja.</plot>
+    <tagline></tagline>
+    <runtime>123</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eZ9BbRy4YGFM1yvx6ZDO7qzILJ.jpg">https://image.tmdb.org/t/p/original/eZ9BbRy4YGFM1yvx6ZDO7qzILJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/44D1sofF19zPZDuzcprLNStqQJM.jpg">https://image.tmdb.org/t/p/original/44D1sofF19zPZDuzcprLNStqQJM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w9eTbyzlGoqoCueEPj3Yne1CdQZ.jpg">https://image.tmdb.org/t/p/original/w9eTbyzlGoqoCueEPj3Yne1CdQZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6eso1r1zjIfyoTAzrJXMctZNJCo.jpg">https://image.tmdb.org/t/p/original/6eso1r1zjIfyoTAzrJXMctZNJCo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6sjIxODILTErzhesefLhv2S5qdO.jpg">https://image.tmdb.org/t/p/original/6sjIxODILTErzhesefLhv2S5qdO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ziCXv5zVsn4Z1qoPu8xbW1yvDYp.jpg">https://image.tmdb.org/t/p/original/ziCXv5zVsn4Z1qoPu8xbW1yvDYp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gsKbQ6hlbo6VMH8GJN4wIrOVZMy.jpg">https://image.tmdb.org/t/p/original/gsKbQ6hlbo6VMH8GJN4wIrOVZMy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qRR272Jt4iqt3LQwa5FS5VuhurX.jpg">https://image.tmdb.org/t/p/original/qRR272Jt4iqt3LQwa5FS5VuhurX.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nHPqfS4a4IqBcrUzYeMeXz8mBYr.jpg">https://image.tmdb.org/t/p/original/nHPqfS4a4IqBcrUzYeMeXz8mBYr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i5nWoTdq6MGUd9Al675Jepj0DlE.jpg">https://image.tmdb.org/t/p/original/i5nWoTdq6MGUd9Al675Jepj0DlE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zx4qRIKrvi8gEdHwrduBGDZnp1b.jpg">https://image.tmdb.org/t/p/original/zx4qRIKrvi8gEdHwrduBGDZnp1b.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/stTOryjxZQWt5l0YrXoLWmTJ8Zb.jpg">https://image.tmdb.org/t/p/original/stTOryjxZQWt5l0YrXoLWmTJ8Zb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/laJhDaSmbwnkHzdp5IbcIT7kErb.jpg">https://image.tmdb.org/t/p/original/laJhDaSmbwnkHzdp5IbcIT7kErb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lp9NiSlskR1gYp3Levhi8zMrzc2.jpg">https://image.tmdb.org/t/p/original/lp9NiSlskR1gYp3Levhi8zMrzc2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AfrReKk1WVWAuDRHeMWX3m6TVZ0.jpg">https://image.tmdb.org/t/p/original/AfrReKk1WVWAuDRHeMWX3m6TVZ0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nKUM7nl7Ux00tVyfZZaMJ8iS4XH.jpg">https://image.tmdb.org/t/p/original/nKUM7nl7Ux00tVyfZZaMJ8iS4XH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/t4dvRGzjQrlLquZRpXa7PIj2Vg3.jpg">https://image.tmdb.org/t/p/original/t4dvRGzjQrlLquZRpXa7PIj2Vg3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ApkNsvfhEdUssFGJQUz7MFn0rFo.jpg">https://image.tmdb.org/t/p/original/ApkNsvfhEdUssFGJQUz7MFn0rFo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nO5mZScQYRAKXaAhCIRDmUMNMKQ.jpg">https://image.tmdb.org/t/p/original/nO5mZScQYRAKXaAhCIRDmUMNMKQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1b3cs5S36150wsmjN82PlUiFcHf.jpg">https://image.tmdb.org/t/p/original/1b3cs5S36150wsmjN82PlUiFcHf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8HSCLY18U4D1gxRPyOzQTFdAGke.jpg">https://image.tmdb.org/t/p/original/8HSCLY18U4D1gxRPyOzQTFdAGke.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/caNqcfQQ68A5HptE6CmNDxMxEUF.jpg">https://image.tmdb.org/t/p/original/caNqcfQQ68A5HptE6CmNDxMxEUF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/atOvo2FiQbcF38Dg3v3itBN7o9z.jpg">https://image.tmdb.org/t/p/original/atOvo2FiQbcF38Dg3v3itBN7o9z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wpH2gkHdKAEk4RVmIg0TJxoM58n.jpg">https://image.tmdb.org/t/p/original/wpH2gkHdKAEk4RVmIg0TJxoM58n.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4MLjm9ghDgx2cccqdKDRhBla9VT.jpg">https://image.tmdb.org/t/p/original/4MLjm9ghDgx2cccqdKDRhBla9VT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qqIW1Iy0pyb0AXf4Ah3BqtNs09X.jpg">https://image.tmdb.org/t/p/original/qqIW1Iy0pyb0AXf4Ah3BqtNs09X.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9c2F7DmWHI2RxRTBiTEtnlnqSKB.jpg">https://image.tmdb.org/t/p/original/9c2F7DmWHI2RxRTBiTEtnlnqSKB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vBJf6KYmYITAfuA3IVsszmLWqux.jpg">https://image.tmdb.org/t/p/original/vBJf6KYmYITAfuA3IVsszmLWqux.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pjjOXjpIwbxaxjioOit6GKiAYUo.jpg">https://image.tmdb.org/t/p/original/pjjOXjpIwbxaxjioOit6GKiAYUo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nvMAhOh2qOMAp6jAVMdS1HV9Twu.jpg">https://image.tmdb.org/t/p/original/nvMAhOh2qOMAp6jAVMdS1HV9Twu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yjt9w1fCYFsTS2ya173RpxbCHFK.jpg">https://image.tmdb.org/t/p/original/yjt9w1fCYFsTS2ya173RpxbCHFK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aRWWWvhllmWXOtoM2g9tAChelJv.jpg">https://image.tmdb.org/t/p/original/aRWWWvhllmWXOtoM2g9tAChelJv.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4513316</id>
+    <uniqueid type="imdb" default="true">tt4513316</uniqueid>
+    <uniqueid type="tmdb">411976</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Margaret Betts</credits>
+    <director>Margaret Betts</director>
+    <premiered>2017-10-27</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Maven Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o6QrP53BEug</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7401</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Margaret Qualley</name>
+        <role>Sister Cathleen</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/goZk1nNQIHzU2cYi1sqgLwFu8Tq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Leo</name>
+        <role>Reverend Mother</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tKNTvhmuO7FZMYYgRrZB6k8FT5K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julianne Nicholson</name>
+        <role>Nora Harris</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/wC3rO4lTJBkPEtZifVC5uUppyQa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dianna Agron</name>
+        <role>Sister Mary Grace</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Y5L7NcAjj39hQeu2tWAyNmDL29.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morgan Saylor</name>
+        <role>Sister Evelyn</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/gwnsthgDftVm7Jum4n86cP7CTzK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maddie Hasson</name>
+        <role>Sister Sissy</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/qZ5Lns6i4R9xAzDpTEEUBy36q30.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liana Liberato</name>
+        <role>Sister Emily</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/5EEvVU9EDZ1ricNizDYUgclG1BF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Dayan</name>
+        <role>Sister Emanuel</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/2bgSNnWjoxlQSBHsuTkQp9ygGd7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eline Powell</name>
+        <role>Sister Candace</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ns3pxsZ7GfhJF2xxoAAuIN52iO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chelsea Lopez</name>
+        <role>Sister Charlotte</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Denis O&apos;Hare</name>
+        <role>Archbishop</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/i1dL9PdMgyQvgfAZNXz2gaiUmn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Zylka</name>
+        <role>Chuck Harris</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/wxV6WMIdsvwXkMaCqe7WpRE0EM7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Stewart</name>
+        <role>Sister Genevieve</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/eCgBI8KCukB1Ydmrv7Xkj21LWgq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alyssa Brindley</name>
+        <role>Sister Kate</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hannah Renèe Jackson</name>
+        <role>Sister Anne</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marco St. John</name>
+        <role>Father Luca</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/mU36bsjPKBab3MuhwdirVMKbHpg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eliza Stella Mason</name>
+        <role>Cathleen, 7 Years Old</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Shick</name>
+        <role>Local Priest</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Vinson</name>
+        <role>Rob, Church Usher</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angela Fox</name>
+        <role>Sister Gloria</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Neva Howell</name>
+        <role>Sister Eleanor</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/vNbRhSaDtuQ5AMhWa3s3R2Mihgs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sasha Mason</name>
+        <role>Cathleen, 12 Years Old</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peggy Walton-Walker</name>
+        <role>Nun Teacher</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/bF2ndKP42NQ4enNiAijkzch6NZe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Bell</name>
+        <role>Sister Margaret</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/ccTdQ1pmVSVFoxzRDVeh5EAOWcZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosemary Brown</name>
+        <role>Miss Williams</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gabe Beutel-Gunn</name>
+        <role>Nora&apos;s Boyfriend</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marshall Chapman</name>
+        <role>Sister Louisa</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/poJMPaHr0AwH15HpxB1batQE9U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lacy Hartselle</name>
+        <role>Sister Theresa (uncredited)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/lYkNYOOt6MBwxPMb8n4F9p3A8UJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kamryn Boyd</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucie Carroll</name>
+        <role>Professed Nun (uncredited)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adele Marie Pomerenke</name>
+        <role>Cathleen&apos;s Sister (uncredited)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darla Pelton-Perez</name>
+        <role>Parent (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cecilia Wyle</name>
+        <role>Professed Nun (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph Wilson</name>
+        <role>Churchgoer (uncredited)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/54HrIu1qxUXitwwHfxkKCzQrUwB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Swiney</name>
+        <role>Blessed Sorrow&apos;s Student (uncredited)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sydney Hoover</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kalista Dwyer</name>
+        <role>Cathleen&apos;s Sister (uncredited)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Leigh</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laurie Pallotta</name>
+        <role>Professed Nun (uncredited)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kaitlyn Williams</name>
+        <role>Cathleen&apos;s Sister (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathy Walton</name>
+        <role>Professed Nun (uncredited)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melissa Nyenhuis</name>
+        <role>Wedding attendee (uncredited)</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachel Mae Moore</name>
+        <role>Cathleen&apos;s Sister (uncredited)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeromy Nichols</name>
+        <role>Churchgoer (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Abram Knott</name>
+        <role>Alter Boy (uncredited)</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gabriela Contaldo</name>
+        <role>Nun (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nettie Kraft</name>
+        <role>Friend of Noras&apos; (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juliana Dougherty</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sydney Harris</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jordan Price</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kirk H. Andersen</name>
+        <role>Churchgoer (uncredited)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ashley Hargrove</name>
+        <role>Cathleen Sister Nun (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Monty Powers</name>
+        <role>Parent of Nun (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Wilkerson</name>
+        <role>Church Goer (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Courtney Cook</name>
+        <role>2nd Year Novice Nun 1 (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerry Graul</name>
+        <role>Churchgoer (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jenny Revord</name>
+        <role>Professed Nun (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan Fields</name>
+        <role>Church Goer (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Alan Spodeck</name>
+        <role>Sister Evelyn&apos;s father (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kurstan Buck</name>
+        <role>Student (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tallie Fausnaught</name>
+        <role>Cathleen&apos;s Sister (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Happy Allen</name>
+        <role>Church Dad (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shelton Tison</name>
+        <role>Altar Boy (uncredited)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carter Stewart</name>
+        <role>Cathleen&apos;s Son (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kadence Riggs</name>
+        <role>Churchgoer (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Valeigh Rhiannon Alford</name>
+        <role>Catholic School Girl (uncredited)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kylie Knott</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Abby Harkins</name>
+        <role>Professed Nun (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jasmin Maya Larsen</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Heuer</name>
+        <role>Sister Evelyn&apos;s Mom (uncredited)</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Debbie Swierk</name>
+        <role>Blessed Sorrows Nun (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tonya Webb</name>
+        <role>Parent / Churchgoer (uncredited)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shelby Johnson</name>
+        <role>2nd Year Novice 2 (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/gk3qhJBbpDtoy2dFbBrDrfCMNQ5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Barberi</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shayna-Raye Funderburk</name>
+        <role>Cathleen&apos;s Sister (uncredited)</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emma Grace Peper</name>
+        <role>Blessed Sorrows Student (uncredited)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria Bradford</name>
+        <role>Novice Nun (uncredited)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phillip Trammel</name>
+        <role>Novitiate Parent (uncredited)</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 20:05:45</dateadded>
+</movie>

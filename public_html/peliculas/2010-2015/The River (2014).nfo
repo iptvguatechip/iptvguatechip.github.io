@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Río 2</title>
+    <originaltitle>Rio 2</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>78764</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>2388</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Es una jungla para Blu, Jewel y sus tres hijos después de que se precipitaron de Río de Janeiro a las selvas del Amazonas. Mientras Blu trata de encajar, se va de punta a punta con el vengativo Nigel, y se encuentra con el más temible adversario de todos: su suegro.</plot>
+    <tagline>He&apos;s villainous, she&apos;s venomous.</tagline>
+    <runtime>102</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/AuaToCmX55xDycK4oFJEYMgcK0O.jpg">https://image.tmdb.org/t/p/original/AuaToCmX55xDycK4oFJEYMgcK0O.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/k1rkcF4iYalQaOQ1x5FCH5x80Qv.jpg">https://image.tmdb.org/t/p/original/k1rkcF4iYalQaOQ1x5FCH5x80Qv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pT6r9PuRyIldckN9mKDIkT21nCA.jpg">https://image.tmdb.org/t/p/original/pT6r9PuRyIldckN9mKDIkT21nCA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/xRo0XWsgL1Bmo4EFBq7dkcMTPeI.jpg">https://image.tmdb.org/t/p/original/xRo0XWsgL1Bmo4EFBq7dkcMTPeI.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gq2R8ivztVkivqmWLAio6b2m1KZ.jpg">https://image.tmdb.org/t/p/original/gq2R8ivztVkivqmWLAio6b2m1KZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/eIkpTqWdfBRJG1L1vHKb9DhShhG.jpg">https://image.tmdb.org/t/p/original/eIkpTqWdfBRJG1L1vHKb9DhShhG.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/ndCkoXtdQErEb7RAfq0Y93xZzoG.jpg">https://image.tmdb.org/t/p/original/ndCkoXtdQErEb7RAfq0Y93xZzoG.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/zmBlBW0JXFC02FeJqAIfiGDf7GO.jpg">https://image.tmdb.org/t/p/original/zmBlBW0JXFC02FeJqAIfiGDf7GO.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/9Rgf0Lcp0bZ0ik3r93ACleL1GJp.jpg">https://image.tmdb.org/t/p/original/9Rgf0Lcp0bZ0ik3r93ACleL1GJp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xx1k3kCfIs95eAMa1pglXv74cRp.jpg">https://image.tmdb.org/t/p/original/xx1k3kCfIs95eAMa1pglXv74cRp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eFlhSuFGfK0hVXu4VE0cRreKXfS.jpg">https://image.tmdb.org/t/p/original/eFlhSuFGfK0hVXu4VE0cRreKXfS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/i5b1rX1gEFS2OEi2wApM1wLsAHX.jpg">https://image.tmdb.org/t/p/original/i5b1rX1gEFS2OEi2wApM1wLsAHX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zlklNQNpxrkAgX6ss7OdH5Cy2Be.jpg">https://image.tmdb.org/t/p/original/zlklNQNpxrkAgX6ss7OdH5Cy2Be.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/urFzh1shUnJCzc6eI7MqV4RsJWP.jpg">https://image.tmdb.org/t/p/original/urFzh1shUnJCzc6eI7MqV4RsJWP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nQd0y2e7oQ0TUIXiNGKVEJXutnp.jpg">https://image.tmdb.org/t/p/original/nQd0y2e7oQ0TUIXiNGKVEJXutnp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/88hYjzpppBSUWR9oaq3cXgMXs9c.jpg">https://image.tmdb.org/t/p/original/88hYjzpppBSUWR9oaq3cXgMXs9c.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b4kbbGkc14yRtphHlb8g4S4C7Xa.jpg">https://image.tmdb.org/t/p/original/b4kbbGkc14yRtphHlb8g4S4C7Xa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg">https://image.tmdb.org/t/p/original/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eqppGe7RkUyO2TlnAa83g5tz94z.jpg">https://image.tmdb.org/t/p/original/eqppGe7RkUyO2TlnAa83g5tz94z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5IHr9dT2zf2j80H70Z2LOK0IJaW.jpg">https://image.tmdb.org/t/p/original/5IHr9dT2zf2j80H70Z2LOK0IJaW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kFFWzVO04PBKZaHPrDZUh9QEv68.jpg">https://image.tmdb.org/t/p/original/kFFWzVO04PBKZaHPrDZUh9QEv68.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3u2n4104UxopY7uVgT1iBZ8ovkb.jpg">https://image.tmdb.org/t/p/original/3u2n4104UxopY7uVgT1iBZ8ovkb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/p2qsH7zSyz6vmrKxswYF6x4xRz6.jpg">https://image.tmdb.org/t/p/original/p2qsH7zSyz6vmrKxswYF6x4xRz6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5AWpQMO7vfPKNHZHQqB1JqW2JSq.jpg">https://image.tmdb.org/t/p/original/5AWpQMO7vfPKNHZHQqB1JqW2JSq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dLJoVWDf9jBucJOBKUwClCyHvFv.jpg">https://image.tmdb.org/t/p/original/dLJoVWDf9jBucJOBKUwClCyHvFv.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed>2020-11-03</lastplayed>
+    <id>tt2357291</id>
+    <uniqueid type="imdb" default="true">tt2357291</uniqueid>
+    <uniqueid type="tmdb">172385</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <genre>Animación</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Río - Colección</name>
+        <overview>The adventure of Blu, a domesticated Macaw who never learned to fly.</overview>
+    </set>
+    <credits>Don Rhymer</credits>
+    <credits>Jenny Bicks</credits>
+    <credits>Yoni Brenner</credits>
+    <credits>Carlos Kotkin</credits>
+    <director>Carlos Saldanha</director>
+    <premiered>2014-03-19</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Blue Sky Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QrA31erK_uM</trailer>
+    <actor>
+        <name>Jesse Eisenberg</name>
+        <role>Blu (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Hathaway</name>
+        <role>Jewel (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tLelKoPNiyJCSEtQTz1FGv4TLGc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leslie Mann</name>
+        <role>Linda (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Foxx</name>
+        <role>Nico (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/hPwCMEq6jLAidsXAX5BfoYgIfg2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy García</name>
+        <role>Eduardo (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8JehpGGaW6BU5m4e4QURlR8Isg8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruno Mars</name>
+        <role>Roberto (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/h2ZqEqnD6Ve9psbB4YQoybEcWGh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bernardo de Paula</name>
+        <role>Carnival Barker / Blue Sentry (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/sjvTZ6sfF3xeRsbAaPdV4Qeh2bO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Santoro</name>
+        <role>Tulio (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jemaine Clement</name>
+        <role>Nigel (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake T. Austin</name>
+        <role>Fernando (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/uNXqzt3eaq8hSn6ED37rdlTyUmx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amandla Stenberg</name>
+        <role>Bia (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/kgLB6xhhZKqqwn1lnL5YjIv5frS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pierce Gagnon</name>
+        <role>Tiago (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8Ea8sSclAtUmDwhZKI8qkOEXAHI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rita Moreno</name>
+        <role>Aunt Mimi (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/A1qAUZhaCP3Gi8uGqmjYgXJTkj4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristin Chenoweth</name>
+        <role>Gabi (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/5qiqiOGh8n2RsnVHXDy3o0Qlrnt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tracy Morgan</name>
+        <role>Luiz (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/v7l37yzapiVav6dAUxnYseu9tZq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will.i.am</name>
+        <role>Pedro (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/uQgowLkEJyB5oBm34sqSKTPcZwv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Lopez</name>
+        <role>Rafael (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/fx7XUbayD9viQZJK2pbuW2lEsei.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Crow</name>
+        <role>Carla (voice)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bebel Gilberto</name>
+        <role>Eva (voice)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Harris</name>
+        <role>Old Bird (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/akEgMPo2vC5Twf84rOAwaE60yIe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janelle Monáe</name>
+        <role>Dr. Monae (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/xavjGiGltQEDWqNdbe0zd1lO0UR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Heidemann</name>
+        <role>Rapping Sloth (as Amy Heidemann from Karmin) (voice)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlinhos Brown</name>
+        <role>Audition Bird (voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/kcWGDwCHogHkVg6fUUTxlbpm960.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Conroy</name>
+        <role>Capoeira Turtle (voice)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nola Donkin</name>
+        <role>Opera Bird (voice)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miguel Ferrer</name>
+        <role>Big Boss (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/kQBRwJc9vzfUZXwUxTpdev9Gp4M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Garcia</name>
+        <role>Spoonbill / Perl (voice)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIFQs8SLqgIfg9ll5O70IvGgAOm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin W. Keane</name>
+        <role>Obnoxious Kid (voice)</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philip Lawrence</name>
+        <role>Felipe (voice)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/erLFjDPGUINwM0AnKd2tQdpg3mX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gracinha Leporace</name>
+        <role>Swinging Audition Monkey (voice)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sérgio Mendes</name>
+        <role>Street Vendor (voice)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kate Micucci</name>
+        <role>Tiny (voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/10FRMebTRHAgkxqhJ3Egq1liICF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pablo Ramírez</name>
+        <role>Tapir Game Announcer (voice)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marco Antonio Regil</name>
+        <role>Porcupine Game Announcer (voice)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Pamela Rose</name>
+        <role>Mom (voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/elThFUYZiEgnos1o7uimNouqmIq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Saldanha</name>
+        <role>Amazon Quail (voice)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/oxUlCSgxKaoCRYFyS65PC2fZWrk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Scarpa Saldanha</name>
+        <role>Kid Macaw (voice)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Manoela Scarpa Saldanha</name>
+        <role>Lady Macaw (voice)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rafael Scarpa Saldanha</name>
+        <role>Kid Macaw (voice)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sofia Scarpa Saldanha</name>
+        <role>Kid Macaw (voice)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cindy Slattery</name>
+        <role>Plucked Porcupine (voice)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Randy Thom</name>
+        <role>Logging Foreman (voice)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claira Nicole Titman</name>
+        <role>Claira (voice)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miriam Wallen</name>
+        <role>Coin Toss Bird (voice)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Claudine Barros</name>
+        <role>Additional Voices (voice)</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mauro Blanco</name>
+        <role>Additional Voices (voice)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Bowker</name>
+        <role>Additional Voices (voice)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dennis T. Carnegie</name>
+        <role>Additional Voices (voice)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/bqakK3R8ZhNr6MlqCLUm8TruwEF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shanti Correa</name>
+        <role>Additional Voices (voice)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alberto Costa</name>
+        <role>Additional Voices (voice)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Cowgill</name>
+        <role>Additional Voices (voice)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/A3OFXT1LRCzIjvV7VXe4SDTg5U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Holly Dorff</name>
+        <role>Additional Voices (voice)</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/aal7hMqxfJBRyIV1WoGL7By7ISo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Hitner</name>
+        <role>Additional Voices (voice)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rif Hutton</name>
+        <role>Additional Voices (voice)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/1RqWCEgCr3K47QxKoWiPEoT8pBZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Lemonides</name>
+        <role>Additional Voices (voice)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hope Levy</name>
+        <role>Additional Voices (voice)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/vWAAxPHV85AoxXw23QPbArfp2oA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Martin Leyva</name>
+        <role>Additional Voices (voice)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anselmo Martini</name>
+        <role>Additional Voices (voice)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Renata Becker</name>
+        <role>Additional Voices (voice)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron McClary</name>
+        <role>Additional Voices (voice)</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/60N5qgNS197CVYQ0R5uxqOm1r4o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Scott McFadden</name>
+        <role>Additional Voices (voice)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil Miler</name>
+        <role>Additional Voices (voice)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edie Mirman</name>
+        <role>Additional Voices (voice)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/tmyYHxeMlBfB7a2BylGC65ciM0t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heber Moreira</name>
+        <role>Additional Voices (voice)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leo Nobre</name>
+        <role>Additional Voices (voice)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mina Olivera</name>
+        <role>Additional Voices (voice)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jackeline Olivier</name>
+        <role>Additional Voices (voice)</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/7T8D7I1G0CS7IUQ9oHAx81iu0on.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kleber Jorge Pimenta</name>
+        <role>Additional Voices (voice)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Byron Thames</name>
+        <role>Additional Voices (voice)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Annie Tippe</name>
+        <role>Additional Voices (voice)</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natalie Morales</name>
+        <role>Newscaster (voice)</role>
+        <order>70</order>
+        <thumb>https://image.tmdb.org/t/p/original/qxMmziGviCMhpsJvpZmjihEzCpI.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:59</dateadded>
+</movie>

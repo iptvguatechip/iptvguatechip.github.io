@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Feo pero Sabroso</title>
+    <originaltitle>Feo pero Sabroso</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.300000</value>
+            <votes>126</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>7</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un día cupido tuvo ceguera temporal y flechó el corazón de Laura, una hermosísima mujer de noble cuna, que daría lo que fuera por estar con Mark, un hombre que llamaba la atención, pero por lo feo. Pero su amor tiene más obstáculos que la cara de Mark: cuando llega el día de la gran boda las dos familias se reúnen, pero no para celebrar la unión, sino para buscar cómo dañar el compromiso. Sin embargo, Mark y Laura lucharán por un amor que traspasa la belleza exterior y llega al corazón.</plot>
+    <tagline>Feo pero Sabroso</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zywEJpSeYGY9hb7IOmdsdvjP0oE.jpg">https://image.tmdb.org/t/p/original/zywEJpSeYGY9hb7IOmdsdvjP0oE.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rkrDcmsuXqrAhZTMrW9b9HhUQlQ.jpg">https://image.tmdb.org/t/p/original/rkrDcmsuXqrAhZTMrW9b9HhUQlQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fg3arPmAks5prRATizFEqV5ppBX.jpg">https://image.tmdb.org/t/p/original/fg3arPmAks5prRATizFEqV5ppBX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10432682</id>
+    <uniqueid type="imdb" default="true">tt10432682</uniqueid>
+    <uniqueid type="tmdb">627446</uniqueid>
+    <genre>Comedia</genre>
+    <country>Colombia</country>
+    <director>Fernando Ayllón</director>
+    <premiered>2019-05-30</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cine crea Colombia</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GcxJnet2Smg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5451</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Iván Marín</name>
+        <role>Marco Antonio &apos;Mark&apos;</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ana Cristina Botero</name>
+        <role>Cuquita Canosa de la Calva</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jorge Herrera</name>
+        <role>Monseñor</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lina Cardona</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-03-05 07:40:04</dateadded>
+</movie>

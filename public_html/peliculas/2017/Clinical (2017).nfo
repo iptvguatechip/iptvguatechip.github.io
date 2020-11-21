@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Clinical</title>
+    <originaltitle>Clinical</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>6567</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.300000</value>
+            <votes>267</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un psiquiatra intenta reponer su vida después de un ataque violento tratando de reparar la vida de un nuevo paciente, pero tiene su propia historia aterradora.</plot>
+    <tagline></tagline>
+    <runtime>104</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uFRyXUPqoZ7uORGtV2y8eSdJHuA.jpg">https://image.tmdb.org/t/p/original/uFRyXUPqoZ7uORGtV2y8eSdJHuA.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sUKRP2rDqi2Kfh8c2xO8WJKi0sU.jpg">https://image.tmdb.org/t/p/original/sUKRP2rDqi2Kfh8c2xO8WJKi0sU.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5577742</id>
+    <uniqueid type="imdb" default="true">tt5577742</uniqueid>
+    <uniqueid type="tmdb">433244</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <credits>Alistair Legrand</credits>
+    <credits>Luke Harvis</credits>
+    <director>Alistair Legrand</director>
+    <premiered>2017-01-13</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Campfire</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5dTuL8clUHs</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6260</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Vinessa Shaw</name>
+        <role>Dr. Jane Mathis</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wzfFYvX2tnnfGxr8JR0fC2CvDEB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Rahm</name>
+        <role>Alex</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/A8XJ7tzG5zPTzJRllVAGm326WVi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Stanford</name>
+        <role>Miles Richardson</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/tOR7U3DURbSF746EARXlmaxhlL0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Atherton</name>
+        <role>Terry Drummond</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/d4ArFBoywyW3yZ3RuD1KAC0fXiA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>India Eisley</name>
+        <role>Nora Green</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/7dmchBMMzEvUG7pkEGYdyQ35Y3F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nestor Serrano</name>
+        <role>Dr. Saul</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/854GYh6p3OnSIdAUnScgO3PD7ZL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sydney Tamiia Poitier</name>
+        <role>Clara</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/p3AWANvC7w49CWYeJRsaHsALv6C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wilmer Calderon</name>
+        <role>Greg</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/7GRgFDbBjrESVnNZKQp3o9Ad2da.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dion Basco</name>
+        <role>Jeremy Platt</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/jtzK8t7sFPOR6yXc2kZhBVmUSJw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Flowers</name>
+        <role>Charlie</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-30 23:01:00</dateadded>
+</movie>

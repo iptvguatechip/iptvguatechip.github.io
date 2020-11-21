@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Puertas Abiertas</title>
+    <originaltitle>The Open House</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.200000</value>
+            <votes>30477</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>3.600000</value>
+            <votes>1051</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Tras un acontecimiento trágico, una madre y su hijo adolescente se mudan a la casa vacacional de un familiar, donde son acechados por fuerzas inexplicables y tenebrosas.</plot>
+    <tagline>You can&apos;t lock out what&apos;s already inside.</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/doIjHwqJydrcd7l1Tz7cwH9vXMn.jpg">https://image.tmdb.org/t/p/original/doIjHwqJydrcd7l1Tz7cwH9vXMn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xNVR8EVu4TH2fCnBgyFfbgNnKQV.jpg">https://image.tmdb.org/t/p/original/xNVR8EVu4TH2fCnBgyFfbgNnKQV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg">https://image.tmdb.org/t/p/original/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bqjs7dihR3M0EjEsxMzhfuNADBz.jpg">https://image.tmdb.org/t/p/original/bqjs7dihR3M0EjEsxMzhfuNADBz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jqCmcbUlLkMXCSELoA5DWAjq7wX.jpg">https://image.tmdb.org/t/p/original/jqCmcbUlLkMXCSELoA5DWAjq7wX.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aDmXiKzMCrc4uyQifPTWCJ2vBuc.jpg">https://image.tmdb.org/t/p/original/aDmXiKzMCrc4uyQifPTWCJ2vBuc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/trTplslE5m0pfxdQq3qHJrLHupi.jpg">https://image.tmdb.org/t/p/original/trTplslE5m0pfxdQq3qHJrLHupi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q1SmWhqnF9gxE85WC5aPEFTjhdD.jpg">https://image.tmdb.org/t/p/original/q1SmWhqnF9gxE85WC5aPEFTjhdD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9ZdjEBv3sc8fpjCqrZPMTJXdfp9.jpg">https://image.tmdb.org/t/p/original/9ZdjEBv3sc8fpjCqrZPMTJXdfp9.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7608028</id>
+    <uniqueid type="imdb" default="true">tt7608028</uniqueid>
+    <uniqueid type="tmdb">485774</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <credits>Matt Angel</credits>
+    <credits>Suzanne Coote</credits>
+    <director>Matt Angel</director>
+    <director>Suzanne Coote</director>
+    <premiered>2018-01-19</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gTig2AO8yAY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5698</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Dylan Minnette</name>
+        <role>Logan Wallace</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fmRHI0ovny7lk27TzejA47or802.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Piercey Dalton</name>
+        <role>Naomi Wallace</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/lnkJithHinqPQI0S3bKO8nKC7Mw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sharif Atkins</name>
+        <role>Chris</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/yF2XmuQN6GO3qpaAcO442bkBCu3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia Bethune</name>
+        <role>Martha</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qAzLLrlh9vd2VerZS9rkftvPMjV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Angel</name>
+        <role>Cop #1</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/x8fCF9hS9qUtxtwXnaZKsyGLygc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suzanne Coote</name>
+        <role>Waitress</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Abrams</name>
+        <role>Brian Wallace</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/JBmN6Byyo1QSKIagjbCrTFX96I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathryn Beckwith</name>
+        <role>Joannie McAllister</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ethan Cushing</name>
+        <role>Tommy</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward Olson</name>
+        <role>The Man in Black</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leigh Parker</name>
+        <role>Ed</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Rae</name>
+        <role>Plumber</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Robertson</name>
+        <role>Mother</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/uCGIjfunehvAz8Jyh5V9p9MYxky.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Walder</name>
+        <role>Allison</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Everett Williams Jr.</name>
+        <role>Cop #2</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Robertson</name>
+        <role>Kid -2</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachary Robertson</name>
+        <role>Kid -1</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 14:21:56</dateadded>
+</movie>

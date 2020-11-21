@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Títere</title>
+    <originaltitle>Dead Silence</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>84489</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>1394</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En Ravens Fair las personas relacionadas con el asesinato de Mary Shaw han muerto misteriosamente de la misma forma durante generaciones. Lejos de este pueblo, un joven matrimonio formado por Jamie y Lisa Ashen, que viven una vida tranquila, reciben un muñeco ventrílocuo misterioso llamado &quot;Billy&quot;, en un paquete sin marcar. Pero cuando Lisa muere en circunstancias misteriosas, Jamie regresa a Ravens Fair para el entierro, decidido a descubrir quién la mató.</plot>
+    <tagline>You scream. You die.</tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uYsfu0TnWSnT5Y2tZc3fpImU9Cq.jpg">https://image.tmdb.org/t/p/original/uYsfu0TnWSnT5Y2tZc3fpImU9Cq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hDLnYvGrXVmTBKPHpLan4wzLtAY.jpg">https://image.tmdb.org/t/p/original/hDLnYvGrXVmTBKPHpLan4wzLtAY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cb37a1tgKGFYoIj4otUr1GARQ4v.jpg">https://image.tmdb.org/t/p/original/cb37a1tgKGFYoIj4otUr1GARQ4v.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nN7kb9nYNZn6lHuv4qq0yDUKlj.jpg">https://image.tmdb.org/t/p/original/nN7kb9nYNZn6lHuv4qq0yDUKlj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hFVWRWDRMdH6piSb3NmSq0E9kh7.jpg">https://image.tmdb.org/t/p/original/hFVWRWDRMdH6piSb3NmSq0E9kh7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aRBY6rFOh7zbHqx6jgBe23lJHBH.jpg">https://image.tmdb.org/t/p/original/aRBY6rFOh7zbHqx6jgBe23lJHBH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/etcbHDc2GzWVnrEQireqhEa8PxZ.jpg">https://image.tmdb.org/t/p/original/etcbHDc2GzWVnrEQireqhEa8PxZ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xU37e60V2FEvLiyXzIkvuSw2XYz.jpg">https://image.tmdb.org/t/p/original/xU37e60V2FEvLiyXzIkvuSw2XYz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/l4vsoKxyHWoodihg1wZw3il6r7i.jpg">https://image.tmdb.org/t/p/original/l4vsoKxyHWoodihg1wZw3il6r7i.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2okBULF6aP9Ably9d2iYtTaFuQA.jpg">https://image.tmdb.org/t/p/original/2okBULF6aP9Ably9d2iYtTaFuQA.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0455760</id>
+    <uniqueid type="imdb" default="true">tt0455760</uniqueid>
+    <uniqueid type="tmdb">14001</uniqueid>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <credits>James Wan</credits>
+    <credits>Leigh Whannell</credits>
+    <director>James Wan</director>
+    <premiered>2007-03-16</premiered>
+    <year>2007</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Evolution Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8b_HVtHmK30</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>640.000000</aspect>
+                <width>1280</width>
+                <height>534</height>
+                <durationinseconds>5490</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>mp3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Donnie Wahlberg</name>
+        <role>Jim Lipton</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/9IMR2PKHzqIXWVKmYrCAl0bA3Af.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Kwanten</name>
+        <role>Jamie Ashen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9vSgihsXFFlEStL5o6z5v3J71LI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Valletta</name>
+        <role>Ella</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/wX2NbxT3rR54dUdHO4isXg8dy55.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Gunton</name>
+        <role>Edward Ashen</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rr2KDCKK4t0f5YhZibCpLCAsJxc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Regan</name>
+        <role>Lisa Ashen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qSAiOH8nilxzjCqOHMc6HU32kxK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Adams</name>
+        <role>Police officer</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/xjh3xEFrkF94LTvxqIwqP2ca7l6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keir Gilchrist</name>
+        <role>Henry (young)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vFrziqS1PDoHYFs2Vn9ro3577Ry.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Fairman</name>
+        <role>Henry</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dmitry Chepovetsky</name>
+        <role>Richard Walker</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/vXs956gfbULYB1iBoibZf0zAemW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judith Roberts</name>
+        <role>Mary Shaw</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/uSK5hqxMbmKJPns0rXsfjqTabl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joan Heney</name>
+        <role>Marion Walker</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/tb8Oi84HMEdIziWBe9AWpPE5qLX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shelley Peterson</name>
+        <role>Lisa&apos;s Mom</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/kvOwHQsTaw29CO1hLkVbctqGFZx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Taylor</name>
+        <role>Michael Ashen</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Talbot</name>
+        <role>Priest</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enn Reitel</name>
+        <role>Billy (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/eTLCNbqkj5ZlIGgXenVPMZ3qRYQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Richings</name>
+        <role>Bos</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ia2Xo99pxLX3sxZ0jVcj7eai56l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Tatasciore</name>
+        <role>Clown (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/busoEz4khUJ0hOoKHexjXwGrsit.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-21 09:55:00</dateadded>
+</movie>

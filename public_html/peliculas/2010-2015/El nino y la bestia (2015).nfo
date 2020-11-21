@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El niño y la bestia</title>
+    <originaltitle>バケモノの子</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.700000</value>
+            <votes>19859</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.000000</value>
+            <votes>856</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Ren es un niño de nueve años que acaba de perder a su madre, con la que ha vivido desde el divorcio de sus padres. Sin saber nada de su padre, rechaza vivir con sus tutores legales y se escapa hacia las calles de Shibuya enfadado con todo el mundo. Mientras, en el Reino de las bestias el Venerable ha decidido que va a retirarse para así poder reencarnarse en un dios y para ello nombra dos sucesores potenciales: Iôzen, muy popular entre los ciudadanos y padre de dos hijos, y Kumatetsu, fuerte pero solitario y triste. El Venerable le sugiere a Kumatetsu que busque y acoja a un aprendiz con la esperanza de sucederle...</plot>
+    <tagline></tagline>
+    <runtime>119</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eeH3tGP4VbQ3VhONuxt6jpPge2I.jpg">https://image.tmdb.org/t/p/original/eeH3tGP4VbQ3VhONuxt6jpPge2I.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cFleTaDcFQ8wksDZafBBMlWH6UD.jpg">https://image.tmdb.org/t/p/original/cFleTaDcFQ8wksDZafBBMlWH6UD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kRofx67xkbnJ6pAVcHdeMyBm4OM.jpg">https://image.tmdb.org/t/p/original/kRofx67xkbnJ6pAVcHdeMyBm4OM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zWG1MfusMOR4CXMsBxWhGFC4TkQ.jpg">https://image.tmdb.org/t/p/original/zWG1MfusMOR4CXMsBxWhGFC4TkQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kzKJxfIdZ70nsPfKyq7hlYlJwSx.jpg">https://image.tmdb.org/t/p/original/kzKJxfIdZ70nsPfKyq7hlYlJwSx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kbVSiUXFVJDruw0cpr370SBjzM3.jpg">https://image.tmdb.org/t/p/original/kbVSiUXFVJDruw0cpr370SBjzM3.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/keSpEdNRKB1MW3zLcpz2AxPWVBJ.jpg">https://image.tmdb.org/t/p/original/keSpEdNRKB1MW3zLcpz2AxPWVBJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tVGjmio48s6QtOS142HHmfuFWiJ.jpg">https://image.tmdb.org/t/p/original/tVGjmio48s6QtOS142HHmfuFWiJ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4272866</id>
+    <uniqueid type="imdb" default="true">tt4272866</uniqueid>
+    <uniqueid type="tmdb">315465</uniqueid>
+    <genre>Animación</genre>
+    <genre>Fantasía</genre>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <country>Japan</country>
+    <credits>Mamoru Hosoda</credits>
+    <director>Mamoru Hosoda</director>
+    <premiered>2015-07-11</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Chukyo TV Broadcasting Company (CTV)</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FEnzhKVNH98</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>7157</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>jpn</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Koji Yakusho</name>
+        <role>Kumatetsu (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/m4ZorHOhhRiiW0h2xDkHhiYm3yj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aoi Miyazaki</name>
+        <role>Kyuta (young, voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8J2i8Da2FmqMsDqSlndEpzkPQYd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shota Sometani</name>
+        <role>Kyuta (teen, voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5hYMQ2Z5m35LhcRjAlsPDUMY4bd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suzu Hirose</name>
+        <role>Kaede (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2QPyHhJQ0BY7GEsH3L5g8DhxPTQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazuhiro Yamaji</name>
+        <role>Iozen (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/naEawoNGwRCsJ4zXQojkUdNvDaw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mamoru Miyano</name>
+        <role>Ichirohiko (teen, voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8n9U3JlujjyPmiZPHGkpwxkh7X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kappei Yamaguchi</name>
+        <role>Jiromaru (teen, voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/sbeWiK7FuUvPqF4yG6XR5CkPAqF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haru Kuroki</name>
+        <role>Ichirohiko (young, voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/rTxASkiwbxohT0UVHORLmECo53Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Momoka Ohno</name>
+        <role>Jiromaru (young, voice)</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sumire Morohoshi</name>
+        <role>Chico (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/sVRDVTYpsIyXIScHDTvgOY8Q8xQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keishi Nagatsuka</name>
+        <role>Kyuta&apos;s Father (voice)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kumiko Aso</name>
+        <role>Kyuta&apos;s Mother (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/nDgHiKqI7VdcbHMoabnQgbcI84b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masahiko Tsugawa</name>
+        <role>Lord (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/nuFYKbIdPZy58HkK7jqgRYh9Jik.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tadashi Nakamura</name>
+        <role>Kenja (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/reDmMkqnqabFtac7zRbWxuSaXj9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Baku Numata</name>
+        <role>Kenja (voice)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Reiko Kusamura</name>
+        <role>Kenja (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/YqTaojGNLuKCQ5dQ55Dqkzs9WW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shinsuke Chikaishi</name>
+        <role>Kenja (voice)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Narumi Akizuki</name>
+        <role>(voice)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shizuka Ishigami</name>
+        <role>(voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/r1px7oBmsRbXdxymYIPN28Pa9hS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hajime Inoue</name>
+        <role>(voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/deqIHIRviKtwlz5BNXEkDlsbwrq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiroshi Iwasaki</name>
+        <role>(voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/3THPpW2xkD0A7SVFmaUSxHeDzJG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takashi Ukaji</name>
+        <role>(voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/wfu6LEWn41p3CSFrYX3SqUCZNq6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shigeru Ushiyama</name>
+        <role>(voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/ukYnpHil04KGIKp8eOvOHlREBVM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reika Uyama</name>
+        <role>(voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/gdrRgfnxgmuRvfzzv1CKZS02FL3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ode Nanako</name>
+        <role>(voice)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ayaka Onishi</name>
+        <role>(voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/nJJu01QwmXIrqvKUwGwYRQYtbnl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gao Ogawa</name>
+        <role>(voice)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shun Oguri</name>
+        <role>(voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Usou Ozaki</name>
+        <role>(voice)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Riki Kagami</name>
+        <role>(voice)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yutaka Katô</name>
+        <role>(voice)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seiya Kimura</name>
+        <role>(voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/nXzgkC3IjWlBwyu0XIlK1sdBA7Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takuya Kurihara</name>
+        <role>(voice)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yûko Kuwabara</name>
+        <role>(voice)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Takaaki Torashima</name>
+        <role>(voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/k9X7jEjAYZveKYjg07yl4fRIsZM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naoto Kobayashi</name>
+        <role>(voice)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/cXiqoCBKhui7RwIrsLJYpx17PTi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masahiro Kobayashi</name>
+        <role>(voice)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rino Kobayashi</name>
+        <role>(voice)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ippei Saito</name>
+        <role>(voice)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katsuhiko Sasaki</name>
+        <role>(voice)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/cQReKq0sajdKx1GPyKToxG1OVi5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Makoto Sahara</name>
+        <role>(voice)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kazuaki Shimizu</name>
+        <role>(voice)</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natsumi Sugino</name>
+        <role>(voice)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Asami Seto</name>
+        <role>(voice)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/j88IskzIdGkyHBbjygPyg9EiE90.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shinya Takahashi</name>
+        <role>(voice)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/qDQEfE7RfeycYLlvvZ5YUAdGOeW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yoji Tanaka</name>
+        <role>(voice)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/tpqR8eeQnhFbHVmHzXwsl406jDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mitsuki Tanimura</name>
+        <role>(voice)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/8myBVeJJAgkMTSyPdsmA4smZU8B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katsumi Chou</name>
+        <role>(voice)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/xKF79pnkTuI1RR6Uqu7yyXek7iR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tetsuya Deguchi</name>
+        <role>(voice)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katsumi Toi</name>
+        <role>(voice)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doi Rena</name>
+        <role>(voice)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eiichirou Tokumoto</name>
+        <role>(voice)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Megumi  Toda</name>
+        <role>(voice)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/hGAg88Mpc0VA1K9FV8AYJ881fwP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kentarô Nakazawa</name>
+        <role>(voice)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hiroki Nakajima</name>
+        <role>(voice)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/2eeapTi9TXVBgRGYBZhvGoURlyo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kumiko Nakane</name>
+        <role>(voice)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/fSjsn4MwXetqr6hQyHgExj7t3kk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mao Noguchi</name>
+        <role>(voice)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/b2dUKzpuaT4lWuDZMmdDeJmShxQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takehiro Hasu</name>
+        <role>(voice)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/4U6dDakKFhj43B9EBKEWzxhI6Qs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fukiko Hara</name>
+        <role>(voice)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nozomi Fujiwara</name>
+        <role>(voice)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Masaru Hotta</name>
+        <role>(voice)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>M·A·O</name>
+        <role>(voice)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/2srDQKoMUmBnzVKDARkGIlYRZQy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hana Matsumoto</name>
+        <role>(voice)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ajn9YqnOMnAnclVpEXraltpLXam.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yûko Maruyama</name>
+        <role>(voice)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/mTcOyu9wdPVQ1OBbYzC1lEZjI36.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shingo Mizusawa</name>
+        <role>(voice)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomonori Mizuno</name>
+        <role>(voice)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryô Mitsui</name>
+        <role>Danshi kôkô-sei (voice)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marie Miyake</name>
+        <role>(voice)</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/tAM17tG5y3z5CcnGOmLpBccv6U9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Muto Shinpei</name>
+        <role>(voice)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tsuguo Mogami</name>
+        <role>(voice)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/gy1ovkyhWBN9RdIEP7pB5rSNDpD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fumie Mori</name>
+        <role>(voice)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Takumi Yamagata</name>
+        <role>(voice)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kanehira Yamamoto</name>
+        <role>(voice)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/htYF0gmnt6lPczKNRApYFxMjViL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aoi Yuki</name>
+        <role>(voice)</role>
+        <order>73</order>
+        <thumb>https://image.tmdb.org/t/p/original/cIFTJFbPhN55T9WW2P064Wh8qty.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sanae Yuki</name>
+        <role>(voice)</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chizuru Lee</name>
+        <role>(voice)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taichi Masu</name>
+        <role>Anaunsâ (voice)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kyôko Gunji</name>
+        <role>TV keizai nyûsu (voice)</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lily Franky</name>
+        <role>Hyakushûbô (voice)</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/8T3I7KQX0SH6twXsuqe12Sc7Hxr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yo Oizumi</name>
+        <role>Tatara (voice)</role>
+        <order>79</order>
+        <thumb>https://image.tmdb.org/t/p/original/ds3PR44I640feClDYzmeYVVx92L.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 22:10:55</dateadded>
+</movie>

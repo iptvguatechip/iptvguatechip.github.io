@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Romina</title>
+    <originaltitle>Romina</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>2.200000</value>
+            <votes>1861</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>2.600000</value>
+            <votes>131</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un grupo de jóvenes decide ir de día de campo a las afueras de la ciudad para pasar una noche de diversión y borrachera. Allá descubren a Romina, una de sus amigas a la que nadie quería invitar por aguafiestas, acampando cerca de donde están, Una broma toma proporciones desmesuradas y en la mañana siguiente se desata una ola de violentos asesinatos...todo indica que se han metido con la mujer equivocada.</plot>
+    <tagline></tagline>
+    <runtime>75</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hkrlkZU6SjZkS2HHNWO5Ca6NLnr.jpg">https://image.tmdb.org/t/p/original/hkrlkZU6SjZkS2HHNWO5Ca6NLnr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/klfBdSpbWnQLqVXXJD8Mczc3XfF.jpg">https://image.tmdb.org/t/p/original/klfBdSpbWnQLqVXXJD8Mczc3XfF.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/58SPunhpyGsEQi82SkAvBnWaAJ6.jpg">https://image.tmdb.org/t/p/original/58SPunhpyGsEQi82SkAvBnWaAJ6.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6090044</id>
+    <uniqueid type="imdb" default="true">tt6090044</uniqueid>
+    <uniqueid type="tmdb">535488</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <country>Mexico</country>
+    <credits>Diego Cohen</credits>
+    <director>Diego Cohen</director>
+    <premiered>2018-07-13</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e3xDr6fwsR0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4554</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Francisca Lozano</name>
+        <role>Romina</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/ifujcSiflf1Scn1pXBC8EXzV5O6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto Beck</name>
+        <role>Arturo</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Walter Bercht</name>
+        <role>Ramón</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victor Bonilla</name>
+        <role>Ezequiel</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Diego Cohen</name>
+        <role>Psiquiatra Forense</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jdmtKNPRWNwx96xbldB0h160Hi1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oliver Nava</name>
+        <role>Diego</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Negrete</name>
+        <role>rangers</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arantza Ruíz</name>
+        <role>Ximena</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iVrwTFygTRzwj3AodMF1aEU5ZDy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claudia Zepeda</name>
+        <role>Celia</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/a5ubgQdVFN9uX7QuzjgMcBtq8gW.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:01:03</dateadded>
+</movie>

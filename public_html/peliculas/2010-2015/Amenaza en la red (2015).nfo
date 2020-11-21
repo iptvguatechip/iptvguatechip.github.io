@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Amenaza en la red</title>
+    <originaltitle>Blackhat</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>51481</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>1384</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Thriller cibernético en el que varios agentes norteamericanos y chinos, con ayuda de un convicto liberado, se unen para detener a un misterioso hacker. Todo comienza cuando los gobiernos de Estados Unidos y China se ven obligados a cooperar por el bien de la seguridad nacional de ambas potencias. El motivo: una fuerte amenaza informática está poniendo en riesgo las vidas y el futuro de la población; delitos informáticos de alto nivel para los que deberán recurrir a sus mejores agentes de campo si quieren llegar a tiempo para evitar lo peor.</plot>
+    <tagline>Ya no estamos controlados.</tagline>
+    <runtime>133</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6KGxFPcGcyYnN4ct96nmYoabLZ6.jpg">https://image.tmdb.org/t/p/original/6KGxFPcGcyYnN4ct96nmYoabLZ6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y1I7Nbw5q89MBqcZTVdez9RLVzp.jpg">https://image.tmdb.org/t/p/original/y1I7Nbw5q89MBqcZTVdez9RLVzp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/35EnTAAlnzgi1y10DoAlxEPfHOj.jpg">https://image.tmdb.org/t/p/original/35EnTAAlnzgi1y10DoAlxEPfHOj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sMEni1oAuBlToW53M3xOjntF1LO.jpg">https://image.tmdb.org/t/p/original/sMEni1oAuBlToW53M3xOjntF1LO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1u7TuvR5mSUz2xRQhz01i75IwdT.jpg">https://image.tmdb.org/t/p/original/1u7TuvR5mSUz2xRQhz01i75IwdT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nj6LoTGWO4OCwk3z34tnk163z1R.jpg">https://image.tmdb.org/t/p/original/nj6LoTGWO4OCwk3z34tnk163z1R.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/PQJ3KuzIPDIjE3CMNWN57j1US7.jpg">https://image.tmdb.org/t/p/original/PQJ3KuzIPDIjE3CMNWN57j1US7.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2717822</id>
+    <uniqueid type="imdb" default="true">tt2717822</uniqueid>
+    <uniqueid type="tmdb">201088</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <credits>Morgan Davis Foehl</credits>
+    <director>Michael Mann</director>
+    <premiered>2015-01-13</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=170Z75vSvec</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>8013</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Chris Hemsworth</name>
+        <role>Nicholas Hathaway</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/oSGVmWhn4WT4TI4PCiQrpym6LfW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leehom Wang</name>
+        <role>Chen Dawai</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/91T5AcwwRNsiaM8xzsMAQDlNPqk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tang Wei</name>
+        <role>Chen Lien</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pXBCiu7mVEnrnDpIRc5cyyg1wPK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Viola Davis</name>
+        <role>Carol Barrett</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xDssw6vpYNRjsybvMPRE30e0dPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Holt McCallany</name>
+        <role>Mark Jessup</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NvOcP35qv5UHWEdpqAvQrKnQQz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy On</name>
+        <role>Alex Trang</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zbH0l4V3QJdvkLKPhBr5EB5JWnB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ritchie Coster</name>
+        <role>Elias Kassar</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/kYXTkSP5fbgM1kBrYlqOwI8vrlJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Borle</name>
+        <role>Jeff Robichaud</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6n4BH00lMWegRaeHAF3VuJLvizd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Ortiz</name>
+        <role>Henry Pollack</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yorick van Wageningen</name>
+        <role>Sadak</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/eh1UkiBszBbsfrkRYakOcnNcZ2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyson Chak</name>
+        <role>Tech</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntputVb77UA8RrO04k1VC5UUzM4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Molale</name>
+        <role>Sort Guard</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/vdmlsB7caZMJs57RT38oJa5s0U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Burstein</name>
+        <role>Assistant Warden Jeffries</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Archie Kao</name>
+        <role>Shum</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/f0CpbBJl5JMeMwxZ4IqsLmptCoT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abhi Sinha</name>
+        <role>Daniels</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9zWQNs1VTrdJ0K75Yrj8YX7ag4t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Butler Harner</name>
+        <role>George Reinker</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/wPvcdfh4RCjplX0zPLvxXdwgwQf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manny Montana</name>
+        <role>Alonzo Reyes</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/seDWjQKEJx8fdOBgmMUw4TSyyTK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spencer Garrett</name>
+        <role>Gary Baker</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/jJWISea4PvC9Mv5kWONAMKhEK7j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shi Liang</name>
+        <role>Lieutenant Colonel Zhao</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/5ovYsFxAV4Uw5lw2Bx4KJo2DdDZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kan Mok</name>
+        <role>Major Yuan</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Lee McKinney</name>
+        <role>Waiter</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophia Santi</name>
+        <role>Mrs. Novo</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/f9eHhIxEsKiZKYqWUDW3DkvtCZK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Luis Márquez</name>
+        <role>18th Street Gangster</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victor Chi</name>
+        <role>Korean Waiter</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Jae</name>
+        <role>Korean Thug</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eddie Cheung</name>
+        <role>Chow</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/jTrBt3y43LsO8XYsQnWg8bdwsP2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Wong</name>
+        <role>Johnny Li</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/itlbDgPFFlASUvsbmRL9IFCujzT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ivan Ngan</name>
+        <role>Yang Lin</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Courtney Wu</name>
+        <role>Samuel Wu</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/vyV6AQJB0DEuzOyljqswm0nkYfc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Pang</name>
+        <role>Keith Yan</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/fOSFPav79lx1YmSj1R1IrsZ87On.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kirt Kishita</name>
+        <role>Paul Wang</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leanne Li</name>
+        <role>Emergency Worker</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marcus Mok</name>
+        <role>EMT</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/sbb2neVoGL9CgpYbtPxT0AEsDKu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothy Nga</name>
+        <role>EMT</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Mapother</name>
+        <role>Rich Donahue</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/pjBLAJUQFctPaYjCV7WQAnKKEec.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kamal</name>
+        <role>Bahasa Speaker</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anyu U. Rosli</name>
+        <role>Tall Indonesian Banker</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Cutler</name>
+        <role>United Captain</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Roncone</name>
+        <role>Inmate</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Flores</name>
+        <role>Inmate</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Lim</name>
+        <role>Ambulance Driver</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Berg Lee</name>
+        <role>Ambulance Driver</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/4yS5WGZxpRF35xDyHOu4SpB17Te.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anom Perkasa</name>
+        <role>Young Man at Papua Square</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Ozoh</name>
+        <role>Young Man at Papua Square</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Berindei</name>
+        <role>Commodities Broker</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Tatar</name>
+        <role>Commodities Broker</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerald Petrow</name>
+        <role>Commodities Broker</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Labahn</name>
+        <role>Commodities Broker</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Cahill</name>
+        <role>Commodities Broker</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Todd Emert</name>
+        <role>Commodities Broker</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Rowley</name>
+        <role>Commodities Broker</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/asVFuTsigtObUMVAPZk56b1mfC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Razaq Sahibjahn</name>
+        <role>Indonesian Banker</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mohd Gaizudeen Sahibjahn</name>
+        <role>Indonesian Banker</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yonkky Daniel Parengkoan</name>
+        <role>Indonesian Bodyguard</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Musim Surbakti</name>
+        <role>Indonesian Bodyguard</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fadillah Ramadhan Rachmat</name>
+        <role>Indonesian Bodyguard</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Qurais Mohammed</name>
+        <role>Indonesian Bodyguard</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Acil Azis Amirullah</name>
+        <role>Indonesian Bodyguard</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seth Adams</name>
+        <role>Computer Tech (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Bentt</name>
+        <role>Cab Driver (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vicki Damante</name>
+        <role>FBI Computer Tech (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cheryl Dent</name>
+        <role>FBI Computer Tech (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/drxOCme7CvSH7hvsesrDHKMEBKi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Finley</name>
+        <role>FBI Agent (uncredited)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/jreRWgFOE4irAX9fFfgKbITucW9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beth Fryman</name>
+        <role>Business Woman (uncredited)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/uSwuuJkoQL0i3RjMSLIpTebfRhu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Rudy Guerrero Jr.</name>
+        <role>Gangster (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tania Gunadi</name>
+        <role>(uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/wrMb0ca8398ZrojtU6R0Qc3N8u7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tehmina Kaoosji</name>
+        <role>Bahasa Speaker Pharmacy (uncredited)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kaidy Kuna</name>
+        <role>Game Show Host (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seth Leslie</name>
+        <role>Hotel Guest (uncredited)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas Longo</name>
+        <role>Barrett&apos;s Partner (uncredited)</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wilfred Lopez</name>
+        <role>Cook (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Silvia McClure</name>
+        <role>German Reporter (uncredited)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dina Morrone</name>
+        <role>Italian Reporter (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/ckeDAxUeAf6sMSUFQHNsGEaCCcg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Oram</name>
+        <role>Hong Kong Man (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ales Ordelt</name>
+        <role>Computer Tech (uncredited)</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lyn Quinn</name>
+        <role>Airplane Passenger (uncredited)</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Neil Sandilands</name>
+        <role>Harbor Pilot (uncredited)</role>
+        <order>76</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqcevfU9p5u0Yz7qmB0uVYYMzci.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Minn Vo</name>
+        <role>FBI Computer Tech (uncredited)</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander von Roon</name>
+        <role>Newsanchor (uncredited)</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/5bc6x9HMzK7RiUBZVBt1ZwCYUR6.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 13:09:52</dateadded>
+</movie>

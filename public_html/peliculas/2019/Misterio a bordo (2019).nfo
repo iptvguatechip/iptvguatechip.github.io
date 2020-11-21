@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Misterio a bordo</title>
+    <originaltitle>Murder Mystery</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>98186</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>2538</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un policía de Nueva York y su esposa se van de vacaciones a Europa para revitalizar la chispa de su matrimonio, pero terminan incriminados y huyendo por la muerte de un multimillonario anciano.</plot>
+    <tagline>Problemas de primera clase. Detectives de segunda clase.</tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9D7QFUwKfdQswwINWnjZMCwwcSG.jpg">https://image.tmdb.org/t/p/original/9D7QFUwKfdQswwINWnjZMCwwcSG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aiIBgxiiSlzLWO3lZsD0ddqnMuF.jpg">https://image.tmdb.org/t/p/original/aiIBgxiiSlzLWO3lZsD0ddqnMuF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bSMSO9xupd4R4vwTPqigHn2quLN.jpg">https://image.tmdb.org/t/p/original/bSMSO9xupd4R4vwTPqigHn2quLN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b7dbE7sgqxWnQzepWQycYJ1W0qJ.jpg">https://image.tmdb.org/t/p/original/b7dbE7sgqxWnQzepWQycYJ1W0qJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sb74tH26V2hiht15GCv87ncLgX7.jpg">https://image.tmdb.org/t/p/original/sb74tH26V2hiht15GCv87ncLgX7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7VfFj9qejvr3xMThn1REa6AZlWW.jpg">https://image.tmdb.org/t/p/original/7VfFj9qejvr3xMThn1REa6AZlWW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bNd2pMXr0ziBpH6Rv8TLxqtsAuB.jpg">https://image.tmdb.org/t/p/original/bNd2pMXr0ziBpH6Rv8TLxqtsAuB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5vrGJu2gXgbsMGm22eXGQz2TxV8.jpg">https://image.tmdb.org/t/p/original/5vrGJu2gXgbsMGm22eXGQz2TxV8.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qeFO3u2IqbAeIT1Xgo6POqYbCaQ.jpg">https://image.tmdb.org/t/p/original/qeFO3u2IqbAeIT1Xgo6POqYbCaQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8qvo6BdirVSPuzNcDQF1wLO4qa2.jpg">https://image.tmdb.org/t/p/original/8qvo6BdirVSPuzNcDQF1wLO4qa2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a3zwEZDnAQ5ZEaphQtm9Xc95bhs.jpg">https://image.tmdb.org/t/p/original/a3zwEZDnAQ5ZEaphQtm9Xc95bhs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/f6TJzq7mzSC0s1thIUFwDvypckZ.jpg">https://image.tmdb.org/t/p/original/f6TJzq7mzSC0s1thIUFwDvypckZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/896vSViwCSQqJFhwfpa4QrmSnt5.jpg">https://image.tmdb.org/t/p/original/896vSViwCSQqJFhwfpa4QrmSnt5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lG2HqXuI3udJWKYK5Qp0VhfH45E.jpg">https://image.tmdb.org/t/p/original/lG2HqXuI3udJWKYK5Qp0VhfH45E.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1618434</id>
+    <uniqueid type="imdb" default="true">tt1618434</uniqueid>
+    <uniqueid type="tmdb">514999</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Crimen</genre>
+    <genre>Misterio</genre>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <credits>James Vanderbilt</credits>
+    <director>Kyle Newacheck</director>
+    <premiered>2019-05-25</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Vinson Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qn14qE7xCh4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.000000</aspect>
+                <width>1920</width>
+                <height>960</height>
+                <durationinseconds>5866</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Adam Sandler</name>
+        <role>Nicholas &quot;Nick&quot; Spitz</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Aniston</name>
+        <role>Audrey Spitz</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qPXG41rYdUGldZhMhuZFvmpZKRp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Evans</name>
+        <role>Charles Cavendish</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qUkYJcrDc4M0LHNYASs30luFvw0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terence Stamp</name>
+        <role>Malcolm Quince</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/v0htmOknJWTMWmt4DIhZlc0VC7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gemma Arterton</name>
+        <role>Grace Ballard</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nVM5156DKFlH66NuinD6K59ZSl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Walliams</name>
+        <role>Tobey Quince</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jC139tWQdQPXJ0PJ7pnXF8Mw2M8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dany Boon</name>
+        <role>Inspector Laurent de la Croix</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6jMvseHpFra7tkfDIg64u5pJcI2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Kani</name>
+        <role>Colonel Ulenga</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/g7tqg3q128a5O2qXMCwVnXsow9I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adeel Akhtar</name>
+        <role>Maharajah</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/nNdjhe4t5CSqcFGCa7ERe40OW2o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ólafur Darri Ólafsson</name>
+        <role>Sergei</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/qNs7mUyqWFRocJ4X22Zy1fAhL4x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Gerardo Méndez</name>
+        <role>Juan Carlos Rivera</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Qdy6Jp80VRoaOiqMskiusHO5uU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shiori Kutsuna</name>
+        <role>Suzy Nakamura</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/AuCKmkbCxzfbuhuFs2fd3C8eib6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erik Griffin</name>
+        <role>Jimmy Stern</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1YxirENyYn87iteQDQNiIZvkT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sufe Bradshaw</name>
+        <role>Holly</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/MmJStuwoy3TPXa8Ql9xMr4kQZQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackie Sandler</name>
+        <role>Great Looking Flight Attendant</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/2q0sDJrxJ4bnznnHY3OEuDyx8Dw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allen Covert</name>
+        <role>Tourist Dad</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/rvLbahtWc77h8Smvww2fQKhMthD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leigh Kilton</name>
+        <role>Complaining Lady Tourist</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sadie Sandler</name>
+        <role>Summer</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZYWrq8ASzrpQZ0U75Ok7HVMMTa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sunny Sandler</name>
+        <role>Brittany</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Molly McNearney</name>
+        <role>Lorraine</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/3fAJKTqa6Q8JhMoNDSA0bRrEtzf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicole Randall Johnson</name>
+        <role>Marisol</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/1LZrV4yveqKit9nvwA556sJXXFE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrea Bendewald</name>
+        <role>Client #2</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/hhfJSPYR0rimiSjYGG8VBKGpMA7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Paulson</name>
+        <role>Flight Attendant #2</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/fl9b4sApIMwGKfF1hk2XIuWF2hg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>André Simoneau</name>
+        <role>Plane Bartender</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/pBFJ4Oo6qNoxAbHlggFxPDON1ei.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jude Beny</name>
+        <role>Fancy Woman on Plane</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/aWBlu1ZOLotrsWschHVUUBhe6j6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Sinn</name>
+        <role>Captain Wong</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/t2umcoYo4nyMWJCWPjDWCl0cppP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lea Mariano</name>
+        <role>Yacht Stewardess</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrea Dolente</name>
+        <role>de la Croix Lieutenant</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nick Russo</name>
+        <role>French Bus Boy</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/lpwTYUAyBKL3C1voaD3dhW6bZcp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Vecsey</name>
+        <role>Joseph Vecsey on Vacation</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elia Nichols</name>
+        <role>Parent Tourist #2</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/lPWj1QaVaY0qXNACeh7XgiUxoxh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claudio Corinaldesi</name>
+        <role>Gonzales Tour Rep</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/1trALHGkzXqEVlsdhmhkAKdPfKm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michele Bevilacqua</name>
+        <role>Butler</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/3F2sxMQqEJK6E8YmsEsQi6yWXqq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Riley Lennon Nice</name>
+        <role>Nervous Teen</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/srxqhhQ2QwqfWkb7Ntp4lZ8h07d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilie Rousseau</name>
+        <role>TV News Broadcaster</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Arpesella</name>
+        <role>Italian Announcer (uncredited)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/7GuaSB2xa6m0DpBtaO6uGSlnZBh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Baby</name>
+        <role>Maurice the Chef (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/4WKEf7U7hQtZyD61T0UlvyjYeEx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurizio Bousso</name>
+        <role>Manager (uncredited)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brendin Brown</name>
+        <role>Interrogator (uncredited)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hélène Cardona</name>
+        <role>Spanish Announcer (voice) (uncredited)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Zuf0Xjtw1fDbUNM5AdJ0HBCfjO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Clark</name>
+        <role>Monaco Police (uncredited)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Massi Furlan</name>
+        <role>Italian Announcer (voice) (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/m374tylu98E7dPkJ1rsnRoARkaZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raphael Grosz-Harvey</name>
+        <role>Shoplifter (uncredited)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/h78FvoeeuTtX5K6DwcamB4kU27T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Hayes</name>
+        <role>Lounge Bartender (uncredited)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/yPsd6DQorU7rRbLv7JhZxY28Ip7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pilar Holland</name>
+        <role>Pamela (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/6QmH0nD6iUCwxEfOJK8bGiCZnGE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Joseph</name>
+        <role>Waiter (uncredited)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/rjkKr5NWVsjL5gKlzTUlb8RmeRq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Loughran</name>
+        <role>Man at Train Station (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/jNXgI1GRWJ1qquFkloj484rujAJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Helena Marie</name>
+        <role>Waitress #2 (uncredited)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/5obomgxZXdnY7pFSYy6kRBuqyKz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Plante</name>
+        <role>Waitress (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chantal Raimondo</name>
+        <role>Hotel Guest (uncredited)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniela Sandiford</name>
+        <role>Waitress (uncredited)</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/kbOsiwPvxhIQDDpmMdItuMDBvS7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Shackelford</name>
+        <role>Hot Dog Guy (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/a74yrPzygei1iSVYhaB3RbNhOVr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victor Turpin</name>
+        <role>Lorenzo (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/kzMBun7mIq6ziXy7iaA9pUQheF6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Nguyen</name>
+        <role>Bodega Owner (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 18:33:28</dateadded>
+</movie>

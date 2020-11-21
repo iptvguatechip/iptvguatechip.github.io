@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mi obra maestra</title>
+    <originaltitle>Mi obra maestra</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>4615</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.400000</value>
+            <votes>82</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Arturo, el exitoso propietario de una galería de arte, y Renzo, un pintor talentoso pero decadente, son viejos amigos que no pueden dejar de discutir. Un día, Arturo encuentra una solución a todos sus problemas, pero el plan que inventan resulta ser más loco y más riesgoso de lo que originalmente esperaban.</plot>
+    <tagline>The Story Of A S̶c̶a̶m̶ Friendship</tagline>
+    <runtime>104</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g0Ehp1IAwXugVCdmlP7qd2sdFwb.jpg">https://image.tmdb.org/t/p/original/g0Ehp1IAwXugVCdmlP7qd2sdFwb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/veBydi3Hp5CutU7YOALpUJFluTf.jpg">https://image.tmdb.org/t/p/original/veBydi3Hp5CutU7YOALpUJFluTf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/exxxuxE7zBeb9m9FI3HkTH5Oau9.jpg">https://image.tmdb.org/t/p/original/exxxuxE7zBeb9m9FI3HkTH5Oau9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hiO0l4BwbcDqwxR4tz31GkK5ZJE.jpg">https://image.tmdb.org/t/p/original/hiO0l4BwbcDqwxR4tz31GkK5ZJE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fXUJiHnlf2hxjGyaGZEI4GqzoXV.jpg">https://image.tmdb.org/t/p/original/fXUJiHnlf2hxjGyaGZEI4GqzoXV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lYlCD0fyYlKHQytjsWhFZivaNE1.jpg">https://image.tmdb.org/t/p/original/lYlCD0fyYlKHQytjsWhFZivaNE1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rrV0ARoUdBlGIlTYbdpGHHZZKW.jpg">https://image.tmdb.org/t/p/original/rrV0ARoUdBlGIlTYbdpGHHZZKW.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vHJCRXpdNfYePNPm913zglMVlA4.jpg">https://image.tmdb.org/t/p/original/vHJCRXpdNfYePNPm913zglMVlA4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6NyGxo4VT3w3srAn09e1Z5TVhtu.jpg">https://image.tmdb.org/t/p/original/6NyGxo4VT3w3srAn09e1Z5TVhtu.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7605922</id>
+    <uniqueid type="imdb" default="true">tt7605922</uniqueid>
+    <uniqueid type="tmdb">535692</uniqueid>
+    <genre>Comedia</genre>
+    <country>Argentina</country>
+    <credits>Andrés Duprat</credits>
+    <director>Gastón Duprat</director>
+    <premiered>2018-08-14</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Arco Libre</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TKaYCB2yKJc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>6285</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Guillermo Francella</name>
+        <role>Arturo</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/tqHvc1MaEzZHp52EeOagmBzaTn8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Brandoni</name>
+        <role>Renzo</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/r20lS8Kxagg8d1LomPzpmCYTNDy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raúl Arévalo</name>
+        <role>Alex</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrea Frigerio</name>
+        <role>Dudú</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/l28REutT1FBonFPmrVbvvcuRHrO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Soldi</name>
+        <role>Laura</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/s5XigykL6XNsozOPRhGOC3lxwOX.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 18:45:39</dateadded>
+</movie>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Campeones</title>
+    <originaltitle>Campeones</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>8605</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>475</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Marco, un entrenador profesional de baloncesto, se encuentra un día, en medio de una crisis personal, entrenando a un equipo compuesto por personas con discapacidad intelectual. Lo que comienza como un problema se acaba convirtiendo en una lección de vida.</plot>
+    <tagline>When winning isn&apos;t everything</tagline>
+    <runtime>87</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lXLKmT6mtizYvweAgPXVHs0ApvR.jpg">https://image.tmdb.org/t/p/original/lXLKmT6mtizYvweAgPXVHs0ApvR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5O5jO1CWIhLpFgSkEp9O0PxFRNh.jpg">https://image.tmdb.org/t/p/original/5O5jO1CWIhLpFgSkEp9O0PxFRNh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m5z4Ud6Ya5EY3Eg3OBbVBaDKWK.jpg">https://image.tmdb.org/t/p/original/m5z4Ud6Ya5EY3Eg3OBbVBaDKWK.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tr6wxDjHT7N0otTOEzWBZcVwo8N.jpg">https://image.tmdb.org/t/p/original/tr6wxDjHT7N0otTOEzWBZcVwo8N.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5y2OhuVJFtWXAuTetMCEw9LUR2e.jpg">https://image.tmdb.org/t/p/original/5y2OhuVJFtWXAuTetMCEw9LUR2e.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8s231Ufkl9jF2JVnoZtQUxPXsSl.jpg">https://image.tmdb.org/t/p/original/8s231Ufkl9jF2JVnoZtQUxPXsSl.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 7</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6793580</id>
+    <uniqueid type="imdb" default="true">tt6793580</uniqueid>
+    <uniqueid type="tmdb">456929</uniqueid>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>Spain</country>
+    <credits>David Marqués</credits>
+    <director>Javier Fesser</director>
+    <premiered>2018-04-06</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Películas Pendelton</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a3e0hWT09YY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>956.000000</aspect>
+                <width>1912</width>
+                <height>998</height>
+                <durationinseconds>5243</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Javier Gutiérrez</name>
+        <role>Marco</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xkVnaiiXtYJLjlJRsj8zD9r7k6t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Athenea Mata</name>
+        <role>Sonia</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan Margallo</name>
+        <role>Julio</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7OcsXFeAdCnWT6Zm5Zgkn6EpXtr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José de Luna</name>
+        <role>Juanma</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qJT2chpQAnZkZm0VDAUKYzPi7UJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sergio Olmo</name>
+        <role>Sergio</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesús Vidal</name>
+        <role>Marin</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/qbDMJdvxLAwoni3NK5pFkYgXdoo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gloria Ramos</name>
+        <role>Collantes</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/88Scy8pWKrvP6wAzAYtfBEc8q9s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alberto Nieto Fernández</name>
+        <role>Benito</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julio Fernández</name>
+        <role>Fabián</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesús Lago</name>
+        <role>Jesús</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fran Fuentes</name>
+        <role>Paquito</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roberto Chinchilla</name>
+        <role>Román</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stefan López</name>
+        <role>Manuel</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luisa Gavasa</name>
+        <role>Amparo</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/wpw0QjiM1JhTVA7YlgBXOhQ30q6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Bermejo</name>
+        <role>Compañero de Sonia</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rkql8G1lc8aM8iyx5sL6PDjvtQ4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Freire</name>
+        <role>Carrascosa</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/oGmcHkMKLznWXfthIounxGI6mHc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariano Llorente</name>
+        <role>Iván</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/uZJy618B84rZQ8COKy1M4Bzb09t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Barba</name>
+        <role>Jueza</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vicente Gil</name>
+        <role>Jefe de Benito</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/4ChEIlK8aXQ8QSeE9xAHIyb904J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Itziar Castro</name>
+        <role>Madre de Jesús</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ikhYocmtjGdhe6als8GW76pRKB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yiyo Alonso</name>
+        <role>Abogado de Marco</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chani Martín</name>
+        <role>Conductor autobús Cuenca</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/rmj6FiM1khtu59M5IsdqOiZt6EZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Waldemar Vidalón</name>
+        <role>Walter</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pedro Civera</name>
+        <role>Presidente CB Estudiantes</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/p7GNnccKrgF4asVLxsfjJS8zHbc.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 07:32:18</dateadded>
+</movie>

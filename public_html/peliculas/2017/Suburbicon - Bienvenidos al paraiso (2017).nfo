@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Suburbicon: Bienvenidos al paraíso</title>
+    <originaltitle>Suburbicon</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>39533</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>1211</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un misterio criminal ambientado en un tranquilo pueblo familiar norteamericano durante los años 50, donde lo mejor y lo peor de la humanidad se ve reflejado en las vidas de la gente corriente. Cuando un allanamiento de morada se vuelve mortal, una familia aparentemente perfecta empezará a hacer uso del chantaje, la venganza y la traición.</plot>
+    <tagline>Welcome to the neighborhood</tagline>
+    <runtime>105</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dL1GOIX3gs3GzZLDs4mg3fjjUOV.jpg">https://image.tmdb.org/t/p/original/dL1GOIX3gs3GzZLDs4mg3fjjUOV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bnNgySK6IqOMmWBElbj6hAfNr5r.jpg">https://image.tmdb.org/t/p/original/bnNgySK6IqOMmWBElbj6hAfNr5r.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qFIW7rhuXAX5cPutU3IyxO7zO54.jpg">https://image.tmdb.org/t/p/original/qFIW7rhuXAX5cPutU3IyxO7zO54.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg">https://image.tmdb.org/t/p/original/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg">https://image.tmdb.org/t/p/original/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9oArbBmJ0HlQwBTSuVPRbEPgcdF.jpg">https://image.tmdb.org/t/p/original/9oArbBmJ0HlQwBTSuVPRbEPgcdF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j8xQxe871JQb3iAyrk1qTlyMMEe.jpg">https://image.tmdb.org/t/p/original/j8xQxe871JQb3iAyrk1qTlyMMEe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kIhi2cpYmAwwbbFw0FLl4JzwoMh.jpg">https://image.tmdb.org/t/p/original/kIhi2cpYmAwwbbFw0FLl4JzwoMh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cJ9FL8STx6LbWt448LRpVYjt6xJ.jpg">https://image.tmdb.org/t/p/original/cJ9FL8STx6LbWt448LRpVYjt6xJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pQS9wH0Hf5ljIOiRCBgvzrTh4Z.jpg">https://image.tmdb.org/t/p/original/pQS9wH0Hf5ljIOiRCBgvzrTh4Z.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8P102F9BdYHmupEYFgtYoofUswX.jpg">https://image.tmdb.org/t/p/original/8P102F9BdYHmupEYFgtYoofUswX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tcaDqxT0mQVPCiIDFTSxqOC9LJ2.jpg">https://image.tmdb.org/t/p/original/tcaDqxT0mQVPCiIDFTSxqOC9LJ2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/muxO7HGh5p3XOnBp2DwglzZPTQo.jpg">https://image.tmdb.org/t/p/original/muxO7HGh5p3XOnBp2DwglzZPTQo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9w5y4qhvGPsIUGWZJnibmN4KU4H.jpg">https://image.tmdb.org/t/p/original/9w5y4qhvGPsIUGWZJnibmN4KU4H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tyiIUE1WxexPZwzFun924UG48QV.jpg">https://image.tmdb.org/t/p/original/tyiIUE1WxexPZwzFun924UG48QV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hSHSOUvvNN2pEvC0cME3AtHcIrK.jpg">https://image.tmdb.org/t/p/original/hSHSOUvvNN2pEvC0cME3AtHcIrK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rLAUa4suC873cx8C3y0oMwMsArP.jpg">https://image.tmdb.org/t/p/original/rLAUa4suC873cx8C3y0oMwMsArP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4GWZNzatm0pCXNhG4FxbeerM9fT.jpg">https://image.tmdb.org/t/p/original/4GWZNzatm0pCXNhG4FxbeerM9fT.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qkZXRVC9GBqw02hqlWwX8Q6ELHm.jpg">https://image.tmdb.org/t/p/original/qkZXRVC9GBqw02hqlWwX8Q6ELHm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dmgFJdivUmV4vGLkbPD49KVjlHx.jpg">https://image.tmdb.org/t/p/original/dmgFJdivUmV4vGLkbPD49KVjlHx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zA5zlFVa76LdHmlFQrXaBW4XSvG.jpg">https://image.tmdb.org/t/p/original/zA5zlFVa76LdHmlFQrXaBW4XSvG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jYmUvCPOKuP1pIRQ4bXSaH9MID4.jpg">https://image.tmdb.org/t/p/original/jYmUvCPOKuP1pIRQ4bXSaH9MID4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rjVXNb4T4Ah9URh1BhTvgNsDx3e.jpg">https://image.tmdb.org/t/p/original/rjVXNb4T4Ah9URh1BhTvgNsDx3e.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eKjrOMgSDYQq5UI2Fb9SKA45qDn.jpg">https://image.tmdb.org/t/p/original/eKjrOMgSDYQq5UI2Fb9SKA45qDn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zsKYkiomAgSAbI2fRZG4NsST1JC.jpg">https://image.tmdb.org/t/p/original/zsKYkiomAgSAbI2fRZG4NsST1JC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/A1NNSNH3smZxaaEsk314h7ecdgf.jpg">https://image.tmdb.org/t/p/original/A1NNSNH3smZxaaEsk314h7ecdgf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg">https://image.tmdb.org/t/p/original/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 16</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0491175</id>
+    <uniqueid type="imdb" default="true">tt0491175</uniqueid>
+    <uniqueid type="tmdb">395458</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Crimen</genre>
+    <genre>Drama</genre>
+    <genre>Misterio</genre>
+    <country>United Kingdom</country>
+    <credits>Joel Coen</credits>
+    <credits>Ethan Coen</credits>
+    <credits>George Clooney</credits>
+    <credits>Grant Heslov</credits>
+    <director>George Clooney</director>
+    <premiered>2017-10-26</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Huahua Media</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gan6ThmgVCQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6302</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Matt Damon</name>
+        <role>Gardner Lodge</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julianne Moore</name>
+        <role>Margaret Lodge / Rose</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/7G0Y2igys4ZIqz0WeR6wvAneKtn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oscar Isaac</name>
+        <role>Bud Cooper</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/cY6ail3ebXDx9FCoZMgVGAbmBus.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noah Jupe</name>
+        <role>Nicky Lodge</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jWjCdGnx9UiNXhVprQ92wtqfEAy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Glenn Fleshler</name>
+        <role>Ira Sloan</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megan Ferguson</name>
+        <role>June</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/sOMnQseEYw6uQTPjBpYsw93QDOO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael D. Cohen</name>
+        <role>Stretch</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/dCZQhBh99Mr2x92bGwG1beushRn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Basaraba</name>
+        <role>Uncle Mitch</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/dH6zocqD5heDerhCANUtfy00gHm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Burns</name>
+        <role>Mitch&apos;s Secretary</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Kind</name>
+        <role>John Sears</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karimah Westbrook</name>
+        <role>Mrs. Mayers</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/l0cnz0chpAdd5TZyQYxSUSOSWWv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leith M. Burke</name>
+        <role>Mr. Mayers</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/qhwNMGmshCTZKpHU5uKHARIQudR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cathy Giannone</name>
+        <role>Sylvia</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/hdiI1YD4E932rKxLJ2W0afmzeP8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peggy Miley</name>
+        <role>Betty</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/t8xVgQMJvFDgadTaO2TrKdf9SI1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean England</name>
+        <role>Funeral Mourner (uncredited)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/3osBAlk1vZyyS7vNp8jD8jtUm4h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ellen Crawford</name>
+        <role>Eileen</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/hp7h2dP4F1wrdYyrMD3aFiMCcrE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nancy Daly</name>
+        <role>Linda</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/8bk5wOqmN4l0eFOZ4JnieLgemWP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pamela Dunlap</name>
+        <role>Mrs. Krup</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/yiLlwzo2HhDO14YUdYYuDxhHbpx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Inbal Amirav</name>
+        <role>Church Choir Singer (uncredited)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/py6UwKZPGJdeKHDFhUuXH7acArk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gia Balzano</name>
+        <role>Mississippi Younger Daughter (uncredited)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Becca Beton</name>
+        <role>New York Girl (uncredited)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Saraya Chanadet</name>
+        <role>Ohio Daughter (uncredited)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Diane Dehn</name>
+        <role>Virginia (uncredited)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gretchen Dickason</name>
+        <role>Passers by (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nichole Eberle</name>
+        <role>Neighbor/Protester (uncredited)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sonia Gascón</name>
+        <role>Pregnant Lady (uncredited)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/iuI2W6VAWnUMVyE7m0BG5aKSTq9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Gion</name>
+        <role>Smoking Pregnant Woman (uncredited)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Mendoza</name>
+        <role>P &amp; S Secretary (uncredited)</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Diana Matlak</name>
+        <role>Funeral Mourner (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor Ragan</name>
+        <role>Mississippi Mom (uncredited)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Weston Mueller</name>
+        <role>Perp #1 (uncredited)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/j0n9XWqkDniOebIHRphUJWRzA0m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Monroe</name>
+        <role>Mailman Henry</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9HJvzY0ONMDDeTQiHSWGWSHNr4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alessandro Delpiano</name>
+        <role>Townhome kid (uncredited)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/ysM9FCZuNkOT2hrPKnxK7pUGLtl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hope Banks</name>
+        <role>Mrs Pendalton</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Handy</name>
+        <role>Mayor Billings</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mather Zickel</name>
+        <role>James</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8LGye7othWAbIs3tyUuVhOdJph.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Meyer</name>
+        <role>Freddy</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vince Cefalu</name>
+        <role>Chuck</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYOEYsNPsnfNx3vUFOsgPaDehPE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corey Allen Kotler</name>
+        <role>Bomber</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ag1yHHglaxo9kX91e7FKjodnjEs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Espinosa</name>
+        <role>Andy Mayers</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/udqtSGoJjYs5Ee8SDTR1HuAl2sC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Hassell</name>
+        <role>Louis</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/1VvnpDdLJ8WBBceDayjnAG9efNC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Shaw</name>
+        <role>Doctor Jennings</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Baldaramos</name>
+        <role>Reverend Jones</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/wqHTx3pNOKOTz2hsejnuW4XIIW1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allan Wasserman</name>
+        <role>Roger</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/kPdCLeKn4t57QSCz8mek1OpNvIh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Leslie Ford</name>
+        <role>Bill Thackery</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Pierce</name>
+        <role>Ed Pappas</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Conley</name>
+        <role>Hightower</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/78bceHx2BdTJLhhomIbpQKm15TR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Califano</name>
+        <role>Father Dominicus</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Biff Yeager</name>
+        <role>Mr. Karger</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Benjamin Franczuszki</name>
+        <role>Reporter</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:43:01</dateadded>
+</movie>

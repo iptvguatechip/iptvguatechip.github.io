@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Los últimos caballeros</title>
+    <originaltitle>Last Knights</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>38756</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>655</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un guerrero caído se levanta contra un gobernante corrupto y sádico para vengar a su deshonrado amo.</plot>
+    <tagline></tagline>
+    <runtime>114</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uGqlk7Hu8FRLVDcFZ16NxTy09ZE.jpg">https://image.tmdb.org/t/p/original/uGqlk7Hu8FRLVDcFZ16NxTy09ZE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x5PLXpZ5OjGxbB7fPF3aO35dAcL.jpg">https://image.tmdb.org/t/p/original/x5PLXpZ5OjGxbB7fPF3aO35dAcL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uAFKeVOuPo8QMgewf58tiojoye0.jpg">https://image.tmdb.org/t/p/original/uAFKeVOuPo8QMgewf58tiojoye0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sZjoT5ModAl6THs3qFbMlHRVbnC.jpg">https://image.tmdb.org/t/p/original/sZjoT5ModAl6THs3qFbMlHRVbnC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rdDcZHklNkHHApjcBd0qTK7YzJr.jpg">https://image.tmdb.org/t/p/original/rdDcZHklNkHHApjcBd0qTK7YzJr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6vX5ipPanQziUQnL6bump4ZAqBy.jpg">https://image.tmdb.org/t/p/original/6vX5ipPanQziUQnL6bump4ZAqBy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6mtQomY0tj8FW5QJnXYTqIAOHmo.jpg">https://image.tmdb.org/t/p/original/6mtQomY0tj8FW5QJnXYTqIAOHmo.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2493486</id>
+    <uniqueid type="imdb" default="true">tt2493486</uniqueid>
+    <uniqueid type="tmdb">308504</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <country>United Kingdom</country>
+    <credits>Michael Konyves</credits>
+    <credits>Dove Sussman</credits>
+    <director>Kazuaki Kiriya</director>
+    <premiered>2015-04-03</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Luka Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pcDB6OZgqzo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6894</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Clive Owen</name>
+        <role>Raiden</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7rHcMDING3PpiuhVpXW0DwNBmAd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morgan Freeman</name>
+        <role>Bartok</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIciQWr8VwKoR8TmAw1owaiZFyb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aksel Hennie</name>
+        <role>Gezza Mott</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sceuNjVXtsHOS3cn0MsLfZRkAQx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shohreh Aghdashloo</name>
+        <role>Maria</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vuE7zU05kmnalORwIzVTi8uIMRA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Babson</name>
+        <role>Fat Jim</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8O5HEPymkRNiOFS2kr23JHXt5w4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Giorgio Caputo</name>
+        <role>Slim Tully</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/e0FBTN38nsFwyTXl4kThS3BAkY1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cliff Curtis</name>
+        <role>Lt. Cortez</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKeQvFh7z1QwsiJEmZgva83Lp5q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Rose Caton</name>
+        <role>Lilly</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/sLWQr4gOMXoDYPPIaYuihwWfkoY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tsuyoshi Ihara</name>
+        <role>Ito</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/yStUXAG3ni3UrKSB0PuQ4bXNwU9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Klára Issová</name>
+        <role>Lt. Cortez&apos;s Wife</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/3z5gSkWzGKaGHTx22hxCOYonMya.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ahn Sung-ki</name>
+        <role>Auguste</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/yMW4fgC0DaXBAqw3spVeUecGQCw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Linhartová</name>
+        <role>Amy</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Park Si-yeon</name>
+        <role>Hannah</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/iaP44f9OYuHoLKi2Mhyo27LdBlJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peyman Maadi</name>
+        <role>Emperor</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/zU7JiCpt7wXp0hNRDLoO6wEt2BM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noah Silver</name>
+        <role>Gabriel</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ayelet Zurer</name>
+        <role>Naomi</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Lombardi</name>
+        <role>Josiah</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Adegboyega</name>
+        <role>Rodrigo</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/9gzkwJ4WfRXIefVHezCwnVFnMXl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Legeno</name>
+        <role>Olaf</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/rqTATsZ15cUVT9TrkeZ6qANwSey.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Val Lauren</name>
+        <role>Shimon</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Russell</name>
+        <role>First Counsel</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/bJOYp4u5gsIkFSTVphJDmHNtXxa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Ingleby</name>
+        <role>Messenger</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/vgLBNxTIC9DjfIJZVS83bbyzQOU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Hosking</name>
+        <role>Accountant</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Brown</name>
+        <role>Thomas</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/Aa65AAZkoxPGt7L5royKFHIehYb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nigel Gore</name>
+        <role>Second Counsel</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Consilvio</name>
+        <role>Corrupt Nobleman</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pavel Kříž</name>
+        <role>Doctor</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/a1lMm8jQn8U1xVOqunkDRJ1FY6N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Caspe</name>
+        <role>Spy #1</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/orGBrMh5z8Ao7jopzjgbxk0qDAn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Booda</name>
+        <role>Merchant</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomáš Havlík</name>
+        <role>Geza Mott&apos;s Secretary</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tatiana Evonuk</name>
+        <role>Bath House Girl</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/zQhcKzmahfpOiCVp6wpEqerKLWv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Pavlik</name>
+        <role>Tower Guard</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leo Stransky</name>
+        <role>Bandit Leader</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/spIQvqijJVRazqfABlMw4NOvNOa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Petr Kotík</name>
+        <role>Bridge Guard #1</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zoran Kovačevič</name>
+        <role>Guard</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patrik Plešinger</name>
+        <role>Drinking Opponent</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zdenek Astr</name>
+        <role>Executioner</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rod Grover</name>
+        <role>Slum Lord</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michal Maléř</name>
+        <role>Young Soldier</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Václav Chalupa</name>
+        <role>Gambler #2</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Libor Mika</name>
+        <role>Lead Guard</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Petr Bozdech</name>
+        <role>Shimon&apos;s Man</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Radek Brůna</name>
+        <role>Rodrigo&apos;s Man</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/vqTXCPypQLz1oA5yosuyZCIrgtJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zdeněk Dvořáček</name>
+        <role>Raiden&apos;s Man / Olaf&apos;s Man</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/fXRbX1Lz0Xwmlga4lI3pBxQmh16.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rene Hajek</name>
+        <role>Josia&apos;s Man</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Karel Hartl</name>
+        <role>Rodrigo&apos;s Man</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/7O4HdZhOj6e5IS4fSyPv7A4STt5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jiří Horký</name>
+        <role>Josia&apos;s Man</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Petr Kadlec</name>
+        <role>Shimon&apos;s Man</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roman Kracik</name>
+        <role>Goon</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Petr Kucera</name>
+        <role>Josia&apos;s Man</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jan Loukota</name>
+        <role>Rodrigo&apos;s Man</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ondřej Malina</name>
+        <role>Raiden&apos;s / Olaf&apos;s Man</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ondra Moravec</name>
+        <role>Josia&apos;s Man</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miroslav Navrátil</name>
+        <role>Raiden&apos;s / Olaf&apos;s Man</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pavel Novotný</name>
+        <role>Raiden&apos;s / Olaf&apos;s Man</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ozUOIp5aOnVRfvPstiCNvSIEkM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Milos Reznicek</name>
+        <role>Shimon&apos;s Man</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jiri Simberský</name>
+        <role>Goon</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pavel Vokoun</name>
+        <role>Goon</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/xlNaGECK6qyoLT7FFtXolxn6FM4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pavel Bezděk</name>
+        <role>Goon (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/5IW3P61j49gsRi6BVSzikMT9wyW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Michael Clarke</name>
+        <role>Nobleman (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jan Hrdina</name>
+        <role>Nobleman (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomáš Tobola</name>
+        <role>Guard (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 07:50:47</dateadded>
+</movie>

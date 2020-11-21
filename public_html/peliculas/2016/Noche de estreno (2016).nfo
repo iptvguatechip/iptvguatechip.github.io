@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Noche de estreno</title>
+    <originaltitle>Opening Night</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>2690</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>55</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un fallecido cantante de Broadway que ahora trabaja como director de producción debe salvar la apertura de la noche en su nueva producción luchando con su excéntrico elenco.</plot>
+    <tagline></tagline>
+    <runtime>84</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/inaxmeEYwAT3o7jA3mXUI503uiy.jpg">https://image.tmdb.org/t/p/original/inaxmeEYwAT3o7jA3mXUI503uiy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3NAQc6cNiKrDmyTTgXSs62DYSaq.jpg">https://image.tmdb.org/t/p/original/3NAQc6cNiKrDmyTTgXSs62DYSaq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wVoJCGoOTcwBLZapuUuGbZ47GOd.jpg">https://image.tmdb.org/t/p/original/wVoJCGoOTcwBLZapuUuGbZ47GOd.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bVpxkiD0Os2gAPztU0Yn4ZxZyyY.jpg">https://image.tmdb.org/t/p/original/bVpxkiD0Os2gAPztU0Yn4ZxZyyY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fhbk61NW3dXPi7Sz9Ou5JI8VV1y.jpg">https://image.tmdb.org/t/p/original/fhbk61NW3dXPi7Sz9Ou5JI8VV1y.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4156972</id>
+    <uniqueid type="imdb" default="true">tt4156972</uniqueid>
+    <uniqueid type="tmdb">311764</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Música</genre>
+    <country>United States of America</country>
+    <credits>Greg Lisi</credits>
+    <credits>Gerry De Leon</credits>
+    <director>Isaac Rentz</director>
+    <premiered>2016-06-03</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Dark Factory Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AJvOkeJQB5o</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5041</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lauren Lapkus</name>
+        <role>Alex Bean</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Y2r6l50cGz9HwfcVLnQDh2W9RQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Topher Grace</name>
+        <role>Nick</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alona Tal</name>
+        <role>Chloe</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/kYRu965Jt11NWWbJ9XtSUOhTkUx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Heche</name>
+        <role>Brooke</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/a3wORGDRT4tMo684Tu78hrDaqmM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taye Diggs</name>
+        <role>Malcolm</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/nC583kPPgQg4dpbQAsCEsHVlNR3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Riggle</name>
+        <role>Mr. Goldmeyer</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wh95Pi0i2ESJtZTtN6WwtfHiGDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Scheer</name>
+        <role>Ron</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/76c6ieidSECRslxVX4ZA5WBdz40.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Huskey</name>
+        <role>Lee</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/fcO3zUq0rRUjIwgVFjFYyVm4TuX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Ray Gill</name>
+        <role>Eric</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>JC Chasez</name>
+        <role>JC</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/d0hG7NJpwP52YNMwyzoj0vze2H9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zach Cregger</name>
+        <role>Micky</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/agO3u56JvLIZlydWyE8LcCKgpYY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Azarian</name>
+        <role>Techie #1</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/y3sBSkTDlFnWFBrhR1p2zCY68Zb.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 06:49:14</dateadded>
+</movie>

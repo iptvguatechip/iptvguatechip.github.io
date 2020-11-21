@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>北斗の拳</title>
+    <originaltitle>北斗の拳</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>6205</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>86</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>After a nuclear holocaust tears the world apart, mankind is forced to the harshness of not only the oppression of others who are much more powerful, but the dead earth which seems to be getting worse with every passing moment. But a savior has risen from the ashes, a man who will defeat those who would torment the weak and make the world a livable place once more. A man named Kenshiro...</plot>
+    <tagline>Power without perception is spiritually useless, and therefore of no true value.</tagline>
+    <runtime>88</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2xXgTw4L63W5E7LzL8QAFG0vbmo.jpg">https://image.tmdb.org/t/p/original/2xXgTw4L63W5E7LzL8QAFG0vbmo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7972PfQbTzJ4naLMu9jIXhi0Lr7.jpg">https://image.tmdb.org/t/p/original/7972PfQbTzJ4naLMu9jIXhi0Lr7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wcgFreRVfjOFiTnQVK36u3VJrqu.jpg">https://image.tmdb.org/t/p/original/wcgFreRVfjOFiTnQVK36u3VJrqu.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zHFxovj78aRZdMSYLLIMHokubsJ.jpg">https://image.tmdb.org/t/p/original/zHFxovj78aRZdMSYLLIMHokubsJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/guSFTUFMmBB2pzQrdLkIqkkacrv.jpg">https://image.tmdb.org/t/p/original/guSFTUFMmBB2pzQrdLkIqkkacrv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/stFXY9Y1Jr4ZbF9GVVR6Ykva6rV.jpg">https://image.tmdb.org/t/p/original/stFXY9Y1Jr4ZbF9GVVR6Ykva6rV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4TQe6OBG53yrRdskGpjHepivaJF.jpg">https://image.tmdb.org/t/p/original/4TQe6OBG53yrRdskGpjHepivaJF.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0142371</id>
+    <uniqueid type="imdb" default="true">tt0142371</uniqueid>
+    <uniqueid type="tmdb">19877</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Drama</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>Japan</country>
+    <credits>Susumu Takaku</credits>
+    <director>Toyoo Ashida</director>
+    <premiered>1986-03-08</premiered>
+    <year>1986</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Shueisha</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>mpeg4</codec>
+                <aspect>9.000000</aspect>
+                <width>576</width>
+                <height>320</height>
+                <durationinseconds>5299</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Akira Kamiya</name>
+        <role>Kenshirô</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/mTNcabyfjrGixnxdF39w6ud315X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuriko Yamamoto</name>
+        <role>Yuria (Julia)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cUBXvyx6mvshmPswecuVtKkwZ4B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenji Utsumi</name>
+        <role>Ken-Ô (Raoh)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chikao Ohtsuka</name>
+        <role>Jagi</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/j3UBKXO0c1lJaEx0SUbxlvSZCsI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toshio Furukawa</name>
+        <role>Shin</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/n4xda3RzeEP6lt7Q0GHQR5qs3gJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaneto Shiozawa</name>
+        <role>Rei</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomiko Suzuki</name>
+        <role>Rin (Lynn)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wngJTGZ4I0jiK6RyL1RvLqGIDRv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teiyū Ichiryūsai</name>
+        <role>Bat (Bart) (as Mie Suzuki)</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arisa Andō</name>
+        <role>Airi</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Junji Chiba</name>
+        <role>Ryûken</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Junpei Takiguchi</name>
+        <role>Heart (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/iSKV4aPg0OrYQOcQQctH9ObH2QK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daisuke Gouri</name>
+        <role>Uighur (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/g5OeBa8Rww8VNZiJuU7RhZxodwc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hidekatsu Shibata</name>
+        <role>Zeed (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-16 00:33:19</dateadded>
+</movie>

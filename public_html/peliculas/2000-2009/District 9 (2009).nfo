@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Sector 9</title>
+    <originaltitle>District 9</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.900000</value>
+            <votes>633173</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.400000</value>
+            <votes>6690</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La violencia se produce después de que una raza extraterrestre obligada a vivir en condiciones parecidas a las de los barrios bajos de la Tierra encuentra un alma gemela en un agente del gobierno expuesto a su biotecnología.</plot>
+    <tagline>Vinieron aquí hace 28 años. La convivencia nunca ha sido fácil. ¿Por qué no los dejamos ir?</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c5a6cBRrmeRZuxZQldpmRtOCqlH.jpg">https://image.tmdb.org/t/p/original/c5a6cBRrmeRZuxZQldpmRtOCqlH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jm8LTuep3FD36jgiLo5mN9vG61C.jpg">https://image.tmdb.org/t/p/original/jm8LTuep3FD36jgiLo5mN9vG61C.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rmmkWbt8h7XWkaFsUfC9iUUlFMz.jpg">https://image.tmdb.org/t/p/original/rmmkWbt8h7XWkaFsUfC9iUUlFMz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pNy8EvwVYg2suTiVgVarQ8htBIW.jpg">https://image.tmdb.org/t/p/original/pNy8EvwVYg2suTiVgVarQ8htBIW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bOhXvuMxietAQE33sww9IPvCBGc.jpg">https://image.tmdb.org/t/p/original/bOhXvuMxietAQE33sww9IPvCBGc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6RPwP6mpUCIB0z2jZPI55aZr4Fe.jpg">https://image.tmdb.org/t/p/original/6RPwP6mpUCIB0z2jZPI55aZr4Fe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg">https://image.tmdb.org/t/p/original/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wv9TFlRfbnjIYYzWSlN1ZumbdT9.jpg">https://image.tmdb.org/t/p/original/wv9TFlRfbnjIYYzWSlN1ZumbdT9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kYkK0KIBygtYQzBpjMgQyya4Re7.jpg">https://image.tmdb.org/t/p/original/kYkK0KIBygtYQzBpjMgQyya4Re7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/41uEqmmU6JMI2kpPlGrLe1iLggg.jpg">https://image.tmdb.org/t/p/original/41uEqmmU6JMI2kpPlGrLe1iLggg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aCVBQ4YMnRJ8Vr8pKmmopJNnW3t.jpg">https://image.tmdb.org/t/p/original/aCVBQ4YMnRJ8Vr8pKmmopJNnW3t.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uaNvn5rSunfh4EoXgPjCZV5XfX6.jpg">https://image.tmdb.org/t/p/original/uaNvn5rSunfh4EoXgPjCZV5XfX6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4qVTkQAkMNiGDPAdbyaM78Phe5h.jpg">https://image.tmdb.org/t/p/original/4qVTkQAkMNiGDPAdbyaM78Phe5h.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vR5aTnCCnBrHY33E4robIUmJ4nN.jpg">https://image.tmdb.org/t/p/original/vR5aTnCCnBrHY33E4robIUmJ4nN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3EruKzsOgX0VJrxwM1JE9geZlSS.jpg">https://image.tmdb.org/t/p/original/3EruKzsOgX0VJrxwM1JE9geZlSS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zXLiT34gAeWuM6OAh4KY5sUfTVu.jpg">https://image.tmdb.org/t/p/original/zXLiT34gAeWuM6OAh4KY5sUfTVu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qFjoydrSLqGkaOxSmxSzpoPY0lO.jpg">https://image.tmdb.org/t/p/original/qFjoydrSLqGkaOxSmxSzpoPY0lO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nSgVaWumQ6eECPy289TOF3rTxeI.jpg">https://image.tmdb.org/t/p/original/nSgVaWumQ6eECPy289TOF3rTxeI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg">https://image.tmdb.org/t/p/original/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xIZSUw20iG52oaHo6Mds9EF7OK9.jpg">https://image.tmdb.org/t/p/original/xIZSUw20iG52oaHo6Mds9EF7OK9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sRP9iWnygnfvTlXCwsaZLXRzhuh.jpg">https://image.tmdb.org/t/p/original/sRP9iWnygnfvTlXCwsaZLXRzhuh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lMNXxbyB8tRchB8OGns4jmwD86z.jpg">https://image.tmdb.org/t/p/original/lMNXxbyB8tRchB8OGns4jmwD86z.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1136608</id>
+    <uniqueid type="imdb" default="true">tt1136608</uniqueid>
+    <uniqueid type="tmdb">17654</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <credits>Neill Blomkamp</credits>
+    <credits>Terri Tatchell</credits>
+    <director>Neill Blomkamp</director>
+    <premiered>2009-08-05</premiered>
+    <year>2009</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TriStar Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Xlh4vQoS2jM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6735</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>lat</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sharlto Copley</name>
+        <role>Wikus van der Merwe</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/5yTG0JGHAwcQMMZwD3k5N7nHKrT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Cope</name>
+        <role>Christopher Johnson / Grey Bradnam / Trent</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tyXqSYJbKLWcRh8MlluSk5WMO0U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathalie Boltt</name>
+        <role>Sarah Livingstone - Sociologist</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bqWOq4s1XztOGWIxYwFjsIAt06t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sylvaine Strike</name>
+        <role>Dr Katrina McKenzie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/A1O7oEwqy3vebOdnXhyRtKCBeg4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Mkandawie</name>
+        <role>Interviewee</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oqEpaoUvHzn9KGTDkug6pz8TG84.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Sumner</name>
+        <role>Les Feldman - MIL Engineer</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Allen Young</name>
+        <role>Dirk Michaels</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/3QMYa0lOFs76wXmPuvdmTyz0KUA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Blake</name>
+        <role>Francois Moraneu - CIV Engineer Team</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/eC9GDVX5yo4BPrbF7Syhf6xaDVz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Melvill-Smith</name>
+        <role>Interviewer</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Hobbs</name>
+        <role>Ross Pienaar</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/bTAi1h6oS2KC80HJAzeHN1IpT5T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Haywood</name>
+        <role>Tania Van De Merwe</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/h7FoJwTm8erZCkPMXKtRDmun165.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rapulana Seiphemo</name>
+        <role>Thomas</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/2z3POefoapoP9UVarNwu77OTzxg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morena Busa Sesatsa</name>
+        <role>Interviewee</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Themba Nkosi</name>
+        <role>Interviewee</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/1OoWuf02Ndn0CIg0brbVKcXiwP3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mzwandile Nqoba</name>
+        <role>Interviewee</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Barry Strydom</name>
+        <role>Interviewee</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/56eUoxrm6zlZFTEnTHCAz5W9vxq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jed Brophy</name>
+        <role>James Hope - Police Officer</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NOsHgZIscn9ObgN3vshCzHrl5H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louis Minnaar</name>
+        <role>Piet Smit</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marian Hooman</name>
+        <role>Sandra Van De Merwe</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/1M74MzrgfLFM153EDVUge03g8wH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vittorio Leonardi</name>
+        <role>Michael Bloemstein - MNU Alien Civil Affairs</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/fSf5JpFltAeJQABdsvlfFcuWOGT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Clatworthy</name>
+        <role>MNU Doctor</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Huff</name>
+        <role>MSU Doctor</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/cg1gNFFiGNIYwB3Jm0ldtHPS4n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David James</name>
+        <role>Koobus Venter</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/vUi9xcjG9FVuLtKZF0OQfcCFZ3I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Gordon</name>
+        <role>Clive Henderson - Entomologist</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/weSmPdpAw3XnFKco5XUAoeUwyDg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Bishop</name>
+        <role>Paramedic</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anthony Fridjhon</name>
+        <role>MNU Executive</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/ncvvawJYw4cvJEAiNU6ruwOn3Np.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eugene Khumbanyiwa</name>
+        <role>Obesandjo</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/5tFZmLkYTiX9AFUJty9E66KnGbR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melt Sieberhagen</name>
+        <role>Anton Grobler</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andre Odendaal</name>
+        <role>Mike Van Kerland</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/zzu6YKNWnzyfb9s9hIFjRySSDIL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Louise Saint-Claire</name>
+        <role>MNU Medical Student</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/q67SDqx6NtQAst9WzR3EXTpFXsE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norman Anstey</name>
+        <role>MNU Lead Medical Technician</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/pmb6pFiGvtWbJLV43TgmSjrz8Gt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Boraine</name>
+        <role>Craig Weldon</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/lcuyeUFhnYVp2YdUscYNFOQxkJ3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Auret</name>
+        <role>MNU Mercenary</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/7MjyB6s1LGzDbcvm4dwKRi0QLzq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacques Gombault</name>
+        <role>MNU Mercenary</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Strydom</name>
+        <role>MNU Mercenary</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/eSsrFy98hyeAvzTIAxNp8iSdX0h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simo Mogwaza</name>
+        <role>MNU Mercenary</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt Stern</name>
+        <role>MNU Mercenary</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/kqfofe39YAKiQ6eFjaH678f9wKz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Dukas</name>
+        <role>MNU Mercenary</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/5LvqM7MOLxklChoN9BQF0KxktTz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Hadebe</name>
+        <role>MNU Guard</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/gUXxRdir1U892ArOB2CuStE7bNV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bongo Mbutuma</name>
+        <role>Nigerian Gangster</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/jByYhcxIlAdEqpGnHiLzGXsTJ2b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johnny Selema</name>
+        <role>Nigerian Gangster</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mandla Gaduka</name>
+        <role>Fundiswa Mhlanga</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/h0UZnFbBxeaF4ocH1xuHCGrtQzA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johan van Schoor</name>
+        <role>Nicolas Van De Merwe</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/mxJMWbMSEp99H91tgYi1v1Lfqet.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stella Steenkamp</name>
+        <role>Phyllis Sinderson - MNU Alien Relations</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/xgUqBEXb8v2sqCo2L9I5Stlr3hi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mampho Brescia</name>
+        <role>Reporter</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/e8HjH0CReDvJnWUqGW1sRJc47uk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morne Erasmus</name>
+        <role>MNU Medic</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hlengiwe Madlala</name>
+        <role>Sangoma</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/AoT5OJse6vb0nfAgAd1pIiawq3R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Siyabonga Radebe</name>
+        <role>Obesandjo&apos;s Lieutenant</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/szR4qtCejSsJ7iiAx12bKwmkNeI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Glauber</name>
+        <role>MNU Operating Room Doctor</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/4xSkhAaOL4eoyg9w9JbdM0gEU1V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Herbstein</name>
+        <role>MNU Biolab Technician</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sibulele Gcilitshana</name>
+        <role>Ü Günters Woman</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/bVRyvYIUS2CyTv8RSMaaMXTACGe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mahendra Raghunath</name>
+        <role>SABC Anchor Person</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phillip Mathebula</name>
+        <role>Meat Stall Seller</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Claudine Bennent</name>
+        <role>MNU Office Worker</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle Ayden</name>
+        <role>MNU Office Worker</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/fWfmS1DcvVx0AXcRus49YJO7es5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antony Sarak</name>
+        <role>MNU Office Worker</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Billy Somagaca</name>
+        <role>MNU Office Worker</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Whittal</name>
+        <role>MNU Office Worker</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Jacob</name>
+        <role>MNU Office Worker</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/xRox9zu1Ax2S1sop9mMNjN8T8Rq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yashik Maharaj</name>
+        <role>MNU Office Worker</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fernando Saraiva</name>
+        <role>MNU Office Worker</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sharon Waugh</name>
+        <role>MNU Office Worker</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Theunis Nel</name>
+        <role>MNU Mercenary</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sonni Chidiebere</name>
+        <role>MNU Mercenary</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Datnow</name>
+        <role>MNU Mercenary</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wisani Mbokota</name>
+        <role>MNU Guard</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Craig Jackson</name>
+        <role>MNU Guard</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Duplessis</name>
+        <role>MNU Guard</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rodney Downey</name>
+        <role>MNU Guard</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Den Antonakas</name>
+        <role>MNU Guard</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mashabela Galane</name>
+        <role>Nigerian Gangster</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mfazwe Sekobane</name>
+        <role>Nigerian Gangster</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Ratlou</name>
+        <role>Nigerian Gangster</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Saint Gregory Nwokedi</name>
+        <role>Nigerian Gangster</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Donalson Rabisi</name>
+        <role>Nigerian Gangster</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zephania Sibanda</name>
+        <role>Nigerian Gangster</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gideon Thodane</name>
+        <role>Nigerian Gangster</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mdu Mthabela</name>
+        <role>Nigerian Gangster</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Mikhethi</name>
+        <role>Nigerian Gangster</role>
+        <order>80</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffries Simelane</name>
+        <role>Nigerian Gangster</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shafique Allan</name>
+        <role>Nigerian Gangster</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wendy Mbatha</name>
+        <role>Nigerian Hooker</role>
+        <order>83</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leigh Mashupye</name>
+        <role>Nigerian Hooker</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beauty Setai</name>
+        <role>Nigerian Hooker</role>
+        <order>85</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nkiyase Mondlana</name>
+        <role>Nigerian Hooker</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kuda Rusike</name>
+        <role>Soweto Resident</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Morena Setatsa</name>
+        <role>Soweto Resident</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mpho Molao</name>
+        <role>Soweto Resident</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ntombi Nkuua</name>
+        <role>Soweto Resident</role>
+        <order>90</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Absalom Dikane</name>
+        <role>Soweto Resident</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Monthandazo Thomo</name>
+        <role>Soweto Resident</role>
+        <order>92</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Norman Thabalala</name>
+        <role>Soweto Resident</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Siphiwe Mbuko</name>
+        <role>Soweto Resident</role>
+        <order>94</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shiela Nene</name>
+        <role>Soweto Resident</role>
+        <order>95</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Neill Blomkamp</name>
+        <role>Man with Wikus&apos; Coordinates (uncredited)</role>
+        <order>96</order>
+        <thumb>https://image.tmdb.org/t/p/original/yj40QEEfjbRFnlwY0XunocNKdAe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Trevor Coppola</name>
+        <role>MNU Mercenary (uncredited)</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 07:46:02</dateadded>
+</movie>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>7 Seconds</title>
+    <originaltitle>7 Seconds</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>6858</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>153</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>When an experienced thief accidentally makes off with a Van Gogh, his partner is kidnapped by gangsters in pursuit of the painting, forcing the criminal to hatch a rescue plan.</plot>
+    <tagline>Timing is everything.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vWuV7fqjHtOhVIa0rxp7SYPgyzl.jpg">https://image.tmdb.org/t/p/original/vWuV7fqjHtOhVIa0rxp7SYPgyzl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yVndST6VyWIjaOJw7hvWc0prJmm.jpg">https://image.tmdb.org/t/p/original/yVndST6VyWIjaOJw7hvWc0prJmm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/VMEpy6MrnTN8rPeIQkyOxebmlW.jpg">https://image.tmdb.org/t/p/original/VMEpy6MrnTN8rPeIQkyOxebmlW.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/efidY94Lj2cqhtSDq4hqkEDJvtb.jpg">https://image.tmdb.org/t/p/original/efidY94Lj2cqhtSDq4hqkEDJvtb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/omwomAq52PJ7tTyZqqgqnM5juuq.jpg">https://image.tmdb.org/t/p/original/omwomAq52PJ7tTyZqqgqnM5juuq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0417395</id>
+    <uniqueid type="imdb" default="true">tt0417395</uniqueid>
+    <uniqueid type="tmdb">9721</uniqueid>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>Switzerland</country>
+    <credits>Martin Wheeler</credits>
+    <director>Simon Fellows</director>
+    <premiered>2005-06-28</premiered>
+    <year>2005</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Andrew Stevens Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6a8qU7Kfu-w</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5756</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Wesley Snipes</name>
+        <role>Jack Tuliver</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/uBhM3TshYvRhOewXAimtxci9bQo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamzin Outhwaite</name>
+        <role>Sgt. Kelly Anders</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/re0l5ue1jNqgHyo2TbspMrraVcp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deobia Oparei</name>
+        <role>Spanky</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/kcw8vNMlYgK8peuN80zhX6TqeNk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Georgina Rylance</name>
+        <role>Suza</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/coDjSsjfY3c8uKeNJajtBEeaCOr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pete Lee-Wilson</name>
+        <role>Alexsie Kutchinov</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Serge Soric</name>
+        <role>Mikhail</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrei Ionescu</name>
+        <role>Frank &apos;Bull&apos; Mercea</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomi Cristin</name>
+        <role>Captain Szabo</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adrian Lukis</name>
+        <role>Vanderbrink</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Boxer</name>
+        <role>Underhill</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/urPOwT7ibO58AsjWgR03JDK9PU1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Pintea</name>
+        <role>Grapini</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ebohJhbI406n7ljxQMvt2Fn7G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corey Johnson</name>
+        <role>Tool</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/gFPilsTUQlClMiXooO4Q3DSJ5Nr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Anton</name>
+        <role>Banner</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tamer Hassan</name>
+        <role>Rahood</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/5xDdmxKqRsiPVf2KQ16AK7Fmock.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Lovbrand</name>
+        <role>Bull&apos;s Widow</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Bădărău</name>
+        <role>Dr. Franz Gustav</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Armstrong</name>
+        <role>Major Wilson</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/lW4dqrVuKKi3CK094JBJedSH6Qz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Warren Derosa</name>
+        <role>Officer Johnson</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Wheeler</name>
+        <role>Cole</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elias Ferkin</name>
+        <role>Pro 1</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bogdan Farkas</name>
+        <role>Pro 2</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hawk Younkins</name>
+        <role>Brian (uncredited)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Radu Bânzaru</name>
+        <role>Security officer (uncredited)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Florian Ghimpu</name>
+        <role>Officer (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vasile Albineț</name>
+        <role>Russian (uncredited)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zoltan Butuc</name>
+        <role>Driver (uncredited)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-31 17:12:28</dateadded>
+</movie>

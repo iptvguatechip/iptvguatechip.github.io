@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Boruto: Naruto la Película</title>
+    <originaltitle>BORUTO -NARUTO THE MOVIE-</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.900000</value>
+            <votes>8176</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.800000</value>
+            <votes>608</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Han pasado algunos años desde el final de la Guerra Shinobi. Naruto Uzumaki es el séptimo Hokage de Konoha, en esta nueva era. Su hijo, Boruto Uzumaki, pronto entrará en los exámenes de Chunin, junto Sarada Uchiha y el misterioso Mitsuki.</plot>
+    <tagline></tagline>
+    <runtime>100</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/cmKBGxVSAykHsnCL27wX4PIjNZI.jpg">https://image.tmdb.org/t/p/original/cmKBGxVSAykHsnCL27wX4PIjNZI.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/q9rrfRgPUFkFqDF74jlvNYp3RpN.jpg">https://image.tmdb.org/t/p/original/q9rrfRgPUFkFqDF74jlvNYp3RpN.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lCDHgliVwofoQr394BIoHoiJ2vh.jpg">https://image.tmdb.org/t/p/original/lCDHgliVwofoQr394BIoHoiJ2vh.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/prLI2SNNkd9wcQkFh9iWXzQtR5D.jpg">https://image.tmdb.org/t/p/original/prLI2SNNkd9wcQkFh9iWXzQtR5D.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9GB2iXCPVP6bgyQXXPUchX8CD7p.jpg">https://image.tmdb.org/t/p/original/9GB2iXCPVP6bgyQXXPUchX8CD7p.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg">https://image.tmdb.org/t/p/original/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sDiq2Y8wQNC5HsIAAamk27kxQiv.jpg">https://image.tmdb.org/t/p/original/sDiq2Y8wQNC5HsIAAamk27kxQiv.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zUfAxyHUKzVh6err0dMly7ysuM3.jpg">https://image.tmdb.org/t/p/original/zUfAxyHUKzVh6err0dMly7ysuM3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fy8bBNQyKtRnznm3G3QWdu2wIC8.jpg">https://image.tmdb.org/t/p/original/fy8bBNQyKtRnznm3G3QWdu2wIC8.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4618398</id>
+    <uniqueid type="imdb" default="true">tt4618398</uniqueid>
+    <uniqueid type="tmdb">347201</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <genre>Animación</genre>
+    <country>Japan</country>
+    <set>
+        <name>Naruto - Colección</name>
+    </set>
+    <director>Hiroyuki Yamashita</director>
+    <premiered>2015-08-07</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pierrot</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qyonn5Vbg7s</trailer>
+    <actor>
+        <name>Yūko Sanpei</name>
+        <role>Uzumaki Boruto (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/l8yY22FkFhjYahlblGsLbNu0Hcn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kokoro Kikuchi</name>
+        <role>Uchiha Sarada (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ikNUd8jGFBbug9jcvWwQyDxhMk0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Junko Takeuchi</name>
+        <role>Uzumaki Naruto (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zNjrblq3xS1idpCsmSl5P5eTon7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noriaki Sugiyama</name>
+        <role>Uchiha Sasuke (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wurJc7y8bFhjtYDyEH46GOxJn9Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daisuke Namikawa</name>
+        <role>Ootsutsuki Momoshiki (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/u3G0dSOXazsERnRtVJJgdT1LVUq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akira Ishida</name>
+        <role>Gaara (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/iHExPPMgIdvAmtoHWMV74Ugq1gT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chie Nakamura</name>
+        <role>Haruno Sakura (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/evB6vKUbm0CKgBcgikPeFXdwd29.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nana Mizuki</name>
+        <role>Hyuuga Hinata (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/1h4C1kz8mziHmiB91MliTDHwgoh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazuhiko Inoue</name>
+        <role>Hatake Kakashi (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/pbtAwOl8h7JU62w0IibV024No4z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tesshou Genda</name>
+        <role>Kurama (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/7eJeYv2OCHKAadeFVdabVkpWldo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Satoshi Hino</name>
+        <role>Sai (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ayako Takeuchi</name>
+        <role>Newscaster (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ngwp0JVHQeUHwUUquOnrw8z5ERG.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-10-26 08:15:01</dateadded>
+</movie>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Scared Shrekless</title>
+    <originaltitle>Scared Shrekless</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>4301</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>231</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Shrek challenges Donkey, Puss in Boots and his other fairy tale character friends to spend the night in Lord Farquaad&apos;s haunted castle, telling scary stories to see who can resist becoming scared and stay the longest.</plot>
+    <tagline></tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lb7K0VYUvJHiZ6sy7niNbtDJwj2.jpg">https://image.tmdb.org/t/p/original/lb7K0VYUvJHiZ6sy7niNbtDJwj2.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9QXx4tS65s3oUBoQ27bMIwmBD9x.jpg">https://image.tmdb.org/t/p/original/9QXx4tS65s3oUBoQ27bMIwmBD9x.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1725156</id>
+    <uniqueid type="imdb" default="true">tt1725156</uniqueid>
+    <uniqueid type="tmdb">48466</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Gary Trousdale</credits>
+    <credits>Sean Bishop</credits>
+    <director>Raman Hui</director>
+    <director>Gary Trousdale</director>
+    <premiered>2010-10-28</premiered>
+    <year>2010</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DreamWorks Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZIbHKKXz-BE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5593</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language></language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Mike Myers</name>
+        <role>Shrek (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron Diaz</name>
+        <role>Princess Fiona (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tQNnnyIUfUcP1uXRButS3xcwBmP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Banderas</name>
+        <role>Puss in Boots (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/uqqgAdPfi1TmG3tfKfhsf20fHE6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Edwards</name>
+        <role>Donkey (voice)</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Conrad Vernon</name>
+        <role>Gingerbread Man / Muffin Man (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/c7MIz3sy6UPhBh9YnThd7j8ypdl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristen Schaal</name>
+        <role>Sugar (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/7dy6AKXVqYVizR0nXFFaHvnIuJZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cody Cameron</name>
+        <role>Pinocchio / Three Pigs (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/9mbcBkcoY64szMdBROVEQE7mn75.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Knights</name>
+        <role>Blind Mice (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/lY4SomC77NUlqPWSmhzvqLfIn8R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aron Warner</name>
+        <role>Wolf (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/8VFfsfSRKabBgRQOZ344kEgy7RX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miles Bakshi</name>
+        <role>Ogre Baby (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/6yHLUKaezNn5IJUMnHAtbtTd4BE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nina Zoe Bakshi</name>
+        <role>Ogre Baby (voice)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patty Cornell</name>
+        <role>Creepy Clockwork Chorus (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/qb9dKK5Qtr5cWhJQejbrDTxEawE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susan Fitzer</name>
+        <role>Creepy Clockwork Chorus (voice)</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Basso</name>
+        <role>Teenager (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qehEpxAtYkOskgAs6GJiuYiAZMj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Devon Werkheiser</name>
+        <role>Teenager #2 / Teenager #3 (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/d26EvfaVfDymIySVsi4d29Xey38.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-30 13:09:27</dateadded>
+</movie>

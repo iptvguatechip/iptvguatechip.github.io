@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Mi nombre es Dolemite</title>
+    <originaltitle>Dolemite Is My Name</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>50368</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>695</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuenta la historia de Rudy Ray Moore (Eddie Murphy), un artista que interpretó el rol de un proxeneta muy conocido en la década de los años 70 llamado Dolemite.</plot>
+    <tagline>Make your own legend</tagline>
+    <runtime>118</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c5GgrsNkdyJeEFiqckBKd4voaxU.jpg">https://image.tmdb.org/t/p/original/c5GgrsNkdyJeEFiqckBKd4voaxU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg">https://image.tmdb.org/t/p/original/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tXjAUisOEkf0ZJP93BTJ0oH8Vu1.jpg">https://image.tmdb.org/t/p/original/tXjAUisOEkf0ZJP93BTJ0oH8Vu1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fbIaxhgyBnmkYDRgaaKJ8XdLx0r.jpg">https://image.tmdb.org/t/p/original/fbIaxhgyBnmkYDRgaaKJ8XdLx0r.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cTuS5DJWhu1UoZVNJaUjgMNW5h7.jpg">https://image.tmdb.org/t/p/original/cTuS5DJWhu1UoZVNJaUjgMNW5h7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8FuiFasbeFQj24Vqx6JqSCqj5lO.jpg">https://image.tmdb.org/t/p/original/8FuiFasbeFQj24Vqx6JqSCqj5lO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jOwHD1j99RWglOAbnbi9M6VuB7j.jpg">https://image.tmdb.org/t/p/original/jOwHD1j99RWglOAbnbi9M6VuB7j.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iwb4je5LOPP6IyeYaa2c6Ehaaan.jpg">https://image.tmdb.org/t/p/original/iwb4je5LOPP6IyeYaa2c6Ehaaan.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ywWtiM9aUShCOMeh4IhMPiLoCFc.jpg">https://image.tmdb.org/t/p/original/ywWtiM9aUShCOMeh4IhMPiLoCFc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2ycAZWELqHygeqivCLuqNQsYPSP.jpg">https://image.tmdb.org/t/p/original/2ycAZWELqHygeqivCLuqNQsYPSP.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8526872</id>
+    <uniqueid type="imdb" default="true">tt8526872</uniqueid>
+    <uniqueid type="tmdb">528888</uniqueid>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <genre>Historia</genre>
+    <country>United States of America</country>
+    <credits>Scott Alexander</credits>
+    <credits>Larry Karaszewski</credits>
+    <director>Craig Brewer</director>
+    <premiered>2019-10-04</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Davis Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZEOMg1ffNoU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.000000</aspect>
+                <width>1920</width>
+                <height>960</height>
+                <durationinseconds>7096</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Eddie Murphy</name>
+        <role>Rudy Ray Moore</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keegan-Michael Key</name>
+        <role>Jerry Jones</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Epps</name>
+        <role>Jimmy Lynch</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Robinson</name>
+        <role>Ben Taylor</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/nWZI2ghokrha2lYnr5Z48agItL7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tituss Burgess</name>
+        <role>Theodore Toney</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/aSgNPpLPp8Ou1X6qHdSP6Sq7Gju.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Da&apos;Vine Joy Randolph</name>
+        <role>Lady Reed</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/iM2IKOR68ReYpVArNwRUtT0Uk4R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kodi Smit-McPhee</name>
+        <role>Nick von Sternberg</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/69ggDmbcUWHuRXeg3LAgjroOPD3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Snoop Dogg</name>
+        <role>Roj</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/4Ncd5NL9qg63B0rfWCyiRX7v1Ez.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Cephas Jones</name>
+        <role>Rico</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/lFsBD2OjBEqTcGdq7bL7yKhNYID.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Shabaka Henley</name>
+        <role>Demond</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>T.I.</name>
+        <role>Walter Crane</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/dHnR4QavU2ILjvbr3SXBh4cJSdJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luenell</name>
+        <role>Aunt</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Mz0UEpcu1PHftgmKgoEhSSaiiA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tasha Smith</name>
+        <role>Jimmy&apos;s Wife</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/ebveEoOGHaTnRSsVcIsEMmFsFEC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wesley Snipes</name>
+        <role>D’Urville Martin</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/uBhM3TshYvRhOewXAimtxci9bQo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Rock</name>
+        <role>Bobby Vale</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aleksandar Filimonović</name>
+        <role>Joseph Bihari</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ivo Nandi</name>
+        <role>Jules Bihari</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/mQ3G9nLCLtfcMDEm4Is9zVzwapE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Peter Bolus</name>
+        <role>Lester Bihari</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kazy Tauginas</name>
+        <role>Saul Bihari</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/xjyyAgBORgnsBzC4yq4v0hGCdlz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>B.J. Bingham</name>
+        <role>Dolphin Customer</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Claude Phillips</name>
+        <role>Hobo #1</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arthur Fuller</name>
+        <role>Hobo #2</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jill Savel</name>
+        <role>White Actress</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Baker Chase Powell</name>
+        <role>Steven Dodd</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/sEqFcESUZqeWIkMfmeBSq8kQZvj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Monfries</name>
+        <role>White Boy #2</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Michael Herndon</name>
+        <role>Middle Aged Actor / Warden</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/bvga7SnZluLMYHqwYBG3VSigQqK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jernard Burks</name>
+        <role>Club Owner</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/qllyoFXhAjdzWuh5fA7zhlOwCC1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Monique StaTeena</name>
+        <role>D&apos;Urville&apos;s Date</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/ubumPLWcEtzUmRYD5w2WFK1TFcq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Weinstein</name>
+        <role>John McCarthy</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Allen Rueckert</name>
+        <role>Allan Jon Fox</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerald Downey</name>
+        <role>Bob Brooks</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/8yCC7RJc02xoyff3s0Jd4J9KqAR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bernadine Durham</name>
+        <role>Mom</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bobby Milhouse</name>
+        <role>Boy&apos;s Father</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lamar Edwards</name>
+        <role>Ben Taylor&apos;s Band - Keyboard</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos McSwain</name>
+        <role>Ben Taylor&apos;s Band - Band Drums</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Owens</name>
+        <role>Ben Taylor&apos;s Band - Bass</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chucc Hamilton</name>
+        <role>Ben Taylor&apos;s Band - Guitar</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Ford III</name>
+        <role>Ben Taylor&apos;s Band - Trumpet #1</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Johnny Britt</name>
+        <role>Ben Taylor&apos;s Band - Trumpet #2</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wendell Kelly</name>
+        <role>Ben Taylor&apos;s Band - Trombone</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amy Keys</name>
+        <role>Ben&apos;s Revelation Funk Band Female Backup Singer #1</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maiya Sykes</name>
+        <role>Ben&apos;s Revelation Funk Band Female Backup Singer #2</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nayanna Holley</name>
+        <role>Ben&apos;s Revelation Funk Band Female Backup Singer #3</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward Rudell Johnson</name>
+        <role>Ben&apos;s Revelation Funk Band Male Backup Singer #1</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Fluker</name>
+        <role>Ben&apos;s Revelation Funk Band Male Backup Singer #2</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lamar Usher</name>
+        <role>Black DJ #1</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/2qAHLTa2QtkZn2zS0FcztoP0jPG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akono Dixon</name>
+        <role>Agitated Young Man</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Milan Carter</name>
+        <role>Larry Munn</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/4HI0UbUT0cNid6mAXCeKZKQYyUE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>deMann</name>
+        <role>Scott Still</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kezii Curtis</name>
+        <role>Boy</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Krystian Alexander Lyttle</name>
+        <role>Lady Reed&apos;s Son</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sade E. Moore</name>
+        <role>Stripper and Whore #1</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/mzMB247eVEdDrOq6SBVSByKpTF0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chelsea Gilson</name>
+        <role>Carrie Mills</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/hlq8a03SBGgkkw021T9mAUOO4RI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cheryl Francis Harrington</name>
+        <role>Box Office Lady</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/2y4LfvGcE2Hh0lFaqQnIbiL6pJ7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toni Duclottni</name>
+        <role>Crystal</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/pHg6JlxFqxv6K5pF1rN3UxFsgR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garland Whitt</name>
+        <role>Theatre Manager</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/cFzmy8qNphjvsMtblejp1KOc9gH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cole McKay</name>
+        <role>FBI Agent #1</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Saudia Rashed</name>
+        <role>Chantel Apodaca</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dale Gibson</name>
+        <role>FBI Agent #2</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/tSO5Qx3X3HS93odAi9jdQ5YlmWz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil Abrams</name>
+        <role>Lou Drozen</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Quartay Denaya</name>
+        <role>Pretty Girl</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/1nL5YmaFyAdALLmAoJVgOneEPtY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobby Rush</name>
+        <role>Bobby Rush</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Cornelison</name>
+        <role>Bobby Rush&apos;s Band - Guitar</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lyndon Rochelle</name>
+        <role>Bobby Rush&apos;s Band - Drums</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edwin Livingston</name>
+        <role>Bobby Rush&apos;s Band - Bass</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Damon Wilson</name>
+        <role>Bobby Rush&apos;s Band - Keyboard</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jimmie Kirkpatrick</name>
+        <role>Bobby Rush&apos;s Band - Trumpet</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gina Lohman</name>
+        <role>Irritable White Lady</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nikol Davis</name>
+        <role>Woman in Tallahassee Juke Joint</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bubba Ganter</name>
+        <role>Heavy Set Man</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/22OSzM6JCFdh1tRcZ2VH6wamo1V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfonso Christian Lover</name>
+        <role>Manager</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dorothy Schock</name>
+        <role>Old Lady</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Demetrius Hodges</name>
+        <role>Movie Goer</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Reed</name>
+        <role>Club Ebony Band - Keyboard</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Stewart</name>
+        <role>Club Ebony Band - Drums</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/bwUrKMsM7bIKFiAZAU1Mr0YldlW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Budda Foster</name>
+        <role>Club Ebony Band - Mandolin</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Amerson</name>
+        <role>Guitar Player Tallahassee</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yena Kim</name>
+        <role>Sound Mixer</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor Ellington</name>
+        <role>P.A.</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Megan McEwen</name>
+        <role>Script Supervisor</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Jablonsky</name>
+        <role>FX Tech</role>
+        <order>80</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Campbell</name>
+        <role>Drummer #1</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sidney Hopson</name>
+        <role>Drummer #2</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Catrina Gaston</name>
+        <role>Fan #3</role>
+        <order>83</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erik Kilpatrick</name>
+        <role>Street Guy #1</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Myles Williamson</name>
+        <role>Owen</role>
+        <order>85</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rob Smith</name>
+        <role>Professional Engineer</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David B. Lyons</name>
+        <role>Commercial Engineer</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tommie Earl Jenkins</name>
+        <role></role>
+        <order>88</order>
+        <thumb>https://image.tmdb.org/t/p/original/kl2dzZU3p6pOjuKBi52wOnEGvEp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonel Claude</name>
+        <role>Smoo Ji</role>
+        <order>89</order>
+        <thumb>https://image.tmdb.org/t/p/original/A91JucMUnDKmmSvjFjPMrJaNryV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Craven</name>
+        <role>Colton Silverman</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/qIVmAk1zbZtWzV1vSkKn6tp1WkX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Li Eubanks</name>
+        <role>Donna</role>
+        <order>91</order>
+        <thumb>https://image.tmdb.org/t/p/original/4Z37d5BRNlMXigH5UGv9Kbym1es.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Denise Milfort</name>
+        <role>Charline</role>
+        <order>92</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jamaal Lewis</name>
+        <role>Dolphin Records Man</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Odenkirk</name>
+        <role>Lawrence</role>
+        <order>94</order>
+        <thumb>https://image.tmdb.org/t/p/original/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>A.J. Tannen</name>
+        <role>Randall Spade</role>
+        <order>95</order>
+        <thumb>https://image.tmdb.org/t/p/original/k58kqy45lXkeT3btuZEYHpZXpgV.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-05 19:04:30</dateadded>
+</movie>

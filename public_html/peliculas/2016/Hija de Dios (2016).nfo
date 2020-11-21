@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hija de Dios</title>
+    <originaltitle>Exposed</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.300000</value>
+            <votes>13572</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.900000</value>
+            <votes>354</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de ser testigo de un milagro, una joven latina experimenta cosas extrañas mientras que un detective intenta descubrir la verdad detrás de la muerte de su compañero.</plot>
+    <tagline>Drama. Thriller | Crimen</tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nM26QosEfgjEegONCiNNrYMBTxD.jpg">https://image.tmdb.org/t/p/original/nM26QosEfgjEegONCiNNrYMBTxD.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/niGowOt2WKLTi1QaYcF4HDPprjj.jpg">https://image.tmdb.org/t/p/original/niGowOt2WKLTi1QaYcF4HDPprjj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uplL9EPkWdHurzgxSLIi4wNECeP.jpg">https://image.tmdb.org/t/p/original/uplL9EPkWdHurzgxSLIi4wNECeP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j7xtt1lTvqInvyAke7RfrhzTEQ6.jpg">https://image.tmdb.org/t/p/original/j7xtt1lTvqInvyAke7RfrhzTEQ6.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4019560</id>
+    <uniqueid type="imdb" default="true">tt4019560</uniqueid>
+    <uniqueid type="tmdb">331962</uniqueid>
+    <genre>Drama</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Gee Malik Linton</credits>
+    <director>Gee Malik Linton</director>
+    <premiered>2016-01-22</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Remark Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=su72UDDUPko</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6113</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Keanu Reeves</name>
+        <role>Detective Scott Galban</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rRdru6REr9i3WIHv2mntpcgxnoY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana de Armas</name>
+        <role>Isabel de La Cruz</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/14uxt0jH28J9zn4vNQNTae3Bmr7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mira Sorvino</name>
+        <role>Janine Cullen</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/nThgMCWdMpNgjGmHQrKMUAYKoQa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher McDonald</name>
+        <role>Lt. Galban</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/bOKl8EPOKe0oWD15HxUKH1ugesg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Gómez</name>
+        <role>Eva</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/xdZFWQmttxlpG2aKCYdM7PanDZ2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandy Tejada</name>
+        <role>Yesenia</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/o5Xzvh3o1XNmdnv2l8sPPdM86KC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Hoch</name>
+        <role>Joey Cullen</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/mbV5Ks15q0OMByJlvaerHt7XKFM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ismael Cruz Córdova</name>
+        <role>Jose de La Cruz</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/gx59ZkpGgGLEH79ciDgyWpUG8nt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Big Daddy Kane</name>
+        <role>Black</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melissa Linton</name>
+        <role>Detective Ramirez</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Rispoli</name>
+        <role>Detective Dibronski</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Denia Brache</name>
+        <role>Gloria de La Cruz</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Venus Ariel</name>
+        <role>Elisa</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/j9wWDRdD2uA8ocNJWBBaeIjAvvr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabe Vargas</name>
+        <role>Manuel &apos;Rocky&apos; De La Cruz</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ariel R. Pacheco</name>
+        <role>Naldo</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Thompson</name>
+        <role>Albino Floating Man</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clara Wong</name>
+        <role>Albino Woman</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/5QbQQh3DqiQDkfRbuUIiwhU0x8E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeanette Dilone</name>
+        <role>Marisol De La Cruz</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Guzman</name>
+        <role>Gucci De La Cruz</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leopold Manswell</name>
+        <role>Kendu Wallace</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justice Quiroz</name>
+        <role>Rafael</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gilbert Cruz</name>
+        <role>Grandfather</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louis Martinez</name>
+        <role>Big Pete</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amaurys Rodriguez</name>
+        <role>Rufy</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Ojeda Astigarraga</name>
+        <role>Sal</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shirley Roeca</name>
+        <role>Day Care Mother</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/lop3p6uteg7uW4MSCR80DWaufvh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jewel Donohue</name>
+        <role>Doctor Alain</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Monte Greene</name>
+        <role>Anthony Galban</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julissa Roman</name>
+        <role>Rosa</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nelson Landrieu</name>
+        <role>Luca</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/d1s2tLwb81UX8HhnMQUg0jXno9R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Polk</name>
+        <role>Martin Himmel</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brianne Berkson</name>
+        <role>Sales Girl (uncredited)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Conboy</name>
+        <role>New York City Police Officer (uncredited)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrea Lynn Green</name>
+        <role>Female Officer (uncredited)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pablo Gonzalez</name>
+        <role>Munchy</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/oqs2Xl7U6XomCfwyk2fcMoTjbiX.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 11:59:14</dateadded>
+</movie>

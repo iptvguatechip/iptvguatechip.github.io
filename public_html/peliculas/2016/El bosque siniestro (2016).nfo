@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El bosque siniestro</title>
+    <originaltitle>The Forest</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>39667</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.100000</value>
+            <votes>1277</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Ubicado en el bosque Aokigahara, un sitio existente en Japón donde las personas van a terminar con su vida. En contra de las opiniones de sus conocidos, una joven americana va a buscar a su hermana gemela, quien misteriosamente desaparece dentro de este bosque.</plot>
+    <tagline>Una mujer se adentra en el Bosque del Suicidio Japones para encontrar a su hermana gemela, y confrontar el terror sobrenatural.</tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bDvt0kVvdO0NsIM8xZve7qHjjim.jpg">https://image.tmdb.org/t/p/original/bDvt0kVvdO0NsIM8xZve7qHjjim.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xrk5IwznK8x5kR2BlBYdu2H5GcI.jpg">https://image.tmdb.org/t/p/original/xrk5IwznK8x5kR2BlBYdu2H5GcI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vhxau2JGSVqzQnH3neRWXRDj84l.jpg">https://image.tmdb.org/t/p/original/vhxau2JGSVqzQnH3neRWXRDj84l.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gevSrXe80v51mrE9bTk5eO1dLdU.jpg">https://image.tmdb.org/t/p/original/gevSrXe80v51mrE9bTk5eO1dLdU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vkdtZFYMLjy3pUe2z0uoeJGDCyl.jpg">https://image.tmdb.org/t/p/original/vkdtZFYMLjy3pUe2z0uoeJGDCyl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2rXtdvKiXb61GwifLEfnrDUkwYR.jpg">https://image.tmdb.org/t/p/original/2rXtdvKiXb61GwifLEfnrDUkwYR.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tyUPdBfpFFuSskF28UtdRSmVOyh.jpg">https://image.tmdb.org/t/p/original/tyUPdBfpFFuSskF28UtdRSmVOyh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/c6GGumaw3bvhX15NXK30heuCnaC.jpg">https://image.tmdb.org/t/p/original/c6GGumaw3bvhX15NXK30heuCnaC.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3387542</id>
+    <uniqueid type="imdb" default="true">tt3387542</uniqueid>
+    <uniqueid type="tmdb">329440</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <genre>Misterio</genre>
+    <country>United States of America</country>
+    <credits>Ben Ketai</credits>
+    <credits>Nick Antosca</credits>
+    <credits>Sarah Cornwell</credits>
+    <director>Jason Zada</director>
+    <premiered>2016-01-07</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lava Bear Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lBgKi0XVn4A</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5597</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Natalie Dormer</name>
+        <role>Sara / Jess Price</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/3OlkHjDKDj9NKkFWXfLk7gcb2C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Kinney</name>
+        <role>Aiden</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/zpeJHKf73rnxd4Dvq3lfAkX6Zkq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yukiyoshi Ozawa</name>
+        <role>Michi</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/oCwnJTgmk3m7yLWFmftDutMqUKN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eoin Macken</name>
+        <role>Rob</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/m8JLsLDaZCjHiOtaPkUfwG2yvAx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gen Seto</name>
+        <role>Narusawa Bartender</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qenCqE1mSyIqsKmLO6CZvypT6Sf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rina Takasaki</name>
+        <role>Hoshiko</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Noriko Sakura</name>
+        <role>Mayumi</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/jEKfqYHBFQoidjAuEV540xekNe7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yûho Yamashita</name>
+        <role>Sakura</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/SjPX15it8J1DGOw4YcrLFY9lDO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Vogt</name>
+        <role>Valerie</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Masashi Fujimoto</name>
+        <role>Yurei (uncredited)</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Meg Kubota</name>
+        <role>Ubasute Old Woman #2</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tatsujiro Oto</name>
+        <role>Yurei (uncredited)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/lDQqc7Vw3loMeyHo2s4Gm8OSqnb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nadja Mazalica</name>
+        <role>Sara / Jess (Age 6)</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Owen</name>
+        <role>Peter (uncredited)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Terry Diab</name>
+        <role>Grandma</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kikuo Ichikawa</name>
+        <role>Businessman</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Akiko Iwase</name>
+        <role>Head Teacher</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/z9YErXBWWnF51QGFIiQ6zaWNkfV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jozef Aoki</name>
+        <role>Visitor Center Morgue Man</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Osamu Tanpopo</name>
+        <role>Homeless Man</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yasuo Tobishima</name>
+        <role>Sushi Chef</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ibuki Kaneda</name>
+        <role>Mei (Schoolgirl)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lidija Antonic</name>
+        <role>Mother of Sara / Jess</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Takako Akashi</name>
+        <role>Ubasute Old Woman #1</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yuriri Naka</name>
+        <role>Narusawa Young Woman</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nemanja Naumoski</name>
+        <role>Pillowcase Man</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tales Yamamoto</name>
+        <role>Blue Tent Man</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mieko Wertheim</name>
+        <role>Ubasute Old Woman #3</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Čarni Đerić</name>
+        <role>Father of Sara / Jess</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yoshio Hasegawa</name>
+        <role>Aokigahara Police Sergeant</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shintaro Taketani</name>
+        <role>Yurei (uncredited)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Misaki Ishii</name>
+        <role>Airport Girl 2 (uncredited)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/3GR3rPKTGhuGnHAvikYYU1NvFNR.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 20:57:32</dateadded>
+</movie>

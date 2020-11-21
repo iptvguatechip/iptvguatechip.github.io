@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Habitación verde</title>
+    <originaltitle>Green Room</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>105689</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>1728</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Los miembros de una banda de punk presencian un asesinato en un bar de neonazis. Encerrados en una habitación del recinto, el dueño del bar no quiere dejar testigos del crimen, por lo que deberán luchar por sus vidas. Asediados por la banda de cabezas rapadas, sus opciones son escapar o morir.</plot>
+    <tagline>One way in. No way out.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1DZkTrukHOk0Y2Q1Oeqj3HBxpVD.jpg">https://image.tmdb.org/t/p/original/1DZkTrukHOk0Y2Q1Oeqj3HBxpVD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rbIQqzwjARLEAZFJXQAtIMSYCbL.jpg">https://image.tmdb.org/t/p/original/rbIQqzwjARLEAZFJXQAtIMSYCbL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/omBLcuD8tlLmhT9PLdTTZVBDZgR.jpg">https://image.tmdb.org/t/p/original/omBLcuD8tlLmhT9PLdTTZVBDZgR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5ufxTGWd9EZc2c0Cstr6XzTQTTP.jpg">https://image.tmdb.org/t/p/original/5ufxTGWd9EZc2c0Cstr6XzTQTTP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oZ8SHw6p6Q3ZQjA5gm7RWk5FPOI.jpg">https://image.tmdb.org/t/p/original/oZ8SHw6p6Q3ZQjA5gm7RWk5FPOI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eI1GJVJXi3FT1yfFuMEebqGhGRs.jpg">https://image.tmdb.org/t/p/original/eI1GJVJXi3FT1yfFuMEebqGhGRs.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wODo55zAJPauWXVPX63FK2UmTJO.jpg">https://image.tmdb.org/t/p/original/wODo55zAJPauWXVPX63FK2UmTJO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9dVVoTUvJyBdpqAFNhWm70fNKiu.jpg">https://image.tmdb.org/t/p/original/9dVVoTUvJyBdpqAFNhWm70fNKiu.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4062536</id>
+    <uniqueid type="imdb" default="true">tt4062536</uniqueid>
+    <uniqueid type="tmdb">313922</uniqueid>
+    <genre>Terror</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Jeremy Saulnier</credits>
+    <director>Jeremy Saulnier</director>
+    <premiered>2016-04-15</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>filmscience</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yKdVYUXyBzU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5701</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Anton Yelchin</name>
+        <role>Pat</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/oljx2qhWNDTqW4l3ZT11tjB3qW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Imogen Poots</name>
+        <role>Amber</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kJOUQP0I5HzyenTLWUTCdx6mIAk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alia Shawkat</name>
+        <role>Sam</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/aUc0hlILKfDKhlKnWQliGjkQL9a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Cole</name>
+        <role>Reece</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/33oo1eKMjLtknBWJBqtWvJQ8Xgv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Callum Turner</name>
+        <role>Tiger</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/s0QRTZUN2chqHLQdCtKP22CvCsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Stewart</name>
+        <role>Darcy</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Webber</name>
+        <role>Daniel</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/kCpXM6Bmj5pZPVeu7MmQxQWYry7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Edelstein</name>
+        <role>Big Justin</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQN5B3T2fepG81NFBD7Y2ODoGKv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Macon Blair</name>
+        <role>Gabe</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/8IhZDzUIljLk6AZRXlB07sD06T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kai Lennox</name>
+        <role>Clark</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/bpwqiHG7FXsUmHyyFlQopQSpJIg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David W. Thompson</name>
+        <role>Tad</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/12HxscNCdWQTzweC6kjgRqETzzD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Draper</name>
+        <role>Stagehand</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/sDqOVhPMOeqtFcXSiWTWO38bUBO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Copeland</name>
+        <role>Stage Manager</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brent Werzner</name>
+        <role>Werm</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lj Klink</name>
+        <role>Guitarist (as LJ Klink)</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kasey Brown</name>
+        <role>Drummer</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor Tunes</name>
+        <role>Emily</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/mktpXvTviEXnpCfRrT6k94Qbeop.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Love</name>
+        <role>Twin #1</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kyle Love</name>
+        <role>Twin #2</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>October Moore</name>
+        <role>Cop #1</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph Bertót</name>
+        <role>Cop #2 (as Joseph Bertot)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/249RDdpYBmLaIbJ7xMFZvBu0xLH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Kasch</name>
+        <role>Bartender</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samuel Summer</name>
+        <role>Jonathan</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mason Knight</name>
+        <role>Kyle</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Colton Ruscheinsky</name>
+        <role>Alan</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 07:32:49</dateadded>
+</movie>

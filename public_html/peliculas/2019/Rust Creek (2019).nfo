@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Rust Creek</title>
+    <originaltitle>Rust Creek</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>5274</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>86</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una mala decisión en la carretera provoca que Sawyer, una joven que se dirige a una entrevista laboral, se pierda en un bosque helado en el que se oculta una banda de criminales. Entrar fue un error, salir con vida del bosque será un milagro.</plot>
+    <tagline>Choose your prey carefully</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lrsPIRkKZWTKbd3C0sSj7a3lMES.jpg">https://image.tmdb.org/t/p/original/lrsPIRkKZWTKbd3C0sSj7a3lMES.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rd8kbkcvdNTByYKDqY2FyxlhhCy.jpg">https://image.tmdb.org/t/p/original/rd8kbkcvdNTByYKDqY2FyxlhhCy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9Jpw5MZT9EDvgSNBrsL8C36NS4O.jpg">https://image.tmdb.org/t/p/original/9Jpw5MZT9EDvgSNBrsL8C36NS4O.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4QgaoqiU5vkZSciOVDgAWPyE6oJ.jpg">https://image.tmdb.org/t/p/original/4QgaoqiU5vkZSciOVDgAWPyE6oJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qajQCk8HwvdkBSddv6vhSmPDhm5.jpg">https://image.tmdb.org/t/p/original/qajQCk8HwvdkBSddv6vhSmPDhm5.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nII5jvAXXk3fFxqeaSEIkjT8czi.jpg">https://image.tmdb.org/t/p/original/nII5jvAXXk3fFxqeaSEIkjT8czi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xmLLkEhqIw0Me0wgO9ZhtP0MW7U.jpg">https://image.tmdb.org/t/p/original/xmLLkEhqIw0Me0wgO9ZhtP0MW7U.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mVqywOWO4paFr3B7QuUH9zKAvAk.jpg">https://image.tmdb.org/t/p/original/mVqywOWO4paFr3B7QuUH9zKAvAk.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6610158</id>
+    <uniqueid type="imdb" default="true">tt6610158</uniqueid>
+    <uniqueid type="tmdb">561362</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Julie Lipson</credits>
+    <director>Jen McGowan</director>
+    <premiered>2019-01-04</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lunacy Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5sLIwhkWS3c</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6488</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Hermione Corfield</name>
+        <role>Sawyer</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/rX45K3pfyXDXruVRmlDmvMzCLvF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Paulson</name>
+        <role>Lowell</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean O&apos;Bryan</name>
+        <role>Sheriff O&apos;Doyle</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5CZMf2bRnV9o5kcylbtUPlSbI7P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Micah A. Hauptman</name>
+        <role>Hollister</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel R. Hill</name>
+        <role>Buck</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/itqaxSHj43QAe58m4ktf0Xiu7sm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Glazer</name>
+        <role>Katz</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Marshall Jones</name>
+        <role>Slattery</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8aQ8qxVOeUx23Jw89ouj9gOwy1W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Kidwell</name>
+        <role>Josh</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/tQmWXv5G2nwXy1YCFfrOr8W5DS8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Virginia Schneider</name>
+        <role>Donna</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Denise Dal Vera</name>
+        <role>Mrs. Gander</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laura Guzman</name>
+        <role>Charlotte</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/AwuLqufMlpyrD7Og8wjCQs6HME4.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 20:41:40</dateadded>
+</movie>

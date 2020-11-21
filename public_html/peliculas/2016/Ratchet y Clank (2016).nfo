@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ratchet y Clank</title>
+    <originaltitle>Ratchet &amp; Clank</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>9761</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>438</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La cinta seguirá a dos héroes que luchan por detener a un alienígena llamado Drek, quien pretende destruir todos los planetas de la galaxia Solana. Ratchet es el último de su especie, una raza bípeda, humanoide e híbrida de varios felinos llamados «lombax» que ha crecido solo en un planeta asolado. Junto con un robot llamado Clank emprenderán una aventura donde conocerán la importancia de la amistad y de descubrir su propia identidad.</plot>
+    <tagline>Ready to kick some asteroid!</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vS6BgPO974eTmHeteU9greJZv4D.jpg">https://image.tmdb.org/t/p/original/vS6BgPO974eTmHeteU9greJZv4D.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9qV7qgEEis1zHj6ALmQ846AE48B.jpg">https://image.tmdb.org/t/p/original/9qV7qgEEis1zHj6ALmQ846AE48B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w4oSMZAYtQnxJNWKT8VfmuyIBdb.jpg">https://image.tmdb.org/t/p/original/w4oSMZAYtQnxJNWKT8VfmuyIBdb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7mHuBahDM3ZZYhkeWsfbBnp3JJl.jpg">https://image.tmdb.org/t/p/original/7mHuBahDM3ZZYhkeWsfbBnp3JJl.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jXuXRWXxTfLVvZOq8mNAbh7yPLV.jpg">https://image.tmdb.org/t/p/original/jXuXRWXxTfLVvZOq8mNAbh7yPLV.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2865120</id>
+    <uniqueid type="imdb" default="true">tt2865120</uniqueid>
+    <uniqueid type="tmdb">234004</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>Canada</country>
+    <credits>Kevin Munroe</credits>
+    <credits>Gerry Swallow</credits>
+    <credits>T.J. Fixman</credits>
+    <director>Kevin Munroe</director>
+    <director>Jericca Cleland</director>
+    <premiered>2016-04-13</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Rainmaker Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=55hI1e4spqY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5647</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jim Ward</name>
+        <role>Captain Qwark (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yQklzBUmaHbcS00DXq73J1HYUrE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Kaye</name>
+        <role>Clank (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/izxtFSio5twcVA1oJWPvobxpcZj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sylvester Stallone</name>
+        <role>Victor Von Ion (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosario Dawson</name>
+        <role>Elaris (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9MyVwYM5JiMnQvNiRVwX5k7Y5m5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Goodman</name>
+        <role>Grimroth (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bella Thorne</name>
+        <role>Cora (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jDbek5k4nf5OzvO4zuVuheKN08f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Giamatti</name>
+        <role>Chairman Drek (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Arnold Taylor</name>
+        <role>Ratchet (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Armin Shimerman</name>
+        <role>Dr. Nefarious (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntubNSuRnJ7icAEGj6JYEeguzTn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc Graue</name>
+        <role>Mr. Zurkon (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/sUr31E6mltWvGkdyKKpxnlHwOzz.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:09</dateadded>
+</movie>

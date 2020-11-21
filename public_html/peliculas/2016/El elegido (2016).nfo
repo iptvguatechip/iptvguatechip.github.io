@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El elegido</title>
+    <originaltitle>El elegido</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>756</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>23</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>España, 1937. Ramón Mercader, un joven combatiente comunista, es reclutado y entrenado por el servicio de inteligencia soviético para participar en una misión de alto secreto ordenada por el dictador Iósif Stalin: asesinar a su antiguo rival político, León Trotsky, que vive exiliado en México.</plot>
+    <tagline>Obedecer o traicionar. No hay alternativa.</tagline>
+    <runtime>111</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cuzLfRb8YMrTSAOqAvwZ59jYp8A.jpg">https://image.tmdb.org/t/p/original/cuzLfRb8YMrTSAOqAvwZ59jYp8A.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rrOj10s3TQa01qRs7QXVnOqU3bd.jpg">https://image.tmdb.org/t/p/original/rrOj10s3TQa01qRs7QXVnOqU3bd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AtYA16xoC7WMwJP6jxQPcoRzWWx.jpg">https://image.tmdb.org/t/p/original/AtYA16xoC7WMwJP6jxQPcoRzWWx.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yXIKNpRYNJvsysKS3wkulEflZin.jpg">https://image.tmdb.org/t/p/original/yXIKNpRYNJvsysKS3wkulEflZin.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hCH61VMldl5aQTeR8Kp2U01ZBNL.jpg">https://image.tmdb.org/t/p/original/hCH61VMldl5aQTeR8Kp2U01ZBNL.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4547514</id>
+    <uniqueid type="imdb" default="true">tt4547514</uniqueid>
+    <uniqueid type="tmdb">387940</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <genre>Suspense</genre>
+    <country>Mexico</country>
+    <credits>Antonio Chavarrías</credits>
+    <director>Antonio Chavarrías</director>
+    <premiered>2016-09-02</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Oberón Cinematográfica</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0g_mr6Petxo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6717</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Alfonso Herrera</name>
+        <role>Ramón Mercader</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/h7WJDvUFUMDA4UUnVKS34JyYJVy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Murray</name>
+        <role>Sylvia Ageloff</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kbD8Plq6EC8K9d6hsPb2DcS56gv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Goodman</name>
+        <role>Trotsky</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/5GTCMmzXa68PmitzuEyEpvjUUxO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Sands</name>
+        <role>Kotov</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elvira Mínguez</name>
+        <role>Caridad Mercader</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cgzCJ5ewByXizdXDCjQ0MGS2laQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilio Echevarría</name>
+        <role>Salazar</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/akCnmsqWGgxIGslTFlcEe78uxdr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frances Barber</name>
+        <role>Natalia Sedova</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/j4vvOB1GPVDqFJYEp56v23CF0CW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alejandro Calva</name>
+        <role>Siqueiros</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/gnBcWg6UsXh4C8HsLcIohYtyubw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Casamajor</name>
+        <role>Carles Vidal</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/1UQozr5Y4C9HlFAWvsjsLPvThLF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Javier Godino</name>
+        <role>Costa</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/qwXxX6gKIphuCXJ2wgeROPjIdic.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toby Harper</name>
+        <role>Robins</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Holtmann</name>
+        <role>Sheldon</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brontis Jodorowsky</name>
+        <role>Otto</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/slgotPPxOycH80huLLVhZ4fpp8R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gustavo Sánchez Parra</name>
+        <role>Balderas</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ymg31PTbKfOxE7jV4QSgtCZKPbg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Humberto Busto</name>
+        <role>Homero</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/uFFwrUoVjd2jpcx0Wu4CP1xy5fu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenny Beacraft</name>
+        <role>Ruby Weill</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan Carlos Remolina</name>
+        <role>Estrada</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Guillermo Ríos</name>
+        <role>&apos;El Negro&apos;</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/9wtf0Oes040Vou7emxFDUddlz1N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Hevia</name>
+        <role>Herrera</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Javier Molina</name>
+        <role>Rosell</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Nikolas</name>
+        <role>Pablo</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/4b8ugGK6TsVvGGjTCqA7MchBYoh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucas Anaya</name>
+        <role>Sieva</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ainhoa García Forcada</name>
+        <role>Carmen</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Corona</name>
+        <role>Man in Hat</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alondra Hidalgo</name>
+        <role>Amparo</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fermín Martínez</name>
+        <role>Sergeant</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gilberto Barraza</name>
+        <role>Uniformed Man A</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Evaristo Valverde</name>
+        <role>Sergeant Commander</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Memo Villegas</name>
+        <role>Uniformed Commander</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Algis Arlauskas</name>
+        <role>General</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/gonuqI1sn4WZZVLutH3UgGq0EOb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaime Estrada</name>
+        <role>Cabaret Waiter</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Víctor Benjumea</name>
+        <role>GPU Interrogator</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Xavier Ruano</name>
+        <role>GPU Man</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mykola Doroshenko</name>
+        <role>Soviet Field Marshal #1</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darko Pilipovic</name>
+        <role>Soviet Field Marshal #2</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Colin Morgan</name>
+        <role>Comtesse Waiter</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/jeSLhhfUIZR3UQGGhtYTk0J2I5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Theis</name>
+        <role>Schnautz</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aleh Khaliankou</name>
+        <role>GPU Instructor</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Raúl Briones Carmona</name>
+        <role>Melquíades</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tania Olhovich</name>
+        <role>Trotsky&apos;s Secretary</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luis Miguel Costero L.</name>
+        <role>Hansen</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Camilla Brett</name>
+        <role>Greta</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enrique Greiner</name>
+        <role>Cooper</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marcia Seeman</name>
+        <role>Helen</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gastón Yanes</name>
+        <role>Leopoldo Rosmer</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ramón Madaula</name>
+        <role>Narrator (voice)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Giménez Cacho</name>
+        <role>Narrator (voice)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/igRy8sO4Jahhl2KbPT548oBacuG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vladimir Lenin</name>
+        <role>Himself - Politician (archive footage)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/bdYa6BSGbENc815IIggRXbBs3qx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leon Trotsky</name>
+        <role>Himself - Politician (archive footage)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph Stalin</name>
+        <role>Himself - Politician (archive footage)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/ilFAoBqA3NgAzJWJtjaRbq3YLDJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalia Sedova</name>
+        <role>Herself - Trotsky&apos;s Wife (archive footage)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 13:59:02</dateadded>
+</movie>

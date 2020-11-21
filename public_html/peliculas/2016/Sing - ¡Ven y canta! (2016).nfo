@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Sing: ¡Ven y canta!</title>
+    <originaltitle>Sing</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>131260</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>5616</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Buster Moon es un elegante koala que regenta un teatro que conoció tiempos mejores. Buster es un optimista nato, lo que está muy bien si no fuera un poco sinvergüenza, que ama a su teatro con pasión y es capaz de cualquier cosa para salvarlo. Sabe que el sueño de su vida está a punto de desaparecer y solo tiene una oportunidad para mantenerlo a flote: producir el concurso de canto más grande del mundo.</plot>
+    <tagline>Auditions begin 2016.</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/h151oRzvsxfKRznEmlQJRlnvsid.jpg">https://image.tmdb.org/t/p/original/h151oRzvsxfKRznEmlQJRlnvsid.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/m3OCUFUGAD2B7Ak9kiHcYcmoum0.jpg">https://image.tmdb.org/t/p/original/m3OCUFUGAD2B7Ak9kiHcYcmoum0.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/z9ft5HYHzWcasR6SGcgeluxTznB.jpg">https://image.tmdb.org/t/p/original/z9ft5HYHzWcasR6SGcgeluxTznB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg">https://image.tmdb.org/t/p/original/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kQhBcb5j4LvG3dlU88Xdr78SCct.jpg">https://image.tmdb.org/t/p/original/kQhBcb5j4LvG3dlU88Xdr78SCct.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c76KUCWUqBDHFB9H5Yz9qCY9XBa.jpg">https://image.tmdb.org/t/p/original/c76KUCWUqBDHFB9H5Yz9qCY9XBa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cuFXMO03XHM6fhYHpUYEvYYqjXK.jpg">https://image.tmdb.org/t/p/original/cuFXMO03XHM6fhYHpUYEvYYqjXK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zkyvswe0ztpdcBJyGWex67ARnV1.jpg">https://image.tmdb.org/t/p/original/zkyvswe0ztpdcBJyGWex67ARnV1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jThOQP0g0n18gJxyEhb7FYQwYK5.jpg">https://image.tmdb.org/t/p/original/jThOQP0g0n18gJxyEhb7FYQwYK5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lW0kUtXTOVlHTVhDO2VzNBACAHX.jpg">https://image.tmdb.org/t/p/original/lW0kUtXTOVlHTVhDO2VzNBACAHX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xviEKU073QAzeFRzWDdW9xDHPbB.jpg">https://image.tmdb.org/t/p/original/xviEKU073QAzeFRzWDdW9xDHPbB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dMblbyP7mnV8fKVuiy1i2GkS8Rg.jpg">https://image.tmdb.org/t/p/original/dMblbyP7mnV8fKVuiy1i2GkS8Rg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vF9RsVASpy34l1CByVIhlMddikX.jpg">https://image.tmdb.org/t/p/original/vF9RsVASpy34l1CByVIhlMddikX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n3YKvoQMnZvveEfrXlJafRQmfFN.jpg">https://image.tmdb.org/t/p/original/n3YKvoQMnZvveEfrXlJafRQmfFN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2XlhCuuoGysN3JfAKVZZyCA22Uc.jpg">https://image.tmdb.org/t/p/original/2XlhCuuoGysN3JfAKVZZyCA22Uc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vJhtdDFMcJL2588ZUzgaPp9IWSv.jpg">https://image.tmdb.org/t/p/original/vJhtdDFMcJL2588ZUzgaPp9IWSv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg">https://image.tmdb.org/t/p/original/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ksLD0fpQMZhnAWTPZwcd86pVFd6.jpg">https://image.tmdb.org/t/p/original/ksLD0fpQMZhnAWTPZwcd86pVFd6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg">https://image.tmdb.org/t/p/original/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sMCdqRia4H5WNZe9jgf37ZnUDlw.jpg">https://image.tmdb.org/t/p/original/sMCdqRia4H5WNZe9jgf37ZnUDlw.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z9ft5HYHzWcasR6SGcgeluxTznB.jpg">https://image.tmdb.org/t/p/original/z9ft5HYHzWcasR6SGcgeluxTznB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4VmlcpqORiI1Z7R6MWVaFVaDLKc.jpg">https://image.tmdb.org/t/p/original/4VmlcpqORiI1Z7R6MWVaFVaDLKc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wf9C6iqY9tXG7TrQDg3E4Flgap7.jpg">https://image.tmdb.org/t/p/original/wf9C6iqY9tXG7TrQDg3E4Flgap7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gO8jpSwscPXFSkXhvi3fsEtLfaL.jpg">https://image.tmdb.org/t/p/original/gO8jpSwscPXFSkXhvi3fsEtLfaL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/Nb0o6rUbMmhTGkV1yQQgBCqZ0y.jpg">https://image.tmdb.org/t/p/original/Nb0o6rUbMmhTGkV1yQQgBCqZ0y.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3470600</id>
+    <uniqueid type="imdb" default="true">tt3470600</uniqueid>
+    <uniqueid type="tmdb">335797</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Familia</genre>
+    <genre>Música</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Sing - Colección</name>
+        <overview>Universal Pictures&apos; animated \&quot;Sing\&quot; film series.</overview>
+    </set>
+    <credits>Garth Jennings</credits>
+    <director>Garth Jennings</director>
+    <premiered>2016-11-23</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Illumination Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nyYzj6IWI7c</trailer>
+    <actor>
+        <name>Matthew McConaughey</name>
+        <role>Buster Moon (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/sY2mwpafcwqyYS1sOySu1MENDse.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reese Witherspoon</name>
+        <role>Rosita (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/o1z4UwW2137IViFIRk8AV8hWze1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seth MacFarlane</name>
+        <role>Mike (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/rcxgL68bm4PQkiWDhHJWaGDzKkU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scarlett Johansson</name>
+        <role>Ash (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/mODcczqQyKuphfFAoBZGhxgnNfs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John C. Reilly</name>
+        <role>Eddie (voice)</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/emZGoEa7iWPVbjQaiVMeLdq8KgH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taron Egerton</name>
+        <role>Johnny (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/hHEgQFENXD43ZFwLNWsRpPWPzrs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tori Kelly</name>
+        <role>Meena (voice)</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/lVNwHEY7urqbWYg2zgb47KHxBpi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhea Perlman</name>
+        <role>Judith (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/utg7mKbhNvxRWfWBwSb27tQTaOE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Kroll</name>
+        <role>Gunter (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Offerman</name>
+        <role>Norman (voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/7gnfjpIKhBCjfnZJEieIvjwzXLD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garth Jennings</name>
+        <role>Miss Crawly / Additional Voices (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/zl6ZWijGySSIYJRFalleAiGkxyQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Serafinowicz</name>
+        <role>Big Daddy (voice)</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/2tDC9kEQ8QKANUKSF0v5LTujGdG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beck Bennett</name>
+        <role>Lance (voice)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/xbcVvJ1a7qUIdyYb4PJewFlNFu4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Saunders</name>
+        <role>Nana (voice)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Hudson</name>
+        <role>Young Nana (voice)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/urCgQygBoeTcyxUNTstDpeo18yC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Pharoah</name>
+        <role>Meena&apos;s Grandfather (voice)</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laraine Newman</name>
+        <role>Meena&apos;s Grandmother / Additional Voices (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Farmer</name>
+        <role>News Reporter Dog (voice)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/fIlqDsf9Ze31rVhShnR9dHgkYlD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Buxton</name>
+        <role>Stan (voice)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/jD0Pl0QnNHuls1PmYtEnBNbuLKY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Morris</name>
+        <role>Baboon (voice)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/m4Hp7SzAel4eOQUQDILlxHMzSeZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wes Anderson</name>
+        <role>Daniel (voice)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/b1LH059EGnU01rsZwcqYzNjY7w9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Renaud</name>
+        <role>Additional Voices (voice)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edgar Wright</name>
+        <role>Additional Voices (voice)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQzv5Ml2SkelS33hgl7E2oh0a9S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Asher Blinkoff</name>
+        <role>Piglet (voice)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/jMGlMK31z98DOVU9Yh1yruo6Zp8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Rau</name>
+        <role>Additional Voices (voice)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Alazraqui</name>
+        <role>Additional Voices (voice)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Mann</name>
+        <role>Additional Voices (voice)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daamen J. Krall</name>
+        <role>Additional Voices (voice)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Bergen</name>
+        <role>Additional Voices (voice)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doug Burch</name>
+        <role>Additional Voices (voice)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/ylIeoYrK278PkJXUhbZkzW0soQI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cathy Cavadini</name>
+        <role>Additional Voices (voice)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Pace</name>
+        <role>Additional Voices (voice)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Townsend Coleman</name>
+        <role>Additional Voices (voice)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/aMVAo35uihg08G8uc4Q4FiAS5ku.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abby Craden</name>
+        <role>Additional Voices (voice)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Cummings</name>
+        <role>Russian bears (voice)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John DeMita</name>
+        <role>Additional Voices (voice)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/cIUd7zTcGzJ0CMSkL4SUOee3gME.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willow Geer</name>
+        <role>Additional Voices (voice)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/kreFbFc095mvIRI89FIHUlWOBuo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tara Strong</name>
+        <role>Becky (voice)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/y9S3QzI3L5aARP8GYYO86rREKxU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jess Harnell</name>
+        <role>Additional Voices (voice)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leslie Jones</name>
+        <role>Meena&apos;s Mother (voice)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/aLHh2AjToY3Z3TaOQ1rshSjTc1q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oscar Jennings</name>
+        <role>Piglet (voice)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leo Jennings</name>
+        <role>Piglet (voice)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caspar Jennings</name>
+        <role>Piglet (voice)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Asa Jennings</name>
+        <role>Piglet (voice)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jon Robert Hall</name>
+        <role>Frog (voice)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/hSnejzKjhv1YYwKF6Tl9ksDiHKw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Dickinson</name>
+        <role>Spider (voice)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jen Faith Brown</name>
+        <role>Singer (voice)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Áurea</name>
+        <role>Voice 1</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marisa Liz</name>
+        <role>Voice 2</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mickael Carreira</name>
+        <role>Voice 3</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deolinda Kinzimba</name>
+        <role>Voice 4</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Maxwell</name>
+        <role>Additional Voices (voice)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/haG5rF1ogYIsQpIpAQ74Q2P1ek0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Igor Khait</name>
+        <role>Additional Voices (voice)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Arnott</name>
+        <role>Additional Voices (voice)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Mora</name>
+        <role>Additional Voices (voice)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Britt Burton</name>
+        <role>Additional Voices (voice)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregory Perler</name>
+        <role>Additional Voices (voice)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paige Pollack</name>
+        <role>Additional Voices (voice)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marisa De Silva</name>
+        <role>Additional Voices (voice)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Rotter</name>
+        <role>Additional Voices (voice)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Taylor</name>
+        <role>Additional Voices (voice)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/56zkNYMbqxFuvxptKod1SalMH4k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Walters</name>
+        <role>Additional Voices (voice)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Walton</name>
+        <role>Additional Voices (voice)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 13:27:30</dateadded>
+</movie>

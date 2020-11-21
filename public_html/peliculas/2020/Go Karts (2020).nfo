@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Go Karts</title>
+    <originaltitle>Go!</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>1944</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>152</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un intrépido adolescente se lanza al vertiginoso mundo de las carreras de go karts con la ayuda de grandes amigos y de su entrenador, un expiloto malhumorado.</plot>
+    <tagline>It&apos;s not the journey. It&apos;s who&apos;s along for the ride.</tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/19LSdTtnB6FNdwLDmEyntq0GqTx.jpg">https://image.tmdb.org/t/p/original/19LSdTtnB6FNdwLDmEyntq0GqTx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tOLC9552jBvymwsgHc3ri2SyuyD.jpg">https://image.tmdb.org/t/p/original/tOLC9552jBvymwsgHc3ri2SyuyD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yqLULKMbtPe5NAuE9hhZWiBzGVo.jpg">https://image.tmdb.org/t/p/original/yqLULKMbtPe5NAuE9hhZWiBzGVo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lFz9ihaZxxWf6uMsnD6m5g9cFcF.jpg">https://image.tmdb.org/t/p/original/lFz9ihaZxxWf6uMsnD6m5g9cFcF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2wsOnXAd5ysRWhFIyV3Z9JJilXM.jpg">https://image.tmdb.org/t/p/original/2wsOnXAd5ysRWhFIyV3Z9JJilXM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6lyk4DgZwe5E9tOmsxyMXpauw85.jpg">https://image.tmdb.org/t/p/original/6lyk4DgZwe5E9tOmsxyMXpauw85.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hRgQVdKh65nFiy2l7KhfWo7DHof.jpg">https://image.tmdb.org/t/p/original/hRgQVdKh65nFiy2l7KhfWo7DHof.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7gcX7gwNUVLFlMN0Qvni5OSZlR4.jpg">https://image.tmdb.org/t/p/original/7gcX7gwNUVLFlMN0Qvni5OSZlR4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nGLbcKk72eW2BUr0rZrSPJhN177.jpg">https://image.tmdb.org/t/p/original/nGLbcKk72eW2BUr0rZrSPJhN177.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a7LC0df1VhiQTGhMr8lmjHOQkjk.jpg">https://image.tmdb.org/t/p/original/a7LC0df1VhiQTGhMr8lmjHOQkjk.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8116640</id>
+    <uniqueid type="imdb" default="true">tt8116640</uniqueid>
+    <uniqueid type="tmdb">520765</uniqueid>
+    <genre>Familia</genre>
+    <country>Australia</country>
+    <credits>Steve Worland</credits>
+    <director>Lankyboy</director>
+    <premiered>2020-01-16</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>See Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FRhSfGnx3W0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6189</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>eac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>eac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Richard Roxburgh</name>
+        <role>Patrick</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/A76gaY7IYnMNv1lAxRKnn1HsyxH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frances O&apos;Connor</name>
+        <role>Christie Hooper</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Wyllie</name>
+        <role>Barry</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/87jbUjYxj1hoTAIZOLz0VpXs81A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cooper van Grootel</name>
+        <role>Dean Zeta</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/hldJOdaKLuHZJiTXpRWHYnpUtYk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Lodder</name>
+        <role>Jack Hooper</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/zRwq87QEFKhrUjjS5MxOsfHqxla.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anastasia Bampos</name>
+        <role>Mandy Zeta</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/2lXFm7xM8Wp7sAtNp2v3jOcOvxE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Damian de Montemas</name>
+        <role>Mike Zeta</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darius Amarfio Jefferson</name>
+        <role>Colin</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/zd4AMIxw8hSuMXBcuUWq6RxlGEq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhys Lander</name>
+        <role>Ted</role>
+        <order>8</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BYzRjMjJhODEtYzNlNy00Y2RkLTkwZTMtYzAyZWJhMWU3NTVjXkEyXkFqcGdeQXVyODc1MDUwNDg@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam T Perkins</name>
+        <role>Jack&apos;s Dad</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/pjPtWgzRx3Kgkr6k9GXjDeSm3l8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Connell</name>
+        <role>Ralph</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/9MuWHZurOaY7WMYb9yTh6o8h3CV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Lockwood</name>
+        <role>Leroy</role>
+        <order>11</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMWQ1MmZlMzUtNGUwMS00YzlmLThmNDItNDg5M2VhYmQ3YjMwL2ltYWdlXkEyXkFqcGdeQXVyMjMzNDQ3MTY@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shannon Diamond</name>
+        <role>Spectator</role>
+        <order>12</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNmRlYzgxMjEtMjUyOC00NmY1LWE1ODYtNzk2Mjc5ZGViMmMwXkEyXkFqcGdeQXVyNjQyNDYzMDI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Riley Papalia</name>
+        <role>Mechanic</role>
+        <order>13</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMGJkNDhkZGItYTM0MS00MDczLTgxZjYtOWIxOGZlY2Y5ZWU4XkEyXkFqcGdeQXVyODk5MjUxMzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Machin</name>
+        <role>Spectator</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sonia Borella</name>
+        <role>Kate Zeta</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Davilia O&apos;Connor</name>
+        <role>Betsy</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gus Worland</name>
+        <role>Nationals Announcer</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/cM6Yg89fkHyTUGA9bODDJv5eGUm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Stephenson</name>
+        <role>Mr. Sparkles</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darney Jefferson</name>
+        <role>Rollerdrome DJ</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher Mitchell</name>
+        <role>State Announcer</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg McNeill</name>
+        <role>Regionals Announcer</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron Martinez</name>
+        <role>Rollerdrome Spinner</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bayley Bell</name>
+        <role>Arise Team</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Finn MacShane</name>
+        <role>Spectator / Arise Team</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ella De Marchi</name>
+        <role>Shop Customer</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George Thompson</name>
+        <role>Young Jack</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Gudgeon</name>
+        <role>Spectator</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dalvin Nguyen</name>
+        <role>Arise Team</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kim Rhodes</name>
+        <role>Metal Guy</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul De Marchi</name>
+        <role>Shop Customer</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyson Sadler</name>
+        <role>Kart Race Driver</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emilio Montoia</name>
+        <role>Patrick&apos;s Friend</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Egan MacShane</name>
+        <role>Spectator</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Zonca</name>
+        <role>Arise Team</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Howlett</name>
+        <role>Nationals Announcer</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Archie Fragos</name>
+        <role>Archie</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Sadler</name>
+        <role>Spectator / Pit Crew</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Valma Cearns</name>
+        <role>Woman at Bus Stop</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richelle MacShane</name>
+        <role>Spectator</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Oscar Trigwell</name>
+        <role>Dennis</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Lewis</name>
+        <role>Arise Team</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frazer Shepherdson</name>
+        <role>Arise Team</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zack Needham</name>
+        <role>Third Place Winner</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Degan Haggarty</name>
+        <role>Spectator</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Pilpel</name>
+        <role>Tai Chi Guy</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shae Richard Thompson</name>
+        <role>Arise Team</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Fruze</name>
+        <role>Spectator</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Hooper</name>
+        <role>Arise Team</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emily Prior</name>
+        <role>Spectator (uncredited)</role>
+        <order>49</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMzE2ZGVjNTEtZTU5MC00ZjMzLWE5ZTEtNzMxYTdmY2QwMWI1XkEyXkFqcGdeQXVyOTg1NjM0MjU@._UY632.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 11:53:25</dateadded>
+</movie>

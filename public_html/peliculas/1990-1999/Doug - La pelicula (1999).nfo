@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La primera película de Doug</title>
+    <originaltitle>Doug&apos;s 1st Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.000000</value>
+            <votes>2945</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>63</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Doug Narinas deberá decidir entre salvar al monstruo del lago Lucky Duck, que está contaminado, o llevar a su amor secreto, Patti Mayonesa, al baile de la escuela. Pero además, Doug descubrirá un maléfico plan del magnate Bill Bluff.</plot>
+    <tagline>You&apos;ll Dig Doug!</tagline>
+    <runtime>77</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uPnWkHn7kn3GQVzggAh3FIGl1GK.jpg">https://image.tmdb.org/t/p/original/uPnWkHn7kn3GQVzggAh3FIGl1GK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dhdOm0oF2CkOMl7LaU6nyv6FULg.jpg">https://image.tmdb.org/t/p/original/dhdOm0oF2CkOMl7LaU6nyv6FULg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hZduJdSSWCkmvnBpNyRaIszubVm.jpg">https://image.tmdb.org/t/p/original/hZduJdSSWCkmvnBpNyRaIszubVm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yQCHqkYtRtkklMLHGVIInu2OpAN.jpg">https://image.tmdb.org/t/p/original/yQCHqkYtRtkklMLHGVIInu2OpAN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1d93FHa68ENm4XmD3rzb1rNew7x.jpg">https://image.tmdb.org/t/p/original/1d93FHa68ENm4XmD3rzb1rNew7x.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/71u12WBYp4TalIEE8Y1SaiP8I4t.jpg">https://image.tmdb.org/t/p/original/71u12WBYp4TalIEE8Y1SaiP8I4t.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3npRyomWdKakTpVTz49csQbX0UW.jpg">https://image.tmdb.org/t/p/original/3npRyomWdKakTpVTz49csQbX0UW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i8mHNTg0zbGjHFrAI8oCBOuKTYy.jpg">https://image.tmdb.org/t/p/original/i8mHNTg0zbGjHFrAI8oCBOuKTYy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xMQKj83Tk7EbYTayycRdarq5ePl.jpg">https://image.tmdb.org/t/p/original/xMQKj83Tk7EbYTayycRdarq5ePl.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0187819</id>
+    <uniqueid type="imdb" default="true">tt0187819</uniqueid>
+    <uniqueid type="tmdb">16508</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Ken Scarborough</credits>
+    <credits>Jim Jinkins</credits>
+    <director>Maurice Joyce</director>
+    <premiered>1999-03-26</premiered>
+    <year>1999</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Walt Disney Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b23YuMtrNE4</trailer>
+    <actor>
+        <name>Thomas McHugh</name>
+        <role>Doug Funnie</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fred Newman</name>
+        <role>Skeeter / Mr. Dink / Porkchop / Ned</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5yLSsB1jMpd53m1UOyKf4Ge8UkH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Phillips</name>
+        <role>Roger Klotz / Boomer / Larry / Mr. Chiminy</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Constance Shulman</name>
+        <role>Patti Mayonnaise</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mickie McGowan</name>
+        <role>Additional Voices (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sherry Lynn</name>
+        <role>Additional Voice (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 10:38:57</dateadded>
+</movie>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Cantinflas</title>
+    <originaltitle>Cantinflas</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>3762</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>68</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Mike Todd es un productor de Broadway que lucha por producir la película. Alrededor del mundo en 80 días. En México, Mario Moreno, un joven animador está luchando para conseguir un poco de respeto, y logra convertirse en una estrella. Un giro de la fe los hace socios. Juntos ganaron el Oscar de Mejor Película.</plot>
+    <tagline></tagline>
+    <runtime>102</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9ItWCO8U5T411vvkmxOHGjT2LTH.jpg">https://image.tmdb.org/t/p/original/9ItWCO8U5T411vvkmxOHGjT2LTH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sdxCyUCRMiToNLjARPX5nYpBdSf.jpg">https://image.tmdb.org/t/p/original/sdxCyUCRMiToNLjARPX5nYpBdSf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8ixLGlHBESrfmhfUhlajrJLymAe.jpg">https://image.tmdb.org/t/p/original/8ixLGlHBESrfmhfUhlajrJLymAe.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/34QY7lJzQo9judoYaKmCFoZLCZz.jpg">https://image.tmdb.org/t/p/original/34QY7lJzQo9judoYaKmCFoZLCZz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tBYcdmY2ZzjDZfXilxOdsZ2Djk8.jpg">https://image.tmdb.org/t/p/original/tBYcdmY2ZzjDZfXilxOdsZ2Djk8.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3005242</id>
+    <uniqueid type="imdb" default="true">tt3005242</uniqueid>
+    <uniqueid type="tmdb">261101</uniqueid>
+    <genre>Drama</genre>
+    <country>Mexico</country>
+    <credits>Edui Tijerina</credits>
+    <director>Sebastián del Amo</director>
+    <premiered>2014-08-29</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Bullet Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YFqT0DM10QI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6156</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Óscar Jaenada</name>
+        <role>Cantinflas</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/aOv6MLlApilNn21kyJhs66Lx3Ac.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Imperioli</name>
+        <role>Michael Todd</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Gerardo Méndez</name>
+        <role>Estanislao Chilinsky</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Qdy6Jp80VRoaOiqMskiusHO5uU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Cosío</name>
+        <role>&quot;El Indio&quot; Fernández</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/3hvUX2JyzD1YEceJEgYyadlEK9o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teresa Ruiz</name>
+        <role>Meche Barba</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/dsQVzPkyUCD7VlHW6d8rQ7nYKVQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ilse Salas</name>
+        <role>Valentina Ivanova</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/crGLfFHPFAqB4AK4saHQOg72Ehp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ximena Rubio</name>
+        <role>María Félix</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/zXwAhAPcA7NJIF8eBjDDEyDzLYJ.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-25 13:03:34</dateadded>
+</movie>

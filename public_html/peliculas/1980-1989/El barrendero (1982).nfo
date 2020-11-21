@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El barrendero</title>
+    <originaltitle>El barrendero</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>538</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.300000</value>
+            <votes>25</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un alegre barrendero,  baila mientras recolecta basura, y las criadas del vecindario se ponen celosas porque invita a otra mujer.</plot>
+    <tagline></tagline>
+    <runtime>111</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nRi5BXDpBRKFhHQYUKvUGS3Y5D0.jpg">https://image.tmdb.org/t/p/original/nRi5BXDpBRKFhHQYUKvUGS3Y5D0.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/osiVla253BJvRXWWuzdkoW55BL0.jpg">https://image.tmdb.org/t/p/original/osiVla253BJvRXWWuzdkoW55BL0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0082048</id>
+    <uniqueid type="imdb" default="true">tt0082048</uniqueid>
+    <uniqueid type="tmdb">45191</uniqueid>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <credits>Fernando Galiana</credits>
+    <credits>Isaac Díaz Araiza</credits>
+    <director>Miguel M. Delgado</director>
+    <premiered>1982-05-05</premiered>
+    <year>1982</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cantinflas Films</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6664</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Cantinflas</name>
+        <role>Napoleon</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/iASObohpLJzqYQM6bQzyup3QvEs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Sorté</name>
+        <role>Chipinita</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ursula Prats</name>
+        <role>Lupita</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ojZsfZDxduJvaSabXuwpQ5U7TQb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Alcaraz</name>
+        <role>Don Chafas</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/yfwzEx6jPgYQOTYarM7fVSmSECj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Federico González</name>
+        <role>Supervisor Molina</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio Zubiaga</name>
+        <role>Ladron flaco</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sara Guasch</name>
+        <role>Mujer rubia en fiesta</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qMDg3rTB4FqaTh1EAVt2NsFblF8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Luis Avendaño</name>
+        <role>Mendoza</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roxana Chávez</name>
+        <role>Chabelita</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alberto Catalá</name>
+        <role>Basurita</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alfredo Gutiérrez</name>
+        <role>Delegado de policia</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/chQhi8EYGMCoX0RfjFJ5JsvT5Q7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adalberto Arvizu</name>
+        <role>Ladrón</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerardo del Castillo</name>
+        <role>Secretario general</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lina Michel</name>
+        <role>Criada Francesa</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Evita Muñoz</name>
+        <role>Pachita</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/3uciSLf05F6K1ae3taHQrEpH4EY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariela Flores</name>
+        <role>(uncredited)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julio Monterde</name>
+        <role>Invitado a fiesta (uncredited)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/pnpkFsujDPwPGY0lwX5ePbNMzXH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcelo Villamil</name>
+        <role>Invitado a fiesta (uncredited)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Nájera</name>
+        <role>Padre de bebe abandonado (uncredited)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-01 10:44:03</dateadded>
+</movie>

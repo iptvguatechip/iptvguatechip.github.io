@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Alex y yo</title>
+    <originaltitle>Alex &amp; Me</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>483</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>55</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La adolescente Reagan Wills tiene un sueño, jugar fútbol como su héroe Alex Morgan. De hecho, su habitación es un santuario para todo lo que Alex tiene, incluido un póster de tamaño natural del medallista de oro olímpico.</plot>
+    <tagline></tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qEgTMzeWzsBm4PMlqTkCx4MBGb2.jpg">https://image.tmdb.org/t/p/original/qEgTMzeWzsBm4PMlqTkCx4MBGb2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3BBQtDs2yKB7Z9nXNUBB2B6DcU2.jpg">https://image.tmdb.org/t/p/original/3BBQtDs2yKB7Z9nXNUBB2B6DcU2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nurw4kqyu2krOMbkQoKiZTMhEWJ.jpg">https://image.tmdb.org/t/p/original/nurw4kqyu2krOMbkQoKiZTMhEWJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hCQFzTpkh9KW6iROGgLodqGIKsa.jpg">https://image.tmdb.org/t/p/original/hCQFzTpkh9KW6iROGgLodqGIKsa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/k0mpKvG4bi6yR11deThzZbqjPtc.jpg">https://image.tmdb.org/t/p/original/k0mpKvG4bi6yR11deThzZbqjPtc.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rxddmg9doe15LxPOAd4hZkOpD4A.jpg">https://image.tmdb.org/t/p/original/rxddmg9doe15LxPOAd4hZkOpD4A.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/whS7KesB0RAP4c3E3MwvssS5VrF.jpg">https://image.tmdb.org/t/p/original/whS7KesB0RAP4c3E3MwvssS5VrF.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8179218</id>
+    <uniqueid type="imdb" default="true">tt8179218</uniqueid>
+    <uniqueid type="tmdb">528911</uniqueid>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <credits>Eric Champnella</credits>
+    <director>Eric Champnella</director>
+    <premiered>2018-06-12</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Warner Bros. Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V01l4eAplYg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>239.000000</aspect>
+                <width>1912</width>
+                <height>1072</height>
+                <durationinseconds>5135</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Alex Morgan</name>
+        <role>Alex Morgan</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/eQTBpSdPiEkiWqLBxZILOAkULne.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ava Acres</name>
+        <role>Gia</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/tfsaNumpB2qFbHlf68hhbUAWQKs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Moses Black</name>
+        <role>Coach Oz</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/o0rN6xcYaBD1OKwc5oaoPavqv1o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Cornett</name>
+        <role>Logan Wills</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/j7cYUte3Z2X2Sj4vJqFwEhvTuvL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Siena Agudong</name>
+        <role>Reagan</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/hMpnub7Wpr2xhJ8p8BgRMLFaQUU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kennedy Anthony</name>
+        <role>Classmate</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Antonelli</name>
+        <role>Grace</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Reagan Lake Champnella</name>
+        <role>Bug</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Treska</name>
+        <role>Claire Bishop</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lily Mae Silverstein</name>
+        <role>Penny</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/7APJQ6w9Es9o9hQbf0M0bs4tKtG.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:51:56</dateadded>
+</movie>

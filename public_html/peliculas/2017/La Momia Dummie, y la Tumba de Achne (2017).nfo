@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Momia Dummie, y la Tumba de Achne</title>
+    <originaltitle>Dummie de Mummie en de tombe van Achnetoet</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>101</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>7</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dummie tiene nostalgia. Quiere volver a Egipto para buscar la tumba de sus padres para poder despedirse de ellos. Klaas ve que el viaje no va a ser fácil. Le da miedo volar a Egipto, cuesta demasiado dinero y Dummie no tiene pasaporte. Pero si la pintura de Dummie de Miss Friek se vende por una gran cantidad y puede conseguir un pasaporte, entonces Klaas, Goos, Dummie y Miss Friek podrán salir para Egipto. Pero, ¿estará aún disponible la Tumba de Achnetoet después de cuatro mil años? Con un plan de Master Drab, Dummie y Goos están investigando. Pero la búsqueda está llena de peligros y los mejores amigos entran en una trampa. ¿Podrá Klaas mantener a Dummie y Goos cautivos para siempre?</plot>
+    <tagline>La Momia Dummie, y la Tumba de Achne</tagline>
+    <runtime>110</runtime>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5lVtmOJLkcnqZyDuYDz8RJR080v.jpg">https://image.tmdb.org/t/p/original/5lVtmOJLkcnqZyDuYDz8RJR080v.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2obwJYn2N9teDclkgCgr79I5Y1R.jpg">https://image.tmdb.org/t/p/original/2obwJYn2N9teDclkgCgr79I5Y1R.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zzUAZxIU2gVtKJWElfTYqN7jQWt.jpg">https://image.tmdb.org/t/p/original/zzUAZxIU2gVtKJWElfTYqN7jQWt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aREgDh6sztty41vVrdnr1ZgsgEj.jpg">https://image.tmdb.org/t/p/original/aREgDh6sztty41vVrdnr1ZgsgEj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kGntR1CbDIjsTHirjljMyuj8GM2.jpg">https://image.tmdb.org/t/p/original/kGntR1CbDIjsTHirjljMyuj8GM2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/z30gsPWjM9WdSEJbj6dtLDbfVPM.jpg">https://image.tmdb.org/t/p/original/z30gsPWjM9WdSEJbj6dtLDbfVPM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pomVkMB85kIwMOJkh4DAIWALQVe.jpg">https://image.tmdb.org/t/p/original/pomVkMB85kIwMOJkh4DAIWALQVe.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5830200</id>
+    <uniqueid type="imdb" default="true">tt5830200</uniqueid>
+    <uniqueid type="tmdb">476792</uniqueid>
+    <genre>Familia</genre>
+    <country>Netherlands</country>
+    <set>
+        <name>Dummie de Mummie Collectie</name>
+    </set>
+    <director>Pim van Hoeve</director>
+    <premiered>2017-10-04</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>PVPictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l3AJWZaUb28</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6605</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Julian Ras</name>
+        <role>Goos Guts</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1Dwyf8Y58HuKLKuxFQLtzixl4sN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roeland Fernhout</name>
+        <role>Klaas Guts</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ifRueSipFaJ2txu60ySNFIL65cU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Hoffman</name>
+        <role>Juffrouw Friek</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/oRf4bmHG5323H97rKoiLwJT4vE0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manou Kersting</name>
+        <role>Douanier</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stefan de Walle</name>
+        <role>Meester Krabbel</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/urE8mkFySX2gDmMLlsjC1zhouIw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Weerts</name>
+        <role>Suppoost</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qSUxtKXrqu0AG6X7IHF4utoS6Ae.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yahya Gaier</name>
+        <role>Dummie</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ergun Simsek</name>
+        <role>Farid</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/tNVWL31MPCNsSdGNqSNjvzyJ4e8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gürkan Küçüksentürk</name>
+        <role>Aziz</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/m1liYJq260fAfZFivk8oUZjlNH7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yannick Jozefzoon</name>
+        <role>Suppoost</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/8CKrFvSpEs2sP0U3ABLVruKWNz.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 12:36:34</dateadded>
+</movie>

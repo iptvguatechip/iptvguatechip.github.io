@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>4 latas</title>
+    <originaltitle>4 latas</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>2398</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>100</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Al saber que su amigo Joseba está enfermo, Tocho y Jean Pierre deciden ir a visitarle a Mali. Recordando los viajes que hicieron los tres juntos cruzando África en coches que luego vendían en Mali y Níger, se aventuran en el desierto del Sáhara a bordo de un 4 latas.</plot>
+    <tagline>4 latas</tagline>
+    <runtime>105</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg">https://image.tmdb.org/t/p/original/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lmHHxL1YANCn6jwpuFiCn7oCkzs.jpg">https://image.tmdb.org/t/p/original/lmHHxL1YANCn6jwpuFiCn7oCkzs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/akmmN7EMKJCNklJiGU228W8qHex.jpg">https://image.tmdb.org/t/p/original/akmmN7EMKJCNklJiGU228W8qHex.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hg7THT5XRvFvzNsaTRLwm2UewkR.jpg">https://image.tmdb.org/t/p/original/hg7THT5XRvFvzNsaTRLwm2UewkR.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dY1GCyWtB98pZq32YrYjrWc48QO.jpg">https://image.tmdb.org/t/p/original/dY1GCyWtB98pZq32YrYjrWc48QO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3t1IaUzHBQWVHu1W4PKuHv4GC1a.jpg">https://image.tmdb.org/t/p/original/3t1IaUzHBQWVHu1W4PKuHv4GC1a.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iNoQzWvIozJ1H3zA9ShV8FC6TmC.jpg">https://image.tmdb.org/t/p/original/iNoQzWvIozJ1H3zA9ShV8FC6TmC.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 16</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8242160</id>
+    <uniqueid type="imdb" default="true">tt8242160</uniqueid>
+    <uniqueid type="tmdb">584427</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>France</country>
+    <credits>Gerardo Olivares</credits>
+    <credits>Chema Rodríguez</credits>
+    <credits>María Jesús Petrement</credits>
+    <director>Gerardo Olivares</director>
+    <premiered>2019-03-01</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Wanda Visión</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KBstfRGTssM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6324</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jean Reno</name>
+        <role>Jean Pierre</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/4TcZEDVA0u6x5pF2oZMuslxZKHe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hovik Keuchkerian</name>
+        <role>Tocho</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/63EMwfdseM8pANTBuPArFY9J31L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susana Abaitua</name>
+        <role>Ely</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/if5hGxsb90qZYjsjlEmUV90M12n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arturo Valls</name>
+        <role>Soriano</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/s8HAqnha330QAUFehPQUdsV6oxM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Enrique San Francisco</name>
+        <role>Joseba</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/5Qrh0QNffChZPmLYpn61fZAc392.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Dos Santos</name>
+        <role>Mamadou</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/bMA1ZQGPg8qqcM4StfNWWZUa0An.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Francesc Garrido</name>
+        <role>Alain</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-10-07 10:07:34</dateadded>
+</movie>

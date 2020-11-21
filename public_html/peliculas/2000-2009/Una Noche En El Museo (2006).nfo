@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Una noche en el museo</title>
+    <originaltitle>Night at the Museum</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>309540</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>7419</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un padre divorciado trata de establecerse, impresionar a su hijo y encontrar su destino. Él se presenta para un trabajo como vigilante nocturno en el Museo Americano de Historia Natural de la ciudad de Nueva York y, posteriormente, descubre que los objetos expuestos, animados por un artefacto mágico de Egipto, vuelven a la vida durante la noche. Al principio le va muy mal tratando de mantener el orden y la calma en el museo, pero al final se vuelve muy buen amigo de todos y juntos ayudan a recuperar aquel artefacto mágico egipcio, ya que ha sido robado por los antiguos vigilantes del museo.</plot>
+    <tagline>Where History Comes To Life</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/q2nwE0Qi8U6tsU5HDmiWS2D3dSJ.jpg">https://image.tmdb.org/t/p/original/q2nwE0Qi8U6tsU5HDmiWS2D3dSJ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/y7j3iawR507cf3dU0OoS73zYFrX.jpg">https://image.tmdb.org/t/p/original/y7j3iawR507cf3dU0OoS73zYFrX.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/veumOmXMAGxla8bk8xfRXy0m40R.jpg">https://image.tmdb.org/t/p/original/veumOmXMAGxla8bk8xfRXy0m40R.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3bunt5Rjso9wW0nWeswwHlVsLhA.jpg">https://image.tmdb.org/t/p/original/3bunt5Rjso9wW0nWeswwHlVsLhA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hD8fVHKEu5goJW1OI1i5fOYApWm.jpg">https://image.tmdb.org/t/p/original/hD8fVHKEu5goJW1OI1i5fOYApWm.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1FOt56wB41Z6auT2vvhtHoOenUI.jpg">https://image.tmdb.org/t/p/original/1FOt56wB41Z6auT2vvhtHoOenUI.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zarHtD2YXWUxcHvELiA1KgdkdnX.jpg">https://image.tmdb.org/t/p/original/zarHtD2YXWUxcHvELiA1KgdkdnX.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8rtLNQddDCt3p8oAYEhmtflZOfX.jpg">https://image.tmdb.org/t/p/original/8rtLNQddDCt3p8oAYEhmtflZOfX.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/Zzmoci0GhXd4Yc68iNdigpRD4B.jpg">https://image.tmdb.org/t/p/original/Zzmoci0GhXd4Yc68iNdigpRD4B.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/o7h0hqmkMp1mqgWyZ5zBSujujmJ.jpg">https://image.tmdb.org/t/p/original/o7h0hqmkMp1mqgWyZ5zBSujujmJ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg">https://image.tmdb.org/t/p/original/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/9YJLEgVVzEvGRJ0IzYf7RBnYx1k.jpg">https://image.tmdb.org/t/p/original/9YJLEgVVzEvGRJ0IzYf7RBnYx1k.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/fOmqiIXfJmeANciOTCN6WkKbwK.jpg">https://image.tmdb.org/t/p/original/fOmqiIXfJmeANciOTCN6WkKbwK.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/3mvDUFgd6t52P2G2JKYuINwMxcd.jpg">https://image.tmdb.org/t/p/original/3mvDUFgd6t52P2G2JKYuINwMxcd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5XG0xupSju8QS4KBnM8181Ebt0B.jpg">https://image.tmdb.org/t/p/original/5XG0xupSju8QS4KBnM8181Ebt0B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kLfZhPinRkRu8VqgsnstyRT4Oct.jpg">https://image.tmdb.org/t/p/original/kLfZhPinRkRu8VqgsnstyRT4Oct.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g1u92gVHpyBjv2ohyzbbARXmk8J.jpg">https://image.tmdb.org/t/p/original/g1u92gVHpyBjv2ohyzbbARXmk8J.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg">https://image.tmdb.org/t/p/original/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg">https://image.tmdb.org/t/p/original/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3vz0WRVSHC4rH3s82AZP1Rmr2Pe.jpg">https://image.tmdb.org/t/p/original/3vz0WRVSHC4rH3s82AZP1Rmr2Pe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ql0e0bxJnpznOGCTosRH19sH9yH.jpg">https://image.tmdb.org/t/p/original/ql0e0bxJnpznOGCTosRH19sH9yH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rhbL66FlRUfVAd8GUtTGdbkJhHc.jpg">https://image.tmdb.org/t/p/original/rhbL66FlRUfVAd8GUtTGdbkJhHc.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zLbRMFVF5MVdM10Y5GzF34A3CSo.jpg">https://image.tmdb.org/t/p/original/zLbRMFVF5MVdM10Y5GzF34A3CSo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1YfJYYi6vGlKT4pRVfKtsY3WY1Q.jpg">https://image.tmdb.org/t/p/original/1YfJYYi6vGlKT4pRVfKtsY3WY1Q.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2oupBJma9IuFsVntfeaFZPuMNR.jpg">https://image.tmdb.org/t/p/original/2oupBJma9IuFsVntfeaFZPuMNR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vOCF73X6FxVEEA8EuqRlUInfgmV.jpg">https://image.tmdb.org/t/p/original/vOCF73X6FxVEEA8EuqRlUInfgmV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yEl9wEWOiuRGixvIwc1ITG27hPL.jpg">https://image.tmdb.org/t/p/original/yEl9wEWOiuRGixvIwc1ITG27hPL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a7DwWaOjJxRB6LHq8Wfw5jHdAWy.jpg">https://image.tmdb.org/t/p/original/a7DwWaOjJxRB6LHq8Wfw5jHdAWy.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0477347</id>
+    <uniqueid type="imdb" default="true">tt0477347</uniqueid>
+    <uniqueid type="tmdb">1593</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Una Noche en el Museo - Colección</name>
+        <overview>Una noche en el Museo es una película de comedia de 2006 del director Shawn Levy con Ben Stiller en el papel principal. La trama está basada en el libro infantil La noche en el museo del ilustrador croata Milan Trenc, publicado en 1993. En 2009 y 2014 se publicaron las secuelas Night in Museum 2 y Night in Museum: The Mysterious Tomb.</overview>
+    </set>
+    <credits>Thomas Lennon</credits>
+    <credits>Ben Garant</credits>
+    <director>Shawn Levy</director>
+    <premiered>2006-10-20</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>1492 Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YXu7kqD1JLs</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6518</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ben Stiller</name>
+        <role>Larry Daley</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gHLp8bqc4ZBHqp5uheYH8sPHEBB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carla Gugino</name>
+        <role>Rebecca</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cw34x8EO7vjRGgOiFZ20ytmHEvs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dick Van Dyke</name>
+        <role>Cecil Fredericks</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/zSd2C032XaQvUg1g88W4KWOIpsz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mickey Rooney</name>
+        <role>Gus</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Cobbs</name>
+        <role>Reginald</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cP2ETKFdk93z4e1oXZVG0utI3IM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Cherry</name>
+        <role>Nick Daley</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gzThT5IjkJItNV27kRCQItzXJgX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ricky Gervais</name>
+        <role>Bambi</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2mAjcq9AQA9peQxNoeEW76DPIju.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Williams</name>
+        <role>Theodore Roosevelt</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Raver</name>
+        <role>Erica Daley</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/o9OYkG0b48125tim78ebyGeC4lO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Gallagher</name>
+        <role>Attila der Hunne</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ZWcp7kRwoh5cGZFByDQdhTODw9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rami Malek</name>
+        <role>Ahkmenrah</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/zvBCjFmedqXRqa45jlLf6vBd9Nt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pierfrancesco Favino</name>
+        <role>Christopher Columbus</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/oLO1lIeWDHvjNTnguOfpjDprxJ8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Murphy</name>
+        <role>Taxi Driver</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/bTbrT3OoWHVkuWxXW2VchtHGRgk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Coogan</name>
+        <role>Octavius</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mizuo Peck</name>
+        <role>Sacajawea</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/zpK2Hy8brRcPolScRfCSWuoZoIp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kerry van der Griend</name>
+        <role>Neanderthal #1</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/9hZOF9M9pmoSZRiLQALR7K80YxN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Rizzuto</name>
+        <role>Neanderthal #2</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/iOSPoTqGssOYgSgynV4nG22rOOv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Harrison</name>
+        <role>Neanderthal #3</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/6uOg2aQBVe8TAmv41W2y3omn1Mr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jody Racicot</name>
+        <role>Neanderthal #4</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/6HCMq0ckaLy9OPQhxCJFEHq0vcQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Rudd</name>
+        <role>Don</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/8eTtJ7XVXY0BnEeUaSiTAraTIXd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Meara</name>
+        <role>Debbie</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/8c8n15LYkn3KRl5D7ynTX4oBenD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Christopher</name>
+        <role>Merriweather Lewis</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/l25ceoFLBaKjmcCTUCDx6K4QQES.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Sims</name>
+        <role>William Clark</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/vHimAlTSEE5uqSEjDRCuXImObed.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randy Lee</name>
+        <role>Hun #1</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/mt9PRY8ymXw0wSt110WOcThkv87.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darryl Quon</name>
+        <role>Hun #2</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Lme35jpDTLQ2cDm1I5bRolgHw1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerald Wong</name>
+        <role>Hun #3</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Chih-Ping Cheng</name>
+        <role>Hun #4</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/1a16itmUjKY3Lp2pHlzsGpSwF2H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teagle F. Bougere</name>
+        <role>Teacher - Mike</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/cPMoVdRDjPIEijpZEmcZq0CV0xQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pat Kiernan</name>
+        <role>TV News Anchor</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/c8QASMhNim0bXySxaxRrkkzvKQ7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nico McEown</name>
+        <role>Friend #1</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/sbZGDPeT4kYMT7EuEet9bzeBfW3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meshach Peters</name>
+        <role>Friend #2</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Walker</name>
+        <role>Politician</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/rY1CEJXmbgF2wmnKGNu8ww7AzNV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason McKinnon</name>
+        <role>Irish Worker</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/vhtRpPM50GClY90DNj9At9EKTgM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jono Lee</name>
+        <role>Chinese Rail Worker</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Vaisvila</name>
+        <role>Viking</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cade Wagar</name>
+        <role>Viking</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cory Martin</name>
+        <role>Chinese Terra Cota Soldier</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brad Garrett</name>
+        <role>Easter Island Head (voice)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/hYh3fR8UeKPVD4LcfDrit4JkCqD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Owen Wilson</name>
+        <role>Jedediah Smith (uncredited)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/ntN3DL1Us5G2PCvlfq112vLXRKa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Atkins</name>
+        <role>Caveman (uncredited)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/bk8vrZkQCQWhiJ5JmpJAawuvLSs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Che Landon</name>
+        <role>Pretty Tourist Girl (uncredited)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/av4XKmWTuFbajQsZvUNBHZLrAA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil Proctor</name>
+        <role>Moose (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/wAfx3qAEvcsLpEEIP0zwdhuDIcW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Sievers</name>
+        <role>Viking Warrior (uncredited)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 12:45:34</dateadded>
+</movie>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Ring Thing</title>
+    <originaltitle>The Ring Thing</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.500000</value>
+            <votes>814</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.800000</value>
+            <votes>13</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Middle Earth is... right in the heart of Europe! A spoof of the Lord of the Rings Trilogy set in Switzerland.</plot>
+    <tagline></tagline>
+    <runtime>115</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vJNLjovlkQcWejOAyhVERuGFIaw.jpg">https://image.tmdb.org/t/p/original/vJNLjovlkQcWejOAyhVERuGFIaw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bjsoNM0iKtmgZdCxu4eo7dkMYGo.jpg">https://image.tmdb.org/t/p/original/bjsoNM0iKtmgZdCxu4eo7dkMYGo.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dVwwGBEEtbWoLamXLn92YGH9yJT.jpg">https://image.tmdb.org/t/p/original/dVwwGBEEtbWoLamXLn92YGH9yJT.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0432028</id>
+    <uniqueid type="imdb" default="true">tt0432028</uniqueid>
+    <uniqueid type="tmdb">10248</uniqueid>
+    <genre>Comedia</genre>
+    <country>Switzerland</country>
+    <credits>Thorsten Wettcke</credits>
+    <credits>Mark Schippert</credits>
+    <credits>Dominik Kaiser</credits>
+    <credits>Christoph Silber</credits>
+    <credits>André Küttel</credits>
+    <director>Mark Schippert</director>
+    <premiered>2004-01-01</premiered>
+    <year>2004</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>hevc</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6918</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language></language>
+            </subtitle>
+            <subtitle>
+                <language></language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Gwendolyn Rich</name>
+        <role>Grmpfli</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward Piccin</name>
+        <role>Fredi</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leo Roos</name>
+        <role>Almgandhi</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Arenas</name>
+        <role>Rackaroll / Voice of Tree</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ralph Vogt</name>
+        <role>Schleimli</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Armin Arnold</name>
+        <role>Pupsi</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yoav Parish</name>
+        <role>Hässlicher Handlanger</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enzo Esposito</name>
+        <role>Elfenkönig</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michèle Müller</name>
+        <role>Elfenkönigin</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kamil Krejčí</name>
+        <role>Kaiser von China</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/a7cDvEaXZH8FqPJowenL2PheQiL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jörg Reichlin</name>
+        <role>Lord Sauraus</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Nakamoura</name>
+        <role>Heidi</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tobias Steiner</name>
+        <role>Zwerg Erwin #2</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathrin Wälty</name>
+        <role>TV-Werbefrau</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Baumgartner</name>
+        <role>Bauer und Ringverteiler</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Ismajlovic</name>
+        <role>Steward</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Hunziker</name>
+        <role>Zwerg Erwin #1</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Schippert</name>
+        <role>Wächter</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-01 20:31:26</dateadded>
+</movie>

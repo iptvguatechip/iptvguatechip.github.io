@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Celda</title>
+    <originaltitle>Cell</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.300000</value>
+            <votes>24909</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.600000</value>
+            <votes>736</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando una señal extraña pulsa a través de todas las redes de teléfonos celulares en todo el mundo, comienza una epidemia asesina de proporciones épicas cuando los usuarios se convierten en seres sanguinarios y un grupo de personas en Nueva Inglaterra están entre los supervivientes para lidiar con el caos posterior.</plot>
+    <tagline>When everyone is connected no one is safe.</tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8zgqfMxtTbGflPidOPLytcDUgx0.jpg">https://image.tmdb.org/t/p/original/8zgqfMxtTbGflPidOPLytcDUgx0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c721WxCCzeLJS99BOMBYAzicnJF.jpg">https://image.tmdb.org/t/p/original/c721WxCCzeLJS99BOMBYAzicnJF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n0q9QIXPIUodZJQ6gFb2YyvKoVc.jpg">https://image.tmdb.org/t/p/original/n0q9QIXPIUodZJQ6gFb2YyvKoVc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c5N6Pw3P6TqQnGcqiVkhO9u85KB.jpg">https://image.tmdb.org/t/p/original/c5N6Pw3P6TqQnGcqiVkhO9u85KB.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/84FX9OE1g0BMqL3boEGj5hF2gYB.jpg">https://image.tmdb.org/t/p/original/84FX9OE1g0BMqL3boEGj5hF2gYB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kIGwz1Toc4KWgDTjM9uzuXt6PEf.jpg">https://image.tmdb.org/t/p/original/kIGwz1Toc4KWgDTjM9uzuXt6PEf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sjDXYaKxd0v5YwBfaBKFQ3ODmCv.jpg">https://image.tmdb.org/t/p/original/sjDXYaKxd0v5YwBfaBKFQ3ODmCv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5Ic0J2iX8fqeEunSAX3hgCd12mZ.jpg">https://image.tmdb.org/t/p/original/5Ic0J2iX8fqeEunSAX3hgCd12mZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zNtdDpVvmkW0vtFXAA8UEt0nilu.jpg">https://image.tmdb.org/t/p/original/zNtdDpVvmkW0vtFXAA8UEt0nilu.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0775440</id>
+    <uniqueid type="imdb" default="true">tt0775440</uniqueid>
+    <uniqueid type="tmdb">168098</uniqueid>
+    <genre>Terror</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Stephen King</credits>
+    <credits>Adam Alleca</credits>
+    <director>Tod Williams</director>
+    <premiered>2016-07-06</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cargo Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fmkfKcr5JPQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5845</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>John Cusack</name>
+        <role>Clayton &apos;Clay&apos; Riddell</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/lJ05lxBFZXJAZvmjp1ARxUmwrhA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samuel L. Jackson</name>
+        <role>Thomas &apos;Tom&apos; McCourt</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXN4Gw9tZJVKrLJHde2IcUHmV3P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isabelle Fuhrman</name>
+        <role>Alice Maxwell</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7AaZYQzEXRtwEGdZqr5RUKa8pkO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Owen Teague</name>
+        <role>Jordan</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/dEFXrRmXOULWI0dorfT08IjK49P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clark Sarullo</name>
+        <role>Sharon Riddell</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kTpcNxebF2lPpG1lv8wZ2um1XMj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Reynolds</name>
+        <role>Ray</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/AtAfJArs7ycOGumUosp8NyqCRaA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erin Elizabeth Burns</name>
+        <role>Denise</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/u4OCOcfJfvv3uGQQJ7SUi5YrFrC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stacy Keach</name>
+        <role>Charles Ardai</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ArZIr5uWnAuCQ1rWFfpviSoK6iN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex ter Avest</name>
+        <role>Chloe</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/yACy7jx7rN5QhFcKxi1NqsYCiE1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wilbur Fitzgerald</name>
+        <role>Geoff</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/2s0MtvrLkzb4zGQyLeJLmUWoEWU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Mikel</name>
+        <role>Raggedy Man</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/aySpZ2uYz65C8CrHgEdrTy8jt70.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catherine Dyer</name>
+        <role>Sally</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/tMZkfDMu7U6IcIE9hx4NlJJIB39.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Griffin Freeman</name>
+        <role>Mike Mattick</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/j94jYFhQENuGbxuQitjL2HbQGOb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Andrew Casto</name>
+        <role>Johnny Riddell</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/j49VFX7zMUtOHAt9r1VAu76QL0v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lloyd Kaufman</name>
+        <role>Bystander</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/4jNIqeZBK2YbpPupBhl4l1moQn5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Ashworth</name>
+        <role>Bartender</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/nfhUTghFe0izP9NguZsDVqmVgEk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>E. Roger Mitchell</name>
+        <role>Roscoe</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/pO6VnkbMz9559l5qJChLxrChaIp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gaby Leyner</name>
+        <role>Maddy</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rey Hernandez</name>
+        <role>Cop (Rick)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/A5sN9Mr9uKvOmqz0zXTiMge7lVS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frederick C. Johnson Jr.</name>
+        <role>Cop&apos;s Partner</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Beasley</name>
+        <role>Construction Worker</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/w1sqMMzBG4M5K9b4Wrhejh0LS5a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mandi Christine Kerr</name>
+        <role>Bluetooth Woman</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Boland</name>
+        <role>Businessman</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexis Humphrey</name>
+        <role>Phoner Screamer</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony McFarr</name>
+        <role>Escalator Phoner</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/m9XsWcqaZf27TZpwaoE0gTe4o7v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Davidovich</name>
+        <role>Airport Phoner / Tavern Phoner / Chaos Phoner</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/r1fiYFMESOty374nw9FyxCTNjN6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shellita Boxie</name>
+        <role>Foot Chase Phoner</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/fOmN21OEJUNlVahm0EeM50FSr7u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maya Santandrea</name>
+        <role>Foot Chase Phoner</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/zPWqVw9Kje3BvqnQb9qpnpeRJeL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcelle Coletti</name>
+        <role>Foot Chase Phoner</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danya Bateman</name>
+        <role>Foot Chase Phoner</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/zm8g9IYRwh60NGMfPcpwnprZjTc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Ross</name>
+        <role>Bored Man</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/eI2IDGAOdIqCWEHzheYS7HLT4iX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Badger</name>
+        <role>Bored Woman</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/8BHoMRyNGvp2RQYA8wmTRDv7Zvr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jwaundace Candece</name>
+        <role>Tackled Person</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Tresan</name>
+        <role>TSA Agent</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Remington Steele</name>
+        <role>Kashwak Phoner</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/eIeQcsCDvuSPMmQTsm31Cvjpvz5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tammie Baird</name>
+        <role>Kashwak Phoner</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Loeser</name>
+        <role>Kashwak Phoner</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Damita Jane Howard</name>
+        <role>Kashwak Phoner</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/kBwvlcBzRsy24tQnFV0iK6YzmIO.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 19:54:04</dateadded>
+</movie>

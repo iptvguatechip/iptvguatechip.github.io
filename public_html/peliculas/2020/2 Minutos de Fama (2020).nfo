@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>2 Minutos de Fama</title>
+    <originaltitle>2 Minutes of Fame</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>335</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.900000</value>
+            <votes>44</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un prometedor comediante de stand-up se muda a Los Ángeles para seguir una carrera cinematográfica después de que los videoclips de su acto lo conviertan en una sensación en línea.</plot>
+    <tagline></tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yXzDyNVRMGinYFxblbIlpVY5nE6.jpg">https://image.tmdb.org/t/p/original/yXzDyNVRMGinYFxblbIlpVY5nE6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qWrPZZL7CC3MqySlOzpXaUWjUrd.jpg">https://image.tmdb.org/t/p/original/qWrPZZL7CC3MqySlOzpXaUWjUrd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/86691hFzHVVQkzCVDDRDcJuLaCL.jpg">https://image.tmdb.org/t/p/original/86691hFzHVVQkzCVDDRDcJuLaCL.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pPTzpNreBSiVCd7OQ6ykiJ9HDDg.jpg">https://image.tmdb.org/t/p/original/pPTzpNreBSiVCd7OQ6ykiJ9HDDg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cA9ZqGaLXUNzvbogz8daAhVOtAV.jpg">https://image.tmdb.org/t/p/original/cA9ZqGaLXUNzvbogz8daAhVOtAV.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7661376</id>
+    <uniqueid type="imdb" default="true">tt7661376</uniqueid>
+    <uniqueid type="tmdb">698783</uniqueid>
+    <genre>Comedia</genre>
+    <credits>Yamara Taylor</credits>
+    <credits>Devon Shepard</credits>
+    <director>Leslie Small</director>
+    <premiered>2020-06-16</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3P8N7oDGF1g</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>796</height>
+                <durationinseconds>5823</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jay Pharoah</name>
+        <role>Deandre</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keke Palmer</name>
+        <role>Sky</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xnOrSVnqsfixk3bDV1sX7WRFZWR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katt Williams</name>
+        <role>Marques</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/fYnrBTxywuWTHqoRkXj1lEvcNaO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deon Cole</name>
+        <role>Nico</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/3QTNxodSEL6HLDuv7Ub3vQzcNij.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Allo</name>
+        <role>Taylor</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/6qIvEPbFLeKjYdyMb1DXylDEgWU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valery M. Ortiz</name>
+        <role>Ms. Ellen</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/dWjI0obw9IbUy48gT5be019dJ79.jpg</thumb>
+    </actor>
+    <actor>
+        <name>RonReaco Lee</name>
+        <role>Eddie</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/mFUvPvPpUZvRK3rnAFhKQlUt39d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madeleine Byrne</name>
+        <role>Tiffany</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/91192855LflRIqipM0ZztWLkxZA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimrie Lewis</name>
+        <role>Ebony</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/cDGheQxAY76fpAQmJS8CF6LkJI7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Wise</name>
+        <role>Trump</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/8DAMGxOM93ygwaMQhERnWMr9jcF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cooper Thornton</name>
+        <role>Senior Advisor</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/nYShKHwMiOfobqhgTgYVF0hs4VJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kayla Eva</name>
+        <role>Serena</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/yB6IeDnz4MApPSdhSJVwoCu8YNM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nena Za</name>
+        <role>Jasmine</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/a1fX6AswJlnt1MN5oYPvYhjKLSL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reatha Grey</name>
+        <role>Old Lady</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/zeplImLwjJUVdCaZM9Wfx8THCpd.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-06-20 14:14:33</dateadded>
+</movie>

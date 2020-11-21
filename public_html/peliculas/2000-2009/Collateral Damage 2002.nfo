@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Daño colateral</title>
+    <originaltitle>Collateral Damage</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>71418</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>901</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La familia de Gordy Brewer (Arnold Schwarzenegger), un bombero de Los Ángeles, muere a manos de un grupo terrorista colombiano en un atentado con bomba en el centro de la ciudad, y él es testigo del horrible suceso. Convencido de que la justicia nunca detendrá a los que han arruinado su vida matando a su mujer y su hijo, Brewer decide viajar a la selva colombiana para vengarse por su cuenta.</plot>
+    <tagline>What would you do if you lost everything?</tagline>
+    <runtime>108</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2zSBTVpUA2FGvIOJw7GlcnsbSgz.jpg">https://image.tmdb.org/t/p/original/2zSBTVpUA2FGvIOJw7GlcnsbSgz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uyzgI1jqMjQMzbjhMrWvWHd76Ua.jpg">https://image.tmdb.org/t/p/original/uyzgI1jqMjQMzbjhMrWvWHd76Ua.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dbcIjw5Ng0y4RcQXAKOtLB2VYfT.jpg">https://image.tmdb.org/t/p/original/dbcIjw5Ng0y4RcQXAKOtLB2VYfT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6YIsphPr5uSesePPnQP9Ti8jrPl.jpg">https://image.tmdb.org/t/p/original/6YIsphPr5uSesePPnQP9Ti8jrPl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yc3LpzPcksNwNfKVXOwzTQracj1.jpg">https://image.tmdb.org/t/p/original/yc3LpzPcksNwNfKVXOwzTQracj1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0233469</id>
+    <uniqueid type="imdb" default="true">tt0233469</uniqueid>
+    <uniqueid type="tmdb">9884</uniqueid>
+    <genre>Acción</genre>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Ronald Roose</credits>
+    <credits>David Griffiths</credits>
+    <credits>Peter Griffiths</credits>
+    <director>Andrew Davis</director>
+    <premiered>2002-02-06</premiered>
+    <year>2002</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>David Foster Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YywOMlbqLPo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6528</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>dts</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Arnold Schwarzenegger</name>
+        <role>Gordy Brewer</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xKRwhLM8eJwWHppBqSRvVCNt0Cq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Francesca Neri</name>
+        <role>Selena Perrini</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1aDT4mtTdnp6xh60NnjUXI62Poy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elias Koteas</name>
+        <role>Peter Brandt</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7CJ9cW0YCnFjFUo0BRpgE5KcHLV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cliff Curtis</name>
+        <role>Claudio Perrini</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKeQvFh7z1QwsiJEmZgva83Lp5q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Leguizamo</name>
+        <role>Felix Ramirez</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/2P0LTIKMUZn7BG1q9S9e5FZFZkn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Turturro</name>
+        <role>Sean Amstrong</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jsu Garcia</name>
+        <role>Roman</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/fXbhpqgxV5a2mnZykuwxc6ecGyF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyler Posey</name>
+        <role>Mauro</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/eXeus5vixCYfehHFUA0zgQfiqN6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Milhoan</name>
+        <role>Jack</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/oTXRBzb8KUGC2TXtXEIheGjBANG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Worthy</name>
+        <role>Ronnie</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/lcA54ANnnfhIMdTEvJy8q6PZs1R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raymond Cruz</name>
+        <role>Junior</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1a0GyTD2v2HSDUGlGf69IGKdFmJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lindsay Frost</name>
+        <role>Anne Brewer</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/jUnwp3mM3LUrPjHYS1N5v2Kb5PL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Dampf</name>
+        <role>Matt Brewer</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/xMn8TUjOIRAGsr0gBf0zbSXwP4H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge Zepeda</name>
+        <role>Rocha</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miguel Sandoval</name>
+        <role>Joe Phipps</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Lennix</name>
+        <role>FBI Agent Dray</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/kNGiizWpetf4pyAkINkjkWacmCL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Mason</name>
+        <role>Undersecretary Shrub</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/xzEd6zZwRgNbZFfoqrNCIHtEW7d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Fischer</name>
+        <role>Paramedic</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/eI9AMMri9T0jDeT2BOpceCdmS3u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shelley Malil</name>
+        <role>Doctor</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/rdcqxbYFNJ0Lhr4aTHBGjmd9Jcs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Conley</name>
+        <role>Forensic Specialist</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/78bceHx2BdTJLhhomIbpQKm15TR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Allen</name>
+        <role>FBI Agent</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/xrbPXMUUwVft8NlwavDMxWkfVqW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Garcia</name>
+        <role>CNN Anchor</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Penny Griego</name>
+        <role>Jenni Luz</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Verea</name>
+        <role>Ephraim Ortiz-Dominguez</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/AksfbhlfmlJLGd4dhjTJqw4XchS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Collins</name>
+        <role>Agent #3</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Ramsay</name>
+        <role>Brandt&apos;s Aide</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/1ohZWBLAplxZRKfJBRWGYfDGk5u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Cavanaugh</name>
+        <role>Chairman Paul Devereaux</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/qBHBVGQLtHSJeUBxIEdsBJK9cP6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Pryor</name>
+        <role>Senator Delich</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/rAqLXW7s72tSgl1XBRYRCjQg4Cq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Obregón</name>
+        <role>Rodrigo</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/p3v0TwdaxmWvbMzC5gbteBctm82.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerardo Albarrán</name>
+        <role>Jorge</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/kQICLf3tFu9TT5lKyAmPQOq3h2w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J. Kenneth Campbell</name>
+        <role>Ed Coonts</role>
+        <order>30</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMTQxNzQ5MzgyMl5BMl5BanBnXkFtZTcwOTc4MTAzMQ@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Flor Eduarda Gurrola</name>
+        <role>Teenage Girl</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/gRBv1x3KcqNHWMyTTngtNyyHhx5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Altamirano</name>
+        <role>Fisherman</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Salvador Sánchez</name>
+        <role>Peddler</role>
+        <order>33</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZjdmNzczMDMtMzRmZC00NTdhLTkzZmYtMmViODQ5ZjIwMmVlXkEyXkFqcGdeQXVyMTk4MDgwNA@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fernando Sarfatti</name>
+        <role>Federale</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/jUWb9X4ctOwnnnzh14VeOkuggbG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raúl Pozos</name>
+        <role>Ernesto</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ehécatl Chávez</name>
+        <role>Augustin</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/mxxL17asi21WuyJFBLF1Hdv2sx8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Víctor Carpinteiro</name>
+        <role>Carlos</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natalia Traven</name>
+        <role>Lita</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Enrique Munoz</name>
+        <role>Captain Miguel</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Omar Ayala</name>
+        <role>Boatman</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/cxOERxdUEhFG1hdhoGPB6Xw4ryv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Damián</name>
+        <role>Guerilla Motorista aka River Rat</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/mPQARaSDXe4I5xj1fqsOJvjtoMz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Millie Slavin</name>
+        <role>Secretary of State Barbara Ramsey</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jane Lynch</name>
+        <role>Agent Russo</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/ey5L95tCywTxRAwbkQkVe4OR3pF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jossara Jinaro</name>
+        <role>Rosetta</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/5CmkRjVhGFID9seW5cYNvP5U50.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clint Lilley</name>
+        <role>Buzz Cut</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/29l69IVtmPydWuS92IlJl2yOCaG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marianne Lewis</name>
+        <role>Agent Davis</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louis Bernstein</name>
+        <role>Hot Dog Vendor</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doralicia</name>
+        <role>Hysterical Woman</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/fi9ER0SVdBW2sZDHbIe9qhh6vY2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Acovone</name>
+        <role>Bennie</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/jJR6JKsuwExjUUheA9JlIC7mgY5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ronald Donahue</name>
+        <role>Bomb Squad</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert &apos;Bobby Z&apos; Zajonc</name>
+        <role>Helicopter Pilot #1</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/dSPtqwLrm6HNZ6xg8gBkqF4lRGo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel H. Friedman</name>
+        <role>Helicopter Pilot #2</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Renteria</name>
+        <role>Safe House Guerrilla</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Norm Compton</name>
+        <role>Brandt&apos;s Bodyguard</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Esteban Cueto</name>
+        <role>Estaban</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/y3f5U7YuUQHKuXFpbH7dcmiwQdR.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-11-24 10:49:04</dateadded>
+</movie>

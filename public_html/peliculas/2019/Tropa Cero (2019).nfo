@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Tropa Cero</title>
+    <originaltitle>Troop Zero</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>8627</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>171</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En la Georgia rural de 1977, una niña rebelde sueña con una vida en el espacio exterior. Cuando una competición le ofrece la oportunidad de sumarse al Golden Record de la NASA, convoca a una improvisada tropa de chicas scout, forjando una amistad que durará toda la vida.</plot>
+    <tagline>Show the universe who you truly are.</tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oEMkHQyfCXuZLP69UqAImW5Rbot.jpg">https://image.tmdb.org/t/p/original/oEMkHQyfCXuZLP69UqAImW5Rbot.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yr1RzTrVIfS5n9zvClUfAtZDyUn.jpg">https://image.tmdb.org/t/p/original/yr1RzTrVIfS5n9zvClUfAtZDyUn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j9c43EPpJTMf88hTLY4MmIdSWzQ.jpg">https://image.tmdb.org/t/p/original/j9c43EPpJTMf88hTLY4MmIdSWzQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6ZkOIoWGThvt5XltrGNpFzghmrN.jpg">https://image.tmdb.org/t/p/original/6ZkOIoWGThvt5XltrGNpFzghmrN.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jfCfEhdFtotjSwP6bipQzk3eaoB.jpg">https://image.tmdb.org/t/p/original/jfCfEhdFtotjSwP6bipQzk3eaoB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wCDnTQOue3UbaqLBNGLCJNrk13M.jpg">https://image.tmdb.org/t/p/original/wCDnTQOue3UbaqLBNGLCJNrk13M.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2404465</id>
+    <uniqueid type="imdb" default="true">tt2404465</uniqueid>
+    <uniqueid type="tmdb">525946</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <credits>Lucy Alibar</credits>
+    <director>Bert</director>
+    <director>Bertie</director>
+    <premiered>2019-02-01</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Amazon Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gi4C6GncmQ4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5847</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>eac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>eac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Mckenna Grace</name>
+        <role>Christmas Flint</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/dX6QFwpAzAcXGgxSINwvDxujEgj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Viola Davis</name>
+        <role>Miss Rayleen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xDssw6vpYNRjsybvMPRE30e0dPN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Gaffigan</name>
+        <role>Ramsey Flint</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/vjsNoFWoTCXaBZ59qq6A03BeQs8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allison Janney</name>
+        <role>Miss Massey</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cDcB8mKP1GiIeoM3Qe7GIucs0iv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Shotwell</name>
+        <role>Joseph</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lNRwJ9afyDI1hccWGxQcAKZ5RMA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Milan Ray</name>
+        <role>Hell-No Price</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ptV1iZiPTKpKr2D1fIVTD5bMeR0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Johanna Colón</name>
+        <role>Smash</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/x9obbPwX0axTVb7h4wkqsrjUbgF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bella Higginbotham</name>
+        <role>Anne-Claire</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/5GVr02x9iaFQq0UGDQKC8L14rfG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Epps</name>
+        <role>Dwayne Champaign</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Brooke</name>
+        <role>Piper Keller</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/uj6CKE1IJ4htp8oGfwXnzN79XQX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kai N. Ture</name>
+        <role>Ginger</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Wayne Bradley</name>
+        <role>Joseph&apos;s Dad</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/zCrwMgy4XIlbluWARTfSLhMTAsj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edi Patterson</name>
+        <role>Miss Aimee</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/iti9tBsekKmdnqKHttqT6V7NXEa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maureen Brennan</name>
+        <role>Miss Delilah</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/fn6ykyckaIZ0msiHdnV1kZWnZfB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gwendolyn Mulamba</name>
+        <role>Miss Penny</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James W. Evermore</name>
+        <role>Man From Crowd</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jecobi Swain</name>
+        <role>Ray-Ray</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zach Mooney</name>
+        <role>School Kid (uncredited)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 20:08:16</dateadded>
+</movie>

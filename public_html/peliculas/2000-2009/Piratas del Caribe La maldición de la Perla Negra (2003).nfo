@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Piratas del Caribe: La Maldición del Perla Negra</title>
+    <originaltitle>Pirates of the Caribbean: The Curse of the Black Pearl</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.000000</value>
+            <votes>1005993</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.700000</value>
+            <votes>15143</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Mar Caribe, siglo XVIII. El aventurero capitán Jack Sparrow piratea en aguas caribeñas, pero su andanzas terminan cuando su enemigo, el Capitán Barbossa, después de robarle su barco, el Perla Negra, ataca la ciudad de Port Royal y secuestra a Elizabeth Swann, la hija del Gobernador. Will Turner, amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar el Perla Negra. Pero Barbossa y su tripulación son víctimas de un conjuro que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes. El conjuro sólo puede romperse si devuelven una pieza de oro azteca y saldan una deuda de sangre. El rescate de la bella Elizabeth será una tarea difícil, pues la maldición es real y será difícil enfrentarse con quienes no pueden morir.</plot>
+    <tagline>Unas 3.000 islas de paraíso. Para algunos es una bendición, para otros es una maldición.</tagline>
+    <runtime>143</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zRBaZxS5YauLvRYjAdL4AUCwlht.jpg">https://image.tmdb.org/t/p/original/zRBaZxS5YauLvRYjAdL4AUCwlht.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/p9fXIvNppK21fCHAEkznSZb8hnv.jpg">https://image.tmdb.org/t/p/original/p9fXIvNppK21fCHAEkznSZb8hnv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sfhT0AIeK3acITOvfTtS8DiU5pQ.jpg">https://image.tmdb.org/t/p/original/sfhT0AIeK3acITOvfTtS8DiU5pQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1yg63Kl4p872ia4gPQysIZkKhUT.jpg">https://image.tmdb.org/t/p/original/1yg63Kl4p872ia4gPQysIZkKhUT.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg">https://image.tmdb.org/t/p/original/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fl5fX04UqklKHMJncSWXl1G6Fr4.jpg">https://image.tmdb.org/t/p/original/fl5fX04UqklKHMJncSWXl1G6Fr4.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9XFSWkE9cFfomEigStUi7HNuceN.jpg">https://image.tmdb.org/t/p/original/9XFSWkE9cFfomEigStUi7HNuceN.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/A8iVNSmrW8cpOJatVvv8jdi24YA.jpg">https://image.tmdb.org/t/p/original/A8iVNSmrW8cpOJatVvv8jdi24YA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4HVsFsm3pb8uBRx9m93UzR8e5hL.jpg">https://image.tmdb.org/t/p/original/4HVsFsm3pb8uBRx9m93UzR8e5hL.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ui1MhQuaPEbSmBKZsqunPQKrpZX.jpg">https://image.tmdb.org/t/p/original/ui1MhQuaPEbSmBKZsqunPQKrpZX.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qjTRWiM6YxCNMrV1eGyeNSGlYxp.jpg">https://image.tmdb.org/t/p/original/qjTRWiM6YxCNMrV1eGyeNSGlYxp.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qTPYCuvSWmdYhsXBgAouNQhyKa.jpg">https://image.tmdb.org/t/p/original/qTPYCuvSWmdYhsXBgAouNQhyKa.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/429YsdAKgpdHEElGD6eFLdAbkuu.jpg">https://image.tmdb.org/t/p/original/429YsdAKgpdHEElGD6eFLdAbkuu.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/hASxArwUHRTJoYjkwhBTPATwGPp.jpg">https://image.tmdb.org/t/p/original/hASxArwUHRTJoYjkwhBTPATwGPp.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/boG1uuSh9w4CY9ge67yYV7yzxBZ.jpg">https://image.tmdb.org/t/p/original/boG1uuSh9w4CY9ge67yYV7yzxBZ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4KUJ38SsViJTsUmTRvXxerBNwAv.jpg">https://image.tmdb.org/t/p/original/4KUJ38SsViJTsUmTRvXxerBNwAv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/iv9BaBejyEJ7eFLzTW4ZqxsHozh.jpg">https://image.tmdb.org/t/p/original/iv9BaBejyEJ7eFLzTW4ZqxsHozh.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/id767v9yjqsFFdFcp3NirfvlsdP.jpg">https://image.tmdb.org/t/p/original/id767v9yjqsFFdFcp3NirfvlsdP.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg">https://image.tmdb.org/t/p/original/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg">https://image.tmdb.org/t/p/original/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xtMp2Zw5rMoZaxKiJ188X9kUTgS.jpg">https://image.tmdb.org/t/p/original/xtMp2Zw5rMoZaxKiJ188X9kUTgS.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/hqPDPCsf4FiJaLWK2IaJ5ggdUgY.jpg">https://image.tmdb.org/t/p/original/hqPDPCsf4FiJaLWK2IaJ5ggdUgY.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xP6iVDfYxkvTvrKjD1aKoPgAdxU.jpg">https://image.tmdb.org/t/p/original/xP6iVDfYxkvTvrKjD1aKoPgAdxU.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/qd4ZFoQWqEi3GJEpv6uVqLSd6tE.jpg">https://image.tmdb.org/t/p/original/qd4ZFoQWqEi3GJEpv6uVqLSd6tE.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/2xcffH1n4KGnPLEawLbSuJwaPwc.jpg">https://image.tmdb.org/t/p/original/2xcffH1n4KGnPLEawLbSuJwaPwc.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/8ihvqSlfo2hdPG6qXTfZYm38S1l.jpg">https://image.tmdb.org/t/p/original/8ihvqSlfo2hdPG6qXTfZYm38S1l.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/fKQmwOjxD1pVBOsyeJeqJNb4v5g.jpg">https://image.tmdb.org/t/p/original/fKQmwOjxD1pVBOsyeJeqJNb4v5g.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/8Jg0Z5kOoPQRHBNiQs1s9hMT1qt.jpg">https://image.tmdb.org/t/p/original/8Jg0Z5kOoPQRHBNiQs1s9hMT1qt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg">https://image.tmdb.org/t/p/original/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dVgSnlKIfZ5Op9CvxoSzbFkYzb5.jpg">https://image.tmdb.org/t/p/original/dVgSnlKIfZ5Op9CvxoSzbFkYzb5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dHUZPilGRtQqsobeJYOMEvSLt4e.jpg">https://image.tmdb.org/t/p/original/dHUZPilGRtQqsobeJYOMEvSLt4e.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/23NGYZ6ngzdyTCWeQ6Z7UrTJyb9.jpg">https://image.tmdb.org/t/p/original/23NGYZ6ngzdyTCWeQ6Z7UrTJyb9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yKmpGDjlFFRG5SHboRO7xHC5E1A.jpg">https://image.tmdb.org/t/p/original/yKmpGDjlFFRG5SHboRO7xHC5E1A.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nrtlH9uSnVy7fBtSmxJWwpeZ8Iw.jpg">https://image.tmdb.org/t/p/original/nrtlH9uSnVy7fBtSmxJWwpeZ8Iw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r0ObS3nNY1ExQw8b3MwiIDzIigw.jpg">https://image.tmdb.org/t/p/original/r0ObS3nNY1ExQw8b3MwiIDzIigw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/f8QjxZIqKGq6QzOcThIm4b7nZ2m.jpg">https://image.tmdb.org/t/p/original/f8QjxZIqKGq6QzOcThIm4b7nZ2m.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg">https://image.tmdb.org/t/p/original/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg">https://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pEQLs5mSt2dhDpiPZFRMIMZuFTg.jpg">https://image.tmdb.org/t/p/original/pEQLs5mSt2dhDpiPZFRMIMZuFTg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mI3FFmcJ1sw7TY0ixgWVA2CxdeP.jpg">https://image.tmdb.org/t/p/original/mI3FFmcJ1sw7TY0ixgWVA2CxdeP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tpzL6ZbyWSy4SMuyMDxStyE88fK.jpg">https://image.tmdb.org/t/p/original/tpzL6ZbyWSy4SMuyMDxStyE88fK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xWR4ijitMQB27DGFNvr1LWadZAH.jpg">https://image.tmdb.org/t/p/original/xWR4ijitMQB27DGFNvr1LWadZAH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mNVTBUyGGzL3scCOiLCdDUkkt8o.jpg">https://image.tmdb.org/t/p/original/mNVTBUyGGzL3scCOiLCdDUkkt8o.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m6gxlAt6UxwNlPFOJJ9OGxt1rfK.jpg">https://image.tmdb.org/t/p/original/m6gxlAt6UxwNlPFOJJ9OGxt1rfK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oiH29eQEMXNogCPjvtZXbOvwxz6.jpg">https://image.tmdb.org/t/p/original/oiH29eQEMXNogCPjvtZXbOvwxz6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aJbSWacqwQVkxQFIYJUDAzF6kh1.jpg">https://image.tmdb.org/t/p/original/aJbSWacqwQVkxQFIYJUDAzF6kh1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AqlZWgWLyQYKMLWRq2T6ohSn8qh.jpg">https://image.tmdb.org/t/p/original/AqlZWgWLyQYKMLWRq2T6ohSn8qh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3g67sj8uaDSM7PXZdV2OaEUmXkr.jpg">https://image.tmdb.org/t/p/original/3g67sj8uaDSM7PXZdV2OaEUmXkr.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jyxJiTmOFzyrrutxGjlD1UBjims.jpg">https://image.tmdb.org/t/p/original/jyxJiTmOFzyrrutxGjlD1UBjims.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1TZ8CIJ50iKR8gWLpr42kgNOUTk.jpg">https://image.tmdb.org/t/p/original/1TZ8CIJ50iKR8gWLpr42kgNOUTk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rtF4NIm1Lv9zjJhC1v9TqrTj66N.jpg">https://image.tmdb.org/t/p/original/rtF4NIm1Lv9zjJhC1v9TqrTj66N.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3rlclw8qHWEX2hYHNi7dAaW1e0.jpg">https://image.tmdb.org/t/p/original/3rlclw8qHWEX2hYHNi7dAaW1e0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hQxZnanaGZdgSTeeuUqUWkCO6w7.jpg">https://image.tmdb.org/t/p/original/hQxZnanaGZdgSTeeuUqUWkCO6w7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg">https://image.tmdb.org/t/p/original/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oTzJ0kMH2kGOvsNjQ7CqysFrgpw.jpg">https://image.tmdb.org/t/p/original/oTzJ0kMH2kGOvsNjQ7CqysFrgpw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d6ZiYza8M4pcP8SX15D0rSSTJnZ.jpg">https://image.tmdb.org/t/p/original/d6ZiYza8M4pcP8SX15D0rSSTJnZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3sarRtgbXgqtdZ68LsLvAKyAktn.jpg">https://image.tmdb.org/t/p/original/3sarRtgbXgqtdZ68LsLvAKyAktn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/468714rKVDNItnO2UI4eTgLsrT5.jpg">https://image.tmdb.org/t/p/original/468714rKVDNItnO2UI4eTgLsrT5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sglDzkfz0qy555MO3xbWVN6LoK7.jpg">https://image.tmdb.org/t/p/original/sglDzkfz0qy555MO3xbWVN6LoK7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7LMtSMBIU7xPXc8b3WyaU0XrgUx.jpg">https://image.tmdb.org/t/p/original/7LMtSMBIU7xPXc8b3WyaU0XrgUx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jOh79POQu4hyVIseUxdQxTW7vOf.jpg">https://image.tmdb.org/t/p/original/jOh79POQu4hyVIseUxdQxTW7vOf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3kjTgoliQ9i1QG2CmFiypKm3VQR.jpg">https://image.tmdb.org/t/p/original/3kjTgoliQ9i1QG2CmFiypKm3VQR.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0325980</id>
+    <uniqueid type="imdb" default="true">tt0325980</uniqueid>
+    <uniqueid type="tmdb">22</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Fantasía</genre>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Piratas del Caribe - Colección</name>
+    </set>
+    <credits>Ted Elliott</credits>
+    <credits>Terry Rossio</credits>
+    <director>Gore Verbinski</director>
+    <premiered>2003-07-09</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Walt Disney Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5Itr2jHuJaw</trailer>
+    <actor>
+        <name>Johnny Depp</name>
+        <role>Jack Sparrow</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/532tIC5wzmmR1jO7oA83rTiLvBx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Orlando Bloom</name>
+        <role>Will Turner</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kboHD4zumfJt3vkjORd8ETJyJfX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keira Knightley</name>
+        <role>Elizabeth Swann</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geoffrey Rush</name>
+        <role>Barbossa</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/npXFjaFQzBNroCEPllGPTZ5IisA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Davenport</name>
+        <role>Norrington</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/4asp2xBJS98Tx8yKTLyWn7fjLKj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Pryce</name>
+        <role>Governor Weatherby Swann</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Arenberg</name>
+        <role>Pintel</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gjfhKozJdBjQ4GhtosVdQ3ruytU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Crook</name>
+        <role>Ragetti</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/r17GbBnCjJjwUaRM3KY2e8GBjbG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Damian O&apos;Hare</name>
+        <role>Lt. Gillette</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/bO6TMDYluACYKy7zWEloym1SUa5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Giles New</name>
+        <role>Murtogg</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/e0Ap9fkLAFcxLVHpK8KH2TQV3wI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angus Barnett</name>
+        <role>Mullroy</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/jq30ZKBPyiQT128nV5PdjgVXtzH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Bailie</name>
+        <role>Cotton</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/jt1BtEWsFB4ghrZhpwGkGWmibCb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Berry Jr.</name>
+        <role>Twigg</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/aCOZLItVcDAqUJiNpzHD6N8egDq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isaac C. Singleton Jr.</name>
+        <role>Bo&apos;sun</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/5eCMlv5J8okP08IDsHZOvVBh3dm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin McNally</name>
+        <role>Joshamee Gibbs</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/fIJF3TZn8ckHkcl44oX77GvPv9e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Treva Etienne</name>
+        <role>Koehler</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/4fbALszVEROvVmlg04Z0aqQwGn7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoe Saldana</name>
+        <role>Anamaria</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Guy Siner</name>
+        <role>Harbormaster</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/fp5X9KNUhL8EGVg1uCD6Vc4c5E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ralph P. Martin</name>
+        <role>Mr. Brown</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paula J. Newman</name>
+        <role>Estrella</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/dUjxwTdKW8AOUczSvp5BltgYoB9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Keith</name>
+        <role>Butler</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dylan Smith</name>
+        <role>Young Will</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucinda Dryzek</name>
+        <role>Young Elizabeth</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke de Woolfson</name>
+        <role>Frightened Sailor</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/6xYlGg3UroTxcQeBriKWm02I6LW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Sean Tighe</name>
+        <role>Seedy Looking Prisoner</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/nmkjis90TlWIzxoB1ORz14C05tN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Ellis</name>
+        <role>Officer</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/4vqx2I8ulOPcouOFmOM0UTD3tzj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dustin Seavey</name>
+        <role>Sentry</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christian Martin</name>
+        <role>Steersman</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/Eba9x4xsv3T4sqpMcVCkCKgxVe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Israel Aduramo</name>
+        <role>Crippled Man</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/kAJHUpeME7KJbOz1kCvnV7wdls.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Trevor Goddard</name>
+        <role>Grapple</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vince Lozano</name>
+        <role>Jacoby</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/tgUss3KYMqL3BaTh8637kjD4s5k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Wilson</name>
+        <role>Seedy Prisoner #2</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio Valentino</name>
+        <role>Seedy Prisoner #3</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Maher</name>
+        <role>Scarlett</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Bowyer</name>
+        <role>Sailor / Edinburgh</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brye Cooper</name>
+        <role>Mallot</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/hAGh6uvfvbk5lsyJvqYsgOrJYJs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Babcock</name>
+        <role>Seedy Prisoner #4</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Owen Finnegan</name>
+        <role>Town Clerk</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian McIntyre</name>
+        <role>Sailor</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Branch</name>
+        <role>Giselle</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/leVq44Yks0jtSGDE7vvhIqmgJAe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Roberts</name>
+        <role>Crying Boy</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Roberts</name>
+        <role>Crying Boy</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Klebba</name>
+        <role>Marty</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/schnhMaXtfv5EC7EJODTgMcfzPe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Félix Castro</name>
+        <role>Moises: Jack&apos;s Crew</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Haberecht</name>
+        <role>Kursar: Jack&apos;s Crew</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rudolph McCollum</name>
+        <role>Matelot: Jack&apos;s Crew</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerard J. Reyes</name>
+        <role>Tearlach: Jack&apos;s Crew</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>M. Scott Shields</name>
+        <role>Duncan: Jack&apos;s Crew</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher Sullivan</name>
+        <role>Ladbroc: Jack&apos;s Crew</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Craig Thomson</name>
+        <role>Crimp: Jack&apos;s Crew</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fred Toft</name>
+        <role>Quartetto: Jack&apos;s Crew</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>D.P. FitzGerald</name>
+        <role>Weatherby: Barbossa&apos;s Crew</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jerry Gauny</name>
+        <role>Ketchum: Barbossa&apos;s Crew</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maxie J. Santillan Jr.</name>
+        <role>Maximo: Barbossa&apos;s Crew</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Earl Lane</name>
+        <role>Monk: Barbossa&apos;s Crew</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/yEnhLwlx4nl3G0xlTcZrKl3QY5J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tobias McKinney</name>
+        <role>Dog Ear: Barbossa&apos;s Crew</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Patykewich</name>
+        <role>Clubba: Barbossa&apos;s Crew</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/awBek9ACRk6LGur6qKQJzpfjm5K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Schooler</name>
+        <role>Scarus: Barbossa&apos;s Crew</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/4h1z8wf0Z74iHDax4N93UXUJyQd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael A. Thompson</name>
+        <role>Simbakka: Barbossa&apos;s Crew</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael W. Williams</name>
+        <role>Hawksmoor: Barbossa&apos;s Crew</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jose Zelaya</name>
+        <role>Katracho: Barbossa&apos;s Crew</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/ZjMSnnx3eixifh1fPb72zCagCQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Finneus Egan</name>
+        <role>Scratch: Barbossa&apos;s Crew</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/14gJ3G0oGpb7kT3uq2DYrDi1pPJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don LaDaga</name>
+        <role>Nipperkin: Barbossa&apos;s Crew</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>LeJon</name>
+        <role>Lejon</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher S. Capp</name>
+        <role>Cotton&apos;s Parrot (voice)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregory Ryan Alosio</name>
+        <role>Pirate (uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/HQs9e7GqEgZBbta6fZeBFbPG5B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jordi Caballero</name>
+        <role>Pirate (uncredited)</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/kHTPZBlO9KSow33QIxtCpbWcpTc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamara Castle</name>
+        <role>Woman in bar (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Gagné</name>
+        <role>Sailor (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/zZZqx4GVhXOI9dKhXqHEJqh9zHb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Grisaffi</name>
+        <role>Marine (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/AvHHBuuMZExckAVtshKDgLlhbqK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James McAuley</name>
+        <role>Barbossa&apos;s Crew (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 11:26:45</dateadded>
+</movie>

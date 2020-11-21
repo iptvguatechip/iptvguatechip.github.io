@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Legionario</title>
+    <originaltitle>Legionario</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>384</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>3.500000</value>
+            <votes>2</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot></plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/j2IF2RzKOIJQBLhD6K9hsvX4Si5.jpg">https://image.tmdb.org/t/p/original/j2IF2RzKOIJQBLhD6K9hsvX4Si5.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1QEpRezAxfjzQOemCIKdmPqsAbH.jpg">https://image.tmdb.org/t/p/original/1QEpRezAxfjzQOemCIKdmPqsAbH.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3985430</id>
+    <uniqueid type="imdb" default="true">tt3985430</uniqueid>
+    <uniqueid type="tmdb">442479</uniqueid>
+    <genre>Bélica</genre>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>Spain</country>
+    <director>Eduardo Garza</director>
+    <premiered>2017-02-17</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HScxhA_thyM</trailer>
+    <actor>
+        <name>Raúl Tejón</name>
+        <role>Santos</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/tKk3Mk3MvPTUXEPaL6QorWh1O3z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diana Palazón</name>
+        <role>Alicia</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sCIBRkIpcB3lbIRdB6sOnCrtW8r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Mottola</name>
+        <role>Andrés</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mxheAVVwVEMW7ZvENf5MIOfm4mE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marta Canalda</name>
+        <role>Cristina</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5ApB0kxxgLRrKH2zjEnl0vJA2AS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arturo De La Torre</name>
+        <role>Said</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/niwKQ07bUHHQSaOmGuTHGetzmS6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto Rey</name>
+        <role>Cruz</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zSgbd5QJ3flXCUEbfZxnY4tNrV8.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-06-01 04:56:07</dateadded>
+</movie>

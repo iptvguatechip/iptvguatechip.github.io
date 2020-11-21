@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El conductor</title>
+    <originaltitle>Wheelman</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>17109</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>387</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Durante un asalto a un banco, el conductor contratado para fugarse tras el robo deberá hacer uso de su ingenio y destreza cuando recibe órdenes desde un número desconocido.</plot>
+    <tagline>Drive fast. Think faster.</tagline>
+    <runtime>82</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg">https://image.tmdb.org/t/p/original/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dsgHZDOfHwk1PCnF7Gki8uzOymf.jpg">https://image.tmdb.org/t/p/original/dsgHZDOfHwk1PCnF7Gki8uzOymf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hFfBXnFjQbia4aHqRs0h8lQvUUB.jpg">https://image.tmdb.org/t/p/original/hFfBXnFjQbia4aHqRs0h8lQvUUB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oiOkBq3cyM5SgNpr3gShlmBIlXx.jpg">https://image.tmdb.org/t/p/original/oiOkBq3cyM5SgNpr3gShlmBIlXx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vMwzZOvDJxUaCO4F741Ryi7E6rR.jpg">https://image.tmdb.org/t/p/original/vMwzZOvDJxUaCO4F741Ryi7E6rR.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zABLkisR5i0HQgpBcyWwQGVk89c.jpg">https://image.tmdb.org/t/p/original/zABLkisR5i0HQgpBcyWwQGVk89c.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/Asj0TnWYcsprMUY6OKvxFIVrs2Q.jpg">https://image.tmdb.org/t/p/original/Asj0TnWYcsprMUY6OKvxFIVrs2Q.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/naThjlFx1Hs6mGyl8VBKxyL7Uqa.jpg">https://image.tmdb.org/t/p/original/naThjlFx1Hs6mGyl8VBKxyL7Uqa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yvaCcjVFoO10adGFqVWbxDlPWt6.jpg">https://image.tmdb.org/t/p/original/yvaCcjVFoO10adGFqVWbxDlPWt6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2wQE1wRi1sfPmc9U4rpP1b2ZNa2.jpg">https://image.tmdb.org/t/p/original/2wQE1wRi1sfPmc9U4rpP1b2ZNa2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5723286</id>
+    <uniqueid type="imdb" default="true">tt5723286</uniqueid>
+    <uniqueid type="tmdb">471014</uniqueid>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Jeremy Rush</credits>
+    <director>Jeremy Rush</director>
+    <premiered>2017-10-20</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>The Solution</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q6hODbsUE7Y</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>4947</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Frank Grillo</name>
+        <role>Wheelman</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/my0fkfF7CkWY7umQir6XCvjxwPY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendy Moniz</name>
+        <role>Jessica</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/o6h5BiaTiezKKEOaQKiGuTGeePe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Caitlin Carmichael</name>
+        <role>Katie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/k0yEVLRkkGChEKcW5R7mAOwS9sa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Garret Dillahunt</name>
+        <role>Clayton</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/w5Ziqypp23AMTOaAolAW7RM5pnH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Cenatiempo</name>
+        <role>Real Handler</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/tLGNdbuunOiSJvUAde59h5zUNMm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Slaine</name>
+        <role>Jazz Handler</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shea Whigham</name>
+        <role>Motherfucker</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Xifaras</name>
+        <role>Mechanic</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/laxmuLJVUl0vUPt2sQdWFSEk7ut.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Precious White</name>
+        <role>Sexy Girl Outside Club</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Rockwood</name>
+        <role>Stripper</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/mFBxBOMclEcVRfJwiRryaeQ6JeX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seth Ayott</name>
+        <role>Bar Guy</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Fierro</name>
+        <role>Hip-Hop guy</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffery Kincannon</name>
+        <role>Bank Hostage</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ken Murray</name>
+        <role>Passerby</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/zY4xLEOYoeqxUGIHDQnHbXfjFcV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leah Procito</name>
+        <role>Pedestrian</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/qfweXm8hw3MqGPoIo778DoTTx12.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Koutrobis</name>
+        <role>Bar Tough Guy</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven Rears</name>
+        <role></role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 20:29:48</dateadded>
+</movie>

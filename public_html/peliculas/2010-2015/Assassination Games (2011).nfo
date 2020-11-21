@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Juego de asesinos</title>
+    <originaltitle>Assassination Games</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.100000</value>
+            <votes>16488</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900000</value>
+            <votes>199</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dos asesinos rivales, los mejores del mundo, pero desconocidos el uno al otro, tendrán que unir sus fuerzas para luchar en contra de un cartel de la droga apoyado por la DEA.</plot>
+    <tagline>Twice the fire... double the power!</tagline>
+    <runtime>99</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/daWolaS3RNGcOwy8dxndNFvyIrl.jpg">https://image.tmdb.org/t/p/original/daWolaS3RNGcOwy8dxndNFvyIrl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rOc7yeqLsaEdNqCzB73OeE4Zog4.jpg">https://image.tmdb.org/t/p/original/rOc7yeqLsaEdNqCzB73OeE4Zog4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sdlwwFHE2voo4fr3apnJMZm5Yxo.jpg">https://image.tmdb.org/t/p/original/sdlwwFHE2voo4fr3apnJMZm5Yxo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/quJ0kXiQmP7rOg1m6WGmallQiJQ.jpg">https://image.tmdb.org/t/p/original/quJ0kXiQmP7rOg1m6WGmallQiJQ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9GDHBrOowFg8op7UQpYGfwnuhbr.jpg">https://image.tmdb.org/t/p/original/9GDHBrOowFg8op7UQpYGfwnuhbr.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1436568</id>
+    <uniqueid type="imdb" default="true">tt1436568</uniqueid>
+    <uniqueid type="tmdb">71677</uniqueid>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <credits>Aaron Rahsaan Thomas</credits>
+    <director>Ernie Barbarash</director>
+    <premiered>2011-07-28</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Mediapro Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1-y3trCq6v8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5991</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jean-Claude Van Damme</name>
+        <role>Vincent Brazil</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qAHXPJ4IybMsCbNY3811CytFj3H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Adkins</name>
+        <role>Roland Flint</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/n1L8652hJAKi5l2sdrZ07oZJmos.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Chapman</name>
+        <role>Culley</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sCUwtlhaT2MspHCUx2veRAA9ZXx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marija Karan</name>
+        <role>October</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/NYMJPRsXfAHl8rfA8pDRDPdl1X.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bianca Bree</name>
+        <role>Anna Flint</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/1bwKdE1oYtW4ahUxS80i4leKPWN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Higgs</name>
+        <role>Godfrey</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/cgTq0wqhVgEAq5mSiR8YNzoR5KD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valentin Teodosiu</name>
+        <role>Blanchard</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kris Van Damme</name>
+        <role>Schell</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/4465DC6Fz3RUtOGwD2E4xidFr8z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ivan Kaye</name>
+        <role>Polo Yakur</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alin Panc</name>
+        <role>Kovacs</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/uFO2Ceo9iHzaOFdBj4sB2LzkDCG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Șerban Celea</name>
+        <role>Wilson Herrod</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George Remeș</name>
+        <role>Bartok</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mărioara Sterian</name>
+        <role>Mrs. Pavlescu</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew French</name>
+        <role>Nalbandian</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Attila Árpa</name>
+        <role>Telly</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/pHzmGW5oLmtb5Vzupy81nNs4PkB.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-02 10:37:10</dateadded>
+</movie>

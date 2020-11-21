@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La prima pietra</title>
+    <originaltitle>La prima pietra</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>167</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>47</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot></plot>
+    <tagline></tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6xRNMo8phSC5yViRKRmwfpGXtqh.jpg">https://image.tmdb.org/t/p/original/6xRNMo8phSC5yViRKRmwfpGXtqh.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bFVvSO9j4TPNSh2Cq9BsBqVLZ7d.jpg">https://image.tmdb.org/t/p/original/bFVvSO9j4TPNSh2Cq9BsBqVLZ7d.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8769766</id>
+    <uniqueid type="imdb" default="true">tt8769766</uniqueid>
+    <uniqueid type="tmdb">559927</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <credits>Rolando Ravello</credits>
+    <credits>Stefano Di Santi</credits>
+    <director>Rolando Ravello</director>
+    <premiered>2018-12-06</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>640.000000</aspect>
+                <width>1280</width>
+                <height>746</height>
+                <durationinseconds>5883</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kasia Smutniak</name>
+        <role></role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/yRMDXVkGgMcE6wfpfzyZ1lKKpmy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corrado Guzzanti</name>
+        <role></role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/z2bW9vBzWIMUMfacJn6NgjYOugb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valerio Aprea</name>
+        <role></role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/yRV3EMtKMFo7QiwBotNf9761s6q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucia Mascino</name>
+        <role></role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/fgtvWOvKi9lCUzCC21XodglaA6C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iaia Forte</name>
+        <role></role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/yYtfsJoz50Q1yeZw5UHZAGMNP4K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Serra Yılmaz</name>
+        <role></role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/djJdXbtZnw9CcbY8jIrwgXAmM13.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:30</dateadded>
+</movie>

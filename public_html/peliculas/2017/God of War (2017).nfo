@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>God of War</title>
+    <originaltitle>荡寇风云</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.400000</value>
+            <votes>2003</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>45</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Durante el siglo XVI, los piratas japoneses se multiplican a lo largo de la costa china. En 1557 los piratas se hacen con el control de Cengang en Zhejiang. Tras meses de intentonas futiles, el comandante Yu logra derrotarlos bajo el mando del recien ascendido General Qi. Sin embargo, los piratas logran escapar.</plot>
+    <tagline></tagline>
+    <runtime>128</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4rWq9Vwb1gVhQIqkhUKE0hPVwnz.jpg">https://image.tmdb.org/t/p/original/4rWq9Vwb1gVhQIqkhUKE0hPVwnz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ukubxTWVF9nxWajdflW2SDHVorX.jpg">https://image.tmdb.org/t/p/original/ukubxTWVF9nxWajdflW2SDHVorX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/naIWmfjwm023gQbnzi3YDubmK5w.jpg">https://image.tmdb.org/t/p/original/naIWmfjwm023gQbnzi3YDubmK5w.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g6o8aIzrTCo1Poae2QBw9dihIOi.jpg">https://image.tmdb.org/t/p/original/g6o8aIzrTCo1Poae2QBw9dihIOi.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/XrpxJywc12kjV5PQPFgpmJTRpY.jpg">https://image.tmdb.org/t/p/original/XrpxJywc12kjV5PQPFgpmJTRpY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qDoq1KmZUiymRZsNMcb7JVv95tV.jpg">https://image.tmdb.org/t/p/original/qDoq1KmZUiymRZsNMcb7JVv95tV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1lDAxweRCstCoeG87874XMV4nvK.jpg">https://image.tmdb.org/t/p/original/1lDAxweRCstCoeG87874XMV4nvK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wC6FtWgO4y0I0O6MkdWlYlwxMif.jpg">https://image.tmdb.org/t/p/original/wC6FtWgO4y0I0O6MkdWlYlwxMif.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5ViWWRc2sy0Au1ET77Qpn2jEctx.jpg">https://image.tmdb.org/t/p/original/5ViWWRc2sy0Au1ET77Qpn2jEctx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qHnsxUofBMPIWMpbYxNNc7Z3V1I.jpg">https://image.tmdb.org/t/p/original/qHnsxUofBMPIWMpbYxNNc7Z3V1I.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3S45KH877ca2x6STpkmhbaiUZnA.jpg">https://image.tmdb.org/t/p/original/3S45KH877ca2x6STpkmhbaiUZnA.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6083388</id>
+    <uniqueid type="imdb" default="true">tt6083388</uniqueid>
+    <uniqueid type="tmdb">455043</uniqueid>
+    <genre>Acción</genre>
+    <genre>Historia</genre>
+    <country>China</country>
+    <credits>Frankie Tam</credits>
+    <credits>Maria Wong Si-Man</credits>
+    <director>Gordon Chan</director>
+    <premiered>2017-05-27</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Well Go USA Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pQ6xZ_Om2Mo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>7725</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>zho</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Vincent Zhao</name>
+        <role>General Qi</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/hylhhRtmXQLxOmkC2K7zsjCBFEA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sammo Hung</name>
+        <role>Commander Yu</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/3ZMBd3nPKfOrevdyWQWbmMiWEXQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wan Qian</name>
+        <role>Madam Qi</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sDasmyAYEAfUgVHf1U3zgfCzd8m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yasuaki Kurata</name>
+        <role>Kumasawa</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ma6hViQ2q2xce4t1Wp7HYm2GRR4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wu Yue</name>
+        <role>Yang Chao</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/hRePA3mh9mfAqX7SJ4rGxrNrxT7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keisuke Koide</name>
+        <role>Yamagawa</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/xe1dV0KVXlpmi7QocRCZnGM4qC7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timmy Hung</name>
+        <role>Chen Dacheng</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryu Kohata</name>
+        <role>Kohata</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Liu Junxiao</name>
+        <role>Qi Jimei</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Tong</name>
+        <role>Lou Nan</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/1oPPOKKrsrSlAIF3nddfeKnQFSs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wang Ban</name>
+        <role>Hu Zongxian</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jiang Luxia</name>
+        <role>Xiao Mou</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/lxx4v5wlDp4Tp3a0yE3XHGuH3qY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sun Jiaolong</name>
+        <role>Wang Rulong</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/jwy8VqE4B9MwSlzxzMEeNkuL5tA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kei Kagaya</name>
+        <role>Ohno</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Masanori Mimoto</name>
+        <role>Terada</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/koSSsi2LU6gJm3S6o0OgJaxJExx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kentarô Shimazu</name>
+        <role>Noma</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 22:40:41</dateadded>
+</movie>

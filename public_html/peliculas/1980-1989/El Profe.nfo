@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Profe</title>
+    <originaltitle>El profe</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>457</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>53</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cantinflas es un profesor enviado a una pequeña ciudad en el medio de la nada, en donde pide una escuela para poder enseñar. Acaba de darle la mano a la ciudad. Cuando llega llega a conocer a los líderes corruptos que a través de la película tratan de hacerle salir. A pesar de que está siendo acosado se puede ver lo mucho que se preocupa por los niños y sus circunstancias. Él se ocupa de los problemas mediante el uso de sus comentarios hilarantes.</plot>
+    <tagline></tagline>
+    <runtime>117</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AdjL0R0c1rS9tld2dx9l9ptr9wf.jpg">https://image.tmdb.org/t/p/original/AdjL0R0c1rS9tld2dx9l9ptr9wf.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5BHsOo1buu5DAK11dkQMJZQ0T8J.jpg">https://image.tmdb.org/t/p/original/5BHsOo1buu5DAK11dkQMJZQ0T8J.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2gCrfoS9s3EClAvMduTgxEyyWHd.jpg">https://image.tmdb.org/t/p/original/2gCrfoS9s3EClAvMduTgxEyyWHd.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0161931</id>
+    <uniqueid type="imdb" default="true">tt0161931</uniqueid>
+    <uniqueid type="tmdb">45192</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Familia</genre>
+    <country>Mexico</country>
+    <director>Miguel M. Delgado</director>
+    <premiered>1971-04-07</premiered>
+    <year>1971</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Posa Films</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Cantinflas</name>
+        <role>Sócrates García</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/iASObohpLJzqYQM6bQzyup3QvEs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marga López</name>
+        <role>Hortensia</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1w6jqqEycxYtsvGgifxHNoaoXSN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Víctor Alcocer</name>
+        <role>Don Margarito Vázquez</role>
+        <order>2</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BM2FjODJjMmItYzdkNC00YjAyLWE2ZDAtMWViODJiYzBjZmMwXkEyXkFqcGdeQXVyMTk4MDgwNA@@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raúl Martínez</name>
+        <role>Pedro González</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eduardo MacGregor</name>
+        <role>Lucas Campuzano</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/t2FFnx9w3BwfAB0aba3lPM5AG0j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luciano Hernández de la Vega</name>
+        <role>Padre Gonzalo</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>René Dupeyrón</name>
+        <role>Martín</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gerardo del Castillo</name>
+        <role>Don Zenaido</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eduardo López Rojas</name>
+        <role>Espiridión Cascajo</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rogelio Gaona</name>
+        <role>Carmelo</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>León Barroso</name>
+        <role>Director de la escuela</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victor Sorel</name>
+        <role>Padre de Felipe</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arturo de Córdova</name>
+        <role>Señor Gobernador</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/4bNiOCwHQ9GKS2m3a7lPUmelVRH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ramón Valdés</name>
+        <role>Papá de Martín</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/cMlDJGJcQZ1F1qHGCkTV0hkXOQO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angelines Fernández</name>
+        <role>Mamá de Martín</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/tgpRvQqOlICNAQ8LB2COha6Xfn4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Manuel González</name>
+        <role>(uncredited)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Luis Caro</name>
+        <role>Profesor casado (uncredited)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jorge Casanova</name>
+        <role>Profesor casado (uncredited)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rubén Márquez</name>
+        <role>Profesor casado (uncredited)</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Margarita Delgado</name>
+        <role>Doña Sara, mamá de Carmelo (uncredited)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Dupeyrón</name>
+        <role>Esbirro de Zenaido (uncredited)</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Regino Herrera</name>
+        <role>Pueblerino (uncredited)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Margarito Luna</name>
+        <role>Campesino con burro (uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Inés Murillo</name>
+        <role>Mamá de Fermín (uncredited)</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-10-23 20:00:18</dateadded>
+</movie>

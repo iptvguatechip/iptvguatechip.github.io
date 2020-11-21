@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ana y Bruno</title>
+    <originaltitle>Ana y Bruno</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>593</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.800000</value>
+            <votes>45</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Ana, una niña de nueve años, llega con su madre a una playa aislada con la intención de descansar y conocer el mar. Allí, descubre que están bajo una terrible amenaza, por lo tanto, está obligada a buscar ayuda con su padre para salvar a su madre.</plot>
+    <tagline>Ana y Bruno</tagline>
+    <runtime>96</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fRUzFQ7SU7Ef9An6G3NCNosytzQ.jpg">https://image.tmdb.org/t/p/original/fRUzFQ7SU7Ef9An6G3NCNosytzQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lnYMCzJA4mbFYBDlqEgwBLjvmYR.jpg">https://image.tmdb.org/t/p/original/lnYMCzJA4mbFYBDlqEgwBLjvmYR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rxRxJrXPKGz9C1Xr2dQbFuD32AU.jpg">https://image.tmdb.org/t/p/original/rxRxJrXPKGz9C1Xr2dQbFuD32AU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rGRvBEZ9j70RcEmDTNHxskTiDS1.jpg">https://image.tmdb.org/t/p/original/rGRvBEZ9j70RcEmDTNHxskTiDS1.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bKW68PwHKfkEJLx70aDS2qd1cNu.jpg">https://image.tmdb.org/t/p/original/bKW68PwHKfkEJLx70aDS2qd1cNu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/avkCFZCg0ndoRpz5eYiHPoMKvBR.jpg">https://image.tmdb.org/t/p/original/avkCFZCg0ndoRpz5eYiHPoMKvBR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i1POkO0NUMQ0mN4LP4sEXNE1jrG.jpg">https://image.tmdb.org/t/p/original/i1POkO0NUMQ0mN4LP4sEXNE1jrG.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1183352</id>
+    <uniqueid type="imdb" default="true">tt1183352</uniqueid>
+    <uniqueid type="tmdb">265339</uniqueid>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Familia</genre>
+    <country>Mexico</country>
+    <credits>Daniel Emil</credits>
+    <director>Carlos Carrera</director>
+    <premiered>2017-09-01</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Itaca Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4MFURbSQbpw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>64.000000</aspect>
+                <width>1920</width>
+                <height>870</height>
+                <durationinseconds>5779</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Damián Alcázar</name>
+        <role>Ricardo</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vzitB2xSqHHHjhiL37Z1gVb2Xzp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Silverio Palacios</name>
+        <role>Bruno</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/7dN3vIFhVZAUWrdtJ6t9iYbVtRM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Héctor Bonilla</name>
+        <role>Dr. Mendez</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/hJLMHwbFgh25yvSw0IgqQAC2Nco.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marina de Tavira</name>
+        <role>Carmen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/rGGjW1UnUL1Q4TGlfRL3W5yuyq1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mercedes Hernández</name>
+        <role>Doña Emilia</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/sU1eumTRv8bQXpAlM3KsDII5Ahj.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:18:41</dateadded>
+</movie>

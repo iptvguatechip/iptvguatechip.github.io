@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Oestelandia</title>
+    <originaltitle>Westworld</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>51291</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>788</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En un centro de vacaciones futurista, los patrones ricos pueden visitar reconstrucciones de períodos de tiempo diferentes y experimentar sus fantasías más salvajes con robots realistas. Pero cuando Richard Benjamin opta por el Viejo Oeste, se pone más que contó cuando un robot del pistolero se vuelve loco.</plot>
+    <tagline>Westworld ...where robot men and women are programmed to serve you for ...Romance ...Violence ...Anything</tagline>
+    <runtime>88</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/cezpGxSMDsWjwrS7VwMqZ5N4Ay8.jpg">https://image.tmdb.org/t/p/original/cezpGxSMDsWjwrS7VwMqZ5N4Ay8.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pYL3YYNMwGz18dylTxRM8Ffai4e.jpg">https://image.tmdb.org/t/p/original/pYL3YYNMwGz18dylTxRM8Ffai4e.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/2xCYPmrVBR9vEORX255LUEWYkHI.jpg">https://image.tmdb.org/t/p/original/2xCYPmrVBR9vEORX255LUEWYkHI.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8PEGQTHdzOGsbD0lD2M1KYPn6rU.jpg">https://image.tmdb.org/t/p/original/8PEGQTHdzOGsbD0lD2M1KYPn6rU.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fPhY7qBItz36vZedDMH33OvxBkW.jpg">https://image.tmdb.org/t/p/original/fPhY7qBItz36vZedDMH33OvxBkW.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/3yzaSCXO8cT7Q1tgCsmf8ypSxRI.jpg">https://image.tmdb.org/t/p/original/3yzaSCXO8cT7Q1tgCsmf8ypSxRI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wSk1lLjY479xtTC9GXCBb5ljZb.jpg">https://image.tmdb.org/t/p/original/wSk1lLjY479xtTC9GXCBb5ljZb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eMLQpYgYSqrGwi9u8koCYtaNuKC.jpg">https://image.tmdb.org/t/p/original/eMLQpYgYSqrGwi9u8koCYtaNuKC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3rzUGClKnBhf23wX3HKYoFZLR2v.jpg">https://image.tmdb.org/t/p/original/3rzUGClKnBhf23wX3HKYoFZLR2v.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u5foSNDWFiGDT8qdqb4InPv3xau.jpg">https://image.tmdb.org/t/p/original/u5foSNDWFiGDT8qdqb4InPv3xau.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/doduibkfF5CzKAALFWyUOMHhhad.jpg">https://image.tmdb.org/t/p/original/doduibkfF5CzKAALFWyUOMHhhad.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg">https://image.tmdb.org/t/p/original/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1iHKPXT9Xjoz0YYZpZj67fw3mBC.jpg">https://image.tmdb.org/t/p/original/1iHKPXT9Xjoz0YYZpZj67fw3mBC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nlnowjfh6s8XyrVKffQ2AIIRVaV.jpg">https://image.tmdb.org/t/p/original/nlnowjfh6s8XyrVKffQ2AIIRVaV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3i1J6Vu0WgShxsDRwMkBRSRQND3.jpg">https://image.tmdb.org/t/p/original/3i1J6Vu0WgShxsDRwMkBRSRQND3.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1RooAg7vaVCDElGY63LnCIQz4cK.jpg">https://image.tmdb.org/t/p/original/1RooAg7vaVCDElGY63LnCIQz4cK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eWTbENmi9cAxk163anhaODcjBhr.jpg">https://image.tmdb.org/t/p/original/eWTbENmi9cAxk163anhaODcjBhr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/34qYorqQWPIEtkAKyqwQ8RDcdWS.jpg">https://image.tmdb.org/t/p/original/34qYorqQWPIEtkAKyqwQ8RDcdWS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kvPilHZApFqEerWmkXGqraj5Oq3.jpg">https://image.tmdb.org/t/p/original/kvPilHZApFqEerWmkXGqraj5Oq3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1smZ8NV0jMaJuobzMwXE8sG3ZSz.jpg">https://image.tmdb.org/t/p/original/1smZ8NV0jMaJuobzMwXE8sG3ZSz.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0070909</id>
+    <uniqueid type="imdb" default="true">tt0070909</uniqueid>
+    <uniqueid type="tmdb">2362</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <genre>Terror</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <genre>Western</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Westworld - Colección</name>
+    </set>
+    <credits>Michael Crichton</credits>
+    <director>Michael Crichton</director>
+    <premiered>1973-08-15</premiered>
+    <year>1973</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Metro-Goldwyn-Mayer</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JoUWNBcBKkA</trailer>
+    <actor>
+        <name>Yul Brynner</name>
+        <role>The Gunslinger</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6OvEN6To9h6IaHAp4MrRZw8GGq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Benjamin</name>
+        <role>Peter Martin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/i58m0OdJLHBez2z6ZbXiqXOZZpV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Brolin</name>
+        <role>John Blane</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rNboIDJ2WfqE6vdTLWevG9pMNNn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norman Bartold</name>
+        <role>Medieval Knight</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/a23SzlA8HCJP4pEV2FmjxWoLZXF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Oppenheimer</name>
+        <role>Chief Supervisor</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/mN31oRWrY71Rk8eEfA4dIo8b3Le.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victoria Shaw</name>
+        <role>Medieval Queen</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5fin8vtgEMlVIPpHVDh7ZqiFgXy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dick Van Patten</name>
+        <role>Banker</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/cUMuVdm86djzJ1PYvJbR1oPUSfi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Linda Gaye Scott</name>
+        <role>Arlette</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Franken</name>
+        <role>Technican</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/wdiQ9Pye2vM1Tfgr3QJ0XUEFYGX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael T. Mikler</name>
+        <role>Blackknight</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Terry Wilson</name>
+        <role>Sheriff</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/3g04qJqTjgvPUIx2v2zIabebjsj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Majel Barrett</name>
+        <role>Miss Carrie</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/uTnxd737sEFgc6hVrFgUC5TwzfW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Randall</name>
+        <role>Serrant Girl</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julie Marcus</name>
+        <role>Girl in Dungeon</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sharyn Wynters</name>
+        <role>Apache Girl</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anne Bellamy</name>
+        <role>Middle Aged Woman</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Holter</name>
+        <role>Stewardess</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Seel</name>
+        <role>Bellhop</role>
+        <order>17</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZWVkMjRhZmYtNzVhZS00NmMyLWE2YWItNWQxOWYwNTkxMWZkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wade Crosby</name>
+        <role>Bartender</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/sa4dOZtjTTU2L1N9Pb5UsbqJIAZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nora Marlowe</name>
+        <role>Hostess</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lin Henson</name>
+        <role>Ticket Girl</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/9VzN2yrKRtZvGRtmpdq0kT0TfWQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Orville Sherman</name>
+        <role>Supervisor</role>
+        <order>21</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZDc3YWU2Y2UtODFhMC00NzM2LWEyNjQtMTEyN2NiZjZjNzNjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>C. Lindsay Workman</name>
+        <role>Supervisor</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Gilbert</name>
+        <role>Supervisor</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Davis Roberts</name>
+        <role>Supervisor</role>
+        <order>24</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNTU5NDE5NTIxMF5BMl5BanBnXkFtZTgwNTc3NDQzNzE@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Howard Platt</name>
+        <role>Supervisor</role>
+        <order>25</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNWE5Mzc1NTAtNmY4OC00ZDQ3LTgwZWUtYTRkNjRhMmI2OTA5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Roat</name>
+        <role>Technician</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Washington</name>
+        <role>Technician</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/nThZrstInc5ESwTXaFlKCMi5owK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Martin</name>
+        <role>Technician</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/3GBWrUTgqEFNa88WAiWWMbrDbNg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Patten</name>
+        <role>Technician</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/5LdkirLlW9HEgur3AtCyQsDXQYS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David M. Frank</name>
+        <role>Technician</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kip King</name>
+        <role>Technician</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Man</name>
+        <role>Technician</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Larry Delaney</name>
+        <role>Technician</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Will J. White</name>
+        <role>Workman</role>
+        <order>34</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNzIyMTI1NzIzOV5BMl5BanBnXkFtZTgwNjI2OTg0MjE@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Young</name>
+        <role>Workman</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Falk</name>
+        <role>Workman</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Brubaker</name>
+        <role>Saloon Brawler (uncredited)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/pi2U3iRoMNc4zHvzWdXG8hqMQUn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Cahill</name>
+        <role>3rd Male Interviewee (uncredited)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Catching</name>
+        <role>Saloon Brawler (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jaye Durkus</name>
+        <role>Townsman (uncredited)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louie Elias</name>
+        <role>Saloon Brawler (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/tpSqJ1rUde9WY4qMQHxWukdizxT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Harks</name>
+        <role>Incoming Guest (uncredited)</role>
+        <order>42</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZmIxZTU3NDUtODllOC00OGE0LWE2OTItOGIzMGZkYjgwMDRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Hitchcock</name>
+        <role>Incoming Guest (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Hogan</name>
+        <role>Delos Guests&apos; Interviewer (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/gXkF9tI0vVU4XDkyjjq4rhP3tvz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul King</name>
+        <role>Incoming Guest (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rod McGaughy</name>
+        <role>Townsman (uncredited)</role>
+        <order>46</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMjMyYmVlNjktYTRmMS00NzMwLWIzYzktNWVhNWRhMGY1YjMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ty Randolph</name>
+        <role>Girl in Saloon (uncredited)</role>
+        <order>47</order>
+        <thumb>http://image.tmdb.org/t/p/h632/cByuRyFq2P77JCU8VvZqDBPmSaj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Nichols</name>
+        <role>1st Male Interviewee (uncredited)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/fPo6w0ynvaQB7kbgNWNMdP9A1ph.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Monty O&apos;Grady</name>
+        <role>Departing Guest (uncredited)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/1yz4sQu0J0EAYvUWvjGgT0udItr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Picerni</name>
+        <role>Saloon Brawler (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/kRO5tGbhZOPnUH46keu01i5UYd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leoda Richards</name>
+        <role>Incoming Guest (uncredited)</role>
+        <order>51</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZWM4ZjMyMmUtM2IwMy00ODg1LTgwZGQtNDIzZjhjOTA0YzczXkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Sorensen</name>
+        <role>2nd Male Interviewee (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-27 14:02:38</dateadded>
+</movie>

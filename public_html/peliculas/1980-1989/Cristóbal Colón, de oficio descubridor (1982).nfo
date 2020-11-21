@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Cristóbal Colón, de oficio... descubridor</title>
+    <originaltitle>Cristóbal Colón, de oficio... descubridor</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.000000</value>
+            <votes>211</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot></plot>
+    <tagline></tagline>
+    <runtime>83</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7D9q4s4ZrOYExoPkRreuH5ibe0b.jpg">https://image.tmdb.org/t/p/original/7D9q4s4ZrOYExoPkRreuH5ibe0b.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yYW0gjCPTcB0E0pTtr1m2mlryp5.jpg">https://image.tmdb.org/t/p/original/yYW0gjCPTcB0E0pTtr1m2mlryp5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xsJDJQ2QvvVOxU6yiN877uOtAEX.jpg">https://image.tmdb.org/t/p/original/xsJDJQ2QvvVOxU6yiN877uOtAEX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0083770</id>
+    <uniqueid type="imdb" default="true">tt0083770</uniqueid>
+    <uniqueid type="tmdb">162951</uniqueid>
+    <genre>Comedia</genre>
+    <country>Spain</country>
+    <credits>Juan José Alonso Millán</credits>
+    <director>Mariano Ozores</director>
+    <premiered>1982-09-07</premiered>
+    <year>1982</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Constan Films S.A.</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PEGvGCEpi40</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>xvid</codec>
+                <aspect>5.000000</aspect>
+                <width>688</width>
+                <height>398</height>
+                <durationinseconds>5022</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Andrés Pajares</name>
+        <role>Cristobal Colón</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/s5jeH2AJgGF7nHNJaAxVun7uruX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fiorella Faltoyano</name>
+        <role>Reina Isabel I la Católica</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bEt0eDR6Q0zMdgCQMMtmgcVnEpr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Kosty</name>
+        <role>Felipa</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/3vJ2r7xwRrivgFDbYpPVv9dYhY7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manolo Gómez Bur</name>
+        <role>Cardenal Cisneros</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/wzoWcIFJD7gATONSk7aX9XbnPFd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Garisa</name>
+        <role>Padre de Colón</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/zUqoDsWvcrDwgwsnirqvoGxn7fi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Ozores</name>
+        <role>Juan II de Portugal</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/fViymmT9N94qupEQFeoBczQBhkd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rafaela Aparicio</name>
+        <role>Madre de Boabdil</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/95VI7JRyF0EfKruLxuNfLJQiEIp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ángel de Andrés</name>
+        <role>Fray Juan Pérez</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/lnjhmJRSao3ExOUH0qd978XrIGf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto Camardiel</name>
+        <role>Califa</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/xV0Uje4GQvYCzK3ZbpQGTShydgd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Quique Camoiras</name>
+        <role>Fray Tomás de Torquemada</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/4S42OewnFgGfPSbDL1DTANcFbIR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Carabias</name>
+        <role>Boabdil el Chico</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Pedlb5yvmFDbrHYglauTyxO3t6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alberto Fernández</name>
+        <role>Juan de la Cosa</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Antonio Gamero</name>
+        <role>Fray Marcelino Camacho de Carabanchel</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1uzxZm2r8u9vtALKYyJDMKe3B9I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfredo Mayo</name>
+        <role>Fray Diego de Deza</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/oeFy5JhgXzZgq6tKTIpJk9k70FT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juanito Navarro</name>
+        <role>Fetuchino</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8DpiDIBUtUptVxh6Bu6k2swKjr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Carlos Naya</name>
+        <role>Gran Capitán</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/spLmld2pA8dAgwy48OxZc31rj3Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrián Ortega</name>
+        <role>Cardenal</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/kBmEGtIQjHstKh96pfgWcyk8Etm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfonso del Real</name>
+        <role>Fray Clementino</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/mgVBed6ZNdcNow2y1YOJ96ELr8O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emiliano Redondo</name>
+        <role>Toscanelli</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/wjAl3nEXhDsu7lDq78KleoSejOL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Valentín</name>
+        <role>Bartolomé Colón</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luis Varela</name>
+        <role>Rey Fernando el Católico</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/46zL3B86ULWkgv9ldMgfeiMFZOv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tomás Zori</name>
+        <role>Martín Alonso Pinzón (as Zori)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/AjI8yng2QUkDVK8AxKGNHLZxGf0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fernando Santos</name>
+        <role>Vicente Yáñez Pinzón (as Santos)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beatriz Elorrieta</name>
+        <role></role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/n56OPigwZEMEUMLjd4chHJV4Sil.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Lorenzo</name>
+        <role>Prisionero encadenado</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/z6wp6DGns9YFCz3qpdF8N2cqM9C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Espinosa</name>
+        <role>(as José Jaime Espinosa)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Valentín Paredes</name>
+        <role></role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blaki</name>
+        <role>Astolfo</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adriana Ozores</name>
+        <role>Azofaifa</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/1DMoYHj8Xv2ahHuUGIA6Y5lZShc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Bea</name>
+        <role></role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>León Klimovsky</name>
+        <role></role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/5e1DJZFzbk3G4zXOxp7pjof4twW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Víctor Israel</name>
+        <role>Un sefardí</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/cQfmoEOvlOhjsYnWr65sah8zku4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Valento</name>
+        <role>(as Toni Valento)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mery Leyva</name>
+        <role>(as Mari Leiva)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mari Carmen Alvarado</name>
+        <role></role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/h6IauWqsyIoZa5FcWwA1GIglLLB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Riesgo</name>
+        <role></role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/yNUDnP93jkH6fygM29mJtUSX9M6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Isbert</name>
+        <role>Bruja</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/e7TsKj2eeB2MyQhAvlHsfZDkMzd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fabián Conde</name>
+        <role></role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/2gRQvK4Mpe1Wd8iQmQupuOcp9Vv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfonso de la Vega</name>
+        <role></role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Luis Chinchilla</name>
+        <role></role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/gN36ET6UeWp2Qez8VltElHCij6B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Barboo</name>
+        <role></role>
+        <order>40</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMTZjYTI1ZWEtYzY3ZS00YjYxLWExYzEtZTk4NDdmYTNjOTFiXkEyXkFqcGdeQXVyNzA4ODc3ODU@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pablo Lafuente</name>
+        <role></role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francisco Sanz</name>
+        <role></role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/yyFWKBsx2mVBNS9UnawjU893NCI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilio Fornet</name>
+        <role>Old Man in Crowd</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/q4RZZpgxT8zXtyFiD7zNT25GWUE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ramón Lillo</name>
+        <role></role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luisa Armenteros</name>
+        <role>(as María Luisa Armenteros)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ángel Luis Yusta</name>
+        <role></role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mariano De Diego</name>
+        <role></role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Luis Ayestarán</name>
+        <role>(as Richart Yestarán)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/8YtTUh6uIsJlpsqnMhW7yH0F5Gk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paco Bernal</name>
+        <role>(as Francisco Bernal)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Luis Barceló</name>
+        <role></role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>María Luisa Bernal</name>
+        <role></role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jesús Ruyman</name>
+        <role></role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/8TFl0Wbme78Lr0c0V2dDhtCzDUU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Culat</name>
+        <role></role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Solís</name>
+        <role></role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Simón Ramírez</name>
+        <role>Narrator (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-23 18:27:37</dateadded>
+</movie>

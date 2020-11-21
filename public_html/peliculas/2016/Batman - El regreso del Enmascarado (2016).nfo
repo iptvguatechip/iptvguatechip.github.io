@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Batman: El regreso del Enmascarado</title>
+    <originaltitle>Batman: Return of the Caped Crusaders</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.800000</value>
+            <votes>4627</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>128</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Adam West y Burt Ward regresan a sus roles icónicos de Batman y Robin. Con las voces de Adam West, Burt Ward y Julie Newmar, la película muestra a los superhéroes enfrentarse a villanos clásicos como The Joker, The Riddler, The Penguin y Catwoman, ambos en Gotham City ... y en el espacio.</plot>
+    <tagline>The crusade continues...</tagline>
+    <runtime>78</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6iXSL4m8s0dEJ88grAJIZ7Ynb0a.jpg">https://image.tmdb.org/t/p/original/6iXSL4m8s0dEJ88grAJIZ7Ynb0a.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/cqTHdZABOzqQq0dT2hbc9h6MAT4.jpg">https://image.tmdb.org/t/p/original/cqTHdZABOzqQq0dT2hbc9h6MAT4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cD6F54DWuj7X2H5yNvl2Tx1gKbP.jpg">https://image.tmdb.org/t/p/original/cD6F54DWuj7X2H5yNvl2Tx1gKbP.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j5IKfaaWd15dcrewlSSA0NRZpMG.jpg">https://image.tmdb.org/t/p/original/j5IKfaaWd15dcrewlSSA0NRZpMG.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5973626</id>
+    <uniqueid type="imdb" default="true">tt5973626</uniqueid>
+    <uniqueid type="tmdb">411736</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Crimen</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Batman (Adam West) Animación - Colección</name>
+        <overview>Animated movies based on the TV-Series with Adam West as Batman.</overview>
+    </set>
+    <credits>Michael Jelenic</credits>
+    <credits>James Tucker</credits>
+    <director>Rick Morales</director>
+    <premiered>2016-10-08</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Warner Premiere</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hGeQKu8RXDc</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>479.000000</aspect>
+                <width>1916</width>
+                <height>1076</height>
+                <durationinseconds>4695</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Adam West</name>
+        <role>Bruce Wayne / Batman (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Burt Ward</name>
+        <role>Dick Grayson / Robin (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9mXSBunzhcx239hy23s7dQrKcP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Newmar</name>
+        <role>Catwoman (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/1VJkHq8I1gfh3wBcUZMBSs0anu8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Bergman</name>
+        <role>Announcer / Joker (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9f1B7I6Ba3rxGYpMM2cmVtF8puu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sirena Irwin</name>
+        <role>Miranda Moore (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/pK2OgTLhjCMJdTySlztR8ojxbtq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Lennon</name>
+        <role>Chief O&apos;Hara (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Salyers</name>
+        <role>The Penguin (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7h5yGKp6eROxRrzTkHE6FeKicmT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynne Marie Stewart</name>
+        <role>Aunt Harriet (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/yVUrboiJ4Mqz7M4bqvUjwV8alf7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Ward</name>
+        <role>Commissioner James Gordon (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/yQklzBUmaHbcS00DXq73J1HYUrE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Weber</name>
+        <role>Alfred Pennyworth (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/8FtkapenCOpe39eE1sQus5WLWAq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wally Wingert</name>
+        <role>The Riddler (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/5B9STa1OwelvyUs37SWUIFzhIhB.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 13:55:12</dateadded>
+</movie>

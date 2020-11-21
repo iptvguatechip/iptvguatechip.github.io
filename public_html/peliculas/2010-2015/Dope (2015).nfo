@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Dope</title>
+    <originaltitle>Dope</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>80151</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>1106</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Malcolm is carefully surviving life in a tough neighborhood in Los Angeles while juggling college applications, academic interviews, and the SAT. A chance invitation to an underground party leads him into an adventure that could allow him to go from being a geek, to being dope, to ultimately being himself.</plot>
+    <tagline>It&apos;s hard out here for a geek.</tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sG3r2jo2zBw8LO5JJUvly5qtk4r.jpg">https://image.tmdb.org/t/p/original/sG3r2jo2zBw8LO5JJUvly5qtk4r.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y2oFhZKviIUZu3pJeccFg5YdelY.jpg">https://image.tmdb.org/t/p/original/y2oFhZKviIUZu3pJeccFg5YdelY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AftACAlicRQWSnRsGcSQKP4K86m.jpg">https://image.tmdb.org/t/p/original/AftACAlicRQWSnRsGcSQKP4K86m.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3850214</id>
+    <uniqueid type="imdb" default="true">tt3850214</uniqueid>
+    <uniqueid type="tmdb">308639</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Drama</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Rick Famuyiwa</credits>
+    <director>Rick Famuyiwa</director>
+    <premiered>2015-06-19</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Revolt Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L41xwM8tIRQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6198</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Shameik Moore</name>
+        <role>Malcolm Adekanbi</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/uJNaSTsfBOvtFWsPP23zNthknsB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kiersey Clemons</name>
+        <role>Cassandra &apos;Diggy&apos; Andrews</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sOXELJHizB1cK0OzWRubGGg4l8S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Revolori</name>
+        <role>James &apos;Jib&apos; Caldones</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ouuo4ulVO9j6T8JixFp4lWTVdtd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoë Kravitz</name>
+        <role>Nakia</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/zx74kkI931iiQATJybvRKWYnOe9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chanel Iman</name>
+        <role>Lily Jacoby</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/v7rT68lKe6ARuVNxsZ8Qz3wJvM3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Fox</name>
+        <role>Councilman Blackmon</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/q1uUvROhEx2kAR41KuLSXYuA9nl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>A$AP Rocky</name>
+        <role>Dom</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gL0NFnIrqLosSbdxAHExOHAMkFH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blake Anderson</name>
+        <role>Will</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6CAisTFUOPulSKZvDSSptZ6D299.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Quincy Brown</name>
+        <role>Jaleel</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Forest Whitaker</name>
+        <role>Narrator</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/fugyEeN6sisuYi07HSoxdVHm0CZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lakeith Stanfield</name>
+        <role>Bug</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/5AykKpsH8DMxIm144ET7fVVTQfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimberly Elise</name>
+        <role>Lisa Hayes</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/pAYWZdsWYrGc9lvMCivUU7STSWf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Guenveur Smith</name>
+        <role>Austin Jacoby</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/nirMuzBKoMSq4ufqydS2VFdiAdJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mimi Michaels</name>
+        <role>Mindy</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/3h15kA2k7TppB3stY0KKvVquxSN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lidia Porto</name>
+        <role>Marta</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/ukInRHpe2XZxv261eYqnav9WjQw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Flores</name>
+        <role>Short order cook</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amin Joseph</name>
+        <role>The Voice</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/4amOjOS9wUXoecbYzHJAsaSVAOb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashton Moio</name>
+        <role>Lance</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/33quyMobSxu2HNFE4HHT5w5RTLW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>De&apos;Aundre Bonds</name>
+        <role>Stacey</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyga</name>
+        <role>De&apos;Andre</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/4EjIeqiED1ilrxBPdfsZMsYe9ic.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 15:40:43</dateadded>
+</movie>

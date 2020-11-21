@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Big Fish y Begonia</title>
+    <originaltitle>大鱼海棠</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>4575</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>255</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una chica de dieciséis años se convierte en un delfín y un muchacho se sacrifica para salvarla, pero ella usa su magia para hacerlo resucitar. Sin embargo, la joven se da cuenta de que usar una magia tan poderosa conlleva un costo muy alto.</plot>
+    <tagline>Two worlds. One destiny.</tagline>
+    <runtime>105</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg">https://image.tmdb.org/t/p/original/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gxckL56Gxt2YhVGDSCkBcgDcvVS.jpg">https://image.tmdb.org/t/p/original/gxckL56Gxt2YhVGDSCkBcgDcvVS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/747pzIPTj8AGz6h0lbClaXCSREp.jpg">https://image.tmdb.org/t/p/original/747pzIPTj8AGz6h0lbClaXCSREp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mKduh2X3MPEn2M0YuC1OmVT7KiT.jpg">https://image.tmdb.org/t/p/original/mKduh2X3MPEn2M0YuC1OmVT7KiT.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b5iPSqX6sRtR4JVPeaY5ecq7BJN.jpg">https://image.tmdb.org/t/p/original/b5iPSqX6sRtR4JVPeaY5ecq7BJN.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1920885</id>
+    <uniqueid type="imdb" default="true">tt1920885</uniqueid>
+    <uniqueid type="tmdb">271706</uniqueid>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Fantasía</genre>
+    <country>China</country>
+    <credits>Liang Xuan</credits>
+    <director>Liang Xuan</director>
+    <director>Zhang Chun</director>
+    <premiered>2016-07-08</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Studio Mir</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5TgxS_BMu7w</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>6321</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>zho</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ji Guanlin</name>
+        <role>Chun (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/l0gh3dtxCloqdKZZ9NZnrm3kums.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pan Shulan</name>
+        <role>Old Chun (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/gKFuKj4JFu79BXSojieTlTD9W78.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Su Shangqing</name>
+        <role>Qiu (voice)</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Xu Weizhou</name>
+        <role>Kun (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/vLqTAbEmy8vIsO6RU1HD0jO6d0U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chin Shih-Chieh</name>
+        <role>Ling Po (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/lz2uJOSo3OcjZgGvAslo6s6lsSo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jiu&apos;er</name>
+        <role>Kun&apos;s Sister (voice)</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Xang Yuanyuan</name>
+        <role>Feng (voice)</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Xue Lifang</name>
+        <role>Chun&apos;s Father (Shu, voice)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zhang Jie</name>
+        <role>Zi Chisong (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/rPL0TNNbp5ombvQzDHHSOsWNUSU.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 12:51:28</dateadded>
+</movie>

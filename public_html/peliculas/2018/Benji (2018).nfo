@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Benji</title>
+    <originaltitle>Benji</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>3681</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>189</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dos niños comienzan una amistad con un cachorro huérfano llamado Benji. Cuando ambos están en peligro al ser secuestrados por ladrones que no saben muy bien lo que hacen, Benji llega al rescate.</plot>
+    <tagline>Un héroe vuelve a casa</tagline>
+    <runtime>87</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yvmhEcqzN2bUZvEmEIh9SjhTkr6.jpg">https://image.tmdb.org/t/p/original/yvmhEcqzN2bUZvEmEIh9SjhTkr6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1wLnkdSEA2g6552QrjfdAB2eVC7.jpg">https://image.tmdb.org/t/p/original/1wLnkdSEA2g6552QrjfdAB2eVC7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/79pacM3h5FoETnfuRC6O2qPfzn4.jpg">https://image.tmdb.org/t/p/original/79pacM3h5FoETnfuRC6O2qPfzn4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/43mHzjx8X8BZ3HBXpSWzHUrqa9O.jpg">https://image.tmdb.org/t/p/original/43mHzjx8X8BZ3HBXpSWzHUrqa9O.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eOkbeZ658RHVt7ULoFBqmesxEYX.jpg">https://image.tmdb.org/t/p/original/eOkbeZ658RHVt7ULoFBqmesxEYX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xEQYFxBvn5VZedEENsapGr5xIr5.jpg">https://image.tmdb.org/t/p/original/xEQYFxBvn5VZedEENsapGr5xIr5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xFhiTwEsL9wjQVdl6IMJF6f1MZK.jpg">https://image.tmdb.org/t/p/original/xFhiTwEsL9wjQVdl6IMJF6f1MZK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cvw81K1FxLyOGp2R3IeGux2SOBd.jpg">https://image.tmdb.org/t/p/original/cvw81K1FxLyOGp2R3IeGux2SOBd.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1799516</id>
+    <uniqueid type="imdb" default="true">tt1799516</uniqueid>
+    <uniqueid type="tmdb">495193</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Drama</genre>
+    <country>United Arab Emirates</country>
+    <credits>Joe Camp</credits>
+    <credits>Brandon Camp</credits>
+    <director>Brandon Camp</director>
+    <premiered>2018-03-02</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Blumhouse Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UqtFvSKhKmA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5237</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Gabriel Bateman</name>
+        <role>Carter</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/29pwCzi4ja2gZHaGU50nqEzDe36.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darby Camp</name>
+        <role>Frankie</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/AHNRp00OO8j91yiCejbNLVv5th.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kiele Sanchez</name>
+        <role>Whitney</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/klmeWImg34TiEia6c6ZkwHhaVoB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gralen Bryant Banks</name>
+        <role>Sam</role>
+        <order>3</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BM2JiMjlkNDctNmZjNS00NWQ5LWE4ODMtN2M3NDU5ODZmZDYyXkEyXkFqcGdeQXVyMTk4MDQ3MTk@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Rothhaar</name>
+        <role>Sid</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/xWcCuxFOrFNhrWM2eUqGjI8kL13.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angus Sampson</name>
+        <role>Titus</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerod Haynes</name>
+        <role>Lyle</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Gleason</name>
+        <role>Capt. Newsome</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/q1AcVjW6Xb0mOTHHobMSm9AXcOr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brady Permenter</name>
+        <role>Brute</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/6qIurXTMGK2K2PvablDNaQOhOif.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Proctor</name>
+        <role>Cajun Captain</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ClnmTQE2OhUrpObFipRSXhByFR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Arthur</name>
+        <role>New Orleans Police Officer</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/l4v7HMpzlfEgFWuXD05JlGL7FgQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lacy Camp</name>
+        <role>Officer</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James W. Evermore</name>
+        <role>Hot Dog Vendor</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kirk H. Andersen</name>
+        <role>Pedestrian</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Angerdina</name>
+        <role>Pedestrian</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anthony Barbier</name>
+        <role>Himself</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Fontenot</name>
+        <role>Father</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shane Jackson</name>
+        <role>Pedestrian</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arthur J. Robinson</name>
+        <role>Mr. Okra (as Arthur Robinson)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Stevens</name>
+        <role>Driver / Pedestrian</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Micheal Robinson</name>
+        <role>Pedestrian</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Garcia</name>
+        <role>Ice Cream Vendor</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron M Patterson</name>
+        <role>Cook</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shannon J. Jackson</name>
+        <role>Pedestrian</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria Hardway</name>
+        <role>Crime Scene Pedestrian</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 12:37:59</dateadded>
+</movie>

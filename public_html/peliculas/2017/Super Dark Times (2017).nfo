@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Super Dark Times</title>
+    <originaltitle>Super Dark Times</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>18486</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>390</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Los adolescentes Zach y Josh han sido mejores amigos sus vidas enteras, pero cuando un accidente espantoso lleva a un encubrimiento, el secreto abre una brecha entre ellos y los propulsa abajo una conejera de paranoia que se intensifica y violencia.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg">https://image.tmdb.org/t/p/original/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jCVQW7nqJcUpFH6HySob4vsPVZE.jpg">https://image.tmdb.org/t/p/original/jCVQW7nqJcUpFH6HySob4vsPVZE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/caIsHFI70hKaJpRfb4LWMNulSKR.jpg">https://image.tmdb.org/t/p/original/caIsHFI70hKaJpRfb4LWMNulSKR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eEstirdjHRXWczVh3d5zQyB1l7x.jpg">https://image.tmdb.org/t/p/original/eEstirdjHRXWczVh3d5zQyB1l7x.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2nP9PB27aPcD7srxGL0FlQKvM96.jpg">https://image.tmdb.org/t/p/original/2nP9PB27aPcD7srxGL0FlQKvM96.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/EaGrw1TSRdYxZADDGjJKB40YKV.jpg">https://image.tmdb.org/t/p/original/EaGrw1TSRdYxZADDGjJKB40YKV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oKbRCdh9PgXUhGW4uTHQmnLwXUJ.jpg">https://image.tmdb.org/t/p/original/oKbRCdh9PgXUhGW4uTHQmnLwXUJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lARtWPxyfYnh5jel0oe8tfXJhgd.jpg">https://image.tmdb.org/t/p/original/lARtWPxyfYnh5jel0oe8tfXJhgd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7yXezdP8Lkafq5bhJs1OB5Y6dz2.jpg">https://image.tmdb.org/t/p/original/7yXezdP8Lkafq5bhJs1OB5Y6dz2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5112578</id>
+    <uniqueid type="imdb" default="true">tt5112578</uniqueid>
+    <uniqueid type="tmdb">396940</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Luke Piotrowski</credits>
+    <credits>Ben Collins</credits>
+    <director>Kevin Phillips</director>
+    <premiered>2017-09-29</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lila 9th Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a-nnMkMnFbI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>6226</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Owen Campbell</name>
+        <role>Zach</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bRdQybqqBGh67WOUdLrpB4MYUZT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Tahan</name>
+        <role>Josh</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/sr50dwXp0V6UVBsmvuBILd4pFKD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Cappuccino</name>
+        <role>Allison</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/iFNCw4W5exsiouCMJeaChcL9ZSl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Talisman</name>
+        <role>Daryl</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/dC3Y1IvLx9PACLvZxXnPw9Ah94b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sawyer Barth</name>
+        <role>Charlie</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5lAidh14xMkxwEXOYOwukiZoDKh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Hargreaves</name>
+        <role>Karen</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/yLc5pYveTbr3tljz6J3r7DE450s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adea Lennox</name>
+        <role>Meghan</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/xQVwO4TEVzc7EtERb36YzlpYv2j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Botwick</name>
+        <role>John Whitcomb</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ruQUxwquNnGlI7dweU436IWWLEn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Philip H. Ashley</name>
+        <role>Chad</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Rose</name>
+        <role>Kevin</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kortnee Simmons</name>
+        <role>Eugene</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samantha Jones</name>
+        <role>Joan</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/blPk0f7LGjNyCinZXKT669Qcdfo.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 16:31:42</dateadded>
+</movie>

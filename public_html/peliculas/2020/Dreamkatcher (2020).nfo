@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El atrapasueños</title>
+    <originaltitle>Dreamkatcher</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.700000</value>
+            <votes>1210</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>35</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Para detener sus malos sueños, un niño roba un cazador de sueños de un vecino misterioso que obliga a su familia a rescatarlo de una entidad pesadillezca.</plot>
+    <tagline>Let the nightmare begin.</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg">https://image.tmdb.org/t/p/original/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nD6Vb3qotU1v4J4757OFh5TJ76I.jpg">https://image.tmdb.org/t/p/original/nD6Vb3qotU1v4J4757OFh5TJ76I.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1i1wrMRIdt7c4KCFl9irpW2SyvS.jpg">https://image.tmdb.org/t/p/original/1i1wrMRIdt7c4KCFl9irpW2SyvS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7wSaO6aY9vpwK7z67vq3HpGCrnX.jpg">https://image.tmdb.org/t/p/original/7wSaO6aY9vpwK7z67vq3HpGCrnX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hwu10GoqTFc6iWDTzf68kkzpIIF.jpg">https://image.tmdb.org/t/p/original/hwu10GoqTFc6iWDTzf68kkzpIIF.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zBQTWuykKqZ6UniBEhHgZGeBl6Y.jpg">https://image.tmdb.org/t/p/original/zBQTWuykKqZ6UniBEhHgZGeBl6Y.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wRreALASTO4nXsrJKTwqTLyNjal.jpg">https://image.tmdb.org/t/p/original/wRreALASTO4nXsrJKTwqTLyNjal.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rfTeoPGfdN8z2wXCskheq4A4ODg.jpg">https://image.tmdb.org/t/p/original/rfTeoPGfdN8z2wXCskheq4A4ODg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zBB7njrLVMiJ0hVfJwdU85Oe2eZ.jpg">https://image.tmdb.org/t/p/original/zBB7njrLVMiJ0hVfJwdU85Oe2eZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt10553210</id>
+    <uniqueid type="imdb" default="true">tt10553210</uniqueid>
+    <uniqueid type="tmdb">639247</uniqueid>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Dan V. Shea</credits>
+    <director>Kerry Harris</director>
+    <premiered>2020-06-24</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Taylor Lane Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GM1RiidjK1U</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.780000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5120</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>eac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Radha Mitchell</name>
+        <role>Gail</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/Va86MqIRvA5ZyhSpHBY7qccjrv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Thomas</name>
+        <role>Luke</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/l5OZ4qrrRGnEPeNhZ8PcL5vhwOI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lin Shaye</name>
+        <role>Ruth</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/4exPdae0idE2sYHMewimMFGNmsd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Finlay Wojtak-Hissong</name>
+        <role>Josh</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vlqbMb0GSdjturRb5Rz4flexKFv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jules Willcox</name>
+        <role>Becky</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/jRi634cjbycyI7g2HQWcjonMvlS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joseph Bishara</name>
+        <role>Night Hag</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jkFmkZcd16cEX2yGFNNAsNJyN5U.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-09 16:48:51</dateadded>
+</movie>

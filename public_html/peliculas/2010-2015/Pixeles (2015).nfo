@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Pixeles</title>
+    <originaltitle>Pixels</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>130090</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>5613</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Unos extraterrestres malinterpretan las imágenes de las máquinas recreativas como una declaración de guerra y deciden atacar la Tierra, empleando dichos juegos como modelos para el asalto. El presidente de Estados Unidos, Will Cooper, recurre entonces a su gran amigo de la infancia y campeón de las maquinitas de los años 80, Sam Brenner, quien actualmente trabaja como instalador de sistemas de home cinema, para encabezar un equipo de expertos jugadores de su época (Dinklage y Gad). Su misión será derrotar a los alienígenas y salvar al planeta.</plot>
+    <tagline>Juega por el planeta.</tagline>
+    <runtime>105</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d45faoiDeZsrdIdYpLy34vtYf3S.jpg">https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8R35wgG8HsA4C7xEKiilOqChu2P.jpg">https://image.tmdb.org/t/p/original/8R35wgG8HsA4C7xEKiilOqChu2P.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg">https://image.tmdb.org/t/p/original/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2HppM6eoHltK8vs6rHjrluxPcb3.jpg">https://image.tmdb.org/t/p/original/2HppM6eoHltK8vs6rHjrluxPcb3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ensXqow8KssjZXXyrYY0tCQVVNO.jpg">https://image.tmdb.org/t/p/original/ensXqow8KssjZXXyrYY0tCQVVNO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fdZcXXywtWTOTJ3sLSg173juxYK.jpg">https://image.tmdb.org/t/p/original/fdZcXXywtWTOTJ3sLSg173juxYK.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kNT6StWxmscI7bwEZ5zvYbRdYCn.jpg">https://image.tmdb.org/t/p/original/kNT6StWxmscI7bwEZ5zvYbRdYCn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rCsIKy3bWPyrMg6urfOm5YR9uoz.jpg">https://image.tmdb.org/t/p/original/rCsIKy3bWPyrMg6urfOm5YR9uoz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dsxpP9qbF1PHk4j4aPjimkLTwxq.jpg">https://image.tmdb.org/t/p/original/dsxpP9qbF1PHk4j4aPjimkLTwxq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2120120</id>
+    <uniqueid type="imdb" default="true">tt2120120</uniqueid>
+    <uniqueid type="tmdb">257344</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <genre>Ciencia ficción</genre>
+    <country>China</country>
+    <credits>Tim Herlihy</credits>
+    <credits>Timothy Dowling</credits>
+    <director>Chris Columbus</director>
+    <premiered>2015-07-16</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Columbia Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Lo9IWjUnMeo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>796</height>
+                <durationinseconds>6351</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Matt Frewer</name>
+        <role>Max Headroom (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/5yQeoDfwsSOnO8H2g8UjPLg6buG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Sandler</name>
+        <role>Sam Brenner</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Monaghan</name>
+        <role>Violet Van Patten</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/jB47BoGdudHELszn9ZAZqnnUy8N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Dinklage</name>
+        <role>Eddie Plant</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/lRsRgnksAhBRXwAB68MFjmTtLrk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Gad</name>
+        <role>Ludlow Lamonsoff</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin James</name>
+        <role>President Will Cooper</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/nSLuzz4KoycSP5vyUsdju3y4Xtw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Benson</name>
+        <role>Lady Lisa</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8EeEDClttH50DRv4dl74Edi4In7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Aykroyd</name>
+        <role>1982 Championship MC</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackie Sandler</name>
+        <role>President&apos;s Assistant Jennifer</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/2q0sDJrxJ4bnznnHY3OEuDyx8Dw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Bean</name>
+        <role>Corporal Hill (SAS Officer)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jane Krakowski</name>
+        <role>Carolyn Cooper</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/mep1Pz9E3e9CLLSqIX7UrEuNx09.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Cox</name>
+        <role>Admiral Porter</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/zNWIyHnNTyfwfWmxeo8QEh33Ar5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Lintz</name>
+        <role>Matty</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/8LxZ4WRHYLzraf4ghkApytJXMx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Patrick</name>
+        <role>White House Reporter #1</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Smigel</name>
+        <role>White House Reporter #2</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/cVmQokJLfjAnQPXTQ21K31hQjpY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Ippolito</name>
+        <role>13-year-old Brenner</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Affion Crockett</name>
+        <role>Sergeant Dylan Cohan</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lainie Kazan</name>
+        <role>Mickey Lamonsoff</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/y3ZsHv8X84FYpGxM8x8nOlJk4qZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Denis Akiyama</name>
+        <role>Professor Iwatani</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/3tbch0bf53gf6YYVnBvPL61Vkaw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom McCarthy</name>
+        <role>Michael the Robot</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/vqw9Ar2s2oYSkoApL1TlXtNlrEr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Herlihy</name>
+        <role>Defense Secretary</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/5D1jkiW2Z3CdudNqOVsRa62qbnX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Sandler</name>
+        <role>White House Junior Aide Jared</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/jlr4YZUUfrhxKx592mJnY9nQEMO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William S. Taylor</name>
+        <role>Navy Secretary</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rose Rollins</name>
+        <role>White House Press Secretary</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/aSrjDLt3zYTg7Pn9btUdOoeRYLL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tucker Smallwood</name>
+        <role>CIA Chief</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/shcF79vg7yQ5zF2FpAnged0WxgL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Serena Williams</name>
+        <role>Serena Willams</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/qMoRnzYuUkqb8VZjbX4XWZeQZzY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martha Stewart</name>
+        <role>Martha Stewart</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/74KLkRIxHiQ09TD2KWn86ere7z4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allen Covert</name>
+        <role>Abusive Citizen</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/rvLbahtWc77h8Smvww2fQKhMthD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Swardson</name>
+        <role>Pac-Man Victim</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/kA6ASJ9kK8mz1ejIXY8h5XgBwgc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Archer</name>
+        <role>Seal</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/j1GYpUVRPvQlokEWSYLYSxTfq0e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Fulton</name>
+        <role>Boy on London Street</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/6o53Mllthcmt5CRkvIwGgmHAYgc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sadie Sandler</name>
+        <role>Lemonadie Sadie</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZYWrq8ASzrpQZ0U75Ok7HVMMTa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bridget Graham</name>
+        <role>Cyber Chick #1</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/f8ltCEoD5oznoGfFTyeFQzfVmgZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jocelyn Hudon</name>
+        <role>Cyber Chick #2</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/fbMO8F57cO2k0a46oFajQuR4jvY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Annika Pergament</name>
+        <role>New Reporter</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Lake</name>
+        <role>NY Police Commissioner</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Whelan</name>
+        <role>Colonel Devereux</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sunny Sandler</name>
+        <role>Sweet Scout Girl</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hannah Covert</name>
+        <role>Arcader Choir Girl</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Titone</name>
+        <role>Soccer Player</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Abigail Covert</name>
+        <role>Classroom Scout Girl</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sienna James</name>
+        <role>Classroom Scout Girl</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shea James</name>
+        <role>Classroom Scout Girl</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Loughran</name>
+        <role>White House Gate Guard</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/jNXgI1GRWJ1qquFkloj484rujAJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toru Iwatani</name>
+        <role>Electric Dream Factory Repairman</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/ihLd9IO89xomvOcQ7DdI6Ow7nKz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Riley</name>
+        <role>13-Year Old Cooper</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Bambridge</name>
+        <role>13-Year Old Eddie</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jacob Shinder</name>
+        <role>8-Year Old Ludlow</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Margaret Killingbeck</name>
+        <role>Old Woman in London Apartment</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/fgffpEbz9Ctr1Dcz9bZzAFu38DJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Mustafaa</name>
+        <role>Indian Teenage Boy</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/2jVd1xQ17cI16x9gUkaQrsmVAEh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meher Pavri</name>
+        <role>Indian Teenage Girl</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lamont James</name>
+        <role>Seal</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Preston Rogers</name>
+        <role>Seal</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/6eVau2kFnU15T7D35OCt1uk5cIl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bola Olubowale</name>
+        <role>Seal</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Sparks</name>
+        <role>Fighter Pilot</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/3oUTGPTmcmF9tbI7Sj3ItVy6nOR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Wiebe</name>
+        <role>DARPA Scientist</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sara Haines</name>
+        <role>TV News Anchor</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Derwin Philips</name>
+        <role>Secret Service Man</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Boisvert</name>
+        <role>Secret Service Man</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/8PWH7M3fUf5TbFuhtFjkB6FUMHM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colleen Reynolds</name>
+        <role>Abusive Citizen</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jimi Shlag</name>
+        <role>Abusive Citizen</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/ve0FMgf8F6da8zW2Pn5OCSmi17z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Jenkins</name>
+        <role>Abusive Citizen</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sistah Lois</name>
+        <role>Sergeant Cohan&apos;s Mother</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew McMichael</name>
+        <role>Arcade Employee</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Douglas</name>
+        <role>DC Valet</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Trask</name>
+        <role>Warden</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susie McLean</name>
+        <role>Press Person</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dave Reachill</name>
+        <role>Lab Technician</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daryl Hall</name>
+        <role>Daryl Hall</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/AdK1ugIlnGZgSPPi6TOu9eNHRS5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Oates</name>
+        <role>John Oates</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/o4IsHEQGLUYhUpiM1VWuPVUOpoj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy West</name>
+        <role>Additional Character Voice (voice)</role>
+        <order>70</order>
+        <thumb>https://image.tmdb.org/t/p/original/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Holly Beavon</name>
+        <role>Additional Character Voice (voice)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joshua Holmes</name>
+        <role>Arcader (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/wYOOtGArxaDexA9ejMMHun5aWc.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 13:23:33</dateadded>
+</movie>

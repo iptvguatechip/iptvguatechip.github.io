@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La lista de Schindler</title>
+    <originaltitle>Schindler&apos;s List</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.900000</value>
+            <votes>1194112</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.600000</value>
+            <votes>10500</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>egunda Guerra Mundial (1939-1945). Oskar Schindler (Liam Neeson), un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes (1939), consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente (Ben Kingsley), también judío, es el verdadero director en la sombra, pues Schindler carece completamente de conocimientos para dirigir una empresa.</plot>
+    <tagline>Quien salva una vida, está salvando al mundo.</tagline>
+    <runtime>187</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg">https://image.tmdb.org/t/p/original/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eJpDgXXHoxGxUrXOrhceMYNDaNR.jpg">https://image.tmdb.org/t/p/original/eJpDgXXHoxGxUrXOrhceMYNDaNR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xnvHaMFNXzemoH4uXHDMtKnpF7l.jpg">https://image.tmdb.org/t/p/original/xnvHaMFNXzemoH4uXHDMtKnpF7l.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9L5pRY4cUaoa1IoLNNwgCrcIMqF.jpg">https://image.tmdb.org/t/p/original/9L5pRY4cUaoa1IoLNNwgCrcIMqF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg">https://image.tmdb.org/t/p/original/c8Ass7acuOe4za6DhSattE359gr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/t7xhP8SQTVanzecvn1oQRVWCXTI.jpg">https://image.tmdb.org/t/p/original/t7xhP8SQTVanzecvn1oQRVWCXTI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg">https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xx4JCtIkUj31PJbPFRLhuBc1PRl.jpg">https://image.tmdb.org/t/p/original/xx4JCtIkUj31PJbPFRLhuBc1PRl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w6QEJVD4CJ2rYOjO7JftZ239muY.jpg">https://image.tmdb.org/t/p/original/w6QEJVD4CJ2rYOjO7JftZ239muY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rKePA1655YWWOTSkyQuu8e84xi0.jpg">https://image.tmdb.org/t/p/original/rKePA1655YWWOTSkyQuu8e84xi0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hNFxRqok5ZI7Yb39Mxwd7t0dYiD.jpg">https://image.tmdb.org/t/p/original/hNFxRqok5ZI7Yb39Mxwd7t0dYiD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9z5tp1FySjanQBbZY9SJXwbasXp.jpg">https://image.tmdb.org/t/p/original/9z5tp1FySjanQBbZY9SJXwbasXp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fCNjNtEAF4AvOpE6YSaTShsNT7p.jpg">https://image.tmdb.org/t/p/original/fCNjNtEAF4AvOpE6YSaTShsNT7p.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/doGEE2DgjET0XK0k9BozsMBES5H.jpg">https://image.tmdb.org/t/p/original/doGEE2DgjET0XK0k9BozsMBES5H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uIGjacaorKVdOUUcqUa5tnquwtB.jpg">https://image.tmdb.org/t/p/original/uIGjacaorKVdOUUcqUa5tnquwtB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qw2cNoUyuPqZhbGCTdD6a6lsPY3.jpg">https://image.tmdb.org/t/p/original/qw2cNoUyuPqZhbGCTdD6a6lsPY3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lKb6h6LURE33I3GRFYgHBUfjwSU.jpg">https://image.tmdb.org/t/p/original/lKb6h6LURE33I3GRFYgHBUfjwSU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6WdIFuXpBTiv5AVuHaMW3pNoXiv.jpg">https://image.tmdb.org/t/p/original/6WdIFuXpBTiv5AVuHaMW3pNoXiv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/scAi07Cs0Bv4HOAaZhYO2xtntrP.jpg">https://image.tmdb.org/t/p/original/scAi07Cs0Bv4HOAaZhYO2xtntrP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m6fgIXvRLrm3VcKGK6M6IG1YRqP.jpg">https://image.tmdb.org/t/p/original/m6fgIXvRLrm3VcKGK6M6IG1YRqP.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg">https://image.tmdb.org/t/p/original/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg">https://image.tmdb.org/t/p/original/w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ei5xjikx59WR2oDFl2lNLbtQHkx.jpg">https://image.tmdb.org/t/p/original/ei5xjikx59WR2oDFl2lNLbtQHkx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eqwtpFObteeFGprR3uCnzt30XFF.jpg">https://image.tmdb.org/t/p/original/eqwtpFObteeFGprR3uCnzt30XFF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/16DvS9Zb33wVJhy2F5XyS59kqJP.jpg">https://image.tmdb.org/t/p/original/16DvS9Zb33wVJhy2F5XyS59kqJP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7LINUJsfHzKCQTqYmeti8NuXDUQ.jpg">https://image.tmdb.org/t/p/original/7LINUJsfHzKCQTqYmeti8NuXDUQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ykeZIKOJ28psgUiXhWxATMOHCNL.jpg">https://image.tmdb.org/t/p/original/ykeZIKOJ28psgUiXhWxATMOHCNL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sO4d7htNKk9cKloNrvPKaBTplXo.jpg">https://image.tmdb.org/t/p/original/sO4d7htNKk9cKloNrvPKaBTplXo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hvRwAUyoE6RIrNxDeEcJE8MK3Sb.jpg">https://image.tmdb.org/t/p/original/hvRwAUyoE6RIrNxDeEcJE8MK3Sb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vMauMZceN7M5HGeCkfpcteGnlCC.jpg">https://image.tmdb.org/t/p/original/vMauMZceN7M5HGeCkfpcteGnlCC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8GFlH15UJ5xyVLVCCSzp6bVvWjK.jpg">https://image.tmdb.org/t/p/original/8GFlH15UJ5xyVLVCCSzp6bVvWjK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fkUJRJgjEqlGjWmxE4qZyzvTQcZ.jpg">https://image.tmdb.org/t/p/original/fkUJRJgjEqlGjWmxE4qZyzvTQcZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uNsripPOO8uL6iLdskCTQDKvhSg.jpg">https://image.tmdb.org/t/p/original/uNsripPOO8uL6iLdskCTQDKvhSg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1saP2R4xkC7PHqOkbvcjrJhkLJg.jpg">https://image.tmdb.org/t/p/original/1saP2R4xkC7PHqOkbvcjrJhkLJg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3MiaheHjzC7DrIpBbBbkfhKyMMn.jpg">https://image.tmdb.org/t/p/original/3MiaheHjzC7DrIpBbBbkfhKyMMn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5ajud0T68J1m6S3IQx54iWXtyTA.jpg">https://image.tmdb.org/t/p/original/5ajud0T68J1m6S3IQx54iWXtyTA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eMAHXzZXoNzximFSYm2hn0LiPB0.jpg">https://image.tmdb.org/t/p/original/eMAHXzZXoNzximFSYm2hn0LiPB0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0108052</id>
+    <uniqueid type="imdb" default="true">tt0108052</uniqueid>
+    <uniqueid type="tmdb">424</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <genre>Bélica</genre>
+    <country>United States of America</country>
+    <credits>Steven Zaillian</credits>
+    <director>Steven Spielberg</director>
+    <premiered>1993-11-30</premiered>
+    <year>1993</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0Z9cLiliBh0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>32.000000</aspect>
+                <width>512</width>
+                <height>272</height>
+                <durationinseconds>11227</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Liam Neeson</name>
+        <role>Oskar Schindler</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wloLd5YrrlRPiTgfaMJsAx7U6hr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Kingsley</name>
+        <role>Itzhak Stern</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ralph Fiennes</name>
+        <role>Amon Göth</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Caroline Goodall</name>
+        <role>Emilie Schindler</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Sagall</name>
+        <role>Poldek Pfefferberg</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/7gu7vtmJV066ohXNmBV1ya5D6Uq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Embeth Davidtz</name>
+        <role>Helen Hirsch</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Z8Kx4AVXteLdUJ5IGXbJlPLTyW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Malgorzata Gebel</name>
+        <role>Wiktoria Klonowska</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/svp3UfxWkJGuFWq5REZdwp8o91z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Ivanir</name>
+        <role>Marcel Goldberg</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/biVPUjq1BbX3YWpvXv5OZjEuJI0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Béatrice Macola</name>
+        <role>Ingrid</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrzej Seweryn</name>
+        <role>Julian Scherner</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/4ELwaCbZWu7rRh1mDzkHwyElVsd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Friedrich von Thun</name>
+        <role>Rolf Czurda</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4D99lFiNcpWkhLBr7m8l9N6iyLL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerzy Nowak</name>
+        <role>Investor</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/5zFZcl8yeXcoQCQ59d6J9bph4eB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norbert Weisser</name>
+        <role>Albert Hujar</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/m5vgCCT8vlp1yTS9BEbLQTFfrmx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Mucha</name>
+        <role>Danka Dresner</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adi Nitzan</name>
+        <role>Mila Pfefferberg</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Piotr Polk</name>
+        <role>Leo Rosner</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rami Heuberger</name>
+        <role>Josef Bau</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/1PADvclr48hzDnosb2iwpA84Eq1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ezra Dagan</name>
+        <role>Rabbi Menasha Lewartow</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elina Löwensohn</name>
+        <role>Diana Reiter</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/eXw64F0CoDpYo6WBjk1ABeeuATX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hans-Jörg Assmann</name>
+        <role>Julius Madritsch</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/h79Hpjp4VMfpfMtz5O0PtUsfhlx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hans-Michael Rehberg</name>
+        <role>Rudolf Höß</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/10VtnxsW6h8hsKYmPc2qimiBQiz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>August Schmölzer</name>
+        <role>Dieter Reeder</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Del-Ponte</name>
+        <role>Josef Mengele</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ludger Pistor</name>
+        <role>Josef Leipold</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/pixOQw3AM7XhOR6fjSoP6L3ml0g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oliwia Dabrowska</name>
+        <role>Girl in Red</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shmuel Levy</name>
+        <role>Wilek Chilowicz</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/eZDmJaS0Z0Fj2377wBul9xmm27S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Krzysztof Luft</name>
+        <role>Herman Toffel</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harry Nehring</name>
+        <role>Leo John</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Schneider</name>
+        <role>Juda Dresner</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miri Fabian</name>
+        <role>Chaja Dresner</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Albert Misak</name>
+        <role>Mordecai Wulkan</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aldona Grochal</name>
+        <role>Mrs. Nussbaum</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jacek Wójcicki</name>
+        <role>Henry Rosner</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beata Paluch</name>
+        <role>Manci Rosner</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Uri Avrahami</name>
+        <role>Chaim Nowak</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Magdalena Komornicka</name>
+        <role>Goeth&apos;s Girl</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/nD46CDX0pxxyj029Zd1tIdaYSSR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Gordon</name>
+        <role>Mr. Nussbaum</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/oxgep8HN4rw6PBSDM70rcY5ELiy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beata Deskur</name>
+        <role>Rebecca Tannenbaum</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leopold Kozlowski</name>
+        <role>Investor</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Magdalena Dandourian</name>
+        <role>Nuisa Horowitz</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shabtai Konorti</name>
+        <role>Garage mechanic</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Henryk Bista</name>
+        <role>Mr. Löwenstein</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/mS9m0Qt7DeAr9OU9z4UsfI2D5f9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tadeusz Bradecki</name>
+        <role>DEF foreman</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/pLpw9Aech8qB9G2Bp3yKMJi8yxK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wojciech Klata</name>
+        <role>Lisiek</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/2kR65lkhGQZt5Uh90MqiRtn2XL9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ewa Kolasińska</name>
+        <role>irrational woman</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bettina Kupfer</name>
+        <role>Regina Perlman</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/vkCJtzDNMSz8QnrzAXkn9G7SNRw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grzegorz Kwas</name>
+        <role>Mietek Pemper</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vili Matula</name>
+        <role>Investigator</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stanislaw Koczanowicz</name>
+        <role>Doorman</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Geno Lechner</name>
+        <role>Majola</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/k36Ly4rBrwkoMDZiilPMs2DuK5F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beata Rybotycka</name>
+        <role>Club singer</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Branko Lustig</name>
+        <role>Nightclub maître d’</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Artus-Maria Matthiessen</name>
+        <role>Treblinka Commandant</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eugeniusz Priwieziencew</name>
+        <role>Waiter</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Z. Hoffmann</name>
+        <role>Montelupich Colonel</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Erwin Leder</name>
+        <role>Waffen-SS officer</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/4V6ewUr0KAMl8C2xvWvg8JPjsab.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jochen Nickel</name>
+        <role>Wilhelm Kunde</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/k08s40yQT0viXYw52BSXVq9uq4x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrzej Welminski</name>
+        <role>Dr. Blancke</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marian Glinka</name>
+        <role>DEF SS Officer</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/t5vAHeZmN48NtgSp9MI5kTmnqnc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grzegorz Damięcki</name>
+        <role>SS Sgt. Kunder</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/aDiRYd82QUT1E2dS8AghJd2wH8Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stanisław Brejdygant</name>
+        <role>DEF guard</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Olaf Lubaszenko</name>
+        <role>Auschwitz guard</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/vzGr9bVsPm41mWvWkRyy3FDfAji.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haymon Maria Buttinger</name>
+        <role>Auschwitz guard</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Appiano</name>
+        <role>Auschwitz guard</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jacek Pulanecki</name>
+        <role>Brinnlitz guard</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomasz Dedek</name>
+        <role>Gestapo officer</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Slawomir Holland</name>
+        <role>Gestapo officer</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Semmelrogge</name>
+        <role>Waffen-SS man</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/yHCLTUTBUbC6ITetX52A6v8HO7m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tadeusz Huk</name>
+        <role>Gestapo officer</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexander Held</name>
+        <role>SS bureaucrat</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Cv257bpembDgswcSTwXg1AWnaI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Piotr Cyrwus</name>
+        <role>Ukranian guard</role>
+        <order>70</order>
+        <thumb>https://image.tmdb.org/t/p/original/w37RRXIQq4xSwKW1MxPuFC4PXpH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joachim Paul Assböck</name>
+        <role>Gestapo clerk Klaus Tauber</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/dR5xVd4z7LtkUwpLn9ks92z1cqU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Osman Ragheb</name>
+        <role>Border guard</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maciej Orłoś</name>
+        <role>German clerk</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marek Wrona</name>
+        <role>Toffel’s secretary</role>
+        <order>74</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zbigniew Kozłowski</name>
+        <role>Scherner’s secretary</role>
+        <order>75</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marcin Grzymowicz</name>
+        <role>Czurda’s secretary</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dieter Witting</name>
+        <role>Bosch</role>
+        <order>77</order>
+        <thumb>https://image.tmdb.org/t/p/original/PefVCG5N2lGN11tMQtJS9aJSPK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Agnieszka Krukówna</name>
+        <role>Czurda’s girl</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anemona Knut</name>
+        <role>Polish girl</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Flynn</name>
+        <role>Brinnlitz man</role>
+        <order>80</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Agnieszka Wagner</name>
+        <role>Brinnlitz girl</role>
+        <order>81</order>
+        <thumb>https://image.tmdb.org/t/p/original/7xiw6a4QNAMx9u9yQ2duEHqsHpm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jan Jurewicz</name>
+        <role>Russian officer</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wiesław Komasa</name>
+        <role>Plaszow depot SS guard</role>
+        <order>83</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maciej Kozłowski</name>
+        <role>SS guard Zablocie</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Bergmann</name>
+        <role>SS NCO</role>
+        <order>85</order>
+        <thumb>https://image.tmdb.org/t/p/original/ke0hhjB88Rt9znMd29lKUsi3NGv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wilhelm Manske</name>
+        <role>SS NCO</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Flechtner</name>
+        <role>SS NCO</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sigurd Bemme</name>
+        <role>SS NCO</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Etl Szyc</name>
+        <role>Ghetto woman</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucyna Zabawa</name>
+        <role>Ghetto woman</role>
+        <order>90</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruth Farhi</name>
+        <role>Old Jewisch woman</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jerzy Sagan</name>
+        <role>Old Ghetto man</role>
+        <order>92</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dariusz Szymaniak</name>
+        <role>Depot prisoner</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dirk Bender</name>
+        <role>Clerk at depot</role>
+        <order>94</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maciej Winkler</name>
+        <role>Black marketeer</role>
+        <order>95</order>
+        <thumb>https://image.tmdb.org/t/p/original/hEsdPvR9v3ejW3wfU0qzR1jfFPI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Radosław Krzyżowski</name>
+        <role>Black marketeer</role>
+        <order>96</order>
+        <thumb>https://image.tmdb.org/t/p/original/wfcW4Hn4zKH3lrlLJC3IVMlRZmj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacek Lenczowski</name>
+        <role>Black marketeer</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hanna Kossowska</name>
+        <role>Ghetto doctor</role>
+        <order>98</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maja Ostaszewska</name>
+        <role>frantic woman</role>
+        <order>99</order>
+        <thumb>https://image.tmdb.org/t/p/original/1d1QZzGSTfCX9zZHqG4ST8N3mj3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Skalski</name>
+        <role>Stable boy</role>
+        <order>100</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryszard Radwański</name>
+        <role>Pankiewicz</role>
+        <order>101</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Piotr Kadlcik</name>
+        <role>Man in pharmacy</role>
+        <order>102</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lech Niebielski</name>
+        <role>NCO Plaszow</role>
+        <order>103</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas Morris</name>
+        <role>Grun</role>
+        <order>104</order>
+        <thumb>https://image.tmdb.org/t/p/original/5wFMGMbPs15tbwIulOkANsANeWx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Konrad</name>
+        <role>Engineer</role>
+        <order>105</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lidia Wyrobiec-Bank</name>
+        <role>Clara Sternberg</role>
+        <order>106</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ravit Ferera</name>
+        <role>Maria Mischel</role>
+        <order>107</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Agnieszka Korzeniowska</name>
+        <role>Ghetto girl</role>
+        <order>108</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dominika Bednarczyk</name>
+        <role>Ghetto girl</role>
+        <order>109</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alicja Kubaszewska</name>
+        <role>Ghetto girl</role>
+        <order>110</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Danny Marcu</name>
+        <role>Ghetto man</role>
+        <order>111</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hans Rosner</name>
+        <role>Ghetto man</role>
+        <order>112</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edward Linde-Lubaszenko</name>
+        <role>ksiądz w Brinnlitz</role>
+        <order>113</order>
+        <thumb>https://image.tmdb.org/t/p/original/zLK8oWTCkvEbFTnVg7r0qGy3LVL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Strobele</name>
+        <role>Montelupich prisoner</role>
+        <order>114</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Georges Kern</name>
+        <role>Depot master</role>
+        <order>115</order>
+        <thumb>https://image.tmdb.org/t/p/original/hnDSk2SsflIuNvT2hjHHtMPXdIQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Buczolich</name>
+        <role>Plaszow SS guard</role>
+        <order>116</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Schiller</name>
+        <role>Plaszow SS guard</role>
+        <order>117</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Götz Otto</name>
+        <role>Plaszow guard</role>
+        <order>118</order>
+        <thumb>https://image.tmdb.org/t/p/original/gUIvsX30Uey3KXYA5VYx5XvcRqf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wolfgang Seidenberg</name>
+        <role>Plaszow SS guard</role>
+        <order>119</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hubert Kramar</name>
+        <role>Plaszow SS guard</role>
+        <order>120</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Razia Israeli</name>
+        <role>Plaszow Jewish girl</role>
+        <order>121</order>
+        <thumb>https://image.tmdb.org/t/p/original/uq7QGpmEk7xAGIu7KfMu44Legec.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dorit Seadia</name>
+        <role>Plaszow Jewish girl</role>
+        <order>122</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Esti Yerushalmi</name>
+        <role>Plaszow Jewish girl</role>
+        <order>123</order>
+        <thumb>https://image.tmdb.org/t/p/original/ah3XvEkY9AdxRYbBKr2Q7g1ITvc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marta Bizoń</name>
+        <role>Dancer</role>
+        <order>124</order>
+        <thumb>https://image.tmdb.org/t/p/original/6VX3ptWDxbvgEtcAwGaQVthUZ4h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Csitos</name>
+        <role></role>
+        <order>125</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blythe Daniel</name>
+        <role>young woman</role>
+        <order>126</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Janek Dresner</name>
+        <role>Himself—Schindler mourner</role>
+        <order>127</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maciej Kowalewski</name>
+        <role>Boy</role>
+        <order>128</order>
+        <thumb>https://image.tmdb.org/t/p/original/zTzpe44yVNktXoqaQBUT1zohbkX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kamil Krawiec</name>
+        <role>little Jewish boy</role>
+        <order>129</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zuzanna Lipiec</name>
+        <role>Woman</role>
+        <order>130</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maria Peszek</name>
+        <role>young worker</role>
+        <order>131</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leopold Pfefferberg</name>
+        <role>Himself—Schindler mourner</role>
+        <order>132</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leopold Rosner</name>
+        <role>Himself—Schindler mourner</role>
+        <order>133</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emilie Schindler</name>
+        <role>Herself—Schindler mourner</role>
+        <order>134</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katarzyna Smiechowicz</name>
+        <role>German girl</role>
+        <order>135</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Talar</name>
+        <role>Jewish boy</role>
+        <order>136</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katarzyna Tlalka</name>
+        <role>Worker in factory</role>
+        <order>137</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paweł Deląg</name>
+        <role>Dolek Horowitz</role>
+        <order>138</order>
+        <thumb>https://image.tmdb.org/t/p/original/vS4Otxn5Rj08g2DN7DpPg8Efld7.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-24 16:37:32</dateadded>
+</movie>

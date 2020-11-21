@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La increíble Jessica James</title>
+    <originaltitle>The Incredible Jessica James</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>6209</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>141</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Jessica James, una joven autora teatral de Nueva York, acaba de romper con su pareja. Rota y con ganas de olvidar y seguir con su vida, Jessica entabla una improbable relación con un diseñador de aplicaciones divorciado que conoce en una cita a ciegas a través de Tinder.</plot>
+    <tagline>Dar likes es fácil. Amar es díficil.</tagline>
+    <runtime>83</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r7tDHGsFzHY0YBCaaNctvAxZhpc.jpg">https://image.tmdb.org/t/p/original/r7tDHGsFzHY0YBCaaNctvAxZhpc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1R0grVYncx7vQbJTo9Et0VzTbXW.jpg">https://image.tmdb.org/t/p/original/1R0grVYncx7vQbJTo9Et0VzTbXW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qAFMCYjioXLOIyiKNLc1R3PT6rr.jpg">https://image.tmdb.org/t/p/original/qAFMCYjioXLOIyiKNLc1R3PT6rr.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ouDRTaiheS0h9iQXtUryc7vu9ek.jpg">https://image.tmdb.org/t/p/original/ouDRTaiheS0h9iQXtUryc7vu9ek.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kMg0nFilbHRF0lpZF06daIbNGty.jpg">https://image.tmdb.org/t/p/original/kMg0nFilbHRF0lpZF06daIbNGty.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5990342</id>
+    <uniqueid type="imdb" default="true">tt5990342</uniqueid>
+    <uniqueid type="tmdb">432789</uniqueid>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <credits>Jim Strouse</credits>
+    <director>Jim Strouse</director>
+    <premiered>2017-01-27</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Beachside Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zEkYAzSpHnA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5017</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jessica Williams</name>
+        <role>Jessica James</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/n7fP2YluY2jmQPGbPWu3It1BNd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris O&apos;Dowd</name>
+        <role>Boone</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xhfgliN8DInDVBliPq7JDeKNCvz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noël Wells</name>
+        <role>Tasha</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/gbC5YAulfHHp56oLkFcb6tPFbYE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lakeith Stanfield</name>
+        <role>Damon</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/5AykKpsH8DMxIm144ET7fVVTQfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megan Ketch</name>
+        <role>Mandy</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kRtUubpolUL3IhFpYTvJMgS9jYt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zabryna Guevara</name>
+        <role>Mrs. Phillips</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/occlHEwfYmhuQw7TIEmQpdP2qcx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susan Heyward</name>
+        <role>Jerusa</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/eZhgi03goEs9I44p6y2K9sJ3pjw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Stephen</name>
+        <role>Tinder Guy</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/TOsSXlmaRux0Gc45eic4E0jcKb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Carney</name>
+        <role>Mrs. Taggart</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4rGTAV5elgCzvys1qMF5HWIokNn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taliyah Whitaker</name>
+        <role>Shandra</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/kFaqCqqwYh2CqBEJbHP5mLsk5FZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Jones</name>
+        <role>Herself</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/lEiWsl1GSgM0jcfN0jMbmXv48E2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evander Duck Jr.</name>
+        <role>Kenny James</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/cxac0xv2msz9TnC3taLdbNCN6tw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia R. Floyd</name>
+        <role>Mrs. James</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert King</name>
+        <role>Duane</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/xU5pnUKCrDY3ogvhSXxcoipOjxD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Kim</name>
+        <role>Heather</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/2hzOQRZBBQilLBEhElZhU2TImEH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>De&apos;Jhana Moore</name>
+        <role>De&apos;Jhana</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/ux5QaR5AdASSNTbQlUQNKjNyZdt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kayla Diaz</name>
+        <role>Kayla</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Davion Dowdell</name>
+        <role>Davion</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon S. Martinez</name>
+        <role>Brandon</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Selena Sanchez</name>
+        <role>Selena</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Loscheider</name>
+        <role>Mandy&apos;s New Man</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/eecrPx8J3kcknIjU9APUPJcWP9D.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Maher</name>
+        <role>Actor</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/nO9Yhz7ERzATcHploljXgR4cAq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Bos</name>
+        <role>Actress</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/vIupWkq75PFH4xS8yDmgaMFKVlC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gavin Haag</name>
+        <role>Man on Street</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/r9C9LwOpXOXdAyuz4E2KtqOkjWF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Collin Smith</name>
+        <role>Bartender</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/5OVGcALMHJpIf5FSUnIbBICtP6j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Linda Glick</name>
+        <role>Woman in Fancy Dress</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>McManus Woodend</name>
+        <role>The Manspreader</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/qNwVEylD6WbHVjbEyHAY0BRIHDQ.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:51:39</dateadded>
+</movie>

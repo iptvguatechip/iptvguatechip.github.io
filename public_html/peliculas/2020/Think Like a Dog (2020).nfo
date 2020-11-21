@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Una Mente Canina</title>
+    <originaltitle>Think Like a Dog</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.000000</value>
+            <votes>857</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>29</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Durante un experimento que sale mal, un niño de 12 años desarrollará una conexión telepática con su mejor amigo: su perro.</plot>
+    <tagline></tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/us6f635Lq7k9oIBAosl1hx87jgr.jpg">https://image.tmdb.org/t/p/original/us6f635Lq7k9oIBAosl1hx87jgr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cDbOrc2RtIA37nLm0CzVpFLrdaG.jpg">https://image.tmdb.org/t/p/original/cDbOrc2RtIA37nLm0CzVpFLrdaG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1bbLa1eWumUgUo7aSNvdpr2Smbu.jpg">https://image.tmdb.org/t/p/original/1bbLa1eWumUgUo7aSNvdpr2Smbu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o8VC70wiX1bDECDVXxOpStVt8vN.jpg">https://image.tmdb.org/t/p/original/o8VC70wiX1bDECDVXxOpStVt8vN.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qEo36RiT8w4hMFlf9KohOSuX3HZ.jpg">https://image.tmdb.org/t/p/original/qEo36RiT8w4hMFlf9KohOSuX3HZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/13b8KdDyG5YvMpTY0tH1hPR2APn.jpg">https://image.tmdb.org/t/p/original/13b8KdDyG5YvMpTY0tH1hPR2APn.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5929654</id>
+    <uniqueid type="imdb" default="true">tt5929654</uniqueid>
+    <uniqueid type="tmdb">513584</uniqueid>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>United Kingdom</country>
+    <credits>John J. Strauss</credits>
+    <credits>Gil Junger</credits>
+    <director>Gil Junger</director>
+    <premiered>2020-08-06</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>M Star International</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s3_5WZSOsn8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.850000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5454</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Gabriel Bateman</name>
+        <role>Oliver</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/29pwCzi4ja2gZHaGU50nqEzDe36.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Duhamel</name>
+        <role>Lukas</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pImYEPzq2L9ndd4rsZLmiCjqbW5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megan Fox</name>
+        <role>Ellen</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/uvGdfNLG2jjQJsDTRPTF9XR1FvM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Horcher</name>
+        <role>Sophie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/pZkYDuCY0RTZGqJCX0L8MvJwSAw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hou Ming Hao</name>
+        <role>Xiao (as Neo Hooo)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3svaBnWtgamTPc5TxtBCNmeljM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Izaac Wang</name>
+        <role>Li</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/bzvi6adMl3zmzC7gWhS4cmO61S4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dillon Ahlf</name>
+        <role>Brayden</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/dq6i7n7hemljYjoLW1pidwsZNpp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy 4 Johnston</name>
+        <role>Nicholas</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/l9m5iCqTErpzzwe1EC26iN6vcjz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kunal Nayyar</name>
+        <role>Mr. Mills</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4e2zbGYxBTHHzDDGKo5SnNyOUx3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janet Montgomery</name>
+        <role>Bridget</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/jn9tU6mAAkdtjgw2JPlS2vFG1jM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Jones</name>
+        <role>Agent Munoz</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/9xiA9EGxvIpcCYAlhWHn9LC7fT3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryan Callen</name>
+        <role>Agent Callen</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/dYlYyeKLC6jXl6twAIsqYQCnFlp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lara Grice</name>
+        <role>Ms. Shackley</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/mtR3ZcrjQF7zNTG0K2SEhrKHGlm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gralen Bryant Banks</name>
+        <role>Principal Harris</role>
+        <order>13</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BM2JiMjlkNDctNmZjNS00NWQ5LWE4ODMtN2M3NDU5ODZmZDYyXkEyXkFqcGdeQXVyMTk4MDQ3MTk@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Junger</name>
+        <role>Will</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marnette Patterson</name>
+        <role>Cindy</role>
+        <order>15</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BNDM5NTU2MDQtMDM1ZC00ZTNmLWFkM2UtMWI0MDEwMzgxZWE3XkEyXkFqcGdeQXVyMzc0NDAyNjU@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoe Lazar</name>
+        <role>Debbie</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Badinger</name>
+        <role>Girl Playing Juliet</role>
+        <order>17</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMTE2ZDg0YWEtMDI4Yi00NjNhLWFkZmYtMjJhZTY5N2U2MzI5XkEyXkFqcGdeQXVyODkwNzgwNDY@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Boyd</name>
+        <role>Hunter</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/kmcfU9S7ajCBVhCbNvTztHS2OJL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mason Guccione</name>
+        <role>Rodney</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/91tUFef8XEy39e0S8o9seXjdMz1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jannette Sepwa</name>
+        <role>Jasmine</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ocqddAR7aBqjfmZIxaLkWlG3XZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Edwards</name>
+        <role>Mr. McClelland</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/vJIciWSyhx2S7xLxuNVIeId1ojc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lena Clark</name>
+        <role>Mrs. McClelland</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/2VvkQ4XWRbcLEkT2G6B8NOUMgAh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lin Yongjian</name>
+        <role>Shen</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/bIACgfgiBTIIB7pH2ny7mAeHty6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Silas Cooper</name>
+        <role>DJ</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/i3y4kuWJdYKgfLfpz0fJTsgwcSH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Stashwick</name>
+        <role>Henry (voice)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/ouhHa3CikuhcvgLvKYknUvRWG47.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Rayden</name>
+        <role>Rockford</role>
+        <order>26</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BOTViZWVlZWQtOTliZi00MTFiLWE5YmYtN2JlODljNzM1MWY2XkEyXkFqcGdeQXVyODE5OTYwODA@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bowen Dong</name>
+        <role>Delivery Boy</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kaitlin Harris</name>
+        <role>Self - Student</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brad Napp</name>
+        <role>Swat Officer 1 (uncredited)</role>
+        <order>30</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMDdjM2RiODgtOGIzOC00YmRkLWJhZjYtMDQ1YjllMzA3NDhmXkEyXkFqcGdeQXVyNjk0MzA0NTc@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julian Simmons</name>
+        <role>Middle Schooler (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Toney Chapman Steele</name>
+        <role>Swat Officer (uncredited)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/41dTWPuEb6Z6OcPaSHncSJmGrac.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-06-14 13:35:20</dateadded>
+</movie>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Colao</title>
+    <originaltitle>Colao</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>289</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.000000</value>
+            <votes>13</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A coffee grower, still single at 40, decides to finally start his search for love by going to the capital city on the Dominican Republic.</plot>
+    <tagline></tagline>
+    <runtime>83</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o3q4BQrQcuT8UvKfeVSK5IyTav8.jpg">https://image.tmdb.org/t/p/original/o3q4BQrQcuT8UvKfeVSK5IyTav8.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kbbsnt2lRxNyg9kcsfmpVwndf9A.jpg">https://image.tmdb.org/t/p/original/kbbsnt2lRxNyg9kcsfmpVwndf9A.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6390756</id>
+    <uniqueid type="imdb" default="true">tt6390756</uniqueid>
+    <uniqueid type="tmdb">495056</uniqueid>
+    <genre>Comedia</genre>
+    <country>Dominican Republic</country>
+    <director>Frank Perozo</director>
+    <premiered>2017-11-30</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>45.000000</aspect>
+                <width>1280</width>
+                <height>540</height>
+                <durationinseconds>4989</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Manny Pérez</name>
+        <role>Antonio</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Celines Toribio</name>
+        <role>Maribel</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anthony Alvarez</name>
+        <role>Horacio</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/fEnG0srYtnevTYBcVvO0fne499N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arcángel</name>
+        <role>Santos</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nashla Bogaert</name>
+        <role>Laura</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 07:26:34</dateadded>
+</movie>

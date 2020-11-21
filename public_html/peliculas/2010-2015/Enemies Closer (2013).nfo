@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Cerco al Enemigo</title>
+    <originaltitle>Enemies Closer</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.200000</value>
+            <votes>5506</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.300000</value>
+            <votes>104</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un importante cargamento de droga desaparece entre la frontera de Canadá y EE.UU. Los narcotraficantes que la están buscando obligan a un guarda forestal, antiguo miembro de las Fuerzas Especiales, a ayudarlos a encontrar la droga.</plot>
+    <tagline>Keep your Friends Close</tagline>
+    <runtime>84</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tqWSkhh73d4NiJbY9Yd5mVzQYNo.jpg">https://image.tmdb.org/t/p/original/tqWSkhh73d4NiJbY9Yd5mVzQYNo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xiaMlPsljiJjukzq7paVE0q13Yw.jpg">https://image.tmdb.org/t/p/original/xiaMlPsljiJjukzq7paVE0q13Yw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ovP3Rk2bcxFggqtzyeRXS1Wp7cj.jpg">https://image.tmdb.org/t/p/original/ovP3Rk2bcxFggqtzyeRXS1Wp7cj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/69M20asArQC5BWiGChIeqx3f13E.jpg">https://image.tmdb.org/t/p/original/69M20asArQC5BWiGChIeqx3f13E.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i2iXj6IxxezLzZR4pApBEGVuLbs.jpg">https://image.tmdb.org/t/p/original/i2iXj6IxxezLzZR4pApBEGVuLbs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fgcBpBkB75hZbPH40omMdtbrkaY.jpg">https://image.tmdb.org/t/p/original/fgcBpBkB75hZbPH40omMdtbrkaY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cM5zEPXTudPjjcYwjzFcIdxpIsp.jpg">https://image.tmdb.org/t/p/original/cM5zEPXTudPjjcYwjzFcIdxpIsp.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2395199</id>
+    <uniqueid type="imdb" default="true">tt2395199</uniqueid>
+    <uniqueid type="tmdb">238589</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Acción</genre>
+    <country>United Kingdom</country>
+    <credits>Eric Bromberg</credits>
+    <credits>James Bromberg</credits>
+    <director>Peter Hyams</director>
+    <premiered>2013-12-04</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>After Dark Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Whv2IvGwMqw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>479.000000</aspect>
+                <width>1916</width>
+                <height>800</height>
+                <durationinseconds>5089</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jean-Claude Van Damme</name>
+        <role>Xander</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/qAHXPJ4IybMsCbNY3811CytFj3H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Everett Scott</name>
+        <role>Henry</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/nVDihOvsSm7kmeyHLtAcEzrrSYC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Orlando Jones</name>
+        <role>Francois</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Linzey Cocker</name>
+        <role>Kayla</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/bSrebVRx4hxtlWFof6reRzVnX90.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kris Van Damme</name>
+        <role>Francois</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/4465DC6Fz3RUtOGwD2E4xidFr8z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zahary Baharov</name>
+        <role>Saul</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/24hWYcopatK03dewBczgG3mOFB6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dimo Alexiev</name>
+        <role>Morris</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/Aa9NCmkQEyWoZw5TUWce2mrm88O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vlado Mihailov</name>
+        <role>Jean</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teodor Tzolov</name>
+        <role>Eto</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hristo Mitzkov</name>
+        <role>Wooton</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/kiUIdlxS6VoSX2LEiVjlSViLBs8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonas Talkington</name>
+        <role>ICE Leader</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-12-02 11:09:58</dateadded>
+</movie>

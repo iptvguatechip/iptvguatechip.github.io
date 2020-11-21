@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Invincible Iron Man</title>
+    <originaltitle>The Invincible Iron Man</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>12</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>10.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>A documentary divided into six-part: For a look at the movie&apos;s comic book origins, we hear notes from Brevoort, Quesada, creator Stan Lee, writers Gerry Conway, Joe Casey, Dan Knauf, Charles Knauf and Warren Ellis, writer/artist Bob Layton, and artists Gene Colan, John Romita, Jr., Patrick Zircher and Adi Granov. The piece examines the origins of Iron Man as well as aspects of the character, supporting roles and villains. We also learn about the series&apos; development, various story lines it pursued over the years, and challenges.</plot>
+    <tagline></tagline>
+    <runtime>83</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7sk9MyHMuipgIo5m6v6biCNXPHv.jpg">https://image.tmdb.org/t/p/original/7sk9MyHMuipgIo5m6v6biCNXPHv.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vgqZxgFEOMbtBMUNUiCJ3CpVBs8.jpg">https://image.tmdb.org/t/p/original/vgqZxgFEOMbtBMUNUiCJ3CpVBs8.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5297474</id>
+    <uniqueid type="imdb" default="true">tt5297474</uniqueid>
+    <uniqueid type="tmdb">512127</uniqueid>
+    <genre>Documental</genre>
+    <country>United States of America</country>
+    <director>Jon Mefford</director>
+    <premiered>2008-09-30</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>4983</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:47</dateadded>
+</movie>

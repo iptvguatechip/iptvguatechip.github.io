@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El crack</title>
+    <originaltitle>El crack</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>1182</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>14</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Private detective Germán Areta el Piojo gets a terminally ill client who wishes to see his long lost, runaway daughter before he dies…</plot>
+    <tagline></tagline>
+    <runtime>119</runtime>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rYBpuUxlY7OXekCgSbkKLuL3Gfj.jpg">https://image.tmdb.org/t/p/original/rYBpuUxlY7OXekCgSbkKLuL3Gfj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eq5uV266cKxZDLve69lg3vVq6u1.jpg">https://image.tmdb.org/t/p/original/eq5uV266cKxZDLve69lg3vVq6u1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tKYIomn7cQQJ5BwidVQc8gI0kAe.jpg">https://image.tmdb.org/t/p/original/tKYIomn7cQQJ5BwidVQc8gI0kAe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/12Lsh6ZrVVLEuWeDtgZzdAEPXqw.jpg">https://image.tmdb.org/t/p/original/12Lsh6ZrVVLEuWeDtgZzdAEPXqw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7R5A38ekJx5ktygAt6q5Rs2lrjj.jpg">https://image.tmdb.org/t/p/original/7R5A38ekJx5ktygAt6q5Rs2lrjj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uRh8JfUgMaDzroRCFvY1Dbta658.jpg">https://image.tmdb.org/t/p/original/uRh8JfUgMaDzroRCFvY1Dbta658.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0082210</id>
+    <uniqueid type="imdb" default="true">tt0082210</uniqueid>
+    <uniqueid type="tmdb">60794</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>Spain</country>
+    <set>
+        <name>El crack - Colección</name>
+    </set>
+    <credits>José Luis Garci</credits>
+    <credits>Horacio Valcárcel</credits>
+    <director>José Luis Garci</director>
+    <premiered>1981-03-26</premiered>
+    <year>1981</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Acuarius Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8JFuUpmExU8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>mpeg4</codec>
+                <aspect>60.000000</aspect>
+                <width>720</width>
+                <height>444</height>
+                <durationinseconds>7164</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Alfredo Landa</name>
+        <role>Germán Areta el Piojo</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7HS620PfCoXgRrOTCl9FcXVpztZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Casanova</name>
+        <role>Carmen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/28TeRmTMfgcAC2x7LQ5cAdjHGb4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manuel Tejada</name>
+        <role>Don Alberto el Guapo</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ns5OledDRmxi7RhPd7gr2n1CpgK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miguel Rellán</name>
+        <role>Cárdenas el Moro</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/raW50z3LZZXOSXTwOFFUf4U3zet.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manuel Lorenzo</name>
+        <role>Rocky</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/sjTyiOw557iD5nUR6RL3jQyIyAf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raúl Fraire</name>
+        <role>Francisco Medina</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Bódalo</name>
+        <role>Don Ricardo el Abuelo</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/r8pWpYyVVZtElNe4NdIcjAT2PaM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Francisco Vidal</name>
+        <role>Nico</role>
+        <order>7</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMTFiMjE1YjYtYmI2Ni00NGM1LTliZDgtNGQzZGFmNGM0NDlkXkEyXkFqcGdeQXVyNzA4ODc3ODU@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maite Blasco</name>
+        <role>Merche</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/2J0YeEUuCC2wkUA9AFkFSnUetKV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Manuel Cervino</name>
+        <role>Vareta</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/sAZ07e1ZNPYUx7MCldmBIGcWRdq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mayrata O&apos;Wisiedo</name>
+        <role>Mimí de Torres</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/iulNOZkhJuYlXqG6KlPaRoqR5qB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Luis Merino</name>
+        <role>Meri</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ramón Lillo</name>
+        <role></role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pablo Hoyos</name>
+        <role></role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/yQK7bT8I2j8Y95cPt9xaK9FYv65.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio del Río</name>
+        <role></role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan Carlos Sánchez</name>
+        <role></role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/oDjVNASZHJWZT4xYE1QC9uyYGro.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilio Fornet</name>
+        <role>Miguelito</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/q4RZZpgxT8zXtyFiD7zNT25GWUE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mónica Emilió</name>
+        <role>Maite</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rafael Álvarez el Brujo</name>
+        <role></role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/qIrmj9l7Eo8MUGTQG4zy3lEdAzJ.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-16 00:11:15</dateadded>
+</movie>

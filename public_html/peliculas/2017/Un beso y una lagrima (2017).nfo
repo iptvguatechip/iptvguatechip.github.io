@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Un beso y una lágrima</title>
+    <originaltitle>Kiss and Cry</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.800000</value>
+            <votes>2503</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>337</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un drama romántico basado en la verdadera historia de Carley Allison, una joven de 18 años con una prometedora carrera como patinadora artística y cantante a quien le diagnosticaron un tipo raro de sarcoma.</plot>
+    <tagline>Un caso de amor en cada 3.5 mil millones.</tagline>
+    <runtime>93</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kdUvwIJFKTMZY1q7RUAmLeHtWtf.jpg">https://image.tmdb.org/t/p/original/kdUvwIJFKTMZY1q7RUAmLeHtWtf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uHErYJ2TfP0ihIEMpD2zCvbVIIB.jpg">https://image.tmdb.org/t/p/original/uHErYJ2TfP0ihIEMpD2zCvbVIIB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7242QzSUH51JpWzzxbbESPTWqjR.jpg">https://image.tmdb.org/t/p/original/7242QzSUH51JpWzzxbbESPTWqjR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/u3HO4asu5J9fvNBhLlmewiRyuza.jpg">https://image.tmdb.org/t/p/original/u3HO4asu5J9fvNBhLlmewiRyuza.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wkGVEq3flo1Tz86FPnsC9yNHFOX.jpg">https://image.tmdb.org/t/p/original/wkGVEq3flo1Tz86FPnsC9yNHFOX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eGvx5hX9EkkP9L3zW6BoXUmjM0E.jpg">https://image.tmdb.org/t/p/original/eGvx5hX9EkkP9L3zW6BoXUmjM0E.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bV9XmFe3TC2HaOhLCJJSkA11E2x.jpg">https://image.tmdb.org/t/p/original/bV9XmFe3TC2HaOhLCJJSkA11E2x.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/krKWA5XUWr4txLcDccTX40vBWad.jpg">https://image.tmdb.org/t/p/original/krKWA5XUWr4txLcDccTX40vBWad.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bWFnePkuiFnsnQQ2mMLBKXmwb1V.jpg">https://image.tmdb.org/t/p/original/bWFnePkuiFnsnQQ2mMLBKXmwb1V.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e9O3HYMhQFuobyuyMEowOV5ibI1.jpg">https://image.tmdb.org/t/p/original/e9O3HYMhQFuobyuyMEowOV5ibI1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5224012</id>
+    <uniqueid type="imdb" default="true">tt5224012</uniqueid>
+    <uniqueid type="tmdb">440596</uniqueid>
+    <genre>Música</genre>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <genre>Película de TV</genre>
+    <country>Canada</country>
+    <credits>Willem Wennekers</credits>
+    <director>Sean Cisterna</director>
+    <premiered>2017-02-10</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Mythic Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ma99gh6q9s8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>5608</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sarah Fisher</name>
+        <role>Carley Allison</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luke Bilyk</name>
+        <role>John Servinis</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/eszaEk1NwGkv1HCtGTkjTycfvrX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chantal Kreviazuk</name>
+        <role>May Allison</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/7EIiCjjDYk5DczI0o4qsUnDcj2Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sergio Di Zio</name>
+        <role>Mark Allison</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/e5sQM8rEXQW1UiVgzYM5C4GHScF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoë Belkin</name>
+        <role>Rebecca</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/diBu3fLJ5VcJ5buxUYsBIio9DfC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brittany Bristow</name>
+        <role>Riley Allison</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/e0eJSoJ2ntcCmf3PaTtCa0D8a4H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naomi Snieckus</name>
+        <role>Sophie</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/3rsL3fhmal8ypCS3CQqt9EiF2nj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Denis Akiyama</name>
+        <role>Shin</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3tbch0bf53gf6YYVnBvPL61Vkaw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Tomasone</name>
+        <role>Samantha Allison</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Esdale</name>
+        <role>Olivia</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 21:57:19</dateadded>
+</movie>

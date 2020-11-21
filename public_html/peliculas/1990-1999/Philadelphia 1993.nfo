@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Filadelfia</title>
+    <originaltitle>Philadelphia</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.700000</value>
+            <votes>221152</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.800000</value>
+            <votes>2761</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Andrew Beckett, un joven y prometedor abogado de Philadelphia, es despedido del prestigioso bufete en el que trabaja cuando sus jefes se enteran de que ha contraído el sida. Decide entonces demandar a la empresa por despido improcedente, pero en un principio ningún abogado acepta defender su caso.</plot>
+    <tagline>No one would take on his case... until one man was willing to take on the system.</tagline>
+    <runtime>125</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tFe5Yoo5zT495okA49bq1vPPkiV.jpg">https://image.tmdb.org/t/p/original/tFe5Yoo5zT495okA49bq1vPPkiV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/s6PWjpLDKZkmlmyjOA1lD6cju0m.jpg">https://image.tmdb.org/t/p/original/s6PWjpLDKZkmlmyjOA1lD6cju0m.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5RLPhlKVmoggebXqizgKqwtmRvJ.jpg">https://image.tmdb.org/t/p/original/5RLPhlKVmoggebXqizgKqwtmRvJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x3SQfjiXBhZ7o0Drt2YV9Icc2C2.jpg">https://image.tmdb.org/t/p/original/x3SQfjiXBhZ7o0Drt2YV9Icc2C2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hG7sp6WBMGauq0tfjVXn1OdIi4B.jpg">https://image.tmdb.org/t/p/original/hG7sp6WBMGauq0tfjVXn1OdIi4B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/RIQa8TwTG2zlP52Ys4K9TA3HFa.jpg">https://image.tmdb.org/t/p/original/RIQa8TwTG2zlP52Ys4K9TA3HFa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/misTLdRReF17M3VvUcyPmrcXl7H.jpg">https://image.tmdb.org/t/p/original/misTLdRReF17M3VvUcyPmrcXl7H.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b5k7j2dOaaZE3B1BWgydrNBfAEp.jpg">https://image.tmdb.org/t/p/original/b5k7j2dOaaZE3B1BWgydrNBfAEp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cQqfR9PvlU0ZImQpsGkMXyuVpNI.jpg">https://image.tmdb.org/t/p/original/cQqfR9PvlU0ZImQpsGkMXyuVpNI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1hHEcX0bJWC1M0aCHeQ15OQZcL.jpg">https://image.tmdb.org/t/p/original/1hHEcX0bJWC1M0aCHeQ15OQZcL.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0107818</id>
+    <uniqueid type="imdb" default="true">tt0107818</uniqueid>
+    <uniqueid type="tmdb">9800</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Ron Nyswaner</credits>
+    <director>Jonathan Demme</director>
+    <premiered>1993-12-22</premiered>
+    <year>1993</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TriStar Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cl4B9AU45P4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>7529</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>dts</codec>
+                <language>eng</language>
+                <channels>5</channels>
+            </audio>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tom Hanks</name>
+        <role>Andrew Beckett</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Denzel Washington</name>
+        <role>Joe Miller</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/cEU2Vrdo83izpGmOvbVAOz5jCof.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Robards</name>
+        <role>Charles Wheeler</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/1HEKkA5x5fddJIcy8CIkPDLfx9I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Steenburgen</name>
+        <role>Belinda Conine</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Antonio Banderas</name>
+        <role>Miguel Alvarez</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/uqqgAdPfi1TmG3tfKfhsf20fHE6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Vawter</name>
+        <role>Bob Seidman</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/e3bR4ujQGeJQ69RfQJFXZJbxQDD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Ridgely</name>
+        <role>Walter Kenton</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/iZxQNy2TpfITfVSXLdg7w4DsiOo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Napier</name>
+        <role>Judge Garnett</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Summerour</name>
+        <role>Lisa Miller</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Obba Babatundé</name>
+        <role>Jerome Green</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/6XKA5ExqC1HUxCCpNNWHIsCLsRM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andre B. Blake</name>
+        <role>Young Man in Pharmacy</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/2BGzg1rOhGGCt2td6fNqLBUdWAb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert W. Castle</name>
+        <role>Bud Beckett</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/5NIaVNPRVEFCHTrp0o19JzmOJIL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Chapman</name>
+        <role>Clinic Storyteller</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/7aD5xIlO9vDxv1YRzyteeCUz6eN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Corman</name>
+        <role>Mr. Laird</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/kWvtdBp4AVSOwluWwZ1WhsKlAfk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ann Dowd</name>
+        <role>Jill Beckett</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Drake</name>
+        <role>Bruno</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/oC8XaUr5DrZq5DvDPPQokpRAyOd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen Finley</name>
+        <role>Dr. Gillman</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/n87A08kshhdj5CC75DJazCrZkcj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Glenn</name>
+        <role>Kenneth Killcoyne</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Jacobs</name>
+        <role>Peter / Mona Lisa</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Lazar</name>
+        <role>Dr. Klenstein</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/2lZdlxrQaKWBLD8BoolYLzTtzOW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Bedford Lloyd</name>
+        <role>Matt Beckett</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/tyNDFeQgf2dyjBZtRAskz1lZG1I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberta Maxwell</name>
+        <role>Judge Tate</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/3rWkDAzROb4ludCEXBum6bzmy91.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Warren Miller</name>
+        <role>Mr. Finley</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/ajEuTGvG1gPNYV2eoCoF3IgQx5y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Northup</name>
+        <role>Juror</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/vWNCLiIVy3zqeeNDFjuPf2oTR7N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Olmstead</name>
+        <role>Randy Beckett</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/qof2JiKhuq4SwyCOaXIxS5euct6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joey Perillo</name>
+        <role>Filko</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/xlRiQMyme8Ew3mUBD0qXSnz0XyW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Roselli</name>
+        <role>Iris</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/v9wncWACcVpr6rGFbfx8kZuv5WW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Deavere Smith</name>
+        <role>Anthea Burton</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/4kPCkTjnA43RAEk3zBDJDjMnijs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Talerico</name>
+        <role>Shelby</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel von Bargen</name>
+        <role>Jury Foreman</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/c8ejpauJX2ZQDreprZ8FHFL7VcJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tracey Walter</name>
+        <role>Librarian</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/9aALfdCcP0PDYcBmqB6auHF0Eud.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bradley Whitford</name>
+        <role>Jamey Collins</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chandra Wilson</name>
+        <role>Chandra</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/83Ynxlv3jV4ahkOiAEfunM7Rez2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathryn Witt</name>
+        <role>Melissa Benedict</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joanne Woodward</name>
+        <role>Sarah Beckett</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/vUwRHy2UTY3fS4JyoBlq04vpQo9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Buzz Kilman</name>
+        <role>Crutches</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Sorensen Jr.</name>
+        <role>Clinic Patient</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Williamson</name>
+        <role>Tyrone</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Roth Haberle</name>
+        <role>Rachel Smilow</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Rowe</name>
+        <role>Dr. Armbruster</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ford Wheeler</name>
+        <role>Alan</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julius Erving</name>
+        <role>Himself</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adam LeFevre</name>
+        <role>Jill&apos;s Husband</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/gr1mq2bF1k5JfZK2sQIeO1kIbde.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Goetzman</name>
+        <role>Guido Paonessa</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Utt</name>
+        <role>Juror</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lawrence T. Wrentz</name>
+        <role>Juror</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/sDi4IxpyGQnId2PETXMep4TuCmL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Techman</name>
+        <role>Ralph Peterson</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/ywRscc1bqdzMYxSOXTDldbwpBBF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Roche</name>
+        <role>Not Adam and Steve</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Fitzpatrick</name>
+        <role>Bartender</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gene Borkan</name>
+        <role>Bailiff</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Q. Lazzarus</name>
+        <role>Party singer</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucas Platt</name>
+        <role>Robert</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Castillo</name>
+        <role>Miguel&apos;s Dad</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roy Blount Jr.</name>
+        <role>Partygoer (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Bowersox</name>
+        <role>PR Director (uncredited)</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/ejHaZJ7U0UErPq2g9ZAaDeYKs05.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Quentin Crisp</name>
+        <role>Guest at Party (uncredited)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/9kp2xAPdUtZnmSTmpiNxoBQz5Tj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Detrik</name>
+        <role>Reporter (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Devon</name>
+        <role>Security Guard (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/iVzMhwSjee9mkXUH1WI762slQCQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tak Fujimoto</name>
+        <role>Doctor (uncredited)</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/stUrxvmoFNrNLskc2oPhrOOeinB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana Leza</name>
+        <role>Guest (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jaime Gomez</name>
+        <role>Guy in Library (uncredited)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/j7pTqqYGuQTAgcP393TQBwxwPi2.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-11-24 10:51:06</dateadded>
+</movie>

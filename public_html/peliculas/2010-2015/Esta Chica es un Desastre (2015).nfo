@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Esta Chica es un Desastre</title>
+    <originaltitle>Trainwreck</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>128264</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>2004</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Desde pequeña, Amy ha oído a su padre decir que la monogamia no es un estado realista. La periodista vive de acuerdo con las creencias de su padre, disfrutando de una vida sin ataduras, libre de aburridas promesas románticas. Sin embargo, ha llegado a un punto muerto. Cuando descubre que se está enamorando del hombre al que dedica un artículo, un encantador y exitoso médico deportivo llamado Aaron Conners, Amy se replantea sus creencias y su estilo de vida.</plot>
+    <tagline>We All Know One.</tagline>
+    <runtime>124</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xp6JAFEDZL5Hs2VCGIhEC5fZwQt.jpg">https://image.tmdb.org/t/p/original/xp6JAFEDZL5Hs2VCGIhEC5fZwQt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg">https://image.tmdb.org/t/p/original/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n6qKzMQn1Z2R2fLYSeBQnGiJjAK.jpg">https://image.tmdb.org/t/p/original/n6qKzMQn1Z2R2fLYSeBQnGiJjAK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/225QhRKrn3cDhvXuFuXOd1X8G5r.jpg">https://image.tmdb.org/t/p/original/225QhRKrn3cDhvXuFuXOd1X8G5r.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aI0fOlVoWNkEZ6rq90gqxoviOsh.jpg">https://image.tmdb.org/t/p/original/aI0fOlVoWNkEZ6rq90gqxoviOsh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8qvvR75nEMXq7sZp7afUKSu2tin.jpg">https://image.tmdb.org/t/p/original/8qvvR75nEMXq7sZp7afUKSu2tin.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3C2GvaXTaiwvPYDlT9GOaHIejQe.jpg">https://image.tmdb.org/t/p/original/3C2GvaXTaiwvPYDlT9GOaHIejQe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oLUEuDM6Ey2scdd4d36Wa6q9WIe.jpg">https://image.tmdb.org/t/p/original/oLUEuDM6Ey2scdd4d36Wa6q9WIe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3Wm2ZqC5b4yePSREXISjUQ1E7eP.jpg">https://image.tmdb.org/t/p/original/3Wm2ZqC5b4yePSREXISjUQ1E7eP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2TmnQeGpAv6OoFNNkDM4w9wtvL3.jpg">https://image.tmdb.org/t/p/original/2TmnQeGpAv6OoFNNkDM4w9wtvL3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2rKefZMDm2sjT2Wbomut95nZqYL.jpg">https://image.tmdb.org/t/p/original/2rKefZMDm2sjT2Wbomut95nZqYL.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3152624</id>
+    <uniqueid type="imdb" default="true">tt3152624</uniqueid>
+    <uniqueid type="tmdb">271718</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Amy Schumer</credits>
+    <director>Judd Apatow</director>
+    <premiered>2015-07-17</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y_KP9x80Z9Q</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>479.000000</aspect>
+                <width>1916</width>
+                <height>796</height>
+                <durationinseconds>7479</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Amy Schumer</name>
+        <role>Amy Townsend</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/k1k78eml8x2085b0lr86gxrpJjG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Hader</name>
+        <role>Aaron Conners</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8LiP5wHNq3QpwoARquhkGcPSgjM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brie Larson</name>
+        <role>Kim Townsend</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ajL2BnTVftx9VtjNQceKC1qIqSb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Quinn</name>
+        <role>Gordon Townsend</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/i1bEo7q7XJX6mYHA52Z7hhLyDg6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Bayer</name>
+        <role>Nikki</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXHdc6TmRXSWorovGhCWwFtDLfJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tilda Swinton</name>
+        <role>Dianna</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gWbX3a7V2MgRMRzekfITNcb27xV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>LeBron James</name>
+        <role>LeBron James</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/rmIYKVdYT60zfsqfjNuB71f1y82.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Birbiglia</name>
+        <role>Tom</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/kK7dXCSPMRx9EYAFvZ0ugA1sMUZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Cena</name>
+        <role>Steven</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Attell</name>
+        <role>Noam</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/yWhAsps3gEJAJntaH8sLdYS6dSE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norman Lloyd</name>
+        <role>Norman</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/z7jg1zuFfC5jqn4kI40OGAOrD5U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ezra Miller</name>
+        <role>Donald</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/6wmTpbYpmhthaxzM5ss3377F9IV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Radcliffe</name>
+        <role>Dogwalker</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/k5ROulKM24IJtv0jcRj1berhd8I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marisa Tomei</name>
+        <role>Dog Owner</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/6TpdWXdn3za2ycuClAQQL6YpXNr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Glaser</name>
+        <role>Schultz</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/wJW4JrjHUo8SAptqlsfK3yZkBrx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randall Park</name>
+        <role>Bryson</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/1QJ4cBQZoOaLR8Hc3V2NgBLvB0f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Brinkman</name>
+        <role>Allister</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pete Davidson</name>
+        <role>Conners&apos;s Patient</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/uBD338aWiGTcdcaAF5z5HnRGTg8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Meadows</name>
+        <role>Tim</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/c7NvUYdkUDRnPDpmQgyXIG4HrcN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle Dunnigan</name>
+        <role>Kyle</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/qQfJ6CinT92MSxd3Qcs4ciQjSBZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amar&apos;e Stoudemire</name>
+        <role>Amar&apos;e Stoudemire</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Broderick</name>
+        <role>Matthew Broderick</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/8jO89WNvQRTFUrgXuIGOiTRwbYg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marv Albert</name>
+        <role>Marv Albert</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leslie Jones</name>
+        <role>Angry Subway Patron</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/aLHh2AjToY3Z3TaOQ1rshSjTc1q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Method Man</name>
+        <role>Temembe</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/mYJFxOcrda410rS5JHPf0nPuimZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Caramele</name>
+        <role>S&apos;nuff Receptionist</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Josh Segarra</name>
+        <role>Staten Island Oli</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/f22Vy3G0LbomOmmUwTlpRbHEvcw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nikki Glaser</name>
+        <role>Lisa</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/pcQc7UjE16og24FBjZl2ZXuYW7N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bridget Everett</name>
+        <role>Kat</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/2wXPFTxyf2vVwqHMvjiSLfQ727n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Evert</name>
+        <role>Chris Evert</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/A48QDxeagITZPRp8vwWKemWXrl1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa K. Price</name>
+        <role>Woman on Bench with One-Hitter</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tommy Bayiokos</name>
+        <role>Gordon&apos;s Friend (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Cherniak</name>
+        <role>Benefit Guest (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Claudia O&apos;Doherty</name>
+        <role>Wendy</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/qKAPYeGgBKWaKbZ3TyHNe2zF7xS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Henry Gagliardi</name>
+        <role>Amy&apos;s son (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/7XlQps5BasHHxArnIraZe1qWG6P.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-25 07:19:52</dateadded>
+</movie>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Venganza De Jane</title>
+    <originaltitle>Jane Got a Gun</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>20615</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>545</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El esposo de Jane regresa a casa herido por ocho balas. Ella sabe que la banda que lo atacó volverá para rematarlo. Así que, con la ayuda de un hombre que está enamorado de ella y odia a su esposo, irá a enfrentarse al grupo que los amenaza antes de que ellos golpeen de nuevo.</plot>
+    <tagline></tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vGMui8uWun8MGIg3YkJJybXRTgF.jpg">https://image.tmdb.org/t/p/original/vGMui8uWun8MGIg3YkJJybXRTgF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pYzQvLsgOnxLU2ytkg2K3Hdoqcl.jpg">https://image.tmdb.org/t/p/original/pYzQvLsgOnxLU2ytkg2K3Hdoqcl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b28yQQQi92nO0CXn9t0NewN2j7D.jpg">https://image.tmdb.org/t/p/original/b28yQQQi92nO0CXn9t0NewN2j7D.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lef7Fnj3gOoFKNYpuZ8qq1FBj55.jpg">https://image.tmdb.org/t/p/original/lef7Fnj3gOoFKNYpuZ8qq1FBj55.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kOcgEmruI4lptrEWaMiqaTGsvkI.jpg">https://image.tmdb.org/t/p/original/kOcgEmruI4lptrEWaMiqaTGsvkI.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2140037</id>
+    <uniqueid type="imdb" default="true">tt2140037</uniqueid>
+    <uniqueid type="tmdb">174751</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <genre>Western</genre>
+    <country>United States of America</country>
+    <credits>Joel Edgerton</credits>
+    <credits>Anthony Tambakis</credits>
+    <credits>Brian Duffield</credits>
+    <director>Gavin O&apos;Connor</director>
+    <premiered>2015-12-31</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>1821 Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6VuSUqtbXa4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5879</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Natalie Portman</name>
+        <role>Jane Hammond</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/edPU5HxncLWa1YkgRPNkSd68ONG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel Edgerton</name>
+        <role>Dan Frost</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/uFLxGHmPaNoTD6EMpMmu5bfP9Fr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ewan McGregor</name>
+        <role>John Bishop</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noah Emmerich</name>
+        <role>Bill Hammond</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/uhMuM8QhLqWoQVZBgUBM9QSitcK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boyd Holbrook</name>
+        <role>Vic Owen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/531YOKa2usleWCA55t6Db4MZhT3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Santoro</name>
+        <role>Fitchum</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Manette</name>
+        <role>Buck</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/yCmEpxETCc7orZrv1DHods55jA2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Stashwick</name>
+        <role>O&apos;Dowd</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ouhHa3CikuhcvgLvKYknUvRWG47.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Burnett</name>
+        <role>Cunny Charlie</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Quinn</name>
+        <role>Slow Jeremiah</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/aF51TwJxnGSbEb8TD9lzduticro.jpg</thumb>
+    </actor>
+    <actor>
+        <name>River Shields</name>
+        <role>Kid</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chad Brummett</name>
+        <role>Theodore Ballard</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Boots Southerland</name>
+        <role>Marshall</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/sUIXYHl18ClE8t5o8227VKJ5Cdk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nash Edgerton</name>
+        <role>Fur Trader</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/y5MyHOKpqtSa2YLXjkWE1W4LOb4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robb Janov</name>
+        <role>Fiddler</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maisie McMaster</name>
+        <role>Kate</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jenny Gabrielle</name>
+        <role>Whore</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/9pYUoRiCiJbT04JDXvLo4XXJ2P6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Piper Sheets</name>
+        <role>Mary</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Celia Kessler</name>
+        <role>Jig Girl</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Linda Martin</name>
+        <role>Madame</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristin Hansen</name>
+        <role>Woman #1</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/kVK61O0lHcXNaXTS03HGqtcRcwh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Poole</name>
+        <role>Woman #2</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Kinsfather</name>
+        <role>Barkeep</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria DeMersseman</name>
+        <role>Older Mary</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 15:38:34</dateadded>
+</movie>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Backcountry</title>
+    <originaltitle>Backcountry</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>18455</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>357</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Alex y Jenn salen de la ciudad para hacer una acampada. Una vez en los bosques, se dan cuenta de que han olvidado sus teléfonos celulares y se han perdido. Pero hay algo más, pronto descubren que están moviéndose por el territorio de un fiero oso asesino.</plot>
+    <tagline>Survive.</tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/z8fZRpozerkVNhzSJGYIhx0xs8y.jpg">https://image.tmdb.org/t/p/original/z8fZRpozerkVNhzSJGYIhx0xs8y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jehd760K5p6vURAqjGPz4vVFdFf.jpg">https://image.tmdb.org/t/p/original/jehd760K5p6vURAqjGPz4vVFdFf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jDlmfmRUQ2OMkTPT1wcLc9toBWU.jpg">https://image.tmdb.org/t/p/original/jDlmfmRUQ2OMkTPT1wcLc9toBWU.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/357ucRmTEOkv1fwPtq1xxMhG3ac.jpg">https://image.tmdb.org/t/p/original/357ucRmTEOkv1fwPtq1xxMhG3ac.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed>2020-11-03</lastplayed>
+    <id>tt2944198</id>
+    <uniqueid type="imdb" default="true">tt2944198</uniqueid>
+    <uniqueid type="tmdb">228973</uniqueid>
+    <genre>Terror</genre>
+    <country>Canada</country>
+    <credits>Adam MacDonald</credits>
+    <director>Adam MacDonald</director>
+    <premiered>2014-03-20</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Téléfilm Canada</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ey9fi6m95vo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5479</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Missy Peregrym</name>
+        <role>Jenn</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/364PJwTQLpWjGfNisQm47Dler08.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Roop</name>
+        <role>Alex</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Balfour</name>
+        <role>Brad</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/cdJF0WLFUwl9unbPjnpFZ7dUNP2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Campbell</name>
+        <role>Ranger</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/gjagM8gc9taZpvRxtalCLi5ncef.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 14:24:31</dateadded>
+</movie>

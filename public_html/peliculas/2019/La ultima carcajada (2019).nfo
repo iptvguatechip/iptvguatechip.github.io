@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La ultima carcajada</title>
+    <originaltitle>The Last Laugh</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>4787</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>113</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El exrepresentante Al Hart se reencuentra con su primer cliente, Buddy Green, un cómico que dejó el ambiente del espectáculo hace cincuenta años, y lo convence de escaparse del hogar de ancianos para hacer una gira de costa a costa.</plot>
+    <tagline>It&apos;s never too late to get your act together</tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oF1W8AaIr2b5cIQs3MMZ2smOHiv.jpg">https://image.tmdb.org/t/p/original/oF1W8AaIr2b5cIQs3MMZ2smOHiv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/CSGJd80ajL7G7BIusniFi8XtFc.jpg">https://image.tmdb.org/t/p/original/CSGJd80ajL7G7BIusniFi8XtFc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/h2Vj4DVfSA78wJZNNbvR6lL5Le.jpg">https://image.tmdb.org/t/p/original/h2Vj4DVfSA78wJZNNbvR6lL5Le.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/59tmluymUP7aemwRDLhrXRG0jzV.jpg">https://image.tmdb.org/t/p/original/59tmluymUP7aemwRDLhrXRG0jzV.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fVHW9QPTK5Lt7s6S6Jl5EDh63kF.jpg">https://image.tmdb.org/t/p/original/fVHW9QPTK5Lt7s6S6Jl5EDh63kF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/n0fW8Dz1lIjFMuHW3G532C8UQXJ.jpg">https://image.tmdb.org/t/p/original/n0fW8Dz1lIjFMuHW3G532C8UQXJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iCZTy0fe8UGa7towCftYsnJ8elO.jpg">https://image.tmdb.org/t/p/original/iCZTy0fe8UGa7towCftYsnJ8elO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kPL8IgPzwwNlZVVKZxMpFnzEGd2.jpg">https://image.tmdb.org/t/p/original/kPL8IgPzwwNlZVVKZxMpFnzEGd2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ndkS62W4S8zfRkr9MEu38BHNh7b.jpg">https://image.tmdb.org/t/p/original/ndkS62W4S8zfRkr9MEu38BHNh7b.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hwWbWIzh76vBmYVJAe3vdt1srrY.jpg">https://image.tmdb.org/t/p/original/hwWbWIzh76vBmYVJAe3vdt1srrY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aMoV65WgiZKnKqAs7YZagRQNZT.jpg">https://image.tmdb.org/t/p/original/aMoV65WgiZKnKqAs7YZagRQNZT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gOGOR949aohpVXx45gciZNku2pP.jpg">https://image.tmdb.org/t/p/original/gOGOR949aohpVXx45gciZNku2pP.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7427356</id>
+    <uniqueid type="imdb" default="true">tt7427356</uniqueid>
+    <uniqueid type="tmdb">571451</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Greg Pritikin</credits>
+    <director>Greg Pritikin</director>
+    <premiered>2019-01-11</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paris Film</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=he3DPldzW8I</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>5918</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Chevy Chase</name>
+        <role>Al Hart</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/v6TZAeufKcQhoNXe8JEXBOlyDO5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Dreyfuss</name>
+        <role>Buddy Green</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xUefyViZWFxuuLzNV6YSLiOWGVl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andie MacDowell</name>
+        <role>Doris Lovejoy</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xq68QEPBJVu6kwDa4sEQ1HvSlMK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate Micucci</name>
+        <role>Jeannie</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/10FRMebTRHAgkxqhJ3Egq1liICF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Parnell</name>
+        <role>Charlie Green</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/aGzA5l9S89qLkhpSdjmkerFdZt0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Wallace</name>
+        <role>Johnny Sunshine</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ggukkf32UYeAZchFCAY7X6Z9szI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lewis Black</name>
+        <role>Max Becker</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/w29RsqphdfcG76jw0dHuGNtZOIA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Kind</name>
+        <role>Jimbo</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carol Sutton</name>
+        <role>Gayle Johnson</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/5kQkv64ubSeFbs2i831mvnh3o2Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Brassette</name>
+        <role>Stand-up Comic / Show Host</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/8h47ch1IduqWEJjNrkOuEnf4CFj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ritchie Montgomery</name>
+        <role>Texas MC</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/7uFcdrc6pzhxjdy4fFL8xIEopqZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isla Cervelli</name>
+        <role>Courtesan</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kit Willesee</name>
+        <role>Actress in Cafe</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/Nx22AaJlC7Ne0I0T77nfYYiDXc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Batchko</name>
+        <role>Little Leo</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Belinda D&apos;Pree</name>
+        <role>Mary Anne</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/mFvgXrkiQNzQZfstP5VFYv9M3Wp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Fleming</name>
+        <role>Himself</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-05 19:17:30</dateadded>
+</movie>

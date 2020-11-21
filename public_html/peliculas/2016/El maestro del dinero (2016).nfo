@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El maestro del dinero</title>
+    <originaltitle>Money Monster</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>93093</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>2278</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Lee Gates, un famoso presentador de televisión, es también uno de los principales gurús de Wall Street. Pero cuando el joven Kyle Budwell, siguiendo sus consejos, pierde todo el dinero de su familia, decide secuestrar a Gates durante la emisión en directo de su programa.</plot>
+    <tagline>No todas las conspiraciones son sólo teorías.</tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aWsk4VfJ6NzRby6tleu8sQRZtR5.jpg">https://image.tmdb.org/t/p/original/aWsk4VfJ6NzRby6tleu8sQRZtR5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3VMPG4xAPRDPjypH0d9WqdLGmgS.jpg">https://image.tmdb.org/t/p/original/3VMPG4xAPRDPjypH0d9WqdLGmgS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/U8NuAM0GjjsXVFYLOFSJ1Q4pk6.jpg">https://image.tmdb.org/t/p/original/U8NuAM0GjjsXVFYLOFSJ1Q4pk6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yDoaY0glR9QQwGFYZ6qugyStIOl.jpg">https://image.tmdb.org/t/p/original/yDoaY0glR9QQwGFYZ6qugyStIOl.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eofBNITodux8zZYAEfMb0m2oFQO.jpg">https://image.tmdb.org/t/p/original/eofBNITodux8zZYAEfMb0m2oFQO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mlmObwotseiDpnNspGbXkpVH5YB.jpg">https://image.tmdb.org/t/p/original/mlmObwotseiDpnNspGbXkpVH5YB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7NYiYnzxyxeFgokEB5IZ6KY2EwB.jpg">https://image.tmdb.org/t/p/original/7NYiYnzxyxeFgokEB5IZ6KY2EwB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yOxIrbcQpX1R1zT0qULVqE1RvT8.jpg">https://image.tmdb.org/t/p/original/yOxIrbcQpX1R1zT0qULVqE1RvT8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8NLZtd2n6Ax0mTnk62OHlMcooir.jpg">https://image.tmdb.org/t/p/original/8NLZtd2n6Ax0mTnk62OHlMcooir.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2241351</id>
+    <uniqueid type="imdb" default="true">tt2241351</uniqueid>
+    <uniqueid type="tmdb">303858</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Jim Kouf</credits>
+    <credits>Jamie Linden</credits>
+    <credits>Alan Di Fiore</credits>
+    <director>Jodie Foster</director>
+    <premiered>2016-05-12</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Allegiance Theater</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lEOVdbUYaN0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5920</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>George Clooney</name>
+        <role>Lee Gates</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kHiVY6r1k6juXrNetAYk2jILqn9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Roberts</name>
+        <role>Patty Fenn</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/pahtuRDpaopvO6rH1RYS2omrO8L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack O&apos;Connell</name>
+        <role>Kyle Budwell</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Caitriona Balfe</name>
+        <role>Diane Lester</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jYL0apdQhz5CH7EU5vSyqt5tA7m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominic West</name>
+        <role>Walt Camby</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/xOr7REvhVy9Ax83dlk2qRiwLC1G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lenny Venito</name>
+        <role>Lenny</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Ok9n02a13poLdb5cZaIJKTBHrC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Giancarlo Esposito</name>
+        <role>Captain Marcus Powell</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gvPVjZRelOcbRryhsHQD7Vew35x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Denham</name>
+        <role>Ron Sprecher</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ffPY0KrV5KP9Nuv27m3JQU6j3Tq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Condola Rashad</name>
+        <role>Bree</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/tRG8AEfQczExg4cjLMfMdWKxUaq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Meade</name>
+        <role>Molly</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/dFYKyYUxjpfWHT4830CE3uTtLJY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Bauer</name>
+        <role>Lt. Nelson</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dennis Boutsikaris</name>
+        <role>James Goodloe</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/eholEaSnVKzse1l7ph6hDsfTTi7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Olivia Luccardi</name>
+        <role>Arlene</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/fB1hlwIp9Ye4HvHJzn6GMlZqgl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Yoo</name>
+        <role>Won Joon</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/fL5SEE5RSac93swa5fXjhA2Hhw5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Rosenmeyer</name>
+        <role>Dave</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greta Lee</name>
+        <role>Amy</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/1abycN4fpnxrLLQH3r7bzov8ibP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cenk Uygur</name>
+        <role>Himself</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carsey Walker Jr.</name>
+        <role>Tech Sam</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Warden</name>
+        <role>Technical Director Jim</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph D. Reitman</name>
+        <role>Matty (Floor Manager)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/auB6r56TwV21AzZViEGniA9vAxD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grizz Chapman</name>
+        <role>Network Security Guard</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert C. Kirk</name>
+        <role>Security Officer Nolan</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Genevieve Adams</name>
+        <role>Production Assistant</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/uYCuvbW5ogIr4gpo2oYoXLdd1A5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daoud Heidami</name>
+        <role>Freddy (Previous Host)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anthony DeSando</name>
+        <role>Officer Benson</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/qSz3e6rHhpocUegPzCU7rRXXEB9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ivan Martin</name>
+        <role>Lt. Vasquez</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Ventimiglia</name>
+        <role>A Team Leader</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/1KSrI47Q3mdb3XXoEpiNaZoWsGp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominic Colón</name>
+        <role>NYPD Detective</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/oPVHR7goTVKdBQFZ9PnBRrSLl1n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chad Jennings</name>
+        <role>ESU Officer</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cliff Moylan</name>
+        <role>Sgt O&apos;Donnell</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/sEVWQ1RMsrs2t58z9GgcZbLkR3V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Edwards</name>
+        <role>Police Officer</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Gary Jr.</name>
+        <role>NYPD Officer #1</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/lqlnv6ota6qqe5ieWyiPQzzq0b7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frantzy Orisma</name>
+        <role>NYPD Officer #2</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charlie Thurston</name>
+        <role>Ryan (Diane&apos;s Assistant)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/4kHYrQEheWjkfkOjkGdNzbgsdkd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia Dunnock</name>
+        <role>Marta (Secretary)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sahr Ngaujah</name>
+        <role>Yao Appiah COO</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/f1MVc2WtVVghdXUVPboprNqRCBz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vernon Campbell</name>
+        <role>Andre (IBIS Security Guard)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/bVVRKIc6OotYYyffAN4ZgFJynvg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel K. Isaac</name>
+        <role>Male Raver</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darri Ingolfsson</name>
+        <role>Joji</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Makhaola Ndebele</name>
+        <role>Moshe Mambo</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/AgY0pMM1A6WAeTkGxx55iRapUnM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamar Greene</name>
+        <role>Blue Collar Customer</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/r1dhuNDEP9Ic1mHGBfRelgk54oc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Falcone</name>
+        <role>Blue Collar Mechanic</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bobby Kruger</name>
+        <role>Stockbroker</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Healy</name>
+        <role>News Anchor</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/xHtMb6s3qcSo3kJXJMPRbY28I5f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Walton</name>
+        <role>An Anchorman</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/i8LoMqNsEZ6KRfY8Mm185flgyDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pun Bandhu</name>
+        <role>Yet Another Anchorman</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/dnQYI9CzR9mewGUOleQzTfTKQHg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Choi</name>
+        <role>Korean News Anchor</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/ftutoBlPWjWVjdT86wBZxLB13kU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Boraine</name>
+        <role>British Reporter</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/lcuyeUFhnYVp2YdUscYNFOQxkJ3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Witzke</name>
+        <role>TV Reporter</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan Burton</name>
+        <role>Teenage Boy #2</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/hITWWqTdg24rc1Ey2uleu8hxQxI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Pando</name>
+        <role>Guy on Street</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shauna Mitchell</name>
+        <role>Dancer #2</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pat Kiernan</name>
+        <role>Himself (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/c8QASMhNim0bXySxaxRrkkzvKQ7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley North</name>
+        <role>New York Pedestrian (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/zzCi9CmJKbAg9dcA4A6ZqWVfhUU.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 15:56:06</dateadded>
+</movie>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Magic Mike XXL</title>
+    <originaltitle>Magic Mike XXL</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>51527</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>1349</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de quemar la noche con sus incombustibles amigos strippers, la estrella Magic Mike tendrá que valorar si puede vivir para siempre siguiendo este estilo de vida. Elegir entre el dinero fácil y cambiar completamente de oficio (con algo más de ropa) vuelve a ser de nuevo un dilema en su vida. Hasta que lo tenga del todo claro, su show sigue enloqueciendo a las mujeres de todas las edades, que hacen cola por entrar en su club nocturno y deleitarse con sus performances sensuales que dejarán a más de una con la boca abierta y los bolsillos vacios. Mientras su vida personal parece complicarse por momentos Mike deberá hacer lo que mejor sabe si quiere salir de todos sus líos: bailar y crear un espectáculo desinivido y diferente.</plot>
+    <tagline>De regreso al trabajo</tagline>
+    <runtime>115</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rHoc6Br9DUKxF7Gs7e9pTxmbTib.jpg">https://image.tmdb.org/t/p/original/rHoc6Br9DUKxF7Gs7e9pTxmbTib.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zBx8yCBeOXJpeuQuOJulMIy97fD.jpg">https://image.tmdb.org/t/p/original/zBx8yCBeOXJpeuQuOJulMIy97fD.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rEO1ue07tKQ1psGSlQj4lMHDa1x.jpg">https://image.tmdb.org/t/p/original/rEO1ue07tKQ1psGSlQj4lMHDa1x.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/pMsWqd89zwqjte70rPIXj52jc0X.jpg">https://image.tmdb.org/t/p/original/pMsWqd89zwqjte70rPIXj52jc0X.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sp4qcpHQhoZ6VmidFmgpQ066jWb.jpg">https://image.tmdb.org/t/p/original/sp4qcpHQhoZ6VmidFmgpQ066jWb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w89gZUFUFoeqrwa8bUSq6BhjB8c.jpg">https://image.tmdb.org/t/p/original/w89gZUFUFoeqrwa8bUSq6BhjB8c.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uYJEfS90ZVh7yRIViXgucOYlMMr.jpg">https://image.tmdb.org/t/p/original/uYJEfS90ZVh7yRIViXgucOYlMMr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/drl4EfQpkAjWWAtHosZxlvQdUDc.jpg">https://image.tmdb.org/t/p/original/drl4EfQpkAjWWAtHosZxlvQdUDc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ka33qyliLTo1l1TQTY1zJh04lNH.jpg">https://image.tmdb.org/t/p/original/ka33qyliLTo1l1TQTY1zJh04lNH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/obxBiBIDdoPyJ7svJPmVuUSlUIj.jpg">https://image.tmdb.org/t/p/original/obxBiBIDdoPyJ7svJPmVuUSlUIj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9p4bR5STedh2pvaXC6ZCeJq3Ara.jpg">https://image.tmdb.org/t/p/original/9p4bR5STedh2pvaXC6ZCeJq3Ara.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ba0KBIwdj1uV4uHoY27v2h1QQMi.jpg">https://image.tmdb.org/t/p/original/ba0KBIwdj1uV4uHoY27v2h1QQMi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/waS4oy2vC1Vn6t2JOPi58ce1c0A.jpg">https://image.tmdb.org/t/p/original/waS4oy2vC1Vn6t2JOPi58ce1c0A.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/56hMvIdsqxSPdn5tAutHeANILd9.jpg">https://image.tmdb.org/t/p/original/56hMvIdsqxSPdn5tAutHeANILd9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fNxfoQkc0Ocjw0QwFA6oLjkTFlY.jpg">https://image.tmdb.org/t/p/original/fNxfoQkc0Ocjw0QwFA6oLjkTFlY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4CLjQROBGWpeiLK8DgMSxHHW9Wa.jpg">https://image.tmdb.org/t/p/original/4CLjQROBGWpeiLK8DgMSxHHW9Wa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xH2deUnlvTA60DlNku8G83tWoBD.jpg">https://image.tmdb.org/t/p/original/xH2deUnlvTA60DlNku8G83tWoBD.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lCRY8M5ae1mwvfKgmysbBqLLUaa.jpg">https://image.tmdb.org/t/p/original/lCRY8M5ae1mwvfKgmysbBqLLUaa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7YCA8HcHdi17hGTBiJ3AuBKOUyv.jpg">https://image.tmdb.org/t/p/original/7YCA8HcHdi17hGTBiJ3AuBKOUyv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iXvSpzgFxk9KzgoDgj8GFsa7vgu.jpg">https://image.tmdb.org/t/p/original/iXvSpzgFxk9KzgoDgj8GFsa7vgu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aZIFrnwKB3q0OQcfdtt7aSRf5qA.jpg">https://image.tmdb.org/t/p/original/aZIFrnwKB3q0OQcfdtt7aSRf5qA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aq2AmTXaaHmgOLIJaHUChoiJmkb.jpg">https://image.tmdb.org/t/p/original/aq2AmTXaaHmgOLIJaHUChoiJmkb.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2268016</id>
+    <uniqueid type="imdb" default="true">tt2268016</uniqueid>
+    <uniqueid type="tmdb">264999</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Magic Mike - Colección</name>
+    </set>
+    <credits>Reid Carolin</credits>
+    <director>Gregory Jacobs</director>
+    <premiered>2015-07-01</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Iron Horse Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oLoyU3xYwbs</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>959.000000</aspect>
+                <width>1918</width>
+                <height>804</height>
+                <durationinseconds>6917</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Channing Tatum</name>
+        <role>Mike</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/bhTmp6FA8fOQnGlNk75tdmj2bpu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Bomer</name>
+        <role>Ken</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/jvYzsP08M9H76eHu0k1ALdmNnoM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Manganiello</name>
+        <role>Big Dick Richie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mTdACmitdrwor0Nrv5sr0u123vZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Nash</name>
+        <role>Tarzan</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kZNOrT6xc9fNYriRTwRprgfjatV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Rodríguez</name>
+        <role>Tito</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/bItjbs27qfBslaZ5mUkIKKQvacj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jada Pinkett Smith</name>
+        <role>Rome</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Iglesias</name>
+        <role>Tobias</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/n4RRL96ftX4dYWSZyEiakbpHnz1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Heard</name>
+        <role>Zoe</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/1cb5mGzGB6Sj2JPkWt9W16B19Bf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donald Glover</name>
+        <role>Andre</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/nilV7NtnML6PDa9VrvxD79F85K9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Boss</name>
+        <role>Malik</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/2DjfxXDVK9ccXfZbvH0QNhXTQka.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Strahan</name>
+        <role>Augustus</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/pgw8CZ3QCYaEizUykKksKzgBxBl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andie MacDowell</name>
+        <role>Nancy Davidson</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/xq68QEPBJVu6kwDa4sEQ1HvSlMK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Banks</name>
+        <role>Paris</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/xy1OKADZmcfc4P2j0EytHQuyRut.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Piedrahita</name>
+        <role>Salvador</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/1YaSn3rtzkI4Anwa4owDwJaiALR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sharon Blackwood</name>
+        <role>Motel Clerk</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/xX6vMya7A4HNHxrmYZKMOHzCTHp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alison Faulk</name>
+        <role>White Shadow</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/yePoQDGZFQ0GMCgOd9qbqioJRAT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Diogo</name>
+        <role>Pool Party Guy</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/xarE1HBD2dsK3hwUSGW4W2Vom1m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vicky Vox</name>
+        <role>Tori Snatch</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/iZVVPks6TOk8UJsCox2SFhtI1FR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Javier Madrid</name>
+        <role>Voguer #1</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dashaun Wesley Williams</name>
+        <role>Voguer #2</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carrie Anne Hunt</name>
+        <role>Megan Davidson</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/f3FMuGznKsiO5dTnW3pMWpmrJR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Crystal Hunt</name>
+        <role>Lauren</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/cRcuJtD5YFnJXrpx9kguqNJiall.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raeden Greer</name>
+        <role>Charlotte</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/kqUWRAsN5lzfVMlTE9SbFB2Bw20.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lindsey Moser</name>
+        <role>Mini Mart Cashier</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/kWT960tyRcX3bDzHoGQVAVPvRrO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Savannah Southern-Smith</name>
+        <role>Nurse</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mel Chude</name>
+        <role>Doorman</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luke Broadlick</name>
+        <role>Male Stripper</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Belle Eseoghene Omabele</name>
+        <role>Augustus&apos; Girl</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julia Black</name>
+        <role>Malik&apos;s Girl #1</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/fHegfbBAk7NVR2ablFni3wZJQpB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimberley Drummond</name>
+        <role>Caroline</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/4yP8MOtfT1Uu17ZsDVb6lGALrnC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judi Blair</name>
+        <role>Mike&apos;s Girl #1</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/63X5c6Ptl7hU2ZsHpgusAdM9gYi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valerie Payton</name>
+        <role>Mike&apos;s Girl #2</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/64yPkNh3ygHaPfq9cHi3FyUbRci.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tequilla Whitfield</name>
+        <role>Mike&apos;s Girl #3</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/iCHjTh8GAtwSwtctCbsl70DKfJB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sydney Sims</name>
+        <role>Mike&apos;s Girl #4</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jane McNeill</name>
+        <role>Mae</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/A5fLMhpA4ytrDZk4zeRmN9NVrUX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhoda Griffis</name>
+        <role>Julia</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/jO50PgihnZ0gAlJDulpzxMoLgRB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ann Hamilton</name>
+        <role>Diane</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mary Kraft</name>
+        <role>Jessica</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/tBjDa5g4E0PllqIg3KHUGDKJGU7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Sauve</name>
+        <role>Concierge</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyler Shackelford</name>
+        <role>Paris&apos; Assistant</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George Bruer</name>
+        <role>Fake Neo</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chad Darnell</name>
+        <role>Twilight Guy #1</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adam Martingano</name>
+        <role>Twilight Guy #2</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Viktor Derkach</name>
+        <role>Twilight Guy #3</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Billy Reilich</name>
+        <role>Fireman</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deidre Goodwin</name>
+        <role>Tarzan&apos;s Girl</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/2p8BnAtOBg9mZ3bDHjCM2kJbzdQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalie Shaheen</name>
+        <role>Tito&apos;s Girl #1</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/dzWF8vSO5a43IOYxmRBmrehVDF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Beth Bassak</name>
+        <role>Tito&apos;s Girl #2</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eboni A. Johnson</name>
+        <role>Tito&apos;s Girl #3</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathy Deitch</name>
+        <role>Ken&apos;s Girl #1</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Haviland Stillwell</name>
+        <role>Ken&apos;s Girl #2</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sonya Golub</name>
+        <role>Big Dick Richie&apos;s Girl</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teresa Espinosa</name>
+        <role>Malik&apos;s Girl #2</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/wEl7sqeFwDzfK24C74bFrSAT7Gp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Cyrus</name>
+        <role>Male Stripper (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 08:33:42</dateadded>
+</movie>

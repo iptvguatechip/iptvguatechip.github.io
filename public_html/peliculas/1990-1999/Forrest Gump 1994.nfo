@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Forrest Gump</title>
+    <originaltitle>Forrest Gump</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.800000</value>
+            <votes>1773162</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.500000</value>
+            <votes>19143</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Basada en la novela homónima del escritor Winston Groom, la película fue dirigida por Robert Zemeckis y protagonizada por Tom Hanks. La historia describe varias décadas de la vida de Forrest Gump, un nativo de Alabama que sufre de una leve discapacidad intelectual.</plot>
+    <tagline>La vida es como una caja de bombones... nunca sabes lo que te va a tocar.</tagline>
+    <runtime>142</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/azV6hV99lYkdhydsQbJCI6FqMl4.jpg">https://image.tmdb.org/t/p/original/azV6hV99lYkdhydsQbJCI6FqMl4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg">https://image.tmdb.org/t/p/original/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/clolk7rB5lAjs41SD0Vt6IXYLMm.jpg">https://image.tmdb.org/t/p/original/clolk7rB5lAjs41SD0Vt6IXYLMm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg">https://image.tmdb.org/t/p/original/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg">https://image.tmdb.org/t/p/original/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg">https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fI0CRxxyui5iZMcSCr0rwhAnMfP.jpg">https://image.tmdb.org/t/p/original/fI0CRxxyui5iZMcSCr0rwhAnMfP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8aBHdTp6MZ7RRE45maIYrEPo6IJ.jpg">https://image.tmdb.org/t/p/original/8aBHdTp6MZ7RRE45maIYrEPo6IJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hc9frrnkiB002KnWQvQvgWbfjtN.jpg">https://image.tmdb.org/t/p/original/hc9frrnkiB002KnWQvQvgWbfjtN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kbHlxmkVKDQrBXrKkh0nuIr4rSZ.jpg">https://image.tmdb.org/t/p/original/kbHlxmkVKDQrBXrKkh0nuIr4rSZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8LSNV3ysSt80exz75RSDqsfsWgr.jpg">https://image.tmdb.org/t/p/original/8LSNV3ysSt80exz75RSDqsfsWgr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c2ACKhlJHB3LG2DvdAQ3WmriBcs.jpg">https://image.tmdb.org/t/p/original/c2ACKhlJHB3LG2DvdAQ3WmriBcs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5qadBczQnx4pu1yicZCAbYv1VLI.jpg">https://image.tmdb.org/t/p/original/5qadBczQnx4pu1yicZCAbYv1VLI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m6qwaPt6GLdtqo296Xm0h0AnCxW.jpg">https://image.tmdb.org/t/p/original/m6qwaPt6GLdtqo296Xm0h0AnCxW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fQNzlyy0bFlhoU35v6qtR0w9ADG.jpg">https://image.tmdb.org/t/p/original/fQNzlyy0bFlhoU35v6qtR0w9ADG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mID26qIaIkXIsqyw9slHNQoTWAT.jpg">https://image.tmdb.org/t/p/original/mID26qIaIkXIsqyw9slHNQoTWAT.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7c9UVPPiTPltouxRVY6N9uugaVA.jpg">https://image.tmdb.org/t/p/original/7c9UVPPiTPltouxRVY6N9uugaVA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tlEFuIlaxRPXIYVHXbOSAMCfWqk.jpg">https://image.tmdb.org/t/p/original/tlEFuIlaxRPXIYVHXbOSAMCfWqk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2EIT4zgtWQtFQ6rmeL1l4bejEWG.jpg">https://image.tmdb.org/t/p/original/2EIT4zgtWQtFQ6rmeL1l4bejEWG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/f7Jku0C9R4xnZ9uCdTGevI8H7ld.jpg">https://image.tmdb.org/t/p/original/f7Jku0C9R4xnZ9uCdTGevI8H7ld.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4f5AsEwMiKobYBalZWKbkrIcoQV.jpg">https://image.tmdb.org/t/p/original/4f5AsEwMiKobYBalZWKbkrIcoQV.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0109830</id>
+    <uniqueid type="imdb" default="true">tt0109830</uniqueid>
+    <uniqueid type="tmdb">13</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Eric Roth</credits>
+    <director>Robert Zemeckis</director>
+    <premiered>1994-07-06</premiered>
+    <year>1994</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paramount</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aSEPD9w_dLM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>hevc</codec>
+                <aspect>40.000000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>8529</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tom Hanks</name>
+        <role>Forrest Gump</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robin Wright</name>
+        <role>Jenny Curran</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/roJedXmjqEcSOC1HaQ4e9gEWdR3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Sinise</name>
+        <role>Dan Taylor</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ngYV91xYfCu0JNcSxJ4yQ7tzOna.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mykelti Williamson</name>
+        <role>Bubba</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/b68ZTxJL8EuvGMCcgSH3Mbn2GxP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sally Field</name>
+        <role>Mrs. Gump</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/36qWnokCU1VOdSyrmGbTxzGou44.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Conner Humphreys</name>
+        <role>Young Forrest Gump</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hanna Hall</name>
+        <role>Young Jenny Curran</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/tp01iBjHwvkv5e5Zfal9foXcfno.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haley Joel Osment</name>
+        <role>Forrest Gump Jr.</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/jft0dGgR5bJ6mR7QRYriMVBC6QH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Siobhan Fallon Hogan</name>
+        <role>School Bus Driver</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/5OExagnRsUcOYLMPTSrv4x2G95R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Afemo Omilami</name>
+        <role>Drill Sergeant</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/usW1GHq20ZEX3rpei1HpeXfSpiP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Dobson</name>
+        <role>Young Elvis Presley</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/hvBUOf3hLnjUGbZuSwZWG5m76ur.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sonny Shroyer</name>
+        <role>College Football Coach</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/4t9cuvb2ERjBSEwQZi2gdHMoS3g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Kelly</name>
+        <role>Barber</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Anderson</name>
+        <role>Principal</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/AnSyGuhjALUwUzMfQFhYMSJp4ra.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margo Moorer</name>
+        <role>Louise</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9BqVk8t7Mw9RiY4FILgNfnwm2eD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Jones</name>
+        <role>Boy with cross</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/2EuDwtnOIJgLlBZWwpWYia0rxz3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Mangan</name>
+        <role>Jenny&apos;s Father</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brett Rice</name>
+        <role>High School Football Coach</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/4OTUfCVDOsCFQoQwiNE8deDFxKW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel C. Striepeke</name>
+        <role>Recruiter</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Brisbin</name>
+        <role>Newscaster</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kirk Ward</name>
+        <role>Earl</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marlena Smalls</name>
+        <role>Bubba&apos;s Mother</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/hAd99U0YoeXdpiN2zCosZT8XBtf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kitty K. Green</name>
+        <role>Bubba&apos;s Great Grandmother</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Matheisen</name>
+        <role>Jenny&apos;s Date</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Al Harrington</name>
+        <role>Local Anchor #1</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/FepXr5LVYheBPiKUtka0ScSRIy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Washington</name>
+        <role>Local Anchor #2</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jed Gillin</name>
+        <role>John F. Kennedy (voice)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Fischer</name>
+        <role>Army Recruiter</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/eI9AMMri9T0jDeT2BOpceCdmS3u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Wallace</name>
+        <role>Barracks Recruit</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Jolly</name>
+        <role>Club Patron</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/vkam2sRjy7yfQj847rn8Nk8tOMb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Kemmerling</name>
+        <role>Club Patron</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Voldstad</name>
+        <role>Club Patron</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/35w34difjEgy3ZBdzUD1lDYUEuj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel J. Gillooly</name>
+        <role>Helicopter Gunman</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Burgess</name>
+        <role>Cleveland</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/m6C4IgWPAd8kK1khGiKL2Njs0c4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Griffith</name>
+        <role>Tex</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/u2bzayCrQ8ssJY7MqZZpPAOyNjh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael McFall</name>
+        <role>Army Hospital Male Nurse</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/sAGke3vMNW1nIxEzNIlelTcrr6J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Byron Minns</name>
+        <role>Wounded soldier</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/9El2mo2CDgtAjF64TmEWTqY2pNS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve DeRelian</name>
+        <role>Wounded Soldier</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/9oJhzdLEgOz6phE8AQN7s9miy2M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bonnie Ann Burgess</name>
+        <role>Army Nurse</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/yZ3WPRgZoFpCDFdmVgpOhUepIyi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Bridgewater</name>
+        <role>Hospital Officer</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John William Galt</name>
+        <role>President Johnson (voice)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Isabel Rose</name>
+        <role>Isabel</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/gj2r32FdQlpUXhZmpXB1XUIEHUZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard D&apos;Alessandro</name>
+        <role>Abbie Hoffman</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/xwBPaOF3RAvvEhnKo2xnS8hgw1K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Davis</name>
+        <role>Black Panther</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/xF9jOiDo3evmbV8PLMie44nuVnA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Jace</name>
+        <role>Black Panther</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/dTHdnj0qfBx6sXr9cT4Xxu0AcIG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geoffrey Blake</name>
+        <role>Wesley</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/uKdiO6QagiT0mZ7tf9Xrl8OZUKy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Roth</name>
+        <role>Hollywood Boulevard Girlfriend</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emily Carey</name>
+        <role>Hollywood Boulevard Girlfriend</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/oU5Np6awKABR9P18OC9EwyFKHrQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dick Cavett</name>
+        <role>Dick Cavett</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/7g5J47vQY2k4GzGhlJr6KdYm04P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Salerno</name>
+        <role>Carla</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marla Sucharetza</name>
+        <role>Lenore</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/aGhbVmBBR24Qbx3jq9f3NLMgeIy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Alaskey</name>
+        <role>President Nixon (voice)</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lazarus Jackson</name>
+        <role>Discharge Officer</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/mKhmw4ntka53pJDUrupNg05iSF1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Rebenkoff</name>
+        <role>Drugged Out Boyfriend</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nora Dunfee</name>
+        <role>Elderly Southern Woman</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/x6Mv6OcxemBbEUg9SGcQTAZZ5WP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hallie D&apos;Amore</name>
+        <role>Waitress in cafe</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Mattison</name>
+        <role>Taxi Driver</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Boswell</name>
+        <role>Aging Hippie</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/8k5ybaKZjuSy89RSpI0Mi3oIf8H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothy McNeil</name>
+        <role>Wild Eyed Man</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Penny</name>
+        <role>Crony</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/28JAyf5kFHLSxI8Ny6HXMyU84nO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Brown</name>
+        <role>Football Player (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Troy Christian</name>
+        <role>Cheerleader (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bryan Hanna</name>
+        <role>Football Coach (uncredited)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zach Hanner</name>
+        <role>Barracks Recruit (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Michael Lacey</name>
+        <role>National Guardsman (uncredited)</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/nOtWMHMQCwcap3N3WVTnQ52MAFl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacqueline Lovell</name>
+        <role>Football Fan (uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/vIXpalWXdJZBsnS3zkjQZMjnV1L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brendan Shanahan</name>
+        <role>Football Player (uncredited)</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/4r0ql7oTxme7SXBvTnRxg5F28OH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Shipman</name>
+        <role>Black Panther (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robb Skyler</name>
+        <role>Nicholas Katzenbach (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/uP3yrywgEDB2zz0ZSS94vSWszOz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Ellen Trainor</name>
+        <role>Jenny&apos;s Babysitter (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/Y926jxSOXikBiqQIptho1VzU9o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kurt Russell</name>
+        <role>Elvis Presley (voice) (uncredited)</role>
+        <order>70</order>
+        <thumb>https://image.tmdb.org/t/p/original/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeffrey Winner</name>
+        <role>Club Patron (uncredited)</role>
+        <order>71</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Harks</name>
+        <role>University Dean</role>
+        <order>72</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BZmIxZTU3NDUtODllOC00OGE0LWE2OTItOGIzMGZkYjgwMDRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._UY632.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-11-24 10:47:37</dateadded>
+</movie>

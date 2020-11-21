@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Aislados</title>
+    <originaltitle>The Divide</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>35130</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>394</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Thriller post-apocalíptico que empieza con una pandemia y una caótica carrera hacia el sótano de un edificio de apartamentos en Nueva York justo antes de que afuera la ciudad se vea diezmada. Cuando una explosión catastrófica arrasa Nuevo York, ocho personas extrañas entre sí se guarecen en el sótano de un edificio, un refugio nuclear diseñado por el paranoico encargado Mickey. El lugar apenas tiene espacio, con 3 habitaciones conectadas, pero tiene reservas de alimentos y agua, y al menos el grupo está a salvo de los horrores del exterior.</plot>
+    <tagline>The lucky ones died in the blast</tagline>
+    <runtime>122</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sfjN76YhJKVonJIDYz8cYGxFcye.jpg">https://image.tmdb.org/t/p/original/sfjN76YhJKVonJIDYz8cYGxFcye.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bbNUwMg1jalRTQ3xkKzents3LA4.jpg">https://image.tmdb.org/t/p/original/bbNUwMg1jalRTQ3xkKzents3LA4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9SOWI7TIrxPMhpDHaHjdnZg5kDl.jpg">https://image.tmdb.org/t/p/original/9SOWI7TIrxPMhpDHaHjdnZg5kDl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rkqN4BZvHIxDVAtZ6HexgkusxFL.jpg">https://image.tmdb.org/t/p/original/rkqN4BZvHIxDVAtZ6HexgkusxFL.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1535616</id>
+    <uniqueid type="imdb" default="true">tt1535616</uniqueid>
+    <uniqueid type="tmdb">38541</uniqueid>
+    <genre>Terror</genre>
+    <genre>Ciencia ficción</genre>
+    <country>Canada</country>
+    <credits>Karl Mueller</credits>
+    <credits>Eron Sheean</credits>
+    <director>Xavier Gens</director>
+    <premiered>2011-03-13</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Manitoba Film and Video Production Tax Credit</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J-nMCYEtyv4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>7334</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lauren German</name>
+        <role>Eva</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/if1TbO8dSfPiDCMfy52nH7A2D7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Biehn</name>
+        <role>Mickey</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Milo Ventimiglia</name>
+        <role>Josh</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney B. Vance</name>
+        <role>Delvin</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/q4oCmhqEPXKSRK2hTZzTz2Zt4Ba.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashton Holmes</name>
+        <role>Adrien</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lJlIrsFSPilYbd4jIVa2hiCphP7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosanna Arquette</name>
+        <role>Marilyn</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/n6OBhzo8qs9ZZfbLyqvPJYYTHgq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iván González</name>
+        <role>Sam</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bPLFzLd4rUUq0xN5XLouB2s4XlE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Eklund</name>
+        <role>Bobby</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/la3J6E12pbZHe0sE73EipKkzQOp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abbey Thickson</name>
+        <role>Wendi</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/z7zCr6bORPviKz6FCl1wPgYknTa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Blanc</name>
+        <role>Liz</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/fd39657ffVWPm34DUoISPiYmNCD.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 15:01:51</dateadded>
+</movie>

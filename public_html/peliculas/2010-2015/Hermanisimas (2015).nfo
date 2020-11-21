@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hermanisimas</title>
+    <originaltitle>Sisters</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>62329</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>1074</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Dos hermanas desconectadas son convocadas para limpiar sus dormitorios de la niñez antes de que sus padres vendan su hogar de la familia.</plot>
+    <tagline>Big sisters don&apos;t always know best.</tagline>
+    <runtime>122</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/76mj1iXTJ1WSkreOYFiqVZ4QxG1.jpg">https://image.tmdb.org/t/p/original/76mj1iXTJ1WSkreOYFiqVZ4QxG1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/296l8e8oezZmTwaaXPMBeiAljw9.jpg">https://image.tmdb.org/t/p/original/296l8e8oezZmTwaaXPMBeiAljw9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3KHbfJAzuawbySaXQ9a9U4J3tBE.jpg">https://image.tmdb.org/t/p/original/3KHbfJAzuawbySaXQ9a9U4J3tBE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rrVbyKeBU4opSjjX9Vod0tPBszA.jpg">https://image.tmdb.org/t/p/original/rrVbyKeBU4opSjjX9Vod0tPBszA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kEjJhIGhpCLf8MVjde5QBfCJeUw.jpg">https://image.tmdb.org/t/p/original/kEjJhIGhpCLf8MVjde5QBfCJeUw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hpvHqAiusQtGNDx48dA3z5ejjon.jpg">https://image.tmdb.org/t/p/original/hpvHqAiusQtGNDx48dA3z5ejjon.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7Zs7RQV3qra3SYYXqCcmcLSFTLW.jpg">https://image.tmdb.org/t/p/original/7Zs7RQV3qra3SYYXqCcmcLSFTLW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6AdcehxtcNib9qpGOhdRTcla54N.jpg">https://image.tmdb.org/t/p/original/6AdcehxtcNib9qpGOhdRTcla54N.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hkmUwCDkTXimJxEioFgm5Mky4Zg.jpg">https://image.tmdb.org/t/p/original/hkmUwCDkTXimJxEioFgm5Mky4Zg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zwk2Ws5fcRYkK2lZ9k1983OPnGs.jpg">https://image.tmdb.org/t/p/original/zwk2Ws5fcRYkK2lZ9k1983OPnGs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bZwEwyjMugTPrkulaIH9NLqDX2w.jpg">https://image.tmdb.org/t/p/original/bZwEwyjMugTPrkulaIH9NLqDX2w.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1850457</id>
+    <uniqueid type="imdb" default="true">tt1850457</uniqueid>
+    <uniqueid type="tmdb">266294</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Paula Pell</credits>
+    <director>Jason Moore</director>
+    <premiered>2015-12-18</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Little Stranger</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NCOXkR__w9k</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7344</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tina Fey</name>
+        <role>Kate Ellis</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yPTAi1iucXf85UpiFPtyiTSM6do.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Poehler</name>
+        <role>Maura Ellis</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/k62oL10bNtPShjtHuLlKllwxva9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Leguizamo</name>
+        <role>Dave</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2P0LTIKMUZn7BG1q9S9e5FZFZkn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ike Barinholtz</name>
+        <role>James</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/mB6pvurTeQIf55UiOQrkaB1Pynu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maya Rudolph</name>
+        <role>Brinda</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/fjjNTtfN52SHyCw1PYh0bTExZgT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Davenport</name>
+        <role>Hayley</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/r5rHOGWNFH2cADzNu5aYnEt0DG6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greta Lee</name>
+        <role>Hae Won</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/1abycN4fpnxrLLQH3r7bzov8ibP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Brolin</name>
+        <role>Bucky Ellis</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/rNboIDJ2WfqE6vdTLWevG9pMNNn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Cena</name>
+        <role>Pazuzu</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Dratch</name>
+        <role>Kelly</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5I1P5oQ3WyV4eIM8E89zO1xVYuM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heather Matarazzo</name>
+        <role>Denny</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Byrd</name>
+        <role>Patrick Campbell</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/kUna0GNGKOjzIG7QhTYhvmAF57P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kate McKinnon</name>
+        <role>Sam</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/mnSWLkK6KWesWuFIYjRIrUh7qgr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobby Moynihan</name>
+        <role>Alex</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Martinez</name>
+        <role>Actor</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/id70SLEpj9jelZZepJlapaXH8lR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dianne Wiest</name>
+        <role>Deana Ellis</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/axqtFLgJNNz0N9i443USHCOvrmY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Santino Fontana</name>
+        <role>Mr. Geernt</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/5wo0D9drLtLwdyZyDqNZRejgzoM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian d&apos;Arcy James</name>
+        <role>Jerry</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Renée Elise Goldsberry</name>
+        <role>Kim</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/p4Rjbr8ZpQ7l3qVCGvNqrLlPs4M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Tarver</name>
+        <role>Brianne</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/lep2YWThly38stQzLUyqayino8P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samantha Bee</name>
+        <role>Liz</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/5qaonOzWVYV85EjDRdQqd3gctcL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Britt Lower</name>
+        <role>Actress</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/1TATcjBE6cNsKlcXvIuGF0tygia.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackie Tohn</name>
+        <role>DJ</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/doWAOkOzRyy16wX4Hv5v8TQH4GB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Lutz</name>
+        <role>Party Guest #1</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/5DocEvgogUqmPFUXGQRf4sX4DXE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Breaker</name>
+        <role>Airport Bartender</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>April Szykeruk</name>
+        <role>Party Guest</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kara Rosella</name>
+        <role>Softball Player</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christa Beth Campbell</name>
+        <role>Young Maura Ellis Age 10</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/ndYi6zkAXvhEKR7ht9syrXOKVor.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Sinclair</name>
+        <role>Tan Guy</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/h5TSpNlyBIFWMii6RZHgBr0MNtn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Zeiss</name>
+        <role>Pina Colada Umbrella Party Guest</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kelsey O&apos;Brien</name>
+        <role>Party Guest</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Yucui2PWBn9hO6Xihm7PW33p5I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Walters</name>
+        <role>Airport Traveler (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Parnell</name>
+        <role>Phil</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/aGzA5l9S89qLkhpSdjmkerFdZt0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angela Cohen</name>
+        <role></role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/zHt4cLGEe72veVBsJHTVZsSO7mo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Glaser</name>
+        <role>Dan</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/wJW4JrjHUo8SAptqlsfK3yZkBrx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley North</name>
+        <role>Party Guest (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/zzCi9CmJKbAg9dcA4A6ZqWVfhUU.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 13:49:34</dateadded>
+</movie>

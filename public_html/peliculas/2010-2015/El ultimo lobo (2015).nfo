@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El último lobo</title>
+    <originaltitle>狼图腾</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>5455</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>277</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Chen Zhen es un joven estudiante de Pekín al que envían a Mongolia Interior para educar a una tribu de pastores nómadas. Pero el que realmente aprende es Chen: sobre la vida en esa tierra infinita y hostil, la libertad y la responsabilidad, y la criatura más temida y reverenciada de esos lugares, el lobo. Sin emabrgo, la relación de atracción existente entre esas criaturas complejas y casi místicas con el ser humano se ve amenazada cuando un oficial del gobierno central decide por todos los medios eliminar los lobos de esta región.</plot>
+    <tagline></tagline>
+    <runtime>121</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nl0jaKJnUPGDu0WqwRB1HE8zYF3.jpg">https://image.tmdb.org/t/p/original/nl0jaKJnUPGDu0WqwRB1HE8zYF3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xwFN9eezowrdqAQmFXSs6CFsHs0.jpg">https://image.tmdb.org/t/p/original/xwFN9eezowrdqAQmFXSs6CFsHs0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uoW4zMPfvpyBDQYctqFjA3bwudJ.jpg">https://image.tmdb.org/t/p/original/uoW4zMPfvpyBDQYctqFjA3bwudJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/WHE5b5pO3lLyStt5cA2vMLYPI4.jpg">https://image.tmdb.org/t/p/original/WHE5b5pO3lLyStt5cA2vMLYPI4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iVmQqLbm2PzNga069mWOEB1WLFI.jpg">https://image.tmdb.org/t/p/original/iVmQqLbm2PzNga069mWOEB1WLFI.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2909116</id>
+    <uniqueid type="imdb" default="true">tt2909116</uniqueid>
+    <uniqueid type="tmdb">309302</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <country>China</country>
+    <credits>Jean-Jacques Annaud</credits>
+    <credits>Lu Wei</credits>
+    <credits>John Collee</credits>
+    <director>Jean-Jacques Annaud</director>
+    <premiered>2015-02-19</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Edko Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kPvohRgc4Xw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>7313</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>zho</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>William Feng</name>
+        <role>Chen Zhen</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9JDAchlzu5XMV4mkmdG7ERRgTQ7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn Dou</name>
+        <role>Yang Ke</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2nJiCYDaYsfTeI66SwhHv4ug9kq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ankhnyam Ragchaa</name>
+        <role>Gasma</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/cTCd8S5ZGC0kCcEr3DGfSVLnAVX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yin Zhu-Sheng</name>
+        <role>Bao Shunghi</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ba Sen Zha Bu</name>
+        <role>Bilig</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 13:46:59</dateadded>
+</movie>

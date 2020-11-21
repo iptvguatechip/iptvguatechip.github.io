@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Tiger</title>
+    <originaltitle>Tiger</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>618</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>8</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un boxeador profesional le es prohibido seguir peleando y es vetado  por la comisión de boxeo por negarse a retractarse de sus creencias religiosas. A través de perfiles raciales y amenazas estereotipadas, él hace lo que cualquier estadounidense fuerte haría, contraatacar.</plot>
+    <tagline>Some Fight For Glory, Others Fight For Their Rights.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cLa8lCiZyepoRPqAjnOhOvLPuyN.jpg">https://image.tmdb.org/t/p/original/cLa8lCiZyepoRPqAjnOhOvLPuyN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oV1fculVMXeG7omfmVaLFNY0iCj.jpg">https://image.tmdb.org/t/p/original/oV1fculVMXeG7omfmVaLFNY0iCj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bIHoQ3QHx8wfDAYhjhEvGdn5iHL.jpg">https://image.tmdb.org/t/p/original/bIHoQ3QHx8wfDAYhjhEvGdn5iHL.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oL8uNl3CLgK3C13i23o45MZx2Sy.jpg">https://image.tmdb.org/t/p/original/oL8uNl3CLgK3C13i23o45MZx2Sy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jwQ7QK0u7OcwaLvR2xIuQGWbOyO.jpg">https://image.tmdb.org/t/p/original/jwQ7QK0u7OcwaLvR2xIuQGWbOyO.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4224754</id>
+    <uniqueid type="imdb" default="true">tt4224754</uniqueid>
+    <uniqueid type="tmdb">458414</uniqueid>
+    <genre>Drama</genre>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <credits>Michael Pugliese</credits>
+    <credits>Prem Singh</credits>
+    <director>Alister Grierson</director>
+    <premiered>2018-11-30</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>R3M Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8EdXfB_miN0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5713</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Mickey Rourke</name>
+        <role>Frank Donovan</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Prem Singh</name>
+        <role>Pardeep Nagra</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Janel Parrish</name>
+        <role>Charlotte</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/2MZ3c8rnLC8E1mrOXVZ0v1bi7BR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Pugliese</name>
+        <role>Brian Doyle</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/iGy9QdePbpkVrCu9mo74BS3nbmc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marshall Manesh</name>
+        <role>Kulwant</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qckq0EMLDYuTtEJkMeXzFeuKDnK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacob Grodnik</name>
+        <role>Barry Zaya</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/idnnWPylaYVCqoZa7X8Z9RgLIBF.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:01:47</dateadded>
+</movie>

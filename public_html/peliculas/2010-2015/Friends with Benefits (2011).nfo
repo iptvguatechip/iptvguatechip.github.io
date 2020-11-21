@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Amigos con beneficios</title>
+    <originaltitle>Friends with Benefits</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>336229</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>5845</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Jamie es una joven cazatalentos que convence a Dylan para que se vaya a trabajar a Nueva York como director artístico de la revista GQ. Una vez allí los dos, solteros y atractivos, entablan una relación estrictamente sexual sin dejar por ello de ser amigos. Naturalmente, esta anómala relación no les traerá más que complicaciones.</plot>
+    <tagline></tagline>
+    <runtime>109</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fGPbQpNahUvixeS3l1s4NUoE3bj.jpg">https://image.tmdb.org/t/p/original/fGPbQpNahUvixeS3l1s4NUoE3bj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg">https://image.tmdb.org/t/p/original/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nY2PWou1TP0DMY4my4r4LAa5Ytl.jpg">https://image.tmdb.org/t/p/original/nY2PWou1TP0DMY4my4r4LAa5Ytl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/thoVP518JtorSDFP01ZFkmvVhvT.jpg">https://image.tmdb.org/t/p/original/thoVP518JtorSDFP01ZFkmvVhvT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/q4ZAmIIbe2LiLvhQT0q3e6pleYr.jpg">https://image.tmdb.org/t/p/original/q4ZAmIIbe2LiLvhQT0q3e6pleYr.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4AyQWDINzihdhZRfdO30ZBGvZXc.jpg">https://image.tmdb.org/t/p/original/4AyQWDINzihdhZRfdO30ZBGvZXc.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1632708</id>
+    <uniqueid type="imdb" default="true">tt1632708</uniqueid>
+    <uniqueid type="tmdb">50544</uniqueid>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Will Gluck</credits>
+    <credits>Keith Merryman</credits>
+    <credits>David A. Newman</credits>
+    <director>Will Gluck</director>
+    <premiered>2011-07-21</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Castle Rock Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MxfaGMuiniI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1280</width>
+                <height>536</height>
+                <durationinseconds>6565</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Justin Timberlake</name>
+        <role>Dylan Harper</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mila Kunis</name>
+        <role>Jamie Rellis</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenna Elfman</name>
+        <role>Annie Harper</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/lY4pLueI0eMmgBXVfw5xw9jysHM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia Clarkson</name>
+        <role>Lorna</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rHHM9G83fpBAcFathbSyV4Tot5j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Woody Harrelson</name>
+        <role>Tommy Bollinger</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/gaibtvUFIlwHzRvNKV5UfrR4GCM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Jenkins</name>
+        <role>Mr. Harper</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/muT3RZG9hiKaKojD751RcQ5tGEy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryan Greenberg</name>
+        <role>Parker</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/bJJVWRtnK4KBpyZ6Y1rASfCF7QX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Samberg</name>
+        <role>Quincy</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/y6VcPyshsr6SMx97fg515NoNGRr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nolan Gould</name>
+        <role>Sammy - Sam the Magnificent</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/lu0T9KSfqiZFcomK5mqsIyOD7N8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaun White</name>
+        <role>Himself</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Fleming</name>
+        <role>Driver</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/fgqJC8aCiH00Y1g3cfzYpBUBCD3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catherine Reitman</name>
+        <role>Female Co-Worker</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/uh44Oz22cn8ZaNiA2rWyFGSB4f0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney Henggeler</name>
+        <role>Flight Attendant</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/4tIdd4tb8olTiAjt8DvcjDtHCe6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masi Oka</name>
+        <role>Darin Arturo Morena</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/g3MrGj3UDduZGCgwUDPRbcbKiG0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiya Sircar</name>
+        <role>Hostess</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/ySOwYAheNWApnu9TBJkziNthMA6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher T. Wood</name>
+        <role>Ira Ungerleider</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Wbp7be4GNHU0yivHKXWwdZSEy8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Stone</name>
+        <role>Kayla</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lili Mirojnick</name>
+        <role>Laura</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rupak Ginn</name>
+        <role>Male Co-Worker (L.A.)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/hSJhmCdAuYQ0obhBxv27TJuzKnF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Duane R. Shepard Sr.</name>
+        <role>Older Man</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jSde1OY1EVDivOlAs7sJHqiBlkL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chike Johnson</name>
+        <role>Taxi Driver</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/gmS47qw2WoMnbwBERtSycJYQWL5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angelique Cabral</name>
+        <role>Pam Niborski</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/3f2EdZYCdQH9TlCOPNbrdLT2Ag.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lance Kerfuffle</name>
+        <role>Security Guard</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jerry Ying</name>
+        <role>Photographer</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/jeqIez261JvxmWlviDsP76hIGeB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerry Hyman</name>
+        <role>Caricaturist</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nick Lee</name>
+        <role>Dylan&apos;s Neighbor</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Sung Lee</name>
+        <role>Dylan&apos;s Friend</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Morris</name>
+        <role>Carriage Driver</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKhtiAt5chYSiKVahdJqFIJZrtd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brooklyn McLinn</name>
+        <role>Policeman</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Timothy Bish</name>
+        <role>Dancer</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>LaJon Dantzler</name>
+        <role>Dancer</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angel Feliciano</name>
+        <role>Dancer</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laura Fremont</name>
+        <role>Dancer</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicole Guidetti</name>
+        <role>Dancer</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alicia Mazepa</name>
+        <role>Dancer</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mayumi Miguel</name>
+        <role>Dancer</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/8FLzAspDsIusEeGs80oZwLnX7hW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jermaine Montell</name>
+        <role>Dancer</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/aUIRwaEQl8lgfG4A5v5PnePT9QV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanna Numata</name>
+        <role>Dancer</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/pFpVqxMlQpsjTbthnzgqBLfHKMp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danielle Polanco</name>
+        <role>Dancer</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wes Pope</name>
+        <role>Dancer</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven Rosa</name>
+        <role>Dancer</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seth Stewart</name>
+        <role>Dancer</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/qgoRIi2jvHhOlRzQAcqjPM7DDQq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>DeAnna Walters</name>
+        <role>Dancer</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adam Zotovich</name>
+        <role>Dancer</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Gluck</name>
+        <role>Unaccompanied Minor #1</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taryn Gluck</name>
+        <role>Unaccompanied Minor #2</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kande Amadou</name>
+        <role>Dancer (Flashmob) (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher Baskerville</name>
+        <role>Airport Traveler (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/wuKxaU30BBDjkaeRcAEJZZaHGlt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Bradford</name>
+        <role>Basketball Player (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Brito</name>
+        <role>FlashMob (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Patrick Brown</name>
+        <role>Passenger (uncredited)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jorga Caye</name>
+        <role>Tour Guide (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tammy Dugen</name>
+        <role>DeeDee (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Teresa Hui</name>
+        <role>Dancer (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rashida Jones</name>
+        <role>Maddison (uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/jjp33eRM6oavyesW0UM6XBCxQSa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Marra</name>
+        <role>Tommy&apos;s Package Guy (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrea-Rachel Parker</name>
+        <role>Flashmob Dancer (uncredited)</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/vT9FARk4GUKWxiLI33K7iV38X45.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evelina Pereira</name>
+        <role>Belgian Girl (uncredited)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/kAJbBpkRb7rQ0Eozo9gXTrvyJLh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Phillip</name>
+        <role>Classmate / Reception Guest (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/nQx9gCNvUffNUX4VAgE2fmgKiQW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Schoeppner</name>
+        <role>Airport Diner (uncredited)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Segel</name>
+        <role>Brice (uncredited)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/lcAoILbiybmS6ftQCaD9h9O626u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Uzimann</name>
+        <role>Hallal Food Vendor (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Barbara Vincent</name>
+        <role>Flash Mob (Grand Central) (uncredited)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-21 09:56:42</dateadded>
+</movie>

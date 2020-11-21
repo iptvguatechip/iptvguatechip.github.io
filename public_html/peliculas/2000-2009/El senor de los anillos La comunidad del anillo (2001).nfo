@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El señor de los anillos: La comunidad del anillo</title>
+    <originaltitle>The Lord of the Rings: The Fellowship of the Ring</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>8.800000</value>
+            <votes>1632999</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.300000</value>
+            <votes>17932</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un manso hobbit de la Comarca y ocho compañeros emprendieron un viaje para destruir el poderoso Anillo Único y salvar la Tierra Media del Señor Oscuro Sauron.</plot>
+    <tagline>Un anillo para gobernarlos a todos.</tagline>
+    <runtime>229</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg">https://image.tmdb.org/t/p/original/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/7UJVffR2haKcGUKVTtCQcyudsNr.jpg">https://image.tmdb.org/t/p/original/7UJVffR2haKcGUKVTtCQcyudsNr.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/oENY593nKRVL2PnxXsMtlh8izb4.jpg">https://image.tmdb.org/t/p/original/oENY593nKRVL2PnxXsMtlh8izb4.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/nSNle6UJNNuEbglNvXt67m1a1Yn.jpg">https://image.tmdb.org/t/p/original/nSNle6UJNNuEbglNvXt67m1a1Yn.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/dV0Du5dgKzojK4czuMesIbh07xb.jpg">https://image.tmdb.org/t/p/original/dV0Du5dgKzojK4czuMesIbh07xb.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qMPLMnGirZpl7LKliFU1iNIrrDo.jpg">https://image.tmdb.org/t/p/original/qMPLMnGirZpl7LKliFU1iNIrrDo.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/z71k3LBZTnZVvUF0BLloHeRX23F.jpg">https://image.tmdb.org/t/p/original/z71k3LBZTnZVvUF0BLloHeRX23F.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/zoGY4M2qM29DFbxKaI0ECLwa18q.jpg">https://image.tmdb.org/t/p/original/zoGY4M2qM29DFbxKaI0ECLwa18q.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/geZwAIgk3E0vqiQWBPBAvjaZFRO.jpg">https://image.tmdb.org/t/p/original/geZwAIgk3E0vqiQWBPBAvjaZFRO.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/kP4yI13a16MThYv7CEbLdjrWCkk.jpg">https://image.tmdb.org/t/p/original/kP4yI13a16MThYv7CEbLdjrWCkk.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/t2GzbKWX11dZWJGk9VxcDoTd3It.jpg">https://image.tmdb.org/t/p/original/t2GzbKWX11dZWJGk9VxcDoTd3It.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/vfU2GVDZqsrJuR7W0JhpiKUKISc.jpg">https://image.tmdb.org/t/p/original/vfU2GVDZqsrJuR7W0JhpiKUKISc.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/7fCKti7KtptNeFiqwXmkhMlBytc.jpg">https://image.tmdb.org/t/p/original/7fCKti7KtptNeFiqwXmkhMlBytc.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/uqpF1CMvSyACksq4VLP8MafVhue.jpg">https://image.tmdb.org/t/p/original/uqpF1CMvSyACksq4VLP8MafVhue.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/tfbZn3TIsNBwSSogkltl7O0iYvF.jpg">https://image.tmdb.org/t/p/original/tfbZn3TIsNBwSSogkltl7O0iYvF.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gqlVp3XA1wohY9IegmTD2VZbBHu.jpg">https://image.tmdb.org/t/p/original/gqlVp3XA1wohY9IegmTD2VZbBHu.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/fGNibg724rDIEsXr6OirMouiFT7.jpg">https://image.tmdb.org/t/p/original/fGNibg724rDIEsXr6OirMouiFT7.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ybK2ajObIr5pGFpF7HpzT3MizZ6.jpg">https://image.tmdb.org/t/p/original/ybK2ajObIr5pGFpF7HpzT3MizZ6.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/iAlYWQoh6EoPFZZlQZZTdNpzHxF.jpg">https://image.tmdb.org/t/p/original/iAlYWQoh6EoPFZZlQZZTdNpzHxF.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/44BCXU0RfYNBSsbWHvtC4kZMHyk.jpg">https://image.tmdb.org/t/p/original/44BCXU0RfYNBSsbWHvtC4kZMHyk.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qECnQTyjwsuEkaEsw10Gj866SGu.jpg">https://image.tmdb.org/t/p/original/qECnQTyjwsuEkaEsw10Gj866SGu.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/ef2J0vkz11jNpDXqGY6aWpzuXDH.jpg">https://image.tmdb.org/t/p/original/ef2J0vkz11jNpDXqGY6aWpzuXDH.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3XaME6HTiby4kVHlvCgVFPnkpKi.jpg">https://image.tmdb.org/t/p/original/3XaME6HTiby4kVHlvCgVFPnkpKi.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/2938KFLiA2v6EdfWBWSHyXDp9j4.jpg">https://image.tmdb.org/t/p/original/2938KFLiA2v6EdfWBWSHyXDp9j4.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg">https://image.tmdb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/rTHVYYfeonrFHYVhtR60ITDaErO.jpg">https://image.tmdb.org/t/p/original/rTHVYYfeonrFHYVhtR60ITDaErO.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/aCsiXUQfyC2VCTgVRctL1P66ZHT.jpg">https://image.tmdb.org/t/p/original/aCsiXUQfyC2VCTgVRctL1P66ZHT.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5qkS6O6WzqhB1sAwKNCLJJwUInA.jpg">https://image.tmdb.org/t/p/original/5qkS6O6WzqhB1sAwKNCLJJwUInA.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/3OgMNsCBieSOjo5aNGhJJRbPRT2.jpg">https://image.tmdb.org/t/p/original/3OgMNsCBieSOjo5aNGhJJRbPRT2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg">https://image.tmdb.org/t/p/original/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p6QjtBmO6U105l44U0qMDSLxT0L.jpg">https://image.tmdb.org/t/p/original/p6QjtBmO6U105l44U0qMDSLxT0L.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg">https://image.tmdb.org/t/p/original/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/56zTpe2xvaA4alU51sRWPoKPYZy.jpg">https://image.tmdb.org/t/p/original/56zTpe2xvaA4alU51sRWPoKPYZy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bi9JddwTwBt3ixGLAiMAF7OXMbV.jpg">https://image.tmdb.org/t/p/original/bi9JddwTwBt3ixGLAiMAF7OXMbV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qns1zVM6fUvrjT4Vo2lMDwrzXGa.jpg">https://image.tmdb.org/t/p/original/qns1zVM6fUvrjT4Vo2lMDwrzXGa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pPJDDsMYJt0RMOV0LhnpYIyeP58.jpg">https://image.tmdb.org/t/p/original/pPJDDsMYJt0RMOV0LhnpYIyeP58.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yXFyL3Oi9l1Ufm98lQliOSoU4me.jpg">https://image.tmdb.org/t/p/original/yXFyL3Oi9l1Ufm98lQliOSoU4me.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7ypCCMwepUw88aMrUNG844QO563.jpg">https://image.tmdb.org/t/p/original/7ypCCMwepUw88aMrUNG844QO563.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mbWLyDwKSZqzfFz8em7jZD2hRVg.jpg">https://image.tmdb.org/t/p/original/mbWLyDwKSZqzfFz8em7jZD2hRVg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ePzYkHIfy6PNklJRTAnF0Ru15F4.jpg">https://image.tmdb.org/t/p/original/ePzYkHIfy6PNklJRTAnF0Ru15F4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b4XZizlvqQkZno8cT3VPBYTGudB.jpg">https://image.tmdb.org/t/p/original/b4XZizlvqQkZno8cT3VPBYTGudB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rG3NkEBD6rpHP0I5dEAgLpUXOco.jpg">https://image.tmdb.org/t/p/original/rG3NkEBD6rpHP0I5dEAgLpUXOco.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tEPKL9gqs19o5QkQ6betVcbUqRC.jpg">https://image.tmdb.org/t/p/original/tEPKL9gqs19o5QkQ6betVcbUqRC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cCG13wCnvDq2EDkncBkRwPxme7y.jpg">https://image.tmdb.org/t/p/original/cCG13wCnvDq2EDkncBkRwPxme7y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gjDS7ysWXmEPer16O8Mh0EC44Xi.jpg">https://image.tmdb.org/t/p/original/gjDS7ysWXmEPer16O8Mh0EC44Xi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/89UqkBYN785zdw6WIvWuCGbflcy.jpg">https://image.tmdb.org/t/p/original/89UqkBYN785zdw6WIvWuCGbflcy.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg">https://image.tmdb.org/t/p/original/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oiwc338EoBgS4sEI2ixAny4KQKg.jpg">https://image.tmdb.org/t/p/original/oiwc338EoBgS4sEI2ixAny4KQKg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ua5EHfleb44L5hfHPs2BPqRAove.jpg">https://image.tmdb.org/t/p/original/ua5EHfleb44L5hfHPs2BPqRAove.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wSrI6Y6xW3FvVvyAHJMyXo3GEc3.jpg">https://image.tmdb.org/t/p/original/wSrI6Y6xW3FvVvyAHJMyXo3GEc3.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x4NZ2JSb8ojOK0NPOScagYn6sQK.jpg">https://image.tmdb.org/t/p/original/x4NZ2JSb8ojOK0NPOScagYn6sQK.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dUVbWINfRMGojGZRcO6GF1Z2nV8.jpg">https://image.tmdb.org/t/p/original/dUVbWINfRMGojGZRcO6GF1Z2nV8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg">https://image.tmdb.org/t/p/original/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9ilNwwf9YzDV2lNJ3JUKGgXvHP7.jpg">https://image.tmdb.org/t/p/original/9ilNwwf9YzDV2lNJ3JUKGgXvHP7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ssKTgmA1S7GLiPe83tVoitk7Nqd.jpg">https://image.tmdb.org/t/p/original/ssKTgmA1S7GLiPe83tVoitk7Nqd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/skVTWsoQvFGLUnOo1Wv3coAsARw.jpg">https://image.tmdb.org/t/p/original/skVTWsoQvFGLUnOo1Wv3coAsARw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/keyOZ8KcjHMTVH8p0owTXvw18Wf.jpg">https://image.tmdb.org/t/p/original/keyOZ8KcjHMTVH8p0owTXvw18Wf.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7YUrTzoiPostC1qJJZ6l6Vmy5nk.jpg">https://image.tmdb.org/t/p/original/7YUrTzoiPostC1qJJZ6l6Vmy5nk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/duxXmVTVe9JzwDvRMY2vDZlC6aB.jpg">https://image.tmdb.org/t/p/original/duxXmVTVe9JzwDvRMY2vDZlC6aB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3NOH7et5c0V52SdX4qwInHkvueb.jpg">https://image.tmdb.org/t/p/original/3NOH7et5c0V52SdX4qwInHkvueb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2FkBCRES38QATPehkDSJKJ0QrXJ.jpg">https://image.tmdb.org/t/p/original/2FkBCRES38QATPehkDSJKJ0QrXJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/29t27rSQel2Ao8I7OwUkUF66RVB.jpg">https://image.tmdb.org/t/p/original/29t27rSQel2Ao8I7OwUkUF66RVB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zzy7Ap1PhXtvyfG7me3iqaflo12.jpg">https://image.tmdb.org/t/p/original/zzy7Ap1PhXtvyfG7me3iqaflo12.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lqfPg1CAJezp3iwtQghl0skDwbm.jpg">https://image.tmdb.org/t/p/original/lqfPg1CAJezp3iwtQghl0skDwbm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lyghSZv4s9uquxksEmICCyLEyNS.jpg">https://image.tmdb.org/t/p/original/lyghSZv4s9uquxksEmICCyLEyNS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3wiSgRRKokK660O75vJAGmk7FWF.jpg">https://image.tmdb.org/t/p/original/3wiSgRRKokK660O75vJAGmk7FWF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/hPCPoofVZvaxDNbTneF5214vMfq.jpg">https://image.tmdb.org/t/p/original/hPCPoofVZvaxDNbTneF5214vMfq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q9nym8NbrISGGHLpQbhxfevKCZ2.jpg">https://image.tmdb.org/t/p/original/q9nym8NbrISGGHLpQbhxfevKCZ2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zzIdXP769uYxQq6rK9plfeoVdTo.jpg">https://image.tmdb.org/t/p/original/zzIdXP769uYxQq6rK9plfeoVdTo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/LEuEcERF2n455qHZodqYp75m3f.jpg">https://image.tmdb.org/t/p/original/LEuEcERF2n455qHZodqYp75m3f.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5HU8Bb3N2xHLZHdJA2SJRs1e0YO.jpg">https://image.tmdb.org/t/p/original/5HU8Bb3N2xHLZHdJA2SJRs1e0YO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6XsG1Js8yk9bxRLi7EtpDmpzYTd.jpg">https://image.tmdb.org/t/p/original/6XsG1Js8yk9bxRLi7EtpDmpzYTd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7i6CUnrP8TN98ndUFY9A586NJXd.jpg">https://image.tmdb.org/t/p/original/7i6CUnrP8TN98ndUFY9A586NJXd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v2R6n5vplRDoeUBlzQdCIP8dof4.jpg">https://image.tmdb.org/t/p/original/v2R6n5vplRDoeUBlzQdCIP8dof4.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aXDDy43vTHAOUaGDcUhhT8yYCW6.jpg">https://image.tmdb.org/t/p/original/aXDDy43vTHAOUaGDcUhhT8yYCW6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/A1yba7CJ01pgLIOjtWlYopKMxb.jpg">https://image.tmdb.org/t/p/original/A1yba7CJ01pgLIOjtWlYopKMxb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/45mrNIMqy2ztrA0vTmZzd3nIcIq.jpg">https://image.tmdb.org/t/p/original/45mrNIMqy2ztrA0vTmZzd3nIcIq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jj5mpfVkzLQSvCRrmc5cA0xaPo8.jpg">https://image.tmdb.org/t/p/original/jj5mpfVkzLQSvCRrmc5cA0xaPo8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4JPkltkTgmkeeKcVfxMw3KQ4Bmk.jpg">https://image.tmdb.org/t/p/original/4JPkltkTgmkeeKcVfxMw3KQ4Bmk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uVA88FEaoYxQ9t0ZcDm21lJnDZi.jpg">https://image.tmdb.org/t/p/original/uVA88FEaoYxQ9t0ZcDm21lJnDZi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/IydXoGjTdiiOzEMEcAbK7yU6L8.jpg">https://image.tmdb.org/t/p/original/IydXoGjTdiiOzEMEcAbK7yU6L8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tdmlSbLl84hfHx635AqHLB8Qh8M.jpg">https://image.tmdb.org/t/p/original/tdmlSbLl84hfHx635AqHLB8Qh8M.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0120737</id>
+    <uniqueid type="imdb" default="true">tt0120737</uniqueid>
+    <uniqueid type="tmdb">120</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Fantasía</genre>
+    <genre>Acción</genre>
+    <country>New Zealand</country>
+    <set>
+        <name>El señor de los anillos - Colección</name>
+        <overview>Trilogía del director Peter Jackson basada en las famosas novelas de JRR Tolkien</overview>
+    </set>
+    <credits>Peter Jackson</credits>
+    <credits>Fran Walsh</credits>
+    <credits>Philippa Boyens</credits>
+    <director>Peter Jackson</director>
+    <premiered>2001-12-18</premiered>
+    <year>2001</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>New Line Cinema</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2KTjutR3mGA</trailer>
+    <actor>
+        <name>Elijah Wood</name>
+        <role>Frodo</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian McKellen</name>
+        <role>Gandalf</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liv Tyler</name>
+        <role>Arwen</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYlicHd8EQUrYvgkj7joO5RVv2T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Viggo Mortensen</name>
+        <role>Aragorn</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Astin</name>
+        <role>Sam</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cate Blanchett</name>
+        <role>Galadriel</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/9V83uemR0ra9Wd9iRXTMlfAQlTB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Rhys-Davies</name>
+        <role>Gimli</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Boyd</name>
+        <role>Pippin</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/jluumxuDr7rm2f97NFf9LydBdaZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominic Monaghan</name>
+        <role>Merry</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/Z2sWde6fHtnZk2fFMVgL5Jfwzv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Orlando Bloom</name>
+        <role>Legolas</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/kboHD4zumfJt3vkjORd8ETJyJfX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Lee</name>
+        <role>Saruman</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/21UyBMuJ07RYqvY9WiMjAu7Yb2z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hugo Weaving</name>
+        <role>Elrond</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/7eDl1FXoHUlic95WHf96RICtL9N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Bean</name>
+        <role>Boromir</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Holm</name>
+        <role>Bilbo</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Serkis</name>
+        <role>Gollum (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/2aJLwOQK50Lx7PvIHGW1GMytTOL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marton Csokas</name>
+        <role>Celeborn</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/bUO8mwJQ00ZD9wNZsNCevCZQR5L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Parker</name>
+        <role>Haldir</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/gV5dbZ0gorOtIJXmJz7g3maDGgM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lawrence Makoare</name>
+        <role>Lurtz</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/gNWX2QLQXzjPzynCwa0azyKYG4M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Howard</name>
+        <role>Voice of the Ring (voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/jYHkGkFzRGrVRoX568Omr3ipmde.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noel Appleby</name>
+        <role>Everard Proudfoot</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/7yESBZZGlJ0A0LDQVlmCY3ABNdO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sala Baker</name>
+        <role>Sauron</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/rLjJOiHjjpFkR9hySucXkSuEKQj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megan Edwards</name>
+        <role>Mrs. Proudfoot</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/iiyJXcQtxzx4jHXQvkZdD89FDrm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Elsworth</name>
+        <role>Gondorian Archivist</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Ferguson</name>
+        <role>Gil-galad</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/p5UpUkULst9N7SSX8jhUU8PNkTT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brent McIntyre</name>
+        <role>Witch-king</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter McKenzie</name>
+        <role>Elendil</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/S129jP0MkABJXorOTE38zwAzlX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah McLeod</name>
+        <role>Rosie Cotton</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/bkabFncTNi4TYolXWyKWXtt9WLQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Mune</name>
+        <role>Bounder</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/8MO8QjpoKWr2I6gSx5MQJgtP6su.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron Rhodes</name>
+        <role>Farmer Maggot</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/iyRxPuFHP4VnA8BTsjkMgYAqtjE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martyn Sanderson</name>
+        <role>Gate Keeper</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/hPpALGPDAP0J2UMirKyCaqCqBqB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Sinclair</name>
+        <role>Isildur</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/m5OgFP6lTN1EbipjeKHiIJSCIex.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Weatherley</name>
+        <role>Barliman Butterbur</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/p0of455n6OSm5rGGlUZltTlMnvq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victoria Beynon-Cole</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lee Hartley</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam La Hood</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Streeter</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Jordan</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Semi Kuresa</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clinton Ulyatt</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/9ENE1TerOcUUT9A7yWyyyEma6WC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Bryson</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lance Fabian Kemp</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jono Manks</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Price</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil Grieve</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/p52qwca3Pfx04agTtpQBFtxFzBM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy Jackson</name>
+        <role>Cute Hobbit Child</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/8QsY1ICQfl485yh4y6YmYnHuk1b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Jackson</name>
+        <role>Cute Hobbit Child</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/ypjcaQiVIeTBS6ERImxHaczeZwF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Corrigan</name>
+        <role>Otno (Extended Edition)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lori Dungey</name>
+        <role>Mrs. Bracegirdle (Extended Edition)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/4xGZ5r6XYUYgwFWh9LANgA2qan4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norman Forsey</name>
+        <role>Gaffer Gamgee (Extended Edition)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/uDGEpMVSe10HWIhiDw9LmU4jXWG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Johnson</name>
+        <role>Old Noakes (Extended Edition)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Moody</name>
+        <role>Lobelia (Extended Edition)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Sergent</name>
+        <role>Ted Sandyman (Extended Edition)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas McGinty</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths (Extended Edition)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kate O&apos;Rourke</name>
+        <role>Hero Orcs / Goblins / Uruks / Ringwraiths (Extended Edition)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gino Acevedo</name>
+        <role>Ring Dwarf-lord (uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/wT5lmN0WxbBp5jFCdTAvsqE7O4r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Betty Adams</name>
+        <role>Hobbit (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Andrews</name>
+        <role>Orc / Uruk-hai (uncredited)</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt Appleton</name>
+        <role>Council Elf (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rodney Bane</name>
+        <role>Orc (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Timothy Bartlett</name>
+        <role>Hobbit (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jarl Benzon</name>
+        <role>Last Alliance Elf (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jørn Benzon</name>
+        <role>Lothlorien Elf (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lynden Berrymen</name>
+        <role>Uruk-hai at Amon Hen (uncredited)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bob Blackwell</name>
+        <role>Hobbit (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Britton</name>
+        <role>Last Alliance Elf / Rivendell Elf (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jed Brophy</name>
+        <role>Ringwraith (uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NOsHgZIscn9ObgN3vshCzHrl5H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Riley Brophy</name>
+        <role>Cute Hobbit Child (uncredited)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Carey</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Norman Cates</name>
+        <role>Party Hobbit (uncredited)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachel Clentworth</name>
+        <role>Goblin (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/28M4SlsuXVZpV094kxvA7EnD71i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randall William Cook</name>
+        <role>Cave Troll (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sabine Crossen</name>
+        <role>Rivendell Elf (uncredited)</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/29l3YVLVaSLQqkMy4FHfU1dupig.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tack Daniel</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>72</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Daube</name>
+        <role>Khai (uncredited)</role>
+        <order>73</order>
+        <thumb>https://image.tmdb.org/t/p/original/AgGxqoygqvatqQmLmnd7gfBT053.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mana Hira Davis</name>
+        <role>Goblin / Orc / Uruk-hai (uncredited)</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/fBDzK8Vd7XBx97nsH9sXXGf4nMD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Dawson</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>75</order>
+        <thumb>https://image.tmdb.org/t/p/original/xAqH2xuk9IQrnFq8GvscTmjiB4b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Branko Dordevich</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Siaosi Fonua</name>
+        <role>Orc / Uruk-hai (uncredited)</role>
+        <order>77</order>
+        <thumb>https://image.tmdb.org/t/p/original/s5taWhH8eD1UUpNYOoM7nkUynLz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kester Fordham</name>
+        <role>Last Alliance Elf / Rivendell Elf (uncredited)</role>
+        <order>78</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Xander Forterie</name>
+        <role>Ring Dwarf-lord (uncredited)</role>
+        <order>79</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ben Fransham</name>
+        <role>Goblin / Lothlorien Elf / Uruk-hai (uncredited)</role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/CYz0u1P9QFO57WDW5gN5UnjWNg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phoebe Gittins</name>
+        <role>Cute Hobbit Child (uncredited)</role>
+        <order>81</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Warren Green</name>
+        <role>Isengard Orc Blacksmith (uncredited)</role>
+        <order>82</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Winham Hammond</name>
+        <role>Goblin / Orc / Uruk-hai (uncredited)</role>
+        <order>83</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Harding</name>
+        <role>Council Elf / Lothlorien Elf (uncredited)</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zo Hartley</name>
+        <role>Kissing Hobbit (uncredited)</role>
+        <order>85</order>
+        <thumb>https://image.tmdb.org/t/p/original/6DshBq3AREK5ZXACJbJC9ejfLft.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taea Hartwell</name>
+        <role>Cute Hobbit Child (uncredited)</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ray Henwood</name>
+        <role>Council Man (uncredited)</role>
+        <order>87</order>
+        <thumb>https://image.tmdb.org/t/p/original/u1diUH7XBSWmdYDPZXhUIVhBp5R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Houma</name>
+        <role>Hobbit (uncredited)</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lani Jackson</name>
+        <role>Goblin (uncredited)</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Jackson</name>
+        <role>Albert Dreary (uncredited)</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/4hh7hips4xc6kgpNDQKQH3goRvJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gareth Jensen</name>
+        <role>Rivendell Elf (uncredited)</role>
+        <order>91</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ralph Johnson</name>
+        <role>Council Man / Orc (uncredited)</role>
+        <order>92</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stu Johnson</name>
+        <role>Isengard Orc Blacksmith (uncredited)</role>
+        <order>93</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tim Kano</name>
+        <role>Gondorian Citizen (uncredited)</role>
+        <order>94</order>
+        <thumb>https://image.tmdb.org/t/p/original/9vv1Yhom1C2jaivU9EbNzYn2dNW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Kelly</name>
+        <role>Council Elf / Last Alliance Elf (uncredited)</role>
+        <order>95</order>
+        <thumb>https://image.tmdb.org/t/p/original/bW9n1nIue9HZ2Z0pjeA9Q0lKQbR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Kingsford-Brown</name>
+        <role>Party Hobbit (uncredited)</role>
+        <order>96</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Lane</name>
+        <role>Uruk-Hai (uncredited)</role>
+        <order>97</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alan Lee</name>
+        <role>Ring King of Men (uncredited)</role>
+        <order>98</order>
+        <thumb>https://image.tmdb.org/t/p/original/jwIR5GIRLCIZLTNqLofMYPimXeO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sacha Lee</name>
+        <role>Arms of Gollum (uncredited)</role>
+        <order>99</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Lyon</name>
+        <role>Isengard Orc Blacksmith (uncredited)</role>
+        <order>100</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marta Martí</name>
+        <role>Village Female Hobbit (uncredited)</role>
+        <order>101</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sharon Maxwell</name>
+        <role>Goblin (uncredited)</role>
+        <order>102</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Maybery</name>
+        <role>Ring Dwarf-lord (uncredited)</role>
+        <order>103</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bret McKenzie</name>
+        <role>Figwit (uncredited)</role>
+        <order>104</order>
+        <thumb>https://image.tmdb.org/t/p/original/xnoo95JB2XLdHbsYWHfUL7WkpIW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim McLachlan</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>105</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Liz Merton</name>
+        <role>Hobbit Band Member (uncredited)</role>
+        <order>106</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arnold Montey</name>
+        <role>Burning Ringwraith (uncredited)</role>
+        <order>107</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dean Morganty</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>108</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Morrison</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>109</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blair Morton</name>
+        <role>Council Elf (uncredited)</role>
+        <order>110</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Munro</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>111</order>
+        <thumb>https://image.tmdb.org/t/p/original/bIzqjMxNK58OIcMLo9jemsMvCJI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David J. Muzzerall</name>
+        <role>Goblin (uncredited)</role>
+        <order>112</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shane Rangi</name>
+        <role>Witch-king (uncredited)</role>
+        <order>113</order>
+        <thumb>https://image.tmdb.org/t/p/original/xcTJWYsKtJNMGRENqXKUzhKHw4x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Reid</name>
+        <role>Orc (uncredited)</role>
+        <order>114</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Reinsfield</name>
+        <role>Goblin (uncredited)</role>
+        <order>115</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Larry Rew</name>
+        <role>Ring King of Men (uncredited)</role>
+        <order>116</order>
+        <thumb>https://image.tmdb.org/t/p/original/npGdeQhDXtnjhxMmBigN99L2COL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Roa</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>117</order>
+        <thumb>https://image.tmdb.org/t/p/original/soSfJeqpj7RKAXxpdKZONOXETBq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Robins</name>
+        <role>Hand of Gollum (uncredited)</role>
+        <order>118</order>
+        <thumb>https://image.tmdb.org/t/p/original/b8ELvyAhsEoPUBUzJfRvAQ0U1aC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Roxburgh</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>119</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Ryan</name>
+        <role>Breelander (uncredited)</role>
+        <order>120</order>
+        <thumb>https://image.tmdb.org/t/p/original/3hZMYyfmlPx9aHVDg8XdoZLNdSc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Shapcott</name>
+        <role>Burning Ringwraith (uncredited)</role>
+        <order>121</order>
+        <thumb>https://image.tmdb.org/t/p/original/1SsjHWuMPisZePOxjopXwyXiAAO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samuel E. Shore</name>
+        <role>Refugee / Orc (uncredited)</role>
+        <order>122</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Stearne</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>123</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Stehlin</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>124</order>
+        <thumb>https://image.tmdb.org/t/p/original/unG7mz8EPYKqK7LCZMfPzT2uDO2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Stratton</name>
+        <role>Isengard Orc / Last Alliance Soldier / Morgul Orc / Uruk-hai (uncredited)</role>
+        <order>125</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jo Surgison</name>
+        <role>Hobbit (uncredited)</role>
+        <order>126</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Turner</name>
+        <role>Orc / Goblin / Wildman / Hobbit (uncredited)</role>
+        <order>127</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Waterhouse-Brown</name>
+        <role>Goblin (uncredited)</role>
+        <order>128</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tim Wong</name>
+        <role>Uruk-hai (uncredited)</role>
+        <order>129</order>
+        <thumb>https://image.tmdb.org/t/p/original/nK1cr03CxVrqKBLdKuc8CgNtQ68.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Young</name>
+        <role>Goblin (uncredited)</role>
+        <order>130</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMjAxODA0OTY4MF5BMl5BanBnXkFtZTYwMzU3NzI2._UY632.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 12:09:29</dateadded>
+</movie>

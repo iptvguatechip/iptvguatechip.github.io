@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Nivel Intrépido</title>
+    <originaltitle>Fearless</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>922</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>63</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un joven gamer debe convertirse en niñero de tiempo completo cuando su videojuego favorito deja a tres niños pequeños con superpoderes en su jardín.</plot>
+    <tagline></tagline>
+    <runtime>89</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/enEAuydl4BWTfqKeyEChzsbvCde.jpg">https://image.tmdb.org/t/p/original/enEAuydl4BWTfqKeyEChzsbvCde.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/f1vJlGnkkZDJxnpOoH9dIT5u0mX.jpg">https://image.tmdb.org/t/p/original/f1vJlGnkkZDJxnpOoH9dIT5u0mX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5oQJ6HeNGWnEtP9Qyt5IZjuKI7j.jpg">https://image.tmdb.org/t/p/original/5oQJ6HeNGWnEtP9Qyt5IZjuKI7j.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jqd6lBtyfyJf5X8B0T94C9w9DAS.jpg">https://image.tmdb.org/t/p/original/jqd6lBtyfyJf5X8B0T94C9w9DAS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gDpwXzUz9eqd04X1pnrdflm6xwH.jpg">https://image.tmdb.org/t/p/original/gDpwXzUz9eqd04X1pnrdflm6xwH.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/s7NC2kntiPB3WltWj9bnNTkoqUp.jpg">https://image.tmdb.org/t/p/original/s7NC2kntiPB3WltWj9bnNTkoqUp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e7imGg8NqNcAiYrwaQxeMnIQnBa.jpg">https://image.tmdb.org/t/p/original/e7imGg8NqNcAiYrwaQxeMnIQnBa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8vaNiHJr9iZfiWKgnqgWR0a53oM.jpg">https://image.tmdb.org/t/p/original/8vaNiHJr9iZfiWKgnqgWR0a53oM.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 7</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8675288</id>
+    <uniqueid type="imdb" default="true">tt8675288</uniqueid>
+    <uniqueid type="tmdb">726664</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <country>Canada</country>
+    <credits>Cory Edwards</credits>
+    <credits>John Paul Murphy</credits>
+    <director>Cory Edwards</director>
+    <premiered>2020-08-14</premiered>
+    <year>2020</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Vanguard Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jxnQFP47SzY</trailer>
+    <actor>
+        <name>Yara Shahidi</name>
+        <role>Melanie (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/3UVnSdjRyCGLUxmkzPrG7mInZog.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabrielle Union</name>
+        <role>General Blazerhatch (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/eUZdWvl4KShH6GBkNG5X6bJbniF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dwyane Wade</name>
+        <role>Private Wade (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/gPv6duTYMJdTTdTL0pd4otqr1Sz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miles Robbins</name>
+        <role>Reid (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/88tN1713VGkeHLcA4oRA1stIZha.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fat Joe</name>
+        <role>DJ (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/g4Z1K3bywKBDFGcNT4C5OapbEQj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amari McCoy</name>
+        <role>Kira (voice)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leyon Azubuike</name>
+        <role>Private Ronnie (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/3fqtEeD2O2uF2cHeGUFnDV98RTA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angie Martinez</name>
+        <role>Zona Nightweather (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/dvDPKaIrLgJjwn80b0vV41X8hnA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jadakiss</name>
+        <role>Captain Lightspeed (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/BK6UJWmobeun7UF1OklIoCDdA5.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-20 08:25:07</dateadded>
+</movie>

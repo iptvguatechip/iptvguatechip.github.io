@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Dragon Ball: El camino hacia el más fuerte</title>
+    <originaltitle>DRAGON BALL 最強への道</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>1873</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>152</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un relato del origen de Dragon Ball con una toma diferente en la reunión de Goku, Bulma y el Maestro Roshi. También cuenta la historia de la Patrulla Roja; Pero esta vez encuentran a Goku en lugar de el Goku encontrarlos.</plot>
+    <tagline></tagline>
+    <runtime>79</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8N1nLnRbwErhuIMekAqER0uBuf0.jpg">https://image.tmdb.org/t/p/original/8N1nLnRbwErhuIMekAqER0uBuf0.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6odEQL3yNyBI3GDcUuIujEo639M.jpg">https://image.tmdb.org/t/p/original/6odEQL3yNyBI3GDcUuIujEo639M.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/i5ECrR2zT7GQl0J8WdyGTm9D6d6.jpg">https://image.tmdb.org/t/p/original/i5ECrR2zT7GQl0J8WdyGTm9D6d6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/o6RJmVl92mynnbW8s26S0JzZktx.jpg">https://image.tmdb.org/t/p/original/o6RJmVl92mynnbW8s26S0JzZktx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sSdhAvMpKfqJ6DYUSkrWURt1L5Q.jpg">https://image.tmdb.org/t/p/original/sSdhAvMpKfqJ6DYUSkrWURt1L5Q.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wuW7jeE7pX7glnZpCcJZGfC0YSr.jpg">https://image.tmdb.org/t/p/original/wuW7jeE7pX7glnZpCcJZGfC0YSr.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/naxWSD4XubEex8lJuAHGqtqgelE.jpg">https://image.tmdb.org/t/p/original/naxWSD4XubEex8lJuAHGqtqgelE.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0142250</id>
+    <uniqueid type="imdb" default="true">tt0142250</uniqueid>
+    <uniqueid type="tmdb">39148</uniqueid>
+    <genre>Acción</genre>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <country>Japan</country>
+    <set>
+        <name>Dragon Ball - Colección</name>
+    </set>
+    <premiered>1996-03-02</premiered>
+    <year>1996</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Toei Animation</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JyN86BcP3WY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4770</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>lat</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>jpn</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bin Shimada</name>
+        <role>General Blue</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/dr81G05LE73RuZ10vwgyT35ahRH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daisuke Gouri</name>
+        <role>Umigame</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/g5OeBa8Rww8VNZiJuU7RhZxodwc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naoki Tatsuta</name>
+        <role>Oolong</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/iYGYNGRoQv0yRwKhisqfk5ARVTE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masako Nozawa</name>
+        <role>Son Goku</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiromi Tsuru</name>
+        <role>Bulma Briefs</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:39</dateadded>
+</movie>

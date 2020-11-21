@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hasta que la boda nos separe</title>
+    <originaltitle>Hasta que la boda nos separe</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>356</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.400000</value>
+            <votes>28</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una boda es uno de los sucesos más importantes para cualquier persona que se decide a dar ese paso, pero en toda celebración siempre está involucrada la familia quienes siempre tienen ideas muy diferentes a las que esperamos. Daniel y María están por dar ese paso y tienen en mente una boda moderna a lado de la playa. Sin embargo, sus familias les tienen preparadas una celebración mucho más tradicional… ¿qué tan loco podría sonar hacer dos bodas distintas? una para la familia y otra para los amigos. Sin embargo por azares del destino las dos bodas tendrán que ser el mismo día, convirtiendo este importante evento en un caos.</plot>
+    <tagline></tagline>
+    <runtime>91</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/e1MhNMKn8l8Jo0YR6hHi9RPBmnQ.jpg">https://image.tmdb.org/t/p/original/e1MhNMKn8l8Jo0YR6hHi9RPBmnQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wPLe5v6kpYKMdoLUXXmZcXfimNo.jpg">https://image.tmdb.org/t/p/original/wPLe5v6kpYKMdoLUXXmZcXfimNo.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4riTVVEoqXZZhjjU08wOpr7yZ4G.jpg">https://image.tmdb.org/t/p/original/4riTVVEoqXZZhjjU08wOpr7yZ4G.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/Anuj8AcvYSQIRfCriAxG0CROCOw.jpg">https://image.tmdb.org/t/p/original/Anuj8AcvYSQIRfCriAxG0CROCOw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/k4taYPmMBAlHhqOkmMOJk9COzbr.jpg">https://image.tmdb.org/t/p/original/k4taYPmMBAlHhqOkmMOJk9COzbr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5e1kYcjP4vzyT2nrd1fGxgHW1IN.jpg">https://image.tmdb.org/t/p/original/5e1kYcjP4vzyT2nrd1fGxgHW1IN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oPhJyt81j0vpW4NSVC734zLf7G5.jpg">https://image.tmdb.org/t/p/original/oPhJyt81j0vpW4NSVC734zLf7G5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6U9Fftw4e64XWRguzs29yUKqUqo.jpg">https://image.tmdb.org/t/p/original/6U9Fftw4e64XWRguzs29yUKqUqo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h80r9TPtYasrfzaCAS1uWiR4vwl.jpg">https://image.tmdb.org/t/p/original/h80r9TPtYasrfzaCAS1uWiR4vwl.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5990956</id>
+    <uniqueid type="imdb" default="true">tt5990956</uniqueid>
+    <uniqueid type="tmdb">513077</uniqueid>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <director>Santiago Limón</director>
+    <premiered>2018-03-29</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xRFcqG9LAUA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5484</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Claudette Maillé</name>
+        <role>Concha</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/jmERdJIsYqkFqTIh5MbtD0CRoyF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto Palazuelos</name>
+        <role>Bobby</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/3hkQurxsiWnGCyruKPjN5nyxZCv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrés Tagliavini</name>
+        <role>Jefe Argentino</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/hTLCABHgXz4xMTnGAYZv7ExqEhc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diana Bovio</name>
+        <role>María</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9vgHBWcyAJ2hpnMJLX3iiRSIg2k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gustavo Egelhaaf</name>
+        <role>Daniel</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Héctor Holten</name>
+        <role>Raúl</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adal Ramones</name>
+        <role>Celebridad</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>María Alejandra Rodríguez</name>
+        <role>Ana Pau</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 07:00:08</dateadded>
+</movie>

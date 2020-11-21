@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Nada que Perder</title>
+    <originaltitle>Nada a Perder</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>22855</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.200000</value>
+            <votes>50</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Este drama biográfico sigue el ascenso a la fama de Edir Macedo, controvertido líder evangélico y hombre de negocios.</plot>
+    <tagline>Against all odds. For the good of all.</tagline>
+    <runtime>135</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/awxt51Y6hECLjIC2mRIOKcCG9a1.jpg">https://image.tmdb.org/t/p/original/awxt51Y6hECLjIC2mRIOKcCG9a1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1Qk9eD3ZqmJ7V8bB28H7gUd1FPg.jpg">https://image.tmdb.org/t/p/original/1Qk9eD3ZqmJ7V8bB28H7gUd1FPg.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/x53rt95zFbCjfFidDsH6kukMiWz.jpg">https://image.tmdb.org/t/p/original/x53rt95zFbCjfFidDsH6kukMiWz.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6910020</id>
+    <uniqueid type="imdb" default="true">tt6910020</uniqueid>
+    <uniqueid type="tmdb">502581</uniqueid>
+    <genre>Drama</genre>
+    <country>Brazil</country>
+    <credits>Stephen P. Lindsey</credits>
+    <credits>Emílio Boechat</credits>
+    <director>Alexandre Avancini</director>
+    <premiered>2018-03-29</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paris Filmes</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>8111</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>eac3</codec>
+                <language>por</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Petrônio Gontijo</name>
+        <role>Edir Macedo</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/yBtnEJIwR5tFsj61O2W47Kme4U3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dalton Vigh</name>
+        <role>Juiz Ramos</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sWBjGs09iKyfOWyHcHoCpfvlT7x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>André Gonçalves</name>
+        <role>Ronaldo</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/vhC8vb0B9s6YoDqJijUuSfcEvRK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beth Goulart</name>
+        <role>Geninha</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2U1LLsSkXTZAsfcNIUR0lfTUHvv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Day Mesquita</name>
+        <role>Ester Bezerra</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/p4nUMOHrkROD0QBtyq8tqC5v2bE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Larissa Ferrara</name>
+        <role>Edna</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/lWq6MEDN4rVykys9dU9WGnkOSgw.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:54:15</dateadded>
+</movie>

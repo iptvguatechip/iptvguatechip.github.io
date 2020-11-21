@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Solos</title>
+    <originaltitle>Seuls</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>1349</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>380</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Leïla de 16 años se despierta tarde como cada mañana. Pero justo hoy, no hay nadie que la presione. ¿Dónde están sus padres? Coge su bicicleta y atraviesa su barrio, vacío. Se ha ido todo el mundo. Ya pensaba que era la única superviviente de una catástrofe inexplicable cuando finalmente se cruza con otros cuatro jóvenes: Dodji, Yvan, Camille y Terry. Juntos tratarán de comprender qué ha ocurrido, y aprender a sobrevivir en un mundo que se ha vuelto hostil pero… ¿están realmente solos?</plot>
+    <tagline></tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6VjlQBcM5573XopM07a07dsI6BM.jpg">https://image.tmdb.org/t/p/original/6VjlQBcM5573XopM07a07dsI6BM.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fQqlXvlo0n5Lvl24Jo4mfGNcuoN.jpg">https://image.tmdb.org/t/p/original/fQqlXvlo0n5Lvl24Jo4mfGNcuoN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gYLOekANn0c8IziNWJt81W12i3T.jpg">https://image.tmdb.org/t/p/original/gYLOekANn0c8IziNWJt81W12i3T.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4DdYcU8JplSPIgtfstqLQLvkQRk.jpg">https://image.tmdb.org/t/p/original/4DdYcU8JplSPIgtfstqLQLvkQRk.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3838034</id>
+    <uniqueid type="imdb" default="true">tt3838034</uniqueid>
+    <uniqueid type="tmdb">420950</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Fantasía</genre>
+    <country>Belgium</country>
+    <credits>David Moreau</credits>
+    <director>David Moreau</director>
+    <premiered>2017-02-08</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>StudioCanal</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Sofia Lesaffre</name>
+        <role>Leïla</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kIJL7xrSM7rU6BTLEGJMVio8TH3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stéphane Bak</name>
+        <role>Dodji</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/g7SSry50u4DZvCRNlbE8Iv1PNiW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thomas Doret</name>
+        <role>Saul</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/fHU7RFB5hMQdt9Vx5V9nFLmfyfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Lockhart</name>
+        <role>Camille</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/sUYUSBMCtuuTRUjmWkaWkFiAjRj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jean-Stan du Pac</name>
+        <role>Terry</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/xrhIAJ7EZIrbRsHuG6jCYUAEJd5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Scarfoglio</name>
+        <role>Yvan</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/126ho7HF2Mm1DxXlcC2MFJKRY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Renan Madelpuech</name>
+        <role>Le Maître des couteaux</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/vLwMvmvuc2nec1DslMEEk7aQ3M5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Renan Prévot</name>
+        <role>Maxime</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/vFgg7IUhvUbjxCoA0eS1OoQZlaE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Inès Spiridonov</name>
+        <role>Jade</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/dxn4TwEF5HqFkdzF4dWcPzhvs6K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeanne Guittet</name>
+        <role>Sophie</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/oM4t902FP1hBlYTb3aQHLT8s28G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kamel Isker</name>
+        <role>Aysam</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/jjfOlrAR1PY5upulByC2xRgaGyU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rio Vega</name>
+        <role></role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/vUum68QrXfjsKNw45sLyQvz6YLi.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-08-07 09:43:08</dateadded>
+</movie>

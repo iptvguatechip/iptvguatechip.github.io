@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El fantasma de mi novia</title>
+    <originaltitle>El fantasma de mi novia</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>170</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>6</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>“Lupe del Mar” es una impertinente y arrogante actriz de novelas mexicanas, que viaja a República Dominicana para hacer realidad uno de sus más grandes sueños, grabar una película. Sin embargo, ella sufre un terrible accidente, que la lleva a estar en estado de coma. Tendrá 9 días para regresar a la vida y el único que puede hacerlo es un ladrón capaz de comunicarse con espíritus.</plot>
+    <tagline></tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8wqnTvgaM2Yhvtf9bPIGNBYxJya.jpg">https://image.tmdb.org/t/p/original/8wqnTvgaM2Yhvtf9bPIGNBYxJya.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ySUwOVU4n5vzDjWPhgQdw4Nm3Ju.jpg">https://image.tmdb.org/t/p/original/ySUwOVU4n5vzDjWPhgQdw4Nm3Ju.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7227100</id>
+    <uniqueid type="imdb" default="true">tt7227100</uniqueid>
+    <uniqueid type="tmdb">545481</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Romance</genre>
+    <genre>Drama</genre>
+    <country>Dominican Republic</country>
+    <director>Francis Disla</director>
+    <premiered>2018-08-30</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Estudio Quitasueño</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QaCFQVcevyY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>546.000000</aspect>
+                <width>1092</width>
+                <height>614</height>
+                <durationinseconds>6370</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>William Levy</name>
+        <role></role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/fi1k181dsQfV6rtK7zd8m62Wq4L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carmen Villalobos</name>
+        <role></role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/i2VvCZH6hswYXI6mRtw4AYCkK5r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fausto Mata</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susana Dosamantes</name>
+        <role></role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/zuJkgXFGF9Jb1H1QHDLEBn2TkPD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Peniche</name>
+        <role></role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/fyDEx1nnr4PUsYrAy7tz4gJUfhQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Francisca Lachapel</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Gutiérrez</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 17:05:56</dateadded>
+</movie>

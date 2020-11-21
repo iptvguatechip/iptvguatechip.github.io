@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Votos de amor</title>
+    <originaltitle>The Vow</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.800000</value>
+            <votes>182345</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.200000</value>
+            <votes>3056</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un accidente de coche pone a Paige en coma, y cuando se despierta con una severa pérdida de memoria, su marido Leo trabaja para ganar su corazón de nuevo.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kbTtU8LXhH8MLB7EF7hBZy3WUYC.jpg">https://image.tmdb.org/t/p/original/kbTtU8LXhH8MLB7EF7hBZy3WUYC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9n28oJ1A2sHpQluDMZoRty7shgo.jpg">https://image.tmdb.org/t/p/original/9n28oJ1A2sHpQluDMZoRty7shgo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/w9YVZmxdYO8AtZLyOivAD9Ekl54.jpg">https://image.tmdb.org/t/p/original/w9YVZmxdYO8AtZLyOivAD9Ekl54.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qHNjcjKa6VHJsa0Eu0DHl2BaYw3.jpg">https://image.tmdb.org/t/p/original/qHNjcjKa6VHJsa0Eu0DHl2BaYw3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gcigtyy3U26UFnycedcKyi6hxSz.jpg">https://image.tmdb.org/t/p/original/gcigtyy3U26UFnycedcKyi6hxSz.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j9wGyCighZgyyi6tIoquiVo3FE8.jpg">https://image.tmdb.org/t/p/original/j9wGyCighZgyyi6tIoquiVo3FE8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a8IFeO1BMn4QEfLsf41Ml7LodyC.jpg">https://image.tmdb.org/t/p/original/a8IFeO1BMn4QEfLsf41Ml7LodyC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/st8wr7v8A8clGRoZok8D5ku2xGZ.jpg">https://image.tmdb.org/t/p/original/st8wr7v8A8clGRoZok8D5ku2xGZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6eU0Ee8eoX1dhAmHfjVmviF8yXD.jpg">https://image.tmdb.org/t/p/original/6eU0Ee8eoX1dhAmHfjVmviF8yXD.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1606389</id>
+    <uniqueid type="imdb" default="true">tt1606389</uniqueid>
+    <uniqueid type="tmdb">72570</uniqueid>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Abby Kohn</credits>
+    <credits>Marc Silverstein</credits>
+    <credits>Jason Katims</credits>
+    <director>Michael Sucsy</director>
+    <premiered>2012-02-05</premiered>
+    <year>2012</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Spyglass Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rc70kHj1wn0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>640.000000</aspect>
+                <width>1280</width>
+                <height>534</height>
+                <durationinseconds>6234</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language></language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language></language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Rachel McAdams</name>
+        <role>Paige Collins</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Channing Tatum</name>
+        <role>Leo Collins</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bhTmp6FA8fOQnGlNk75tdmj2bpu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Neill</name>
+        <role>Bill Thornton</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/bNZ03phkLewj8eUR6mGbKZ7jtmv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Speedman</name>
+        <role>Jeremy</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tGgD96WOhmuQU4e6ZTU5IEx4W9E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica Lange</name>
+        <role>Rita Thornton</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/xybRNUGzzJuilStFGmIOSy0WFwQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tatiana Maslany</name>
+        <role>Lily</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mVdss3kBhKiWYWFFcrdOSAAfwC0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucas Bryant</name>
+        <role>Kyle</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/3g9G4uR0mkE6twA7ckKsUicVsxR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristina Pesic</name>
+        <role>Lizbet</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dillon Casey</name>
+        <role>Ryan</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/lsAIq0MJirI0wgp1zb4y6EMuHty.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendy Crewson</name>
+        <role>Dr. Fishman</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/xHqddOkIfcPhW2ieXhQwHceV7l2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joey Klein</name>
+        <role>Josh</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Cobden</name>
+        <role>Jim</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/g7EsYXdEoNv9s73ZI10SC2gL8MD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeananne Goossen</name>
+        <role>Sonia</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shannon Barnett</name>
+        <role>Carrie</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lindsay Ames</name>
+        <role>Shana</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica McNamee</name>
+        <role>Gwen</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/aAfaMEEqD8syHv5bLi5B3sccrM2.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 07:43:47</dateadded>
+</movie>

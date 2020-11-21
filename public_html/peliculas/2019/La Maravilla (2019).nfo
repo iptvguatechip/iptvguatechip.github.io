@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Maravilla</title>
+    <originaltitle>La Maravilla</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.100000</value>
+            <votes>35</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>3</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Papi y Yiyo heredan un edificio antiguo, sin saber que los inquilinos esconden un secreto complicado.</plot>
+    <tagline></tagline>
+    <runtime>80</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pIRia9ZqoGbzNRlJujsxnvg4mXW.jpg">https://image.tmdb.org/t/p/original/pIRia9ZqoGbzNRlJujsxnvg4mXW.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zltYXNW0U8hbTu7ifaIIcLqwaig.jpg">https://image.tmdb.org/t/p/original/zltYXNW0U8hbTu7ifaIIcLqwaig.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tHWFVtgpcutacF5Kpr6yXJbTY9a.jpg">https://image.tmdb.org/t/p/original/tHWFVtgpcutacF5Kpr6yXJbTY9a.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8637424</id>
+    <uniqueid type="imdb" default="true">tt8637424</uniqueid>
+    <uniqueid type="tmdb">626874</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Crimen</genre>
+    <country>Dominican Republic</country>
+    <credits>José Ramón Alama</credits>
+    <director>David Pagan Mariñez</director>
+    <premiered>2019-08-15</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>4806</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Julitza Berberena</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Perozo</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pio La Ditingancia</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fausto Mata</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brashell Santos</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angelique Burgos</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cheddy García</name>
+        <role></role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/9Y0lkpilPwJgA1h608OUaUtelTn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yasser Michelén</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:49:45</dateadded>
+</movie>

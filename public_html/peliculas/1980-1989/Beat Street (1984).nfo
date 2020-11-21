@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Beat Street</title>
+    <originaltitle>Beat Street</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.500000</value>
+            <votes>3447</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>52</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>An aspiring DJ, from the South Bronx, and his best friend, a promoter, try to get into show business by exposing people to hip-hop music and culture.</plot>
+    <tagline>Takin&apos; The Beat To The Streets!</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ywvl1uPoQWH2fdySQ4wVhPCptgP.jpg">https://image.tmdb.org/t/p/original/ywvl1uPoQWH2fdySQ4wVhPCptgP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jYp58ttXNP7dzmD6OhCMxG0xvUg.jpg">https://image.tmdb.org/t/p/original/jYp58ttXNP7dzmD6OhCMxG0xvUg.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cReTxvyegl3vgSCGKzG3i1B3ZUc.jpg">https://image.tmdb.org/t/p/original/cReTxvyegl3vgSCGKzG3i1B3ZUc.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0086946</id>
+    <uniqueid type="imdb" default="true">tt0086946</uniqueid>
+    <uniqueid type="tmdb">17667</uniqueid>
+    <genre>Drama</genre>
+    <genre>Música</genre>
+    <country>United States of America</country>
+    <credits>Andrew Davis</credits>
+    <credits>David Gilbert</credits>
+    <credits>Paul Golding</credits>
+    <director>Stan Lathan</director>
+    <premiered>1984-06-08</premiered>
+    <year>1984</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Orion Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H0p2LFGlWTA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>xvid</codec>
+                <aspect>178.000000</aspect>
+                <width>712</width>
+                <height>380</height>
+                <durationinseconds>6378</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>mp3</codec>
+                <language></language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Guy Davis</name>
+        <role>Kenny Kirkland</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rae Dawn Chong</name>
+        <role>Tracy Carlson</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/aj9fFFKH3QZX2FSJsj81I4y12M7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Saundra Santiago</name>
+        <role>Carmen Cararro</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/mIzuavbFWhwyT5yysJlwgzgXc0v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doug E. Fresh</name>
+        <role>Himself</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mary Alice</name>
+        <role>Cora</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/jniFVDRjYyIxx5EFTR2kzpFAB02.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn Elliott</name>
+        <role>Domingo</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gQ0bkwKIV0TOCQSkrqMuPmeHWDi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Duane Jones</name>
+        <role>Robert</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/tJDNT02fyX0CE1Yv7ZbeFkSzwMd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kadeem Hardison</name>
+        <role>High School Student (scenes deleted)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/gVtfvi3fRIGt5txKSBIZFQxSk4k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Chardiet</name>
+        <role>Ramon</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leon W. Grant</name>
+        <role>Chollie</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Taylor</name>
+        <role>Lee Kirkland</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/56zkNYMbqxFuvxptKod1SalMH4k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kool Herc</name>
+        <role>Clive Campbell</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/wiFbAYeEiF1FxuHDRuJywVqfWu3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Afrika Bambaataa</name>
+        <role></role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/uYurKkjZ3h3XCOdjjEjVv5LTWCA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Gunn</name>
+        <role>Furious Five</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melle Mel</name>
+        <role>Grandmaster Melle Mel</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/lG5IEMB3oSFQ5SR1ySmbFsOATDr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gina Belafonte</name>
+        <role>Elizabeth</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hope Clarke</name>
+        <role>Dancing instructor</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/bWBQRySDFvtxdA7MmMIaJZx3KZC.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-04-16 20:28:37</dateadded>
+</movie>

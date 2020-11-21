@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Someone Great: Alguien extraordinario</title>
+    <originaltitle>Someone Great</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>17020</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>873</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de sufrir una dolorosa ruptura sentimental, justo antes de mudarse a San Francisco, Jenny disfruta de una última aventura en la ciudad de Nueva York con sus dos mejores amigas.</plot>
+    <tagline></tagline>
+    <runtime>92</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8QW7qjnJPPIDGTCqYThooeiTSYE.jpg">https://image.tmdb.org/t/p/original/8QW7qjnJPPIDGTCqYThooeiTSYE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg">https://image.tmdb.org/t/p/original/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tENpQ0eU2fDhsh6HyPv9O1GddBW.jpg">https://image.tmdb.org/t/p/original/tENpQ0eU2fDhsh6HyPv9O1GddBW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kM3pVMJKbKvEuwerfoBU0N4INYa.jpg">https://image.tmdb.org/t/p/original/kM3pVMJKbKvEuwerfoBU0N4INYa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3umTIZOdBQQ07BxfjjEIrhybkwS.jpg">https://image.tmdb.org/t/p/original/3umTIZOdBQQ07BxfjjEIrhybkwS.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aVYien6hGy4RQzzepZg1q9cwSzE.jpg">https://image.tmdb.org/t/p/original/aVYien6hGy4RQzzepZg1q9cwSzE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/586fDuXDvtzIhoUW5COPVrgF8dE.jpg">https://image.tmdb.org/t/p/original/586fDuXDvtzIhoUW5COPVrgF8dE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/dR8MOgGYQj5uIWbkRSAb5aFKyBA.jpg">https://image.tmdb.org/t/p/original/dR8MOgGYQj5uIWbkRSAb5aFKyBA.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8075260</id>
+    <uniqueid type="imdb" default="true">tt8075260</uniqueid>
+    <uniqueid type="tmdb">515248</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Jennifer Kaytin Robinson</credits>
+    <director>Jennifer Kaytin Robinson</director>
+    <premiered>2019-04-19</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Likely Story</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BBd9gcrj2Wk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5542</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Gina Rodriguez</name>
+        <role>Jenny Young</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Mw6L8gpAhnXAgmJZkz85YxVmOt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brittany Snow</name>
+        <role>Blair</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/oaxjCPRUzaQO9NSRhyfVaHmr05c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>DeWanda Wise</name>
+        <role>Erin Kennedy</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/daQjduDoTzaDTC6SIsGWs55dzcM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Vack</name>
+        <role>Matt</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/iMK6qfo8uoGarj2xl6yyAZvHIIO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>RuPaul</name>
+        <role>Hype</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/c30bvYjCcBwggtrOrZaudXhVudt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lakeith Stanfield</name>
+        <role>Nate Davis</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/5AykKpsH8DMxIm144ET7fVVTQfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Moffat</name>
+        <role>Will</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/1BnloTmJWCTocPoKPd586MdUmZo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Naomi Jones</name>
+        <role>Leah</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/yZVyqJ4LrhChkuK2bzJR0gYSZ3c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaboukie Young-White</name>
+        <role>Mikey</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/8OYI8OqsMUpBZica4lM2odjgVH6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Buteau</name>
+        <role>Cynthia</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/mgAH1JsATQXsQPwquuNJpqux4TO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosario Dawson</name>
+        <role>Hannah</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/9MyVwYM5JiMnQvNiRVwX5k7Y5m5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Sidell</name>
+        <role>Gus</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Thomas Kopache</name>
+        <role>Old Man</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/mu8KYWiXCqgWIKNN6wXG9rXlTfm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Salvatore DiSanto</name>
+        <role>House of Yes Patron</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth De Abrew</name>
+        <role>Bodega Man</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ahmir-Khalib Thompson</name>
+        <role>Questlove</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/fAO3uL2UbtqLzjTQRvamyEfiLgA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Faith Logan</name>
+        <role>Gorgeous 169 Bar Patron (uncredited)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/c9sZ4TGDSIRQPEIGqUG23odJriS.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 13:44:38</dateadded>
+</movie>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Wilson</title>
+    <originaltitle>Wilson</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>9766</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>241</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Middle-aged and divorced, Wilson finds himself lonely, smug and obsessed with his past.</plot>
+    <tagline>Positively Negative.</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1hxFHEdRiDfiY42VxXCW6iYIpvG.jpg">https://image.tmdb.org/t/p/original/1hxFHEdRiDfiY42VxXCW6iYIpvG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qQCP5mbYloMkWG3hPrawkwXXP7e.jpg">https://image.tmdb.org/t/p/original/qQCP5mbYloMkWG3hPrawkwXXP7e.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/m63h5MxevYrKn3720hVgKZAx86S.jpg">https://image.tmdb.org/t/p/original/m63h5MxevYrKn3720hVgKZAx86S.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ytnWzIIslzTskv1Tvq5IOM4PhMZ.jpg">https://image.tmdb.org/t/p/original/ytnWzIIslzTskv1Tvq5IOM4PhMZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7e2QQiYzvQTPIRMGaD7kJi0xj6g.jpg">https://image.tmdb.org/t/p/original/7e2QQiYzvQTPIRMGaD7kJi0xj6g.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gIgj48ZIietr7Oke8wW5e74BYaG.jpg">https://image.tmdb.org/t/p/original/gIgj48ZIietr7Oke8wW5e74BYaG.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2y6yfZSXFiA0xvuK5FOEQzaAxLz.jpg">https://image.tmdb.org/t/p/original/2y6yfZSXFiA0xvuK5FOEQzaAxLz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cZr5milmwj3hLbcMxZc4yszwn0O.jpg">https://image.tmdb.org/t/p/original/cZr5milmwj3hLbcMxZc4yszwn0O.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/obuXeKuVkYjT7FhQo2BV4D1F6xS.jpg">https://image.tmdb.org/t/p/original/obuXeKuVkYjT7FhQo2BV4D1F6xS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5YH7hyugPCkl2UfndAkAgmsuDFc.jpg">https://image.tmdb.org/t/p/original/5YH7hyugPCkl2UfndAkAgmsuDFc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aNk9kvm2p2UthVhEdbYvxFKsu77.jpg">https://image.tmdb.org/t/p/original/aNk9kvm2p2UthVhEdbYvxFKsu77.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1781058</id>
+    <uniqueid type="imdb" default="true">tt1781058</uniqueid>
+    <uniqueid type="tmdb">346681</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Daniel Clowes</credits>
+    <director>Craig Johnson</director>
+    <premiered>2017-03-24</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Ad Hominem Enterprises</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JQebaL1gyxw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>5670</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Woody Harrelson</name>
+        <role>Wilson</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gaibtvUFIlwHzRvNKV5UfrR4GCM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Dern</name>
+        <role>Pippi</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Ryt0SsExqWrLTzBu6sZcbLwoDJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isabella Amara</name>
+        <role>Claire</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/hz2uP4Qjucj5my9rLc0FO9aWV2E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judy Greer</name>
+        <role>Shelly</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jW4ui3qQj7kH34OsmcNRsJ9fSdQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cheryl Hines</name>
+        <role>Polly</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/aOp8EZEKrY9Fz3GhOyJYlLOcfxg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margo Martindale</name>
+        <role>Alta</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Warshofsky</name>
+        <role>Orson</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/U5SSOSBHO35QdxiLxJezG93vaS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brett Gelman</name>
+        <role>Robert</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Lynn Rajskub</name>
+        <role>Jodie</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/rJxAkgYX3RfY9x2aYo2InbEp1HL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sandy Oian-Thomas</name>
+        <role>Dog Lover</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/aPsztHQ3HOdNivGpGdSwhKlrnUz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaun Brown</name>
+        <role>Laptop Man</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/gPRRhoelZLDmQpdu6dm6D2nNKwc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Robert Miller</name>
+        <role>Bearded Man</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/ooq02s4vKfppF2cNUjFLjWVe0qJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Saito</name>
+        <role>Warren Kudo</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/lA4woLg6MeSr7lK6hvBtY384kAU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Carlson</name>
+        <role>Men&apos;s Room Man</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Proctor</name>
+        <role>Silverwolf</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/8ClnmTQE2OhUrpObFipRSXhByFR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Roy</name>
+        <role>Aryan Brother</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/wUfyvTbrD9cpCPp1NgnuuhjsSd5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Bohne</name>
+        <role>Karl</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/zBe6eyNHbiEClW4Lwu2o8S7Mi75.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roxy Wood</name>
+        <role>Sinammon</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/8JxDOBWcC5VbVhVVoM5KFvD0PRM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wade Thalberg</name>
+        <role>Prison Guard</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/cNiTMPP9kTznqhkLxawc2SNFanz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mason Sheehy</name>
+        <role>Usher</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/g3Vyxwf80jJqM5PSWi6r25yMXR2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Rose Law</name>
+        <role>Monica</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/xiqSyyopf6VhPjuGtYaxxbg1BwH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Weber</name>
+        <role>Waitress</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/40tA89BxT9nTKIdqr8FSJURe79a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toussaint Morrison</name>
+        <role>Diego</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/hSNyH2WQvQffC1tDBChB2l217YX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Hawtrey</name>
+        <role>Commuter</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/86POuCpJ4jRkDpTiqefPLffawys.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn J. Hamilton</name>
+        <role>Attendant</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/4r2jYlkWfuyHyNBLsQjd6tSm7p1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tonita Castro</name>
+        <role>Nanny</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Weedman</name>
+        <role>Cat Lady</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/qnv0uDWV62sZZlaEIct7KPTKS3Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Benninghoffen</name>
+        <role>Annoying Customer</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIyWJB4ud1R2kAiEZjQF2wRLd5r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard Ooms</name>
+        <role>Edwin</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/AdZt3GRlVcnxn0Tmau4xxfoLBaI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimora Collins</name>
+        <role>Granddaughter</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/cZCPVEROiF4xmreD3b1IYynDgRP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Minjares</name>
+        <role>Taxi Driver</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/dr75CZaDH3hyg1jUREBkyqtXMRx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greta Oglesby</name>
+        <role>Belinda</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ac5ytI0l5xiYg8JrdXstZwJpuYe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Herron</name>
+        <role>Annoying Customer</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/sNaDBQsIZaIaZdIypeZDuOvbdF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miles Strommen</name>
+        <role>Aidan</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/7i2xWIrIwvxBLKdGkUzui7zGZkk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackson Bond</name>
+        <role>Rocky</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/mNNXKVUjmvcBKRokwlQrGvw595m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill McCallum</name>
+        <role>Will</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/2PHqegmGAlahc37nBbyu3liUEtG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alec George</name>
+        <role>Cooper</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/nBzhdhKMWOpnCHYbiOojcJqlXo2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nate Mooney</name>
+        <role>Allan Coffey</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/kBcIrVvc9hTAiUOERK2pCQgX1Iw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Cram</name>
+        <role>Piper</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/o8dKuDujy9KWSYUANNJazwo9qL1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Farabee</name>
+        <role>College Kid</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/caYcIaYNs0I7OaHpFUeyhCveKir.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Moore</name>
+        <role>Mr. Cassiday</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/8rbVoZIl7n7JM8eiCI5gXFGXu7x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gene Larche</name>
+        <role>Grim-Faced Con</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/dT33cTS08fznDADQCJckmQOqQbg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Loren Lazerine</name>
+        <role>Aryan #2</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/A5gJihvRH8WKXQyp8DPk0SMrZJm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sally Wingert</name>
+        <role>Gertrude</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/ykag9cTD0asz8odp3tmD3vT4vnk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan J. Gilmer</name>
+        <role></role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emeline O&apos; Hara</name>
+        <role></role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gwen Ruhoff</name>
+        <role></role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joel Thingvall</name>
+        <role></role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kirsten Gregerson</name>
+        <role>Soccer Mom / Dinosaur (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 20:39:20</dateadded>
+</movie>

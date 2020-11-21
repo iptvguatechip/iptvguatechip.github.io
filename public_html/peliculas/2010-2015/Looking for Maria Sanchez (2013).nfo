@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>200 Cartas</title>
+    <originaltitle>200 Cartas</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>404</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>4</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Raul, a Puerto Rican born in New York, meets Maria, a young Puerto Rican woman visiting NY, one night. Struck by love at first sight, he travels to Puerto Rico in search of this beautiful girl.</plot>
+    <tagline></tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/psbm5bExse9VV6tGvdrGdoc0h1C.jpg">https://image.tmdb.org/t/p/original/psbm5bExse9VV6tGvdrGdoc0h1C.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/85mCKKYyoP1UTjfTbm4wviAyeQc.jpg">https://image.tmdb.org/t/p/original/85mCKKYyoP1UTjfTbm4wviAyeQc.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2082155</id>
+    <uniqueid type="imdb" default="true">tt2082155</uniqueid>
+    <uniqueid type="tmdb">199415</uniqueid>
+    <genre>Romance</genre>
+    <genre>Comedia</genre>
+    <country>Puerto Rico</country>
+    <director>Bruno Irizarry</director>
+    <premiered>2013-06-14</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Vanguardia Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DeKiPGAc1PI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>180.000000</aspect>
+                <width>720</width>
+                <height>404</height>
+                <durationinseconds>5925</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lin-Manuel Miranda</name>
+        <role>Raul</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wi5QU6tt4Q70fdoprLuBmGBjfqs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaime Camil</name>
+        <role>Juan</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/3hxkykBr2ou03hvWKen8FKPDRwm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dayanara Torres</name>
+        <role>Yolanda</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ohEAE5O4FStORH3X4p3vHSuPdKc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Monica Steuer</name>
+        <role>Rebeca</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/idEftmWJUlkknt5sm0YlSxXfD6A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mayra Matos Perez</name>
+        <role>Maria Sanchez</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marisé Álvarez</name>
+        <role>Sara</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bruno Irizarry</name>
+        <role>Marcos</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/m8VZHitLkwG0AIxXv5GD2Qqii1q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Iris Chacón</name>
+        <role>Santera</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/x6u6kfVlBpI1hf9euad8oownEYZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pili Montilla</name>
+        <role>Daisy</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Neville Archambault</name>
+        <role>Scary Man</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/48p7k5w1xrrQsjpTcP4gwtx4TIg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel Isaac</name>
+        <role>Young College Guy</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Martinez</name>
+        <role>Nerdy Kid</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luis Raúl</name>
+        <role>Pedro</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Isaac Santiago</name>
+        <role>Big Guy #2</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alfredo de Quesada</name>
+        <role>Official Ramirez</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/7L8ZOLK3oNgTSddQou07PgN08iW.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-10 15:56:06</dateadded>
+</movie>

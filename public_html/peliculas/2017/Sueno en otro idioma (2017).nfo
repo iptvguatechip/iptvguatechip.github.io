@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Sueño en otro idioma</title>
+    <originaltitle>Sueño en otro idioma</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>2647</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.700000</value>
+            <votes>47</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un idioma milenario agoniza: sus dos últimos oradores, Evaristo e Isauro (años 70) tuvieron una pelea hace 50 años y no se han hablado desde entonces. Martin, un lingüista, emprenderá el desafío de reunir a los dos viejos amigos y convencerlos de que vuelvan a hablar para que pueda obtener un registro del idioma. Sin embargo, escondido en el pasado, en el centro de la jungla, yace un secreto escondido en el lenguaje que hace difícil creer que el corazón de Zikril latirá</plot>
+    <tagline></tagline>
+    <runtime>100</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5Mwjq6ey4ZWBzW6aCM3DTI6CZnI.jpg">https://image.tmdb.org/t/p/original/5Mwjq6ey4ZWBzW6aCM3DTI6CZnI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1NxBKQrtj6liidMxLYwi2uMUpPW.jpg">https://image.tmdb.org/t/p/original/1NxBKQrtj6liidMxLYwi2uMUpPW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xpKPIRlMhuhSvqL3nEftqlPW4wa.jpg">https://image.tmdb.org/t/p/original/xpKPIRlMhuhSvqL3nEftqlPW4wa.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2c7hnytwPd3stYJMmOEeekd72vV.jpg">https://image.tmdb.org/t/p/original/2c7hnytwPd3stYJMmOEeekd72vV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zvM5dcfrtD9pIDmNMthF5CXiF0y.jpg">https://image.tmdb.org/t/p/original/zvM5dcfrtD9pIDmNMthF5CXiF0y.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/afvHZQiHur4MUATo8NJ5qEfJn5I.jpg">https://image.tmdb.org/t/p/original/afvHZQiHur4MUATo8NJ5qEfJn5I.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/v774LWYYfd0HzRdFqZmSgg3aoiT.jpg">https://image.tmdb.org/t/p/original/v774LWYYfd0HzRdFqZmSgg3aoiT.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3278224</id>
+    <uniqueid type="imdb" default="true">tt3278224</uniqueid>
+    <uniqueid type="tmdb">355196</uniqueid>
+    <genre>Fantasía</genre>
+    <genre>Drama</genre>
+    <country>Mexico</country>
+    <credits>Carlos Contreras</credits>
+    <director>Ernesto Contreras</director>
+    <premiered>2017-07-28</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Alebrije Producciones</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D3jb2cvR3EU</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>6047</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Fernando Álvarez Rebeil</name>
+        <role>Martin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/i7yfBKwP6Tk89MEaOkFWE5UTSRk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eligio Meléndez</name>
+        <role>Evaristo</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xE0PKQul9IEs2uYeh9BCfNBEHTs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Manuel Poncelis</name>
+        <role>Isauro</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lYSBarK2v4xfXzsjPnfyCLu5oJj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fátima Molina</name>
+        <role>Lluvia</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gOSojsAsvUvazIxF3mOHUR8JRKz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Pablo de Santiago</name>
+        <role>Evaristo joven</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/gqo3C9K4CpzQQ66OXu4uouhWmej.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hoze Meléndez</name>
+        <role>Isauro joven</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/sTSmKSwuRFgJF1j2BmO7CB7rdqv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norma Angélica</name>
+        <role>Flaviana</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/Ascw5Z1craqU5I3CbDYF44gvGsT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mónica Miguel</name>
+        <role>Jacinta</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/r5rOwcbIGStXgmxdeav7A9UirNw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicolasa Ortíz Monasterio</name>
+        <role>María</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/1U791LXpmGCZUVaxCZi6dI5AFyA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Héctor Jiménez</name>
+        <role>Santiago</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8eNizTOeHjpjMiTJziLgdlf09wO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Concepción Macías</name>
+        <role>Fausto</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gabriela Cartol</name>
+        <role>Marthita</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/izorcJVkpdPIukzP2FNMNkQWAhD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Antonio Llanes</name>
+        <role>Sacerdote</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mardonio Carballo</name>
+        <role>Silverio</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:42:07</dateadded>
+</movie>

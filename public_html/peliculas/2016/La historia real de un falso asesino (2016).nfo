@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La historia real de un falso asesino</title>
+    <originaltitle>True Memoirs of an International Assassin</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>19890</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>558</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de que un editor cambie la novela de un escritor de debut sobre un asesino mortal de la ficción a la no ficción, el autor se encuentra empujado en el mundo de su personaje principal, y debe asumir el papel de su personaje para su propia supervivencia.</plot>
+    <tagline>The man. The myth. The memoirs.</tagline>
+    <runtime>98</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iTsQxFvpSOMvuXtEULmfPxAzghY.jpg">https://image.tmdb.org/t/p/original/iTsQxFvpSOMvuXtEULmfPxAzghY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qQYA9wqbaxZ9vYVzrGGg413XIm2.jpg">https://image.tmdb.org/t/p/original/qQYA9wqbaxZ9vYVzrGGg413XIm2.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8YXVfwmXoGgxvk0P9xaZMFd34Cj.jpg">https://image.tmdb.org/t/p/original/8YXVfwmXoGgxvk0P9xaZMFd34Cj.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6hpgVK52znDgVOmKaRf7cIH4yhK.jpg">https://image.tmdb.org/t/p/original/6hpgVK52znDgVOmKaRf7cIH4yhK.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1542768</id>
+    <uniqueid type="imdb" default="true">tt1542768</uniqueid>
+    <uniqueid type="tmdb">339396</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Acción</genre>
+    <country>United States of America</country>
+    <credits>Jeff Wadlow</credits>
+    <credits>Jeff Morris</credits>
+    <director>Jeff Wadlow</director>
+    <premiered>2016-11-11</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>PalmStar Media</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E6l4xrEjFY8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5909</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Kevin James</name>
+        <role>Sam Larson / Mason Carver</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/nSLuzz4KoycSP5vyUsdju3y4Xtw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kim Coates</name>
+        <role>President Cueto</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/hf6UgIErtcUyFEThOBo6Vb6mACz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurice Compte</name>
+        <role>Juan</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/dOB9nwdVsJezrLAJu1WSTVigFsY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zulay Henao</name>
+        <role>Rosa Bolivar</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Ml8SyHeGj9BfYTaiGxFL358fI2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Howard</name>
+        <role>Anton Masovich</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lKuZYelO5zUzJ3AqkjV9us1mZLa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Rifkin</name>
+        <role>Amos</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yul Vazquez</name>
+        <role>Gen. Ruiz</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/8AeBmhIMia6gF5PO5SF3PRznD3M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>P. J. Byrne</name>
+        <role>Trent</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/sKqr3A3LjLYlRCXJGJI8rjpdMOs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelen Coleman</name>
+        <role>Kylie Applebaum</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/g0PqX0spujEGTbRZeWGjMBJlGuS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonard Earl Howze</name>
+        <role>Michael Cleveland</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/cvfTYHb8qKD97JmBEei0aklRmlb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Riggle</name>
+        <role>William Cobb</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/wh95Pi0i2ESJtZTtN6WwtfHiGDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy García</name>
+        <role>El Toro</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/8JehpGGaW6BU5m4e4QURlR8Isg8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Belevtsov</name>
+        <role>Merc</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/8oghqsjK6Pyvc1r9Zndilgl3EOV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Chase</name>
+        <role>La Roche</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/wq2fN9eMTMBfb83kmmCcl0KhRUS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Couric</name>
+        <role>Katie Couric</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/t9oLqo7SBvuWFGAjYJ0ZfnGBjBX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel &apos;G-Rod&apos; Rodriguez</name>
+        <role>Heavy</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/t7GOyMDDMYWRwnQveCEUFDSapk7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Al Hamacher</name>
+        <role>Paolo</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Shaw</name>
+        <role>Sabine</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/wKhpuMDKopwmK1XBfBpk87B2rJA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emilie Ullerup</name>
+        <role>Stephanie</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/nIELqej3BnFwWdKZ9T7XHDRODf5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Williams-Lopez</name>
+        <role>Cafe Luna Bus Boy</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/dJWQpzZDX9CbwVSpVfS5UByk8cS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Zacapa</name>
+        <role>Detective Diego Garcia</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/oiqkan5Gflsf8wKd6Zn9YHk2I0Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keila J. Brown</name>
+        <role>Starbucks Worker #1</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/zPtYFW5tIkvnoNZ2cgRCHYaTNu3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kris Hazard</name>
+        <role>Starbucks Worker #2</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emmanuel Cruz Sánchez</name>
+        <role>Presidential Security #1</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Raeldo López Ortiz</name>
+        <role>Presidential Security #2</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jordi Caballero</name>
+        <role>Choreographer / Dance Double Masovich</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/kHTPZBlO9KSow33QIxtCpbWcpTc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jay Amor</name>
+        <role>Kidnapper (uncredited)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/9m0sWuPgs1vNU7NulTDfJUM7zkE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael A. Blank</name>
+        <role>Insurance Agency Worker (uncredited)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/7Md87Wj0NKDINiZJIoZLxAgaidy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kris Bunch</name>
+        <role>Coffee Shop Patron (uncredited)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Collier</name>
+        <role>Insurance Agent (uncredited)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Moises Felix</name>
+        <role>Guerrille (uncredited)</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Till Holt</name>
+        <role>Russian Bodyguard (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Kankolenski</name>
+        <role>Patron (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taniesha Latrice</name>
+        <role>Coffee Shop Patron (uncredited)</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sam Medina</name>
+        <role>Mercenary (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/9xDO3sxBcO3tsDXknlKJuepeFwl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joan Peña</name>
+        <role>Guard (uncredited)</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/8PFQk8ue1Nda4e6sT8twzlpBewf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Silva</name>
+        <role>Presidential Guard (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/e28fkOrSoYtfrUKmS6Jrua3fcpp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leigh Takata</name>
+        <role>Coffee Patron (uncredited)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/qiVI65PM6lorV7oY6gT1xXLGFH0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarai Tinck</name>
+        <role>New York City Pedestrian (uncredited)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruben Vidal</name>
+        <role>Venezuela Officer #1 (uncredited)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/27w82EyKwgnLZzc2wP0xbHu7y7B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Whit Whitman</name>
+        <role>Russian Body Guard (uncredited)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/bFLJTHpUESPk65ygw8K7ygfyl1W.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chanel Young</name>
+        <role>Starbucks Patron (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/t4ulEAF7Ghyuuf34DDMWq5JurBQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cheyanna Lavon Zubas</name>
+        <role>Girl in Pool / Sexy Girl (uncredited)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/o1niXufCWPrT3lK26wTsS8Xrjkk.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-21 13:12:46</dateadded>
+</movie>

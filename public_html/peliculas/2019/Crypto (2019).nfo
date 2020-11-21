@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Crypto</title>
+    <originaltitle>Crypto</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>3157</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>112</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Martin es uno de los agentes del FBI más prometedores de todo Wall Street. Sin embargo, tras una disputa con sus jefes, el joven debe trasladarse a su ciudad natal y trabajar desde allí. Al poco tiempo, Martin comprende que su relocalización ha sido de todo menos una coincidencia.</plot>
+    <tagline>Crypto</tagline>
+    <runtime>105</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eSeYalxGSsB69rJj4EVy6W4HI7g.jpg">https://image.tmdb.org/t/p/original/eSeYalxGSsB69rJj4EVy6W4HI7g.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fzTvnA3buXsjdmjrYRDozKBFF78.jpg">https://image.tmdb.org/t/p/original/fzTvnA3buXsjdmjrYRDozKBFF78.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yKMzEg3H6xWuho1p1sWSEdSATae.jpg">https://image.tmdb.org/t/p/original/yKMzEg3H6xWuho1p1sWSEdSATae.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/82mma6IO4soJhU9yhYcsFoPeRQw.jpg">https://image.tmdb.org/t/p/original/82mma6IO4soJhU9yhYcsFoPeRQw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dgB6iFz3f6CKLsrF5M6lLhs4MAG.jpg">https://image.tmdb.org/t/p/original/dgB6iFz3f6CKLsrF5M6lLhs4MAG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/glS7uq69Mm7LOfsfdCjSo57roYW.jpg">https://image.tmdb.org/t/p/original/glS7uq69Mm7LOfsfdCjSo57roYW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/acScZ9oLbSHOEoaNdF8MVvPTBUx.jpg">https://image.tmdb.org/t/p/original/acScZ9oLbSHOEoaNdF8MVvPTBUx.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xz5I9tqoSnaauJwNV1zyt17SQTi.jpg">https://image.tmdb.org/t/p/original/xz5I9tqoSnaauJwNV1zyt17SQTi.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4XT591GqHTqnhjSPaxlU79CclyP.jpg">https://image.tmdb.org/t/p/original/4XT591GqHTqnhjSPaxlU79CclyP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vV0HehKNZe6REvfSBaxylKxRPDW.jpg">https://image.tmdb.org/t/p/original/vV0HehKNZe6REvfSBaxylKxRPDW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1s9fMh2TALuBqGSc0wET8HwUEf8.jpg">https://image.tmdb.org/t/p/original/1s9fMh2TALuBqGSc0wET8HwUEf8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4bCWpQiOtLKQ1UUU9xdrIfj5noR.jpg">https://image.tmdb.org/t/p/original/4bCWpQiOtLKQ1UUU9xdrIfj5noR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ksZav27prOZfluTw9XB1sGLX5le.jpg">https://image.tmdb.org/t/p/original/ksZav27prOZfluTw9XB1sGLX5le.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tPkmb7wppOxEdJ6MyhGAezKXtGB.jpg">https://image.tmdb.org/t/p/original/tPkmb7wppOxEdJ6MyhGAezKXtGB.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8563452</id>
+    <uniqueid type="imdb" default="true">tt8563452</uniqueid>
+    <uniqueid type="tmdb">567733</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Crimen</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>David Frigerio</credits>
+    <credits>Carlyle Eubank</credits>
+    <director>John Stalberg Jr.</director>
+    <premiered>2019-04-12</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Film Mode Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_tbY8gclLYY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>722</height>
+                <durationinseconds>6348</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Beau Knapp</name>
+        <role>Martin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/246hy6vVtTQ26R8iXHCXcwwbGSu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexis Bledel</name>
+        <role>Katie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xsg2WLtKhLDF4DX5uyEAMNaM7bG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Hemsworth</name>
+        <role>Caleb</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9ojAbulUrowMBTfwnBVqir8xFJu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kurt Russell</name>
+        <role>Martin Sr.</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremie Harris</name>
+        <role>Earl</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ch08czz0JbGFm346bDpoladXwsG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jill Hennessy</name>
+        <role>Robin</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/9FDQRFcrk4pT8SIc6JRougkHChI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Kartheiser</name>
+        <role>Ted</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/n1kHTSY6cnM4mQXkWQV0jQQXglP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Malaya Rivera Drew</name>
+        <role>Penelope</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/7bpjBD32uUQsyDeeL9dpqeBD7O5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marsha Dietlein</name>
+        <role>Janice</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John D. Hickman</name>
+        <role>Bill</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/um4ptUtpUBZoHTZlr1EaCdJRoH2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zac Weinstein</name>
+        <role>Drew</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/yBemxGxKrTTB0rm69L2qxxhAB5E.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cat Alter</name>
+        <role>Amy</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Annalé</name>
+        <role>Cindy</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Cullen</name>
+        <role>Bernard</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/1zE3CeOpps8mhUu12HnSyzxT8Vc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Davis</name>
+        <role>Board Member</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Delora</name>
+        <role>Karaoke Singer</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gabe Fazio</name>
+        <role>Peter</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rockie Frigerio</name>
+        <role>Molly</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rich Lounello</name>
+        <role>Agent Dixon</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/d9DtY0YQfCw2ezJkBfoJK5Zl2Gx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mareli</name>
+        <role>Anna</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Mazzucchelli</name>
+        <role>Angie</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron Menzel</name>
+        <role>Nikos</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/76qm2mL07SeeUQRcNYI2eamkW6R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Moccia</name>
+        <role>Delivery Guy</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wayne Pyle</name>
+        <role>Terry Wright</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/tzgSJOPeqXbAldO4f8FQHnqQ0k2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noel Ramos</name>
+        <role>Farmworker</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael J. Rothstein</name>
+        <role>Board Member</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joseph Siprut</name>
+        <role>Viktor</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Thomas</name>
+        <role>FBI Agent</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Tompkins</name>
+        <role>Officer Braddock</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/lh0LLIWlnSnTg2ZaSvI61T3OTiY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vinnie Velez</name>
+        <role>FBI Agent</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jermaine Wells</name>
+        <role>News Anchor</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven R. Zebrak</name>
+        <role>Board Member</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rosemary Howard</name>
+        <role>Bank Employee (uncredited)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/DJj5tzb25LanRIeHoNtDccNm7b.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-05 19:03:21</dateadded>
+</movie>

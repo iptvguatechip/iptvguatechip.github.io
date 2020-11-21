@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Capitán Sharky</title>
+    <originaltitle>Käpt&apos;n Sharky</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>68</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>6</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Sharky no puede leer ni escribir, ni siquiera contar correctamente. Pero esas cosas no son importantes para &quot;El terror de los mares&quot; y están compensados por un gran ego. Con Mikey, un joven normal cuya ordenada vida ha estallado debido a la espontaneidad de Sharky, y Bonnie, una problemática chica que tiende a asumir el mando en cada situación para gran consternación de Sharky, disfrutarán de aventuras marineras de saqueo, pillaje y piratería. Lo que comienza como una alianza pura de conveniencia, se convertirá en una exploración de temas como la amistad, la equidad, la lealtad, la tolerancia y lo que significa ser un héroe.</plot>
+    <tagline></tagline>
+    <runtime>76</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gzzLxFHwbuc0T9KfhAMZkarwUZd.jpg">https://image.tmdb.org/t/p/original/gzzLxFHwbuc0T9KfhAMZkarwUZd.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a8FPKGdqcNpY2SVte8Lcj29PLBV.jpg">https://image.tmdb.org/t/p/original/a8FPKGdqcNpY2SVte8Lcj29PLBV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b1go5HvY4l72flxtbKtfQEVtM3p.jpg">https://image.tmdb.org/t/p/original/b1go5HvY4l72flxtbKtfQEVtM3p.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rInhh5UvtcZt31YmfgqsSUJi8X.jpg">https://image.tmdb.org/t/p/original/rInhh5UvtcZt31YmfgqsSUJi8X.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7437638</id>
+    <uniqueid type="imdb" default="true">tt7437638</uniqueid>
+    <uniqueid type="tmdb">517800</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>Germany</country>
+    <director>Hubert Weiland</director>
+    <director>Jan Stoltz</director>
+    <premiered>2018-08-30</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IVU3BZ2bUsI</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>239.000000</aspect>
+                <width>1912</width>
+                <height>1032</height>
+                <durationinseconds>4616</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Axel Prahl</name>
+        <role>Alter Bill</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/c5DLDLoo62cHCnDnEdMmQypNuNQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jule Hermann</name>
+        <role>Bonnie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/jVkjBALuJIPidtEdRVT0BMPGVL4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anton Petzold</name>
+        <role>Käpt&apos;n Sharky</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:18:32</dateadded>
+</movie>

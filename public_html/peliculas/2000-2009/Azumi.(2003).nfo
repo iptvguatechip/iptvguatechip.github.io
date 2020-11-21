@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Azumi</title>
+    <originaltitle>あずみ</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.800000</value>
+            <votes>14256</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>198</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Azumi, joven huérfana, es acogida por un anciano guerrero del Japón feudal, maestro de artes marciales, que la entrenará junto a otros nueve jóvenes en el dominio de las mejores técnicas del combate de sable. Tras muchos años de perfeccionamiento, los diez compañeros, convertidos en guerreros asesinos, tendrán que enfrentarse a la prueba definitiva: derrotar a un ejército de despiadados tiranos feudales.</plot>
+    <tagline>From The Ravages of War Raises An Assassin</tagline>
+    <runtime>135</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bN2eHDlh6vxgChvimEoIjLlVkBv.jpg">https://image.tmdb.org/t/p/original/bN2eHDlh6vxgChvimEoIjLlVkBv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8h4iYjpmV4cfJNf0vto2HfIYREJ.jpg">https://image.tmdb.org/t/p/original/8h4iYjpmV4cfJNf0vto2HfIYREJ.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/mMdYpXtrkIIE1JwkqoyDOPmpnIw.jpg">https://image.tmdb.org/t/p/original/mMdYpXtrkIIE1JwkqoyDOPmpnIw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3pnMViIDP6whWXnTBq7ibQipSyS.jpg">https://image.tmdb.org/t/p/original/3pnMViIDP6whWXnTBq7ibQipSyS.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/chfbphfHBVrNnKXdwidJkIiU8gL.jpg">https://image.tmdb.org/t/p/original/chfbphfHBVrNnKXdwidJkIiU8gL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qF489drNe6eacQH252vfSIANMo8.jpg">https://image.tmdb.org/t/p/original/qF489drNe6eacQH252vfSIANMo8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oKGaTHGcveMKUalGLmEIt5CUgNj.jpg">https://image.tmdb.org/t/p/original/oKGaTHGcveMKUalGLmEIt5CUgNj.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0384819</id>
+    <uniqueid type="imdb" default="true">tt0384819</uniqueid>
+    <uniqueid type="tmdb">5889</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <genre>Acción</genre>
+    <genre>Suspense</genre>
+    <genre>Romance</genre>
+    <country>Japan</country>
+    <set>
+        <name>Azumi - Colección</name>
+    </set>
+    <credits>Isao Kiriyama</credits>
+    <director>Ryûhei Kitamura</director>
+    <premiered>2003-05-10</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Amuse Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XmI86tMnNmY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>467.000000</aspect>
+                <width>1868</width>
+                <height>1080</height>
+                <durationinseconds>8101</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>jpn</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle>
+                <language></language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Aya Ueto</name>
+        <role>Azumi</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/tbUiUmweRnXZ30DnAEvt6ha86sn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shun Oguri</name>
+        <role>Nachi</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiroki Narimiya</name>
+        <role>Ukiha</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/aeiFCkVeGtxgqN2llxiP3C4xLoo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenji Kohashi</name>
+        <role>Hyuga</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Takatoshi Kaneko</name>
+        <role>Amagi</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yuma Ishigaki</name>
+        <role>Nagara</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yasuomi Sano</name>
+        <role>Yura</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shinji Suzuki</name>
+        <role>Awa</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eita</name>
+        <role>Hiei</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/3XDroHSizCyDUm4X4xy32uodAJl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shogo Yamaguchi</name>
+        <role>Komoru</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kazuki Kitamura</name>
+        <role>Inoue, Kanbe&apos;e</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/p8Z8rkMo8IdrKCogudLbMe35jkW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken&apos;ichi Endô</name>
+        <role>Isshin Sajiki</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/ywFJyl39dPBVkO74NsluedXpdCT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazuya Shimizu</name>
+        <role>Nisai Sajiki</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Minoru Matsumoto</name>
+        <role>Saru</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tak Sakaguchi</name>
+        <role>Sajiki brother #2</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/xtWTyGht79KzhcZ5M8legV8N1fz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hideo Sakaki</name>
+        <role>Nagato</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/yOJwyuVpPZi2XB5SuKcjkSWX4uY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Odagiri</name>
+        <role>Bijomaru Mogami</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/nHKEVec5JnXX9hOAb36sqlN4dlB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryō</name>
+        <role>Osowareru Haha-Oya</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/86WMAI4yeFTgilEdmlEnpVRuSSt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yoshio Harada</name>
+        <role></role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/uTOKwsTcqVzKZsQatEWGBrOq2U0.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-31 17:12:28</dateadded>
+</movie>

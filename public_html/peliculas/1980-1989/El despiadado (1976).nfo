@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El despiadado</title>
+    <originaltitle>El despiadado</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.600000</value>
+            <votes>7</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.000000</value>
+            <votes>3</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Basado en la historia real de un narcotraficante, que paradójicamente encontró su libertad dentro de la cárcel.</plot>
+    <tagline>Un ser desalmado encontrará lo que jamás imagino</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lfWI76UsYcJsy3ReTBNFzm4TzqX.jpg">https://image.tmdb.org/t/p/original/lfWI76UsYcJsy3ReTBNFzm4TzqX.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0393205</id>
+    <uniqueid type="imdb" default="true">tt0393205</uniqueid>
+    <uniqueid type="tmdb">494605</uniqueid>
+    <genre>Drama</genre>
+    <country>Mexico</country>
+    <director>Paco del Toro</director>
+    <premiered>1990-12-25</premiered>
+    <year>1990</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Armagedon Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nwGh9CeX-Nk</trailer>
+    <actor>
+        <name>Fernando Ciangherotti</name>
+        <role>Pedro</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/4MGu9rW8EtfZbfUCI4r05noHaup.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Ligarde</name>
+        <role>El Cuñado</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/60UIKbXhuC9dZ1PLSSWI1Qz8ZoM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alejandro Subirato</name>
+        <role>Luis</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 21:30:15</dateadded>
+</movie>

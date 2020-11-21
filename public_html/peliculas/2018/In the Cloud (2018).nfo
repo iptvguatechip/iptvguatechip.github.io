@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>In the Cloud</title>
+    <originaltitle>In the Cloud</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.800000</value>
+            <votes>325</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.300000</value>
+            <votes>18</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>La película trata sobre una compañía de tecnología, que está desarrollando un software capaz de cargar la conciencia y los recuerdos de una persona a un espacio virtual.</plot>
+    <tagline>Can a pair of tech geniuses brave the demented mind of a terrorist to stop the next bomb?</tagline>
+    <runtime>88</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4EPxPtPbgbid2bBvwJ1PbW1KLgL.jpg">https://image.tmdb.org/t/p/original/4EPxPtPbgbid2bBvwJ1PbW1KLgL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/g5U95jGGKRpQmnDxn8s7l0KlzPh.jpg">https://image.tmdb.org/t/p/original/g5U95jGGKRpQmnDxn8s7l0KlzPh.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qywXedlLvhdcQh3OIHS6Gt1vxMo.jpg">https://image.tmdb.org/t/p/original/qywXedlLvhdcQh3OIHS6Gt1vxMo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/llxNoAQFIisTvq5KbLZmyyEtdBy.jpg">https://image.tmdb.org/t/p/original/llxNoAQFIisTvq5KbLZmyyEtdBy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/g8lO4J5YTasCSq0UoxIWd1PtwCv.jpg">https://image.tmdb.org/t/p/original/g8lO4J5YTasCSq0UoxIWd1PtwCv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wb8buYm5Lipwyro5Bypn5ArfKJn.jpg">https://image.tmdb.org/t/p/original/wb8buYm5Lipwyro5Bypn5ArfKJn.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7381444</id>
+    <uniqueid type="imdb" default="true">tt7381444</uniqueid>
+    <uniqueid type="tmdb">503517</uniqueid>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Vanya Asher</credits>
+    <director>Robert Scott Wildes</director>
+    <premiered>2018-02-08</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Automatik Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=clPISlYlxW8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5284</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>znd</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Justin Chatwin</name>
+        <role>Hale</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/rG1NK1SD1XPnAxpb6rrxwqpF4ni.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tomiwa Edun</name>
+        <role>Theo Jones</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/v6c64iaJWtUa4zkwvvo5msxvBlF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Byrne</name>
+        <role>Doc Wolff</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vZ5amSGl8iSSK7C7WLKCN4EewnM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nora Arnezeder</name>
+        <role>Suzanna</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/6I1x7HVeUtHKXNSLikIOhBWqViG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Fraser</name>
+        <role>Mary</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/hOgkyPtP5WOjcQjc7RmmKJl3OGE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charlie Carver</name>
+        <role>Jude</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/cQE2TFwuj6eBLdz2x011cDzJvPJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Carver</name>
+        <role>Caden</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/wgUd0UiIDuUusGWy0ayyD8I4Ak.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:52:08</dateadded>
+</movie>

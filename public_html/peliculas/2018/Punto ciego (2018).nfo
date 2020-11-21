@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Punto ciego</title>
+    <originaltitle>Blindspotting</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.400000</value>
+            <votes>26395</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>383</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Collin debe superar sus últimos tres días de prueba para tener la oportunidad de un nuevo comienzo. Él y su problemático mejor amigo de la infancia, Miles, trabajan como activistas, y cuando Collin es testigo de un tiroteo de la policía, la amistad de los dos hombres se pone a prueba mientras lidian con la identidad y sus realidades cambiantes en el vecindario en el que crecieron.</plot>
+    <tagline>Change the way you see.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n1yRy2A6U9KhldlvJj99lceALmr.jpg">https://image.tmdb.org/t/p/original/n1yRy2A6U9KhldlvJj99lceALmr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg">https://image.tmdb.org/t/p/original/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c4UvwoMmQiztTqeUnExDU5hoCdP.jpg">https://image.tmdb.org/t/p/original/c4UvwoMmQiztTqeUnExDU5hoCdP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cOsVfb5jR2C46efrZbILo20V003.jpg">https://image.tmdb.org/t/p/original/cOsVfb5jR2C46efrZbILo20V003.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lZJXk9MwUmed2dlrL7fJXMqohmY.jpg">https://image.tmdb.org/t/p/original/lZJXk9MwUmed2dlrL7fJXMqohmY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hg7enYKqbdQMrez4cil0lt9Svsk.jpg">https://image.tmdb.org/t/p/original/hg7enYKqbdQMrez4cil0lt9Svsk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kRyQoqKI0ehT0vFVcALEbkPnu8r.jpg">https://image.tmdb.org/t/p/original/kRyQoqKI0ehT0vFVcALEbkPnu8r.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xZSsakhFkIiaVxw2f8H80eSFc4j.jpg">https://image.tmdb.org/t/p/original/xZSsakhFkIiaVxw2f8H80eSFc4j.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2S0hO8zaIKGPhZazDAjBdxM4ARg.jpg">https://image.tmdb.org/t/p/original/2S0hO8zaIKGPhZazDAjBdxM4ARg.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9xVqFC2rK6ej4SMRXqeJgCZGIh1.jpg">https://image.tmdb.org/t/p/original/9xVqFC2rK6ej4SMRXqeJgCZGIh1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/keqZ5Y9rQLPg0w5hgMuYB0MiN6A.jpg">https://image.tmdb.org/t/p/original/keqZ5Y9rQLPg0w5hgMuYB0MiN6A.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y0ZXFxxY9N3ZePBgoF8oXeQi66H.jpg">https://image.tmdb.org/t/p/original/y0ZXFxxY9N3ZePBgoF8oXeQi66H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zIVYiWUoRfmXiPFYFzZDN9QNBzZ.jpg">https://image.tmdb.org/t/p/original/zIVYiWUoRfmXiPFYFzZDN9QNBzZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/f0Jdjgoq8fTIH2teQdakynleZl9.jpg">https://image.tmdb.org/t/p/original/f0Jdjgoq8fTIH2teQdakynleZl9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uyRGtBbsp0D4c2C5UngUF37S44U.jpg">https://image.tmdb.org/t/p/original/uyRGtBbsp0D4c2C5UngUF37S44U.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/exBMtfPoV8Ii0yh5pGFcjZMrmER.jpg">https://image.tmdb.org/t/p/original/exBMtfPoV8Ii0yh5pGFcjZMrmER.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg">https://image.tmdb.org/t/p/original/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6H2RyLVxVLdOWrOC8ZxmQh0REEA.jpg">https://image.tmdb.org/t/p/original/6H2RyLVxVLdOWrOC8ZxmQh0REEA.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qNYL8EAUPvTaiW1hVavX1vIWVcl.jpg">https://image.tmdb.org/t/p/original/qNYL8EAUPvTaiW1hVavX1vIWVcl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d3m59GlnJQdb4taaHYTGVT7c3RJ.jpg">https://image.tmdb.org/t/p/original/d3m59GlnJQdb4taaHYTGVT7c3RJ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/icYJH1o0T4wlK5AQ5zkEo0GfLT.jpg">https://image.tmdb.org/t/p/original/icYJH1o0T4wlK5AQ5zkEo0GfLT.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cIzyKbQnv0d8U22gPAKv3CmTv0q.jpg">https://image.tmdb.org/t/p/original/cIzyKbQnv0d8U22gPAKv3CmTv0q.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7242142</id>
+    <uniqueid type="imdb" default="true">tt7242142</uniqueid>
+    <uniqueid type="tmdb">489930</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Daveed Diggs</credits>
+    <credits>Rafael Casal</credits>
+    <director>Carlos López Estrada</director>
+    <premiered>2018-07-20</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Summit Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-9-HBqVbtTo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>477.000000</aspect>
+                <width>1908</width>
+                <height>1024</height>
+                <durationinseconds>5720</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Daveed Diggs</name>
+        <role>Collin</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/v4VmQP0iFFW7SU2ouE2Qhu27Hgy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rafael Casal</name>
+        <role>Miles</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9PaSpVV6aU3rtFXG7oOpnEu92gv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janina Gavankar</name>
+        <role>Val</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pvywjGmHdJFuR0DLmrGbrii6MKm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jasmine Cephas Jones</name>
+        <role>Ashley</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/lT0BC4xmluVmjo3yIGxTqHPqa9p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Embry</name>
+        <role>Officer Molina</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/yqMZBygvWopHqulGxM4hKMr5S0s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tisha Campbell-Martin</name>
+        <role>Mama Liz</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/keuc8jAfEM2fRce0P8FvLclwlYg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Utkarsh Ambudkar</name>
+        <role>Rin</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/wqb2EjDcJ5AKlZQuH7zV9jURs9B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wayne Knight</name>
+        <role>Patrick</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/xlGqbZjn48xAUa7eqTybZP360w0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Carroll</name>
+        <role>James</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4SiddRCkzh1IEDAWghewExKK2IM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lance Holloway</name>
+        <role>Curtis &apos;Cuttie&apos; Cutworth</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nyambi Nyambi</name>
+        <role>Yorkie</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/rCrbs5tcl45901Bc48AM7SDdRcx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Chaffin</name>
+        <role>Dez</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/tzIrDkyqFEylQqRlZGzE6h37daU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Margo Hall</name>
+        <role>Nancy</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ziggy Baitinger</name>
+        <role>Sean &apos;Ziggy&apos; Jones</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Travis Parker</name>
+        <role>Randall Marshall</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9n9op2LoOYLpF0dTonbObpZfswu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Chu Cary</name>
+        <role>Tin</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/7ecsAxR9WBeliKAUA0NIDOg33i4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Casey Adams</name>
+        <role>Chet</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/i3neS6yfkqGYrqIatX8kdPrifAX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Rhys Kan</name>
+        <role>Marty</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Justin Liu</name>
+        <role>Jimmy</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aviel Ayoung</name>
+        <role>Terry</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rolanda D. Bell</name>
+        <role>Nak</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John K. Moeslein</name>
+        <role>Sid</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sarah Kay</name>
+        <role>Angela</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>George Watsky</name>
+        <role>Tanner</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/pa9IOCC8JQjMEjHsNBPliEQqq3b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kendra Andrews</name>
+        <role>Rachel Molina</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/rEW3q8anzDs1ffTRPnXZMaTg09h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Ambriz DeColosio</name>
+        <role>Tel</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/6x1hrHnkJeU5F23r0HzNEJbcO3a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zack Duhame</name>
+        <role>Officer Farmer</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/mI6sdZQaeHDi3jXinS4g1jizywk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amanda Encelan</name>
+        <role>Tina</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rahul Gupta</name>
+        <role>Clerk</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt McAbee</name>
+        <role>Eddie</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/2AiIPIw4XNOamA0pqynJde5s1D9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron Foxly</name>
+        <role>Tall Biker</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Luis Carlos Muñoz</name>
+        <role>Officer in Car</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chris Harding</name>
+        <role>Bunny Skylar</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rashida Clendening</name>
+        <role>Beauty Shop Patron</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Fitzsimmons</name>
+        <role>Another Addict</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tina Gilton</name>
+        <role>Woman with ID</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cassie Hendry</name>
+        <role>Bar Patron</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Camryn Howard</name>
+        <role>Kes</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Johnson</name>
+        <role>Couch Man</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dawayne Jordan</name>
+        <role>Cemetary Man</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/wi5jzeFr1BuJkN5UMUcl6sxvnSU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Lobato</name>
+        <role>Diner Patron</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/kDGn0nVngWGwp4A3x1wFYZDx32Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yoli Mapp</name>
+        <role>Diner Patron</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/b0HbU0fE43nwbELRCUwFklLNB1g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelli McCrann</name>
+        <role>Couch Girl</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/h7MZ68BqKUekRcPnmJPDeYaxRBC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Michael McGrory</name>
+        <role>Diner Patron</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ke&apos;Mari Moore</name>
+        <role>Ghost</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/cmhq0naTOoDV8WrTmWsM88ZpbHp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon H. Morgan</name>
+        <role>Bartender</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vaughn Myovich</name>
+        <role>Bar Patron</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leland Orser</name>
+        <role>Judge</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/vvVcWhActW8k2gQz95UatVP4Duf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geoffrey Quan</name>
+        <role>Herbert G.</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Molly Shaiken</name>
+        <role>Bar Patron</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/2AxUXtaFFwTokW92SizKJXmDQuw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Wiig</name>
+        <role>Uptight Guy</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/jAik0bIUNcgS0hORvSKTpHhPnlg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tywain Willis</name>
+        <role>Ghost</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rayna Angélique</name>
+        <role>Hair Salon Customer (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian Sampson</name>
+        <role>Oakland Police Officer (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Groff</name>
+        <role>Man by Fence (Uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:53:25</dateadded>
+</movie>

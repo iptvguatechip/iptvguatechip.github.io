@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Carol</title>
+    <originaltitle>Carol</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>113171</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.500000</value>
+            <votes>2590</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Nueva York, años 50. Therese Belivet (Rooney Mara), una joven dependienta de una tienda de Manhattan que sueña con una vida mejor, conoce un día a Carol Aird (Cate Blanchett), una mujer elegante y sofisticada que se encuentra atrapada en un matrimonio infeliz. Entre ellas surge una atracción inmediata, cada vez más intensa y profunda, que cambiará sus vidas para siempre.</plot>
+    <tagline>Algunas personas cambian tu vida para siempre.</tagline>
+    <runtime>118</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5VJz2MY7HAlZwbATVh3dMPHmR1B.jpg">https://image.tmdb.org/t/p/original/5VJz2MY7HAlZwbATVh3dMPHmR1B.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uHwjbztkPEW3lcfsbKGO3XlaPjL.jpg">https://image.tmdb.org/t/p/original/uHwjbztkPEW3lcfsbKGO3XlaPjL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/A8JV3ockAvWOXmcNZyAGqlyTTBw.jpg">https://image.tmdb.org/t/p/original/A8JV3ockAvWOXmcNZyAGqlyTTBw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ndrIg7eEk7eWaTsVYDhWWD6WSeP.jpg">https://image.tmdb.org/t/p/original/ndrIg7eEk7eWaTsVYDhWWD6WSeP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4Hr4GtvVstfAIY9kCUymlOJ4UCO.jpg">https://image.tmdb.org/t/p/original/4Hr4GtvVstfAIY9kCUymlOJ4UCO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rhSuVwkOyjWSA5LGNhUBsuxV3q9.jpg">https://image.tmdb.org/t/p/original/rhSuVwkOyjWSA5LGNhUBsuxV3q9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cJeled7EyPdur6TnCA5GYg0UVna.jpg">https://image.tmdb.org/t/p/original/cJeled7EyPdur6TnCA5GYg0UVna.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oiDbubOpusAGJtfWDtPkFtmXGi9.jpg">https://image.tmdb.org/t/p/original/oiDbubOpusAGJtfWDtPkFtmXGi9.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b2JC3hxZerx08WIeWeVJbj1ZHiX.jpg">https://image.tmdb.org/t/p/original/b2JC3hxZerx08WIeWeVJbj1ZHiX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2giW19Qb8Lmyd5XCyVU2avABvhZ.jpg">https://image.tmdb.org/t/p/original/2giW19Qb8Lmyd5XCyVU2avABvhZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pyYaDPi9stQqig7Go3aqOlu5Vg8.jpg">https://image.tmdb.org/t/p/original/pyYaDPi9stQqig7Go3aqOlu5Vg8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg">https://image.tmdb.org/t/p/original/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i5gkYpeC6myJdDblm9zqyZgVS3R.jpg">https://image.tmdb.org/t/p/original/i5gkYpeC6myJdDblm9zqyZgVS3R.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2402927</id>
+    <uniqueid type="imdb" default="true">tt2402927</uniqueid>
+    <uniqueid type="tmdb">258480</uniqueid>
+    <genre>Romance</genre>
+    <genre>Drama</genre>
+    <country>United Kingdom</country>
+    <credits>Phyllis Nagy</credits>
+    <director>Todd Haynes</director>
+    <premiered>2015-11-20</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Killer Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c7wzuu2of50</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>480.000000</aspect>
+                <width>1920</width>
+                <height>1036</height>
+                <durationinseconds>7130</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Rooney Mara</name>
+        <role>Therese Belivet</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7mHmLMDXIpGOGv0YKSukbv7VMIO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cate Blanchett</name>
+        <role>Carol Aird</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9V83uemR0ra9Wd9iRXTMlfAQlTB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle Chandler</name>
+        <role>Harge Aird</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/12ycW6JwP51RJA36mbT7ietI4Ce.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Paulson</name>
+        <role>Abby Gerhard</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/jkhpv4oPNcMSvPPDUuCyPIFwYyS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Lacy</name>
+        <role>Richard Semco</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Magaro</name>
+        <role>Dannie McElroy</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/smLwDbuUhfOAEohgtCm2YKZbGZW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cory Michael Smith</name>
+        <role>Tommy Tucker</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/hGW4o7oigkjdEZRO2fQJoCPkDsL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carrie Brownstein</name>
+        <role>Genevieve Cantrell</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/1aAfnMrPzRJME9mrpoYLfR0yy2J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Crowley</name>
+        <role>Fred Haymes</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/uRVsf1zx3EUA8nTpoEWkWNDyuKX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nik Pajic</name>
+        <role>Phil McElroy</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Trent Rowland</name>
+        <role>Jack Taft</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sadie Heim</name>
+        <role>Rindy Aird</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kk Heim</name>
+        <role>Rindy Aird</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amy Warner</name>
+        <role>Jennifer Aird</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/cSkxCvHPIhbKLejs7h9M6C5AXo3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Haney</name>
+        <role>John Aird</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wendy Lardin</name>
+        <role>Jeanette Harrison</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pamela Evans Haynes</name>
+        <role>Roberta Walls</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/gQwYf6AINzWCHCarFkIsNTb2FJa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Violand</name>
+        <role>Jerry Rix</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/9qXVaBCAigs3jDRoIoN9KxekUZg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kay Geiger</name>
+        <role>McKinley Motel Manager</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christine Dye</name>
+        <role>Landlady</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/dVR7464nWiofEH2bgIUXdOK0mQJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Deb G. Girdler</name>
+        <role>Motel Clerk</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Douglas Scott Sorenson</name>
+        <role>Male Party Guest</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ken Strunk</name>
+        <role>Ritz Bartender</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Kk3B7LD28OcMxC28vHFcdoHubw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mike Dennis</name>
+        <role>Frankenberg Security Guard</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ann Reskin</name>
+        <role>Florence</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Annie Kalahurka</name>
+        <role>Embarassed Mom</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Linnea Bond</name>
+        <role>Drake Hostess</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven Andrews</name>
+        <role>New York Times Clerk</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tanya Smith</name>
+        <role>Fred Haymes&apos;s Secretary</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Wesley Gilreath</name>
+        <role>NYC Waiter</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chuck Gillespie</name>
+        <role>Oak Room Waiter</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Parker</name>
+        <role>Dorothy</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Giedre Bond</name>
+        <role>Party Girl #1</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Liberty Fraysure</name>
+        <role>Frankenberg Employee</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert J. Ashe</name>
+        <role>Oak Room Patron / Pedestrian (uncredited)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anita Farmer Bergman</name>
+        <role>Oak Room Patron (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/hEIvxdw7lNvUu1I5uG81BxvAeMy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Botts</name>
+        <role>Ted Grey (uncredited)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chelsea Carnder</name>
+        <role>McKinley Motel Patron&apos;s Daughter (uncredited)</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Chinn</name>
+        <role>Restaurant / Pedestrian (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Cross</name>
+        <role>Frankenberg High End Shopper (uncredited)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Doone</name>
+        <role>News Stand Operator / Recuring Pedestrian (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/4oNbePOZayUG8cz8EAIXomvg7Bx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Marie Frey</name>
+        <role>Party Girl #2</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Joseph Thomas Ward</name>
+        <role>Shipping Clerk</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/uibhdXwyXM2IULFztEhErjlC22g.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 19:21:39</dateadded>
+</movie>

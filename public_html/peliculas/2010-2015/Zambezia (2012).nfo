@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Zambezia</title>
+    <originaltitle>Zambezia</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.800000</value>
+            <votes>6622</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>170</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Kai, un halcón de alto espíritu, viaja a la ciudad de aves de Zambezia y descubre la verdad sobre sus orígenes</plot>
+    <tagline>Airborne to be wild.</tagline>
+    <runtime>82</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7RHLfR7uifHkmawEJoGrnkDdyZU.jpg">https://image.tmdb.org/t/p/original/7RHLfR7uifHkmawEJoGrnkDdyZU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7aJl440TlbyqthklVrvCnSbjKYe.jpg">https://image.tmdb.org/t/p/original/7aJl440TlbyqthklVrvCnSbjKYe.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/34Xi4ZYsmRgO4JEpDzSMrHF5JEY.jpg">https://image.tmdb.org/t/p/original/34Xi4ZYsmRgO4JEpDzSMrHF5JEY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/t0S7JVl0ZlGtOvqOeG3vENQxElC.jpg">https://image.tmdb.org/t/p/original/t0S7JVl0ZlGtOvqOeG3vENQxElC.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wIGpeUYRzJRNTCQq8XggFrO0jJE.jpg">https://image.tmdb.org/t/p/original/wIGpeUYRzJRNTCQq8XggFrO0jJE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/77tA1BdgazboL9JGUJe1KqvjcFa.jpg">https://image.tmdb.org/t/p/original/77tA1BdgazboL9JGUJe1KqvjcFa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/BpCZQGDNGOGDoc8jD12wj8qVDW.jpg">https://image.tmdb.org/t/p/original/BpCZQGDNGOGDoc8jD12wj8qVDW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tNcWCVKtDFkxrq2tJZKIU99wIXt.jpg">https://image.tmdb.org/t/p/original/tNcWCVKtDFkxrq2tJZKIU99wIXt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gVNIKlIty0paRUzaCBtuWlMaLJI.jpg">https://image.tmdb.org/t/p/original/gVNIKlIty0paRUzaCBtuWlMaLJI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/leuaJAJtoKwkSpIqLlXDKB9k5o2.jpg">https://image.tmdb.org/t/p/original/leuaJAJtoKwkSpIqLlXDKB9k5o2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1ZUW1TgRjOSi6VLPIVOyPKOxelW.jpg">https://image.tmdb.org/t/p/original/1ZUW1TgRjOSi6VLPIVOyPKOxelW.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1488181</id>
+    <uniqueid type="imdb" default="true">tt1488181</uniqueid>
+    <uniqueid type="tmdb">133931</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Animación</genre>
+    <genre>Aventura</genre>
+    <genre>Familia</genre>
+    <country>South Africa</country>
+    <credits>Wayne Thornley</credits>
+    <credits>Andrew Cook</credits>
+    <credits>Raffaella Delle Donne</credits>
+    <director>Wayne Thornley</director>
+    <premiered>2012-06-05</premiered>
+    <year>2012</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cinema Management Group</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x8jQUMYjVNE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4952</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Tress MacNeille</name>
+        <role>Neville&apos;s Wife (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/mE8Fm9NKpCJTenzMNLB65imtvUS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samuel L. Jackson</name>
+        <role>Tendai (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/mXN4Gw9tZJVKrLJHde2IcUHmV3P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abigail Breslin</name>
+        <role>Zoe (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/oOFCyH2uS6639w0XVR6DtimfNYb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leonard Nimoy</name>
+        <role>Sekhuru (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/vyo1sOdwEIP8adhts3UpelyiBwn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Suarez</name>
+        <role>Kai (voice)</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/A54ZGiDpGy8yUIOw8MpufWytpRO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Goldblum</name>
+        <role>Ajax (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenifer Lewis</name>
+        <role>Gogo (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/htrTYcoJQQpSYo6BrRehe3h46vo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noureen DeWulf</name>
+        <role>Pavi (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6q1Qee80j3GOib6EVKfYqBu6HS1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard E. Grant</name>
+        <role>Cecil (voice)</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamal Mixon</name>
+        <role>Ezee (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/4spmBpPtqkBcLiyUpxWiAqSOv5r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Shaughnessy</name>
+        <role>Morton (voice)</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/pjevZtJQKWwwYGQa2pph409ePP3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corey Burton</name>
+        <role>Neville (voice)</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Cummings</name>
+        <role>Budzo / Marabous (voice)</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Duru</name>
+        <role>Nurse Bird (voice)</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil LaMarr</name>
+        <role>Announcer Bird (voice)</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/l5w0qABfsFBxjfWNnpFiaXnh4Nm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zolani Mahola</name>
+        <role>Weaver (voice)</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deep Roy</name>
+        <role>Mushana (voice)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tania Gunadi</name>
+        <role>Tini (voice)</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/wrMb0ca8398ZrojtU6R0Qc3N8u7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Kenny</name>
+        <role>Marabous (voice)</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>지훈</name>
+        <role>카이(한국어 목소리)</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Haha</name>
+        <role>하롱이(한국어 목소리)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/9vuS6WNipHo5bNzihLYklaUWdZ7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noh Hong-chul</name>
+        <role>찌롱이(한국어 목소리)</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/dJMm4RBtjTZALW1A4rQjHugQset.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yu Jun-sang</name>
+        <role>텐다이(한국어 목소리)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/8FJsnJ6nA30tKlZik3AxIId4zUk.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:19:59</dateadded>
+</movie>

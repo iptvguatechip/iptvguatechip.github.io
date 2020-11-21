@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La Leyenda del Charro Negro</title>
+    <originaltitle>La leyenda del Charro Negro</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>187</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.800000</value>
+            <votes>76</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después de haber liberado al Chupacabras, Leo San Juan decide que es tiempo de regresar junto con su hermano Nando a casa de su abuela. A mitad del camino, el Charro Negro logra confundir a Leo, y gracias a eso, una niña inocente es transportada al inframundo. Leo se ve forzado a reparar el daño. Sus amigos irán a ayudarlo y saldrán de ahí lo antes posible. Pero no es una coincidencia que el Charro haya decidido involucrar a Leo, ya que sus intenciones van más allá de conseguir un alma nueva...</plot>
+    <tagline></tagline>
+    <runtime>85</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/m0UEDgVzlX0vMOcFTx86QhLlM4O.jpg">https://image.tmdb.org/t/p/original/m0UEDgVzlX0vMOcFTx86QhLlM4O.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/zJ0kBObJ2PZlFEo1NxcdtNsEqSf.jpg">https://image.tmdb.org/t/p/original/zJ0kBObJ2PZlFEo1NxcdtNsEqSf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qPRrKjmHR1dK3yQij2RNX7TNNbB.jpg">https://image.tmdb.org/t/p/original/qPRrKjmHR1dK3yQij2RNX7TNNbB.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1Cldo9DnB51DKn6Mkx6jLVA0aCV.jpg">https://image.tmdb.org/t/p/original/1Cldo9DnB51DKn6Mkx6jLVA0aCV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tIjI43YbkjT8kafn5m6sEJ6cF52.jpg">https://image.tmdb.org/t/p/original/tIjI43YbkjT8kafn5m6sEJ6cF52.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wwNGp28DluNxWs4CMRbCJmjngON.jpg">https://image.tmdb.org/t/p/original/wwNGp28DluNxWs4CMRbCJmjngON.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bxWA3hMIZnIDOBOuZyfvIMq6O5.jpg">https://image.tmdb.org/t/p/original/bxWA3hMIZnIDOBOuZyfvIMq6O5.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6772418</id>
+    <uniqueid type="imdb" default="true">tt6772418</uniqueid>
+    <uniqueid type="tmdb">494656</uniqueid>
+    <genre>Animación</genre>
+    <country>Mexico</country>
+    <set>
+        <name>Las Leyendas - Colección</name>
+    </set>
+    <credits>Alberto Rodríguez</credits>
+    <credits>David Israel Hernández</credits>
+    <director>Alberto Rodríguez</director>
+    <premiered>2018-01-19</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Ánima Estudios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YclerlveAm4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5123</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Benny Emmanuel</name>
+        <role>Leo San Juan (voz)</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emilio Rafael Treviño Villagómez</name>
+        <role>Nando San Juan (voz)</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Annie Rojas</name>
+        <role>Xochitl (voz)</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 08:17:17</dateadded>
+</movie>

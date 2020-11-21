@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El Auto: Camino a la venganza</title>
+    <originaltitle>The Car: Road to Revenge</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.000000</value>
+            <votes>801</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>54</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En una ciudad de estilo ciberpunk dilapidada por el crimen y la corrupción, un fiscal del distrito es salvajemente asesinado y lanzado desde un edificio en su coche nuevo. Misteriosamente, tanto el fiscal como su vehículo vuelven a la ciudad buscando venganza. Ambos se embarcan en una aventura que les lleva a buscar a los criminales responsables de su asesinato. Secuela del clásico de culto &quot;The Car&quot;</plot>
+    <tagline></tagline>
+    <runtime>88</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/pbD74MhK40xcEGvb0vfYiSqrhE0.jpg">https://image.tmdb.org/t/p/original/pbD74MhK40xcEGvb0vfYiSqrhE0.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/xpTw5Nfae6pUEWEGlRLLUEigQqU.jpg">https://image.tmdb.org/t/p/original/xpTw5Nfae6pUEWEGlRLLUEigQqU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg">https://image.tmdb.org/t/p/original/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eVjSkCEhxhIwHKiqhNiFF9iceAx.jpg">https://image.tmdb.org/t/p/original/eVjSkCEhxhIwHKiqhNiFF9iceAx.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9382596</id>
+    <uniqueid type="imdb" default="true">tt9382596</uniqueid>
+    <uniqueid type="tmdb">573560</uniqueid>
+    <genre>Acción</genre>
+    <genre>Terror</genre>
+    <genre>Suspense</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <set>
+        <name>El Auto - Colección</name>
+    </set>
+    <credits>G.J. Echternkamp</credits>
+    <credits>Matt Yamashita</credits>
+    <credits>Michael Tabb</credits>
+    <director>G.J. Echternkamp</director>
+    <premiered>2019-01-08</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>BUFO</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x3FTwrG5WRA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>479.000000</aspect>
+                <width>1916</width>
+                <height>1076</height>
+                <durationinseconds>5329</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Grant Bowler</name>
+        <role>Rainer</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/fOEDkYLm44v4pFo3jXZNvAJrT7Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathleen Munroe</name>
+        <role>Daria</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/co8l2AzgtCnx4SgJpcqDrIfIxli.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Hancock</name>
+        <role>Talen</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Micah Balfour</name>
+        <role>Greyvenstein</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Burt Grinstead</name>
+        <role>Colt</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nina Bergman</name>
+        <role>Ash</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gxiFpfKUJUybZOVcoBFw1i8G4eF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Bamber</name>
+        <role>Caddock</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/kP1YvBoutrDMK8FWQseR3rfL5Yn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ronny Cox</name>
+        <role>Watts</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:05:28</dateadded>
+</movie>

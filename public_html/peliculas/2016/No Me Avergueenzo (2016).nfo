@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>No Me Avergüenzo</title>
+    <originaltitle>I&apos;m Not Ashamed</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>3193</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>132</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Basado en la inspiradora y poderosa historia real y las entradas de diario de Rachel Joy Scott, la primera estudiante asesinada en el tiroteo de la escuela secundaria de Columbine en 1999.</plot>
+    <tagline>Yo no estoy avergonzado</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mDbZcxPIMYIH6e98uEDlozBpyA0.jpg">https://image.tmdb.org/t/p/original/mDbZcxPIMYIH6e98uEDlozBpyA0.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/P4bxuNq5XT0Wc3MYpoLP52e0P6.jpg">https://image.tmdb.org/t/p/original/P4bxuNq5XT0Wc3MYpoLP52e0P6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9DvEpKqYGqiH6XoJyyMmXfhH7zs.jpg">https://image.tmdb.org/t/p/original/9DvEpKqYGqiH6XoJyyMmXfhH7zs.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vEGSvemhKZGG2sX00AoqEFF2jAZ.jpg">https://image.tmdb.org/t/p/original/vEGSvemhKZGG2sX00AoqEFF2jAZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4950110</id>
+    <uniqueid type="imdb" default="true">tt4950110</uniqueid>
+    <uniqueid type="tmdb">409502</uniqueid>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>Bodie Thoene</credits>
+    <credits>Philipa Booyens</credits>
+    <credits>Robin Hanley</credits>
+    <credits>Kari Redmond</credits>
+    <director>Brian Baugh</director>
+    <premiered>2016-10-21</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Visible Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k1Fzxbv1f6E</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6750</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Masey McLain</name>
+        <role>Rachel Joy Scott</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/iKWUkrVXZlDsIdD4skJO65KjNOQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Daugherty</name>
+        <role>Kevin</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/iRfLeThcGyQ14IbX1C8Fvak9zYs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer O&apos;Neill</name>
+        <role>Linda</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/9lljBGppyGHVs3hwASl3nsiOAKI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben VanderMey</name>
+        <role>Brian Riggs</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/lkPNTxvIiV0WtBVOV8DbLiCSp0c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jaci Velasquez</name>
+        <role>Mrs. Diaz</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/yysCvqZuRoAwRKSMCBq2FRAoJM3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Elle Roberts</name>
+        <role>Celine</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/2w1AetbenarsfkzasDJy58LxnMe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cameron McKendry</name>
+        <role>Alex Dickerson</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/r8l98T3UEeoLNWEA4OOzJ4jgDV3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terri Minton</name>
+        <role>Beth Nimmo</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria Staley</name>
+        <role>Madison</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/8JMSptluq31c01Ut3k30zQirSTa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Kalupa</name>
+        <role>Gabby</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/jGvR7CxN9BlOzdfBZ77WoKCm6uB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sadie Robertson</name>
+        <role>Charity</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/AsBmKsUvG6aMUUg2GHTTITIODsP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Errigo Jr.</name>
+        <role>Eric Harris</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/kX8xG2vCuJ0EKaQ6BK0mFSUoqVY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cory Chapman</name>
+        <role>Dylan Klebold</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/clioIIwHWDs7C0BbkfE9gLtU08m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Cone</name>
+        <role>Sean</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/acdJzFBIPjFa1BLPnKMnsyy21xu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Davies</name>
+        <role>Nathan Ballard</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/ytM8zkRRcAFOeOaVueMwcSKVrCn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashlyn Moore</name>
+        <role>Bethanee Scott</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/qx9Lnp9818To7B2kwJEzavEfJyA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Dady</name>
+        <role>Tony</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/9wI0uHOyAeEnA87uocaQQ74Z9V9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Ketzner</name>
+        <role>Video White Hat</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/8nYpYtAEqYI8XYguVEA7qrS5sml.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abby Glover</name>
+        <role>Stella</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/wG6z51xjglMSSSRT57wUaqfMwsU.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 12:38:28</dateadded>
+</movie>

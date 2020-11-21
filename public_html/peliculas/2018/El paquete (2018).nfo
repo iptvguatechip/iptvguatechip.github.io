@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El paquete</title>
+    <originaltitle>The Package</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>13710</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>787</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando cuatro adolescentes se van de acampada, un desafortunado accidente da pie a una carrera contrarreloj para salvar el &quot;bien&quot; más preciado de uno de ellos.</plot>
+    <tagline>Friendship is just the tip</tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9JZcc0EgHbvAwt9iFJIot4wNapY.jpg">https://image.tmdb.org/t/p/original/9JZcc0EgHbvAwt9iFJIot4wNapY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/70mP0nwUmtaL44Y8aoUn6uBjJON.jpg">https://image.tmdb.org/t/p/original/70mP0nwUmtaL44Y8aoUn6uBjJON.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8McsUav0QTi9o1jra8NjcZUbHT6.jpg">https://image.tmdb.org/t/p/original/8McsUav0QTi9o1jra8NjcZUbHT6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y865dguUDvvJVBIi1KuTS721WJ8.jpg">https://image.tmdb.org/t/p/original/y865dguUDvvJVBIi1KuTS721WJ8.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/f6Zbu8zS0ggqjjEdKyrIWJvh3ba.jpg">https://image.tmdb.org/t/p/original/f6Zbu8zS0ggqjjEdKyrIWJvh3ba.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h7ZsXi0b7ikKNLnvdEtwVZcphZb.jpg">https://image.tmdb.org/t/p/original/h7ZsXi0b7ikKNLnvdEtwVZcphZb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vb9UUKvT4OLrKTVBJlxAMR1WZ7r.jpg">https://image.tmdb.org/t/p/original/vb9UUKvT4OLrKTVBJlxAMR1WZ7r.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4My7JoLQiMG4vraaRF2j6O9zWop.jpg">https://image.tmdb.org/t/p/original/4My7JoLQiMG4vraaRF2j6O9zWop.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/71LHJRxV5M2UV5ahfiAzLjYtoGv.jpg">https://image.tmdb.org/t/p/original/71LHJRxV5M2UV5ahfiAzLjYtoGv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/uX1wVVJ0liy03Zf1LqtpsIIxTY1.jpg">https://image.tmdb.org/t/p/original/uX1wVVJ0liy03Zf1LqtpsIIxTY1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8nMbdJgb8UCMgdviyGBLBFiGDWy.jpg">https://image.tmdb.org/t/p/original/8nMbdJgb8UCMgdviyGBLBFiGDWy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cyaTjb7ICLKwMggpgmM7SeiDQEL.jpg">https://image.tmdb.org/t/p/original/cyaTjb7ICLKwMggpgmM7SeiDQEL.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/igfchXPAE02RFp3ctbOZvzfBjYb.jpg">https://image.tmdb.org/t/p/original/igfchXPAE02RFp3ctbOZvzfBjYb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6HtAAed3se1oVaDk4chKrRGTkdc.jpg">https://image.tmdb.org/t/p/original/6HtAAed3se1oVaDk4chKrRGTkdc.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7525778</id>
+    <uniqueid type="imdb" default="true">tt7525778</uniqueid>
+    <uniqueid type="tmdb">503619</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Matt Mider</credits>
+    <credits>Kevin Burrows</credits>
+    <director>Jake Szymanski</director>
+    <premiered>2018-08-10</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Campfire</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FA_K9QPuKuM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5682</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Daniel Doheny</name>
+        <role>Sean Floyd</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wRmWiPx9X2IozM0EZNeOHs2VT18.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Geraldine Viswanathan</name>
+        <role>Becky Abelar</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/9cZjuWH5BAdzzhYly8ohnQZUSYh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Spencer Roberts</name>
+        <role>Donnie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/eUuBS9eTD0YvVozJXEhEBGdlvKV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sadie Calvano</name>
+        <role>Sarah</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/uB1rs4Ez3bTr8IHPqq0KB2llx6u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Franco</name>
+        <role>Jeremy Abelar</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/lt8T9FJsgye0pRjwY1Dnk0qi2OB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Calvert</name>
+        <role>Chad</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/8T4d7PIOWK90UMQzYXgLHM4zbN5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sugar Lyn Beard</name>
+        <role>Sheryl</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/saSHUQBoHx8rHhKQOfdMVlnG4rm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Convery</name>
+        <role>Jake Floyd</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/kInpq1ES67sdANsQU14E9DnhMqN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chance Hurstfield</name>
+        <role>Alden</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/mSy5MRQ4pK3UXYLQ6UVkLxbSha0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bronwen Smith</name>
+        <role>Sean&apos;s Mom</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/eakVZe6yoBqMBYOHp2lPtXCexTv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Veena Sood</name>
+        <role>Mrs. Abelar</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/6AiSPjMSUAVsIZJUuIsqTgnddGT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nilo Ghajar</name>
+        <role>Nurse</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/lyCCSv1ehb7H10AHdu9aMnUu0rr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc-Anthony Massiah</name>
+        <role>Security Guard #2</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/enbar1Y3lDG5WMvitlMl09dNDFD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Debbie Podowski</name>
+        <role>Receptionist</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/6sBuyjYefac3XPQMTHDviNjAmkK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Vaughan</name>
+        <role>Medevac Paramedic</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/4KFaIOMfsadrHQkRSQhjs1ZGzvZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blake Anderson</name>
+        <role>Redneck Reginald</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/6CAisTFUOPulSKZvDSSptZ6D299.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Eklund</name>
+        <role>Gas Station Clerk</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/la3J6E12pbZHe0sE73EipKkzQOp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Holland</name>
+        <role>Triage Nurse</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:55:30</dateadded>
+</movie>

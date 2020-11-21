@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Frank &amp; Lola</title>
+    <originaltitle>Frank &amp; Lola</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.900000</value>
+            <votes>5419</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>108</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un psychosexual noir historia de amor, puesta en Las Vegas y París, sobre amor, obsesión, sexo, traición, venganza y, por último, la búsqueda de amortización.</plot>
+    <tagline>Love obssesion betrayal revenge</tagline>
+    <runtime>87</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3zsYD2bedVxVIJxCANpVQBvLcwR.jpg">https://image.tmdb.org/t/p/original/3zsYD2bedVxVIJxCANpVQBvLcwR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/peC2D5LjUtx9UoDSTmlowaE9Vgr.jpg">https://image.tmdb.org/t/p/original/peC2D5LjUtx9UoDSTmlowaE9Vgr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xzwNSTo1M7Xf5anla0zShuS1uXG.jpg">https://image.tmdb.org/t/p/original/xzwNSTo1M7Xf5anla0zShuS1uXG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xz2d8b7tgPIGrukNcbyyLgug2IQ.jpg">https://image.tmdb.org/t/p/original/xz2d8b7tgPIGrukNcbyyLgug2IQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/pkJ2JnHARv2apWioGmrFkkeynkj.jpg">https://image.tmdb.org/t/p/original/pkJ2JnHARv2apWioGmrFkkeynkj.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q0NzTSCspImIekneF79pyzBXNZX.jpg">https://image.tmdb.org/t/p/original/q0NzTSCspImIekneF79pyzBXNZX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1290138</id>
+    <uniqueid type="imdb" default="true">tt1290138</uniqueid>
+    <uniqueid type="tmdb">316021</uniqueid>
+    <genre>Drama</genre>
+    <genre>Misterio</genre>
+    <genre>Romance</genre>
+    <country>United States of America</country>
+    <credits>Matthew Ross</credits>
+    <director>Matthew Ross</director>
+    <premiered>2016-12-09</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Killer Films</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5250</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Michael Shannon</name>
+        <role>Frank Reilly</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Imogen Poots</name>
+        <role>Lola</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kJOUQP0I5HzyenTLWUTCdx6mIAk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosanna Arquette</name>
+        <role>Patricia</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/n6OBhzo8qs9ZZfbLyqvPJYYTHgq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Nyqvist</name>
+        <role>Alan</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/ycMhmLinY7v3DABqYy0CL92BG27.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Long</name>
+        <role>Keith</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/Hlz1LnrOzGBKoZ50HBk9ytuVUa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emmanuelle Devos</name>
+        <role>Claire</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/bX1l2sTxoXVMRBky7rfD3lVEHud.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Lombard</name>
+        <role>Carol</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/7rRd2byURAqE2QObL3wJyHYQbpL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amy Argyle</name>
+        <role>Rachel</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/mBXmTOUCbaVKaRegp6z0N2dxgX0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel Virgel</name>
+        <role>Hercule</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/dldgBC4riWydbLSv4rm5gGFqlGp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laine Rettmer</name>
+        <role>Françoise</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maynor Alvarado</name>
+        <role>Luis</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Moreno Jr.</name>
+        <role>Javier</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophie Meister</name>
+        <role>Isobel</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Atrakchi</name>
+        <role>Charles</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/t1MVg0SnYLGdl6PTkUUTPQB1ktb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stella Schnabel</name>
+        <role>Hazel</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/5pTviGvo8jWD8NLP20h9KUatBU0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suteara Vaughn</name>
+        <role>Sage</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elisha Yaffe</name>
+        <role>Will</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Patrick Rocca</name>
+        <role>Henri Ricard</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/hRa6OhfgVUX1lgqk4BNyZAfktJx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Narcisse Mame</name>
+        <role>Khalil</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/hy5x2uuog2i7fyhhwyYnnBMjKrf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerica Barnes</name>
+        <role>Keith&apos;s Pretty Dinner Date</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 20:17:21</dateadded>
+</movie>

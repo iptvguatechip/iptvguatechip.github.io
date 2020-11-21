@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Perdida</title>
+    <originaltitle>Perdida</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>3949</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.100000</value>
+            <votes>158</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Catorce años atrás, durante un viaje de estudios, una adolescente, Cornelia Villalba, se escapa con sus compañeras para ir a bailar y se pierde en el medio de los bosques patagónicos. Nunca más se supo de ella. Hoy, Manuela Pelari, su mejor amiga, decide usar sus herramientas de mujer policía para emprender una nueva búsqueda. Impulsada por el desacato y la necesidad imperiosa de ponerle fin a años de silencio y de vínculos rotos, se enfrenta con un poder que amenaza con convertirla en una pieza más de un engranaje que puede costarle la vida.</plot>
+    <tagline>Thriller | Secuestros / Desapariciones</tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6V5rUvf4wqqkqsJGPIleOAx7Qn2.jpg">https://image.tmdb.org/t/p/original/6V5rUvf4wqqkqsJGPIleOAx7Qn2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gB2wiF9ssNe006HpiHUqW8DyCsy.jpg">https://image.tmdb.org/t/p/original/gB2wiF9ssNe006HpiHUqW8DyCsy.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ifAa0cKTTGGLCaHg65FceG5e4d0.jpg">https://image.tmdb.org/t/p/original/ifAa0cKTTGGLCaHg65FceG5e4d0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/JLm1nRqzh8yjbzimGKa16ZFjGn.jpg">https://image.tmdb.org/t/p/original/JLm1nRqzh8yjbzimGKa16ZFjGn.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7841496</id>
+    <uniqueid type="imdb" default="true">tt7841496</uniqueid>
+    <uniqueid type="tmdb">513223</uniqueid>
+    <genre>Drama</genre>
+    <genre>Misterio</genre>
+    <genre>Crimen</genre>
+    <country>Argentina</country>
+    <credits>Alejandro Montiel</credits>
+    <credits>Mili Roque Pitt</credits>
+    <credits>Jorge Maestro</credits>
+    <director>Alejandro Montiel</director>
+    <premiered>2018-04-19</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Bowfinger</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bdVS8PHjEow</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>960.000000</aspect>
+                <width>1920</width>
+                <height>802</height>
+                <durationinseconds>6224</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Luisana Lopilato</name>
+        <role>Pipa Pelari</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/j8bTfMobbYKZ3zHQz8mGfBfoooq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amaia Salamanca</name>
+        <role>Sirena / Nadine</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/bzK5ME9Oogn1siaQRF5xZwamcuA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rafael Spregelburd</name>
+        <role>Oreyana</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicolás Furtado</name>
+        <role>Seretti</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/fQxkqydm1ORc2JgMhTHGoMlbPGf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oriana Sabatini</name>
+        <role>Alina</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/bQmsFFwGsYAgD2KA0D6H04lODyY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Casablanc</name>
+        <role>Egipcio</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rCtVUwWutryGkmiOXNULfFskBwx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arantxa Martí</name>
+        <role>Lucrecia</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/iUzt4z9qYai1pv0IBdPHoAM0osl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Alcantara</name>
+        <role>Adalberto</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/kOA49MEbLUCvkob99Ju13H1eYFS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Onetto</name>
+        <role>Clara Villalba</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/pOMjA9n15A5DJM2hLyVBmj5PE1U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Sálamo</name>
+        <role>Dr. Marini</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/kBbCRCpm8fASojSur9pOf7DfW7u.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 07:47:29</dateadded>
+</movie>

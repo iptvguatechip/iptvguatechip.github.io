@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Del Otro Lado de la Puerta</title>
+    <originaltitle>The Other Side of the Door</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>16935</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>611</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Maria, una mujer que ha perdido recientemente a su hijo, descubre un ritual que le permite despedirse del niño, pero por error se abre la puerta entre este mundo y el de los muertos. Maria deberá arriesgarlo todo para salvar a su familia del espíritu del que un día fue su querido hijo.</plot>
+    <tagline>It was never meant to be opened.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/homAwy3IEenBnHHqPRc4DBzlK4J.jpg">https://image.tmdb.org/t/p/original/homAwy3IEenBnHHqPRc4DBzlK4J.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8garR5nfwxf2jO8VYY4ydBu3IDs.jpg">https://image.tmdb.org/t/p/original/8garR5nfwxf2jO8VYY4ydBu3IDs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fLzps86zEJL7H4u9dKpxVRJHq1J.jpg">https://image.tmdb.org/t/p/original/fLzps86zEJL7H4u9dKpxVRJHq1J.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oAha4DF6T1hyWfI40re44MXaYHf.jpg">https://image.tmdb.org/t/p/original/oAha4DF6T1hyWfI40re44MXaYHf.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/k6OumxPkrJ4KuirkOU0Gw1KhzdM.jpg">https://image.tmdb.org/t/p/original/k6OumxPkrJ4KuirkOU0Gw1KhzdM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yP5LcEjRFzIkS6W1xrSwCMNA2Ew.jpg">https://image.tmdb.org/t/p/original/yP5LcEjRFzIkS6W1xrSwCMNA2Ew.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/20KPLet4HDhcdQ4BfAOSJMfEAUe.jpg">https://image.tmdb.org/t/p/original/20KPLet4HDhcdQ4BfAOSJMfEAUe.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3702652</id>
+    <uniqueid type="imdb" default="true">tt3702652</uniqueid>
+    <uniqueid type="tmdb">364116</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Terror</genre>
+    <country>United Kingdom</country>
+    <credits>Johannes Roberts</credits>
+    <credits>Ernest Riera</credits>
+    <director>Johannes Roberts</director>
+    <premiered>2016-02-25</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Pindrop</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rZKWxVa67wk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5740</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sarah Wayne Callies</name>
+        <role>Maria</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/8XY5IzV1sK2exuyYL5VULQnBERG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Sisto</name>
+        <role>Michael</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/1XfuASLjBhGOhJ4os7juRJot2we.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Javier Botet</name>
+        <role>Myrtu</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sofia Rosinsky</name>
+        <role>Lucy</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/kfHjwB3syriPQajCq6mVRfUjdnY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Logan Creran</name>
+        <role>Oliver</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zLFdEiUW0hGkOVakCiQZuqeXKmy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jax Malcolm</name>
+        <role>Oliver (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/w3DsGPBcSrLlluPmzItMg94iLI8.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-17 11:30:56</dateadded>
+</movie>

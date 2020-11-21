@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Dude: Así es la vida</title>
+    <originaltitle>Dude</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.100000</value>
+            <votes>6133</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>638</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Durante las dos últimas semanas escolares, cuatro mejores amigas fuman mucha hierba y enfrentan una pérdida y drásticos cambios en sus vidas.</plot>
+    <tagline>Growing up. Moving on. Lighting up.</tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yPLirq1p9rALSuECwEL6N0zxrl8.jpg">https://image.tmdb.org/t/p/original/yPLirq1p9rALSuECwEL6N0zxrl8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vh4K737r0ZjrioIjHcs7ktV8RFO.jpg">https://image.tmdb.org/t/p/original/vh4K737r0ZjrioIjHcs7ktV8RFO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mtQyt1Tx3ppR18BZRUCQQ9VUPZW.jpg">https://image.tmdb.org/t/p/original/mtQyt1Tx3ppR18BZRUCQQ9VUPZW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3aa5dIc58X2320uMTIZspsXfxuK.jpg">https://image.tmdb.org/t/p/original/3aa5dIc58X2320uMTIZspsXfxuK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iVion3LWgI21uCgNCRboyFfPoOl.jpg">https://image.tmdb.org/t/p/original/iVion3LWgI21uCgNCRboyFfPoOl.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o8kdF2dZNzjEzuVZfgaSLUSVqNH.jpg">https://image.tmdb.org/t/p/original/o8kdF2dZNzjEzuVZfgaSLUSVqNH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/siJ0Mh54VUMkJKqVKuZ6ALiEPnw.jpg">https://image.tmdb.org/t/p/original/siJ0Mh54VUMkJKqVKuZ6ALiEPnw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tLIwfPcMCpdVVwFiOIO4ZBwTXmm.jpg">https://image.tmdb.org/t/p/original/tLIwfPcMCpdVVwFiOIO4ZBwTXmm.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/Al7rID061fgOvuhfZFRy2BR3Kxi.jpg">https://image.tmdb.org/t/p/original/Al7rID061fgOvuhfZFRy2BR3Kxi.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3458510</id>
+    <uniqueid type="imdb" default="true">tt3458510</uniqueid>
+    <uniqueid type="tmdb">399131</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Olivia Milch</credits>
+    <director>Olivia Milch</director>
+    <premiered>2018-04-20</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>June Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eIBQaDlR0tA</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5824</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Lucy Hale</name>
+        <role>Lily Weil</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/3JSaf4Q85BJI5oY0Armwtx2k61O.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathryn Prescott</name>
+        <role>Chloe Daniels</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/6cuKnhsk9auc2NR4mN1dV2IqUms.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Shipp</name>
+        <role>Amelia Bergbaum-Goldstein</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6i9eya2lz8ylJBE9OGpPi7Dy2b2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Awkwafina</name>
+        <role>Rebecca Voller</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Wolff</name>
+        <role>Noah</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/hMhGWS5nB7ZGA3B1aefY39pizgm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerry MacKinnon</name>
+        <role>Sam</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/3HGwtClzA3iaoLepOaE9gHqhb6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michaela Watkins</name>
+        <role>Jill Weil</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Austin Abrams</name>
+        <role>James Weil</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Austin Butler</name>
+        <role>Thomas Daniels</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/2gHiYPXOq7RJLs4vTz5fUmSg8cd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brooke Smith</name>
+        <role>Lorraine Daniels</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/bBWxi3qVAC15mzYFE4YgpOjWB5Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ronen Rubinstein</name>
+        <role>Mike</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/dlKYozDnxXHlroBYIyOJxHDnMwD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Satya Bhabha</name>
+        <role>Immanuel Bemis</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/22LbZ6odkgoPIpDJY3lJmNOHJPD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sydney Lucas</name>
+        <role>Olivia Weil</role>
+        <order>12</order>
+        <thumb>https://www.thetvdb.com/banners/actors/405019.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nora Dunn</name>
+        <role>Rosa</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/hpLC6F7ksqczCpd61x8CrTrU3z6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Gomez</name>
+        <role>Jerry</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/loKQwPBeONgPzRRvTP5aKjTlT5b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colton Dunn</name>
+        <role>Officer Higgins</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/erzrfkv3WjtCXbGtLagzeMv67Ii.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack McBrayer</name>
+        <role>Guy</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/cbr26xDPEiOuYQxggtCPbu5xhDU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sasha Spielberg</name>
+        <role>Carrie</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/bb7FxLkfEcQf9VLobDiMxcxYdJU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>D.C. Pierson</name>
+        <role>Biff</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/hWiPwKspezgXxSEsxa0xJABjiZd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Claudia Doumit</name>
+        <role>Jessica</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jDhB6TMuD6PdJvRKBA55HMPqA9v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Corboy</name>
+        <role>Officer Clark</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/hkyyIuwqN6AqLZj6YHUPfYa2EKF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Artemis Pebdani</name>
+        <role>Sapphire</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/ctwVQYbcOuTIQJ866fi3AhzqKBM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Esther Povitsky</name>
+        <role>Alicia</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/v1J9P6H1PAcfWXOq203CuUvhPpa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stony Blyden</name>
+        <role>Stony</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/q9EyZPaBxn4FfwHsC2jtUZP5Rqc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gracie Watrous</name>
+        <role>Rose</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alana Baer</name>
+        <role>Anna</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sabina Friedman-Seitz</name>
+        <role>Katie B</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/wnDJCUn3BdU0Aq8CDHrzPu6Hp0u.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hayden Tweedie</name>
+        <role>Goalie</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/zjnYxsm9prrPZ928FVCbk8P2LG9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chelsea O&apos;Toole</name>
+        <role>Shot Girl</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/pWBtIgo8WGVfUYf8Z30LzuOecP2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephon Fuller</name>
+        <role>Soccer Ref</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/jl27Prlxx66dRp9mneXlSFDm5NC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dana Williams</name>
+        <role>Crooner</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/uuqLe4oHIDZ4iwVaAFCfUDvF5fQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Easton Alexeyev</name>
+        <role>Soccer Player (uncredited)</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David S. Robinson Hicks</name>
+        <role>High School Student (uncredited)</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 16:20:50</dateadded>
+</movie>

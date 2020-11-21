@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El hombre araña 2</title>
+    <originaltitle>Spider-Man 2</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.300000</value>
+            <votes>536437</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>10131</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Peter Parker se ve acosado por problemas en su fallida vida personal mientras lucha contra un brillante científico llamado Doctor Otto Octavius.</plot>
+    <tagline>Hay un héroe en todos nosotros.</tagline>
+    <runtime>127</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bp5PqLa06QA1LsELA1SsKZ008H7.jpg">https://image.tmdb.org/t/p/original/bp5PqLa06QA1LsELA1SsKZ008H7.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3BePoRxiaWcfFcUdZi4bveQJN97.jpg">https://image.tmdb.org/t/p/original/3BePoRxiaWcfFcUdZi4bveQJN97.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/aNknE3vw8QC5gDHBRYpOz9gzuPc.jpg">https://image.tmdb.org/t/p/original/aNknE3vw8QC5gDHBRYpOz9gzuPc.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3Im8GaT3iWLsDOQkxmoKp2MUlwq.jpg">https://image.tmdb.org/t/p/original/3Im8GaT3iWLsDOQkxmoKp2MUlwq.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/oBMpExySuhpBrfia7mW71F2UO4J.jpg">https://image.tmdb.org/t/p/original/oBMpExySuhpBrfia7mW71F2UO4J.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/4gYpz9fRpP4pdsfTR25CBQIMN7i.jpg">https://image.tmdb.org/t/p/original/4gYpz9fRpP4pdsfTR25CBQIMN7i.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/iXFRY1cnIfwvWKPQNJnMiDpeBw1.jpg">https://image.tmdb.org/t/p/original/iXFRY1cnIfwvWKPQNJnMiDpeBw1.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/xkDjboDA3ln0e3oupwAmxnam4Ta.jpg">https://image.tmdb.org/t/p/original/xkDjboDA3ln0e3oupwAmxnam4Ta.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/8AjkldgJbtwJMMUkhI6ksghv2bF.jpg">https://image.tmdb.org/t/p/original/8AjkldgJbtwJMMUkhI6ksghv2bF.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sHXB1BU8bJyt5IUkWLpvI2YfzQG.jpg">https://image.tmdb.org/t/p/original/sHXB1BU8bJyt5IUkWLpvI2YfzQG.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sCcKXiJiXxAwqzFc2mIpZ1XRAW8.jpg">https://image.tmdb.org/t/p/original/sCcKXiJiXxAwqzFc2mIpZ1XRAW8.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg">https://image.tmdb.org/t/p/original/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/iIKOzyArPxXhK45tqIJzkUdbCs.jpg">https://image.tmdb.org/t/p/original/iIKOzyArPxXhK45tqIJzkUdbCs.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/4Kk8CNTh9NcUhKvh422w7WOrRqF.jpg">https://image.tmdb.org/t/p/original/4Kk8CNTh9NcUhKvh422w7WOrRqF.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/j3r1UqEBtlKJF49upYXJprwG4NG.jpg">https://image.tmdb.org/t/p/original/j3r1UqEBtlKJF49upYXJprwG4NG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rOXKlW3ubSFjSdJRkGy4CPWQZUH.jpg">https://image.tmdb.org/t/p/original/rOXKlW3ubSFjSdJRkGy4CPWQZUH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tGYrkVuskQKyRZ9WRS6wPTPBJpm.jpg">https://image.tmdb.org/t/p/original/tGYrkVuskQKyRZ9WRS6wPTPBJpm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1nIV4N6QOsMGsEgaQHHhdYX7lNJ.jpg">https://image.tmdb.org/t/p/original/1nIV4N6QOsMGsEgaQHHhdYX7lNJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6nQkiSxaH1qW3j0QA1BeNeWuIgY.jpg">https://image.tmdb.org/t/p/original/6nQkiSxaH1qW3j0QA1BeNeWuIgY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6i7Z36tahfivXmr3SeQBtt4oW7C.jpg">https://image.tmdb.org/t/p/original/6i7Z36tahfivXmr3SeQBtt4oW7C.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg">https://image.tmdb.org/t/p/original/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fDYMiWVeqglBS2fc3RRoM2UBNTc.jpg">https://image.tmdb.org/t/p/original/fDYMiWVeqglBS2fc3RRoM2UBNTc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kUSGnFTtl0uMu5PJSKDX7bIB4sl.jpg">https://image.tmdb.org/t/p/original/kUSGnFTtl0uMu5PJSKDX7bIB4sl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/e8uVdHZqMq3fL2giIGHfXEjvKy8.jpg">https://image.tmdb.org/t/p/original/e8uVdHZqMq3fL2giIGHfXEjvKy8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eyTbf8tzrAJCErXlfiKnWIpE6yy.jpg">https://image.tmdb.org/t/p/original/eyTbf8tzrAJCErXlfiKnWIpE6yy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8QC7RxCHPaje4aI6EgLBeBS7Q2g.jpg">https://image.tmdb.org/t/p/original/8QC7RxCHPaje4aI6EgLBeBS7Q2g.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hCsXZPXP0VVohf84oYC6iOBCN43.jpg">https://image.tmdb.org/t/p/original/hCsXZPXP0VVohf84oYC6iOBCN43.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c5K8fdMsx5U9pv1KybJcNzeAwnv.jpg">https://image.tmdb.org/t/p/original/c5K8fdMsx5U9pv1KybJcNzeAwnv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b2l0cD1jLZNzNLlUPy838ogbDkX.jpg">https://image.tmdb.org/t/p/original/b2l0cD1jLZNzNLlUPy838ogbDkX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hzCRWTV40w4U9S381NpoTWrfOZQ.jpg">https://image.tmdb.org/t/p/original/hzCRWTV40w4U9S381NpoTWrfOZQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wFW0DnXCP96XvOj8r1KT32ag6Zs.jpg">https://image.tmdb.org/t/p/original/wFW0DnXCP96XvOj8r1KT32ag6Zs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iYERvzAN1zNZwlo790LV08P1TYp.jpg">https://image.tmdb.org/t/p/original/iYERvzAN1zNZwlo790LV08P1TYp.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aooCRmxyffesddKOQXgAfMu5H7W.jpg">https://image.tmdb.org/t/p/original/aooCRmxyffesddKOQXgAfMu5H7W.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zCs2w78wj5QUxgivYMaD6o1LHf5.jpg">https://image.tmdb.org/t/p/original/zCs2w78wj5QUxgivYMaD6o1LHf5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/avoSFHOMxddcitOgorL9rbXdCoF.jpg">https://image.tmdb.org/t/p/original/avoSFHOMxddcitOgorL9rbXdCoF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uxVEClLLSF5CDeQeVtDrtXzqGXh.jpg">https://image.tmdb.org/t/p/original/uxVEClLLSF5CDeQeVtDrtXzqGXh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cQvI7KiGSWTf13UF538cXJuY9V9.jpg">https://image.tmdb.org/t/p/original/cQvI7KiGSWTf13UF538cXJuY9V9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bnYABYtB2JGy0fDRal4jPkdbOR9.jpg">https://image.tmdb.org/t/p/original/bnYABYtB2JGy0fDRal4jPkdbOR9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8MmUkrFu8mqos0x8GqtCQxm46ib.jpg">https://image.tmdb.org/t/p/original/8MmUkrFu8mqos0x8GqtCQxm46ib.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/21sBOKhMDyuNHFfV5r3DchAdY9H.jpg">https://image.tmdb.org/t/p/original/21sBOKhMDyuNHFfV5r3DchAdY9H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2r1iKx08JxWzpzx2FXuffTlPVA5.jpg">https://image.tmdb.org/t/p/original/2r1iKx08JxWzpzx2FXuffTlPVA5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/v69kQLcgIG1S4Xaoyqy85JvCi4W.jpg">https://image.tmdb.org/t/p/original/v69kQLcgIG1S4Xaoyqy85JvCi4W.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8HMHE8VpkWOTmkm3c9QyEL6h1cP.jpg">https://image.tmdb.org/t/p/original/8HMHE8VpkWOTmkm3c9QyEL6h1cP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vqZnytUpDDAZI6JU7WtCqdq84L.jpg">https://image.tmdb.org/t/p/original/vqZnytUpDDAZI6JU7WtCqdq84L.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg">https://image.tmdb.org/t/p/original/6al048Lat3eLVQOuKtc9h6Tu94d.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5ijb90YkkT6teZDqEpKtCm2Umtg.jpg">https://image.tmdb.org/t/p/original/5ijb90YkkT6teZDqEpKtCm2Umtg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kt8bwPIxzf7lN3mv96bt7703Dhl.jpg">https://image.tmdb.org/t/p/original/kt8bwPIxzf7lN3mv96bt7703Dhl.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ngsPPZHsnPE8k8EK04ndlnR3Dnw.jpg">https://image.tmdb.org/t/p/original/ngsPPZHsnPE8k8EK04ndlnR3Dnw.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gkINAPOuwUFo2Qphs3OUUbjUKUZ.jpg">https://image.tmdb.org/t/p/original/gkINAPOuwUFo2Qphs3OUUbjUKUZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eyi8HYXZByttuDX762imzx2U0ja.jpg">https://image.tmdb.org/t/p/original/eyi8HYXZByttuDX762imzx2U0ja.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h5JXYb2WuHn71pMoHfAvA6NOfud.jpg">https://image.tmdb.org/t/p/original/h5JXYb2WuHn71pMoHfAvA6NOfud.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mPglIawN5LTkNkHOIULepgn99gG.jpg">https://image.tmdb.org/t/p/original/mPglIawN5LTkNkHOIULepgn99gG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eU3IYWXCZoNjZxMCIX2XmIFGpHt.jpg">https://image.tmdb.org/t/p/original/eU3IYWXCZoNjZxMCIX2XmIFGpHt.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cdb5HLoWbSfh6bZeR7EAd3wxQzg.jpg">https://image.tmdb.org/t/p/original/cdb5HLoWbSfh6bZeR7EAd3wxQzg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6Gxx20QnxQS3wlrIFrOxKmhYBiX.jpg">https://image.tmdb.org/t/p/original/6Gxx20QnxQS3wlrIFrOxKmhYBiX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wh2Nevof4wiK2gpF3ePqpeaH3Zk.jpg">https://image.tmdb.org/t/p/original/wh2Nevof4wiK2gpF3ePqpeaH3Zk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sfY8b5FCUVCrlg4WVjxfSYljYFY.jpg">https://image.tmdb.org/t/p/original/sfY8b5FCUVCrlg4WVjxfSYljYFY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2QZ93ZlcEyfrVgQ7aGQpaAWoa0S.jpg">https://image.tmdb.org/t/p/original/2QZ93ZlcEyfrVgQ7aGQpaAWoa0S.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6SxxFvoWvTqP3EZtizwhOgGRlyz.jpg">https://image.tmdb.org/t/p/original/6SxxFvoWvTqP3EZtizwhOgGRlyz.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yAHqWqXo3b0n3aTgqHjWpPmd0ic.jpg">https://image.tmdb.org/t/p/original/yAHqWqXo3b0n3aTgqHjWpPmd0ic.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lOcQZjhU99PMykoIStbmZLUVj9D.jpg">https://image.tmdb.org/t/p/original/lOcQZjhU99PMykoIStbmZLUVj9D.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/3PlyDGcVGF13lONaOWdww7Egzht.jpg">https://image.tmdb.org/t/p/original/3PlyDGcVGF13lONaOWdww7Egzht.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9HrPwwSIP48NrJI6NmvgajlKEo7.jpg">https://image.tmdb.org/t/p/original/9HrPwwSIP48NrJI6NmvgajlKEo7.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qsuV5CmEJE4IoF9rbLNLDUmtvHH.jpg">https://image.tmdb.org/t/p/original/qsuV5CmEJE4IoF9rbLNLDUmtvHH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1WhRRnPJ1hSo8VrS1vWCBOfK9KI.jpg">https://image.tmdb.org/t/p/original/1WhRRnPJ1hSo8VrS1vWCBOfK9KI.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/eY120dfwVqINlsB6zSpQiFggp9G.jpg">https://image.tmdb.org/t/p/original/eY120dfwVqINlsB6zSpQiFggp9G.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ouMBIALAOq0rpoB8b2RydUevRu1.jpg">https://image.tmdb.org/t/p/original/ouMBIALAOq0rpoB8b2RydUevRu1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aqaSgTT6jiAdx9aJ4xUI4G2MEXe.jpg">https://image.tmdb.org/t/p/original/aqaSgTT6jiAdx9aJ4xUI4G2MEXe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg">https://image.tmdb.org/t/p/original/pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7r2EQdqCwM1mqiO9m8625o5jcJ0.jpg">https://image.tmdb.org/t/p/original/7r2EQdqCwM1mqiO9m8625o5jcJ0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tFeqZIp4potC0cG8jZhbdiY8YyZ.jpg">https://image.tmdb.org/t/p/original/tFeqZIp4potC0cG8jZhbdiY8YyZ.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0316654</id>
+    <uniqueid type="imdb" default="true">tt0316654</uniqueid>
+    <uniqueid type="tmdb">558</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <set>
+        <name>El Hombre Araña - Colección</name>
+        <overview>Una serie de películas de superhéroes basada en el personaje de Marvel Comics Spider-Man. La serie se centra en Peter Parker, un fotógrafo independiente académicamente talentoso pero socialmente inepto que es mordido por una araña genéticamente modificada y adquiere habilidades similares a las de una araña, todas las cuales utiliza para combatir el crimen como un vigilante enmascarado que aprende por sí mismo que un gran poder conlleva una gran responsabilidad.</overview>
+    </set>
+    <credits>Alvin Sargent</credits>
+    <director>Sam Raimi</director>
+    <premiered>2004-06-25</premiered>
+    <year>2004</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Marvel Enterprises</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-i872T2OJ1E</trailer>
+    <actor>
+        <name>Tobey Maguire</name>
+        <role>Peter Parker / Spider-Man</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kirsten Dunst</name>
+        <role>Mary Jane Watson</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5dI5s8Oq2Ook5PFzTWMW6DCXVjm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Franco</name>
+        <role>Harry Osborn</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pgEe68922Ba20vAwPmAFQFm8U0c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfred Molina</name>
+        <role>Otto Octavius / Doctor Octopus</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/tnKpbFfBaSMD80O61PlZaZ1DwUv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rosemary Harris</name>
+        <role>May Parker</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/cvbL3u9KZ6AxF5rhG4hBuMpMlb2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J.K. Simmons</name>
+        <role>J. Jonah Jameson</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/7kIiPojgSVNRXb5z0hiijcD5LJ6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donna Murphy</name>
+        <role>Rosalie Octavius</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/tmre2oZkIHGqnLhWeldpX2Ujgl0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dylan Baker</name>
+        <role>Dr. Curt Connors</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/zJrGZa9nBfmi2McU3pt4LPVacwB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Gillies</name>
+        <role>John Jameson</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/zasTOfb8TNyVGwRfb4jNdHnsZ2m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Nunn</name>
+        <role>Joseph &apos;Robbie&apos; Robertson</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/zQbICZKolKAb1ID5pppOm4aFF8p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Ferlito</name>
+        <role>Louise</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/i128WKjZ3JkoJBOLw48hF4Uwu5V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aasif Mandvi</name>
+        <role>Mr. Aziz</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/sMxD5GKEfVgEhqav2mcgtO8g3M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willem Dafoe</name>
+        <role>Norman Osborn</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cliff Robertson</name>
+        <role>Ben Parker</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qB0oEd9KK3ik4fwLoEnqpGj6wmx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ted Raimi</name>
+        <role>Hoffman</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/vCfwp1BzY7qXs74fMLE1ydGxsTY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Banks</name>
+        <role>Miss Brant</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/xy1OKADZmcfc4P2j0EytHQuyRut.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Campbell</name>
+        <role>Snooty Usher</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/i50VM2AtmhwdruKvdbBBpzFOJFx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gregg Edelman</name>
+        <role>Dr. Davis</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/jvdye1mZkBb5x4xjjtmtuLRmXzy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elya Baskin</name>
+        <role>Mr. Ditkovich</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/b8rS9GC18elbuNUZNogE153d47x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mageina Tovah</name>
+        <role>Ursula</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/AiGQaF7tpr2m1jU0sZm0kZOQI7h.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Dae Kim</name>
+        <role>Raymond</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/aXbTKgL4u6oVumQ459B9VkGTn4A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hal Sparks</name>
+        <role>Elevator Passenger (uncredited)</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/sxmESxUf1nFEwheqXAtYDUMJP2s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel McHale</name>
+        <role>Mr. Jacks</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/jFtqHLCrmGSIJtwdxloO3KM98iC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stan Lee</name>
+        <role>Man Dodging Debris (uncredited)</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/nGjBAc25C3LT23NqeOfY1pCcax8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelly Connell</name>
+        <role>Dr. Isaacs</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/VbkdnaPX3PxLHqSh9YOloUK0Nd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brent Briscoe</name>
+        <role>Garbage Man (uncredited)</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/4N7ZjV0Tb2EwwRzOBGp7h01oXVu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Deschanel</name>
+        <role>Receptionist (uncredited)</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/bS4F39NlQAURKtO5r1CD3ivSf62.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Fiore-Ortiz</name>
+        <role>Henry Jackson</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Spiegel</name>
+        <role>Man on Balcony (uncredited)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/3dKveWiEUeQbAxC7o9AKkIUymPQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Bale</name>
+        <role>OsCorp Executive</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christine Estabrook</name>
+        <role>Mrs. Jameson</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/7RDpJNd3mOqbtnOKJisF04pQSpH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Molly Cheek</name>
+        <role>Society Woman (uncredited)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/bwMisp1ui901ZLrkwIDlHaXmpLR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Paxton</name>
+        <role>Houseman (uncredited)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/7GwAs7gtN6uX8H0PaMXPklMwOk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joy Bryant</name>
+        <role>Woman at Web (uncredited)</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/baTPZOyEztjp9MdcfpiiKg48QpM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanne Baron</name>
+        <role>Skeptical Scientist (uncredited)</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/cd9dbkbTcDTtFWli2YrkYMgiwGU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter McRobbie</name>
+        <role>OsCorp Representative (uncredited)</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Timothy Jerome</name>
+        <role>Injured Scientist (uncredited)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor Gilbert</name>
+        <role>Mrs. Watson (uncredited)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Vouras</name>
+        <role>Stage Manager (uncredited)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/6d2LrDaryo4fCcaN0jLZYgDE3NC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Donnell Rawlings</name>
+        <role>Pizza &apos;Heist&apos; Witness (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachry Rogers</name>
+        <role>Boy Saved by Spider-Man (uncredited)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ella Rogers</name>
+        <role>Girl Saved by Spider-Man (uncredited)</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louis Lombardi</name>
+        <role>Poker Player (uncredited)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/cYxbGCEf0mnsACuxCIX0faCjGUQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc John Jefferies</name>
+        <role>Amazed Kid (uncredited)</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/soo9aqADz4f0HJ3Fo0WofbRtWj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roshon Fegan</name>
+        <role>Amazed Kid (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/cyPpZEsTib0CknhN5zWELOhIyVW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brendan Patrick Connor</name>
+        <role>Theater Traffic Cop (uncredited)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/glP2usW9ojCPkAqdXFDJtJZd6cN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reed Diamond</name>
+        <role>Algernon (uncredited)</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/8vAl7EHDiRN9IRw6jgyCoFtOWgK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Callahan</name>
+        <role>Jack (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/anDbPDbFeftVrnlirB3VQVfwsYT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elyse Dinh</name>
+        <role>Violinist (uncredited)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/nhr3jzvxgd4CeHkyZ5JAC7JR04l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Landis</name>
+        <role>Doctor (uncredited)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Storms</name>
+        <role>Chainsaw Doctor (uncredited)</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/nW54oO1hlKEMcpWtpme7vR6foH3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susie Park</name>
+        <role>Clawing Nurse (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tricia Peters</name>
+        <role>Screaming Nurse (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Edward Thomas</name>
+        <role>Man at Fire (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/tUleEg4cBFqg0kN2S8vNCikvwgM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Betancourt</name>
+        <role>Woman at Fire (uncredited)</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/6UU5P4DzjJTSBFztIu1nALT2tk0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Venus Lam</name>
+        <role>Child in Burning Building (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill E. Rogers</name>
+        <role>Fireman (uncredited)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/mkvlHQaP21Jor32E74fjY0woF3R.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Virzi</name>
+        <role>Fireman (uncredited)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/7DgD98IwcA3xoiFDNSufeOOwVP2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Carey</name>
+        <role>Train Conductor (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jopaul Van Epp</name>
+        <role>Boy with Mask (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Weston Epp</name>
+        <role>Boy with Mask (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Allas</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/2V4ZpEKAhd2lMNi5IPm8DfmwMcU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brianna Brown</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/sQ0ceA2dWyUVfftZ9BBWrySZle9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Calvert</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Campisi</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joey Diaz</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/pLWM7fQoqbbNui1vf7PKE0jdlm2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chloe Dykstra</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/lPtZtKRun3Nt6zglPKrtPXYr6gv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simone Gordon</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dan Hicks</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/qBrRAMJ29R59jiGB2vJQ51ZJEBN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Max</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>69</order>
+        <thumb>https://image.tmdb.org/t/p/original/5vJjsAXMbRFXedIb3WtihKpqfgJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Savannah Pope</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Timothy Patrick Quill</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/jOtAb58qN8fS8gPmop9gUchQg7M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jill Sayre</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/6snVPQ2GIRRDnaplfTHmcSvoU4y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rickey G. Williams</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>73</order>
+        <thumb>https://image.tmdb.org/t/p/original/vYwh6B6MouF8OnFWkvUgC0rPr9D.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Arthur</name>
+        <role>NYPD Officer (uncredited)</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/f3xG2p3rPU8wIkFUCUZMGwjdqjN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Bonsangue</name>
+        <role>Pizza Man (uncredited)</role>
+        <order>75</order>
+        <thumb>https://image.tmdb.org/t/p/original/43GpUuEVJCxDsxNZDOIhVyuexMX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cindy Cheung</name>
+        <role>Chinese Daughter (uncredited)</role>
+        <order>76</order>
+        <thumb>https://image.tmdb.org/t/p/original/iPJtJyUxXZT0Xzj58KSZfg6JiPo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Phil LaMarr</name>
+        <role>Train Passenger (uncredited)</role>
+        <order>77</order>
+        <thumb>https://image.tmdb.org/t/p/original/l5w0qABfsFBxjfWNnpFiaXnh4Nm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Calvin Dean</name>
+        <role>Boomer (uncredited)</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/s9BnUmXGMCKfDtX04V43YPuKjNR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andre M. Johnson</name>
+        <role>Fireman 2 (uncredited)</role>
+        <order>79</order>
+        <thumb>https://image.tmdb.org/t/p/original/zD6oghEqD3vmsUqb1HDQvBLWwpL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Cincotti</name>
+        <role>Piano Player in Planetarium (uncredited)</role>
+        <order>80</order>
+        <thumb>https://image.tmdb.org/t/p/original/7JmlZNM0yG5a03RIfyRaVWr6d3e.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peyton List</name>
+        <role>Little Girl Playing on Steps (uncredited)</role>
+        <order>81</order>
+        <thumb>https://image.tmdb.org/t/p/original/5p8KwRgBUYVcKBKTYFdD30o6dAc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spencer List</name>
+        <role>Little Boy Playing on Steps (uncredited)</role>
+        <order>82</order>
+        <thumb>https://image.tmdb.org/t/p/original/AqhVP83OofqhWpEzoIQJ53X4aJb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Troy Metcalf</name>
+        <role>Blue Collar Guy (uncredited)</role>
+        <order>83</order>
+        <thumb>https://image.tmdb.org/t/p/original/dJRM9jL21LoK6KONWR92SxMNeTO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Ross</name>
+        <role>Pedestrian (uncredited)</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bonnie Somerville</name>
+        <role>Screaming Woman (uncredited)</role>
+        <order>85</order>
+        <thumb>https://image.tmdb.org/t/p/original/kG8YzQmYJA7cy4i09AlKMksiet4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wesley Volcy</name>
+        <role>Columbia University Student (uncredited)</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lou Volpe</name>
+        <role>Man at Web (uncredited)</role>
+        <order>87</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Garrett Warren</name>
+        <role>Bearded Doctor (uncredited)</role>
+        <order>88</order>
+        <thumb>https://image.tmdb.org/t/p/original/rzP1Zj1rc19dM3WeV8tO7YYsb4r.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 14:19:29</dateadded>
+</movie>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Somos Calentura</title>
+    <originaltitle>Somos Calentura</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>128</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>13</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>In the crime filled city of Buenaventura, Colombia, a group of friends prepares for a dance competition that might change their lives forever. In this rough world, talent might be your only way out.</plot>
+    <tagline>We Are The Heat</tagline>
+    <runtime>104</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9EVBAuXJaL10CTM9XDOUmgb9tBv.jpg">https://image.tmdb.org/t/p/original/9EVBAuXJaL10CTM9XDOUmgb9tBv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oXSOfF7qmRyuEjGAalJLN8XmRWO.jpg">https://image.tmdb.org/t/p/original/oXSOfF7qmRyuEjGAalJLN8XmRWO.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mnAUyLww0abmgjZInt3U0y602ue.jpg">https://image.tmdb.org/t/p/original/mnAUyLww0abmgjZInt3U0y602ue.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt8949410</id>
+    <uniqueid type="imdb" default="true">tt8949410</uniqueid>
+    <uniqueid type="tmdb">548756</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <country>Colombia</country>
+    <credits>Diego Vivanco</credits>
+    <credits>Steven Grisales</credits>
+    <director>Jorge Navas</director>
+    <premiered>2018-09-02</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bVx8O1VXxzE</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>15.000000</aspect>
+                <width>1920</width>
+                <height>1024</height>
+                <durationinseconds>6249</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Duván Arizala</name>
+        <role>Harvey</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Heidy Carolina Mina</name>
+        <role>Lindsay</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-23 13:48:31</dateadded>
+</movie>

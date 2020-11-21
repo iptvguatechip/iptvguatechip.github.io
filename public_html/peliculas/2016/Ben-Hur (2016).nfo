@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Ben-Hur</title>
+    <originaltitle>Ben-Hur</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.700000</value>
+            <votes>41061</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.600000</value>
+            <votes>1270</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Ben Hur narra la historia de un Judah, un príncipe injustamente acusado de traición por su propio hermano  y quien después tras años de ser convertido en esclavo, regresa a Roma en busca de venganza.</plot>
+    <tagline>Hermano. Traidor. Orgullo de Roma.</tagline>
+    <runtime>124</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wBGgyiRfj7poy0BBCGa0kDDRlmf.jpg">https://image.tmdb.org/t/p/original/wBGgyiRfj7poy0BBCGa0kDDRlmf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg">https://image.tmdb.org/t/p/original/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sQ6FyrMdyUcYdWwFAeTQ2SFRsQO.jpg">https://image.tmdb.org/t/p/original/sQ6FyrMdyUcYdWwFAeTQ2SFRsQO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yoXQl8NTGzVBOKEST5nSkjwOjZK.jpg">https://image.tmdb.org/t/p/original/yoXQl8NTGzVBOKEST5nSkjwOjZK.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fJyt1NHDYY7UypcdRE4RQfshHGy.jpg">https://image.tmdb.org/t/p/original/fJyt1NHDYY7UypcdRE4RQfshHGy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qcquSEEdkKeXDmyKvrAKWznk2Cs.jpg">https://image.tmdb.org/t/p/original/qcquSEEdkKeXDmyKvrAKWznk2Cs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xlFjEMaQarE8HOaFanPr0wUXCAY.jpg">https://image.tmdb.org/t/p/original/xlFjEMaQarE8HOaFanPr0wUXCAY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ceJWH2bq7voYYWNNDtkBQ4oGXFQ.jpg">https://image.tmdb.org/t/p/original/ceJWH2bq7voYYWNNDtkBQ4oGXFQ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cKy6ke4qqDyGpbEEVakuw3e6vu2.jpg">https://image.tmdb.org/t/p/original/cKy6ke4qqDyGpbEEVakuw3e6vu2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iOxuaVWHGbSYChoJAItyEjDIbDx.jpg">https://image.tmdb.org/t/p/original/iOxuaVWHGbSYChoJAItyEjDIbDx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/p7Im5DkIE82vkOLJSTs9QLqjl9d.jpg">https://image.tmdb.org/t/p/original/p7Im5DkIE82vkOLJSTs9QLqjl9d.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2638144</id>
+    <uniqueid type="imdb" default="true">tt2638144</uniqueid>
+    <uniqueid type="tmdb">271969</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Drama</genre>
+    <country>United States of America</country>
+    <credits>John Ridley</credits>
+    <credits>Keith R. Clarke</credits>
+    <director>Timur Bekmambetov</director>
+    <premiered>2016-08-17</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Metro-Goldwyn-Mayer</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wXMCme-ZyIY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7483</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Jack Huston</name>
+        <role>Judah Ben-Hur</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/i0Fxf1WQNzFHZO1Yk42UJxgy1rI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pilou Asbæk</name>
+        <role>Pontius Pilate</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/iNLpeS6swvmeDGHgYYNMDPPNNIT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Santoro</name>
+        <role>Jésus Christ</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morgan Freeman</name>
+        <role>Sheik Ilderim</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/oIciQWr8VwKoR8TmAw1owaiZFyb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ayelet Zurer</name>
+        <role>Naomi Ben-Hur</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toby Kebbell</name>
+        <role>Messala Severus</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mlYytYJvoEHmhDH2enLtES1098Q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nazanin Boniadi</name>
+        <role>Esther</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/vzpDjbrI2GlLJSSzp8jUE2cFYd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sofia Black-D&apos;Elia</name>
+        <role>Tirzah Ben-Hur</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/4fFr8QkAGx7e9mRVp4zLGl9M8PV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marwan Kenzari</name>
+        <role>Druses</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/66903sgNtyzHN0Mi3D88UYgbH86.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Moisés Arias</name>
+        <role>Gestas</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/gcZFNl5xRIjtiDQ2W66A9v2lEih.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Cosmo</name>
+        <role>Quintus Arius</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/uFyivAeeG3h8Gt5a99ACRC44vZL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Haluk Bilginer</name>
+        <role>Simonides</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/fXZTXaJ76k9Np7v4KxkwRGvlNSX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stefano Scherini</name>
+        <role>Peter</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/i6Fhrr5h3ANIW5GLFzau4hF5G5x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Walmsley</name>
+        <role>Marcus Decimus</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yasen Atour</name>
+        <role>Jacob</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9st1JTdWKtY0n71CwAKf1kpAQ7v.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Francesco Scianna</name>
+        <role>Kadeem</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/sl7rhmVR2mmRDxKoOgBP9HhHdYu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gabriel Farnese</name>
+        <role>Elijah</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Denise Tantucci</name>
+        <role>Avigail</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/mdJxOnxdGp9KrBFdlq0XsrfFfne.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jarreth J. Merz</name>
+        <role>Flores</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 12:36:52</dateadded>
+</movie>

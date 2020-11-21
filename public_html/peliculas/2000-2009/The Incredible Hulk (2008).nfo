@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Hulk, el hombre increible</title>
+    <originaltitle>The Incredible Hulk</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>428718</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>7998</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El científico Bruce Banner (Edward Norton) recorre el mundo en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y dominado por su propia rabia, es incapaz de sacarse de la cabeza a Betty Ross (Liv Tyler), por lo que decide volver a la civilización. Mientras se enfrenta a una extraña criatura, el agente de la KGB Emil Blonsky (Tim Roth) se expone a una dosis de radiación más intensa que la que convirtió a Bruce en Hulk. Emil hace responsable a Hulk de su terrible situación, y la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás pisaron la Tierra.</plot>
+    <tagline>You&apos;ll like him when he&apos;s angry.</tagline>
+    <runtime>112</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg">https://image.tmdb.org/t/p/original/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2nBpExDoInX3VreBsIm9qOTqXs8.jpg">https://image.tmdb.org/t/p/original/2nBpExDoInX3VreBsIm9qOTqXs8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vcFeElC8eXI668WSIxcDNkJSBxv.jpg">https://image.tmdb.org/t/p/original/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7wEThLTqQQTtTO07s5VU4uh6FTr.jpg">https://image.tmdb.org/t/p/original/7wEThLTqQQTtTO07s5VU4uh6FTr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eyaBgKgLlx1nqKHuCrwOzIpT8Je.jpg">https://image.tmdb.org/t/p/original/eyaBgKgLlx1nqKHuCrwOzIpT8Je.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9BKfsChYrKVojCeQq9ynYQ6Tit5.jpg">https://image.tmdb.org/t/p/original/9BKfsChYrKVojCeQq9ynYQ6Tit5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/AqkdLeys77nWmC9kzVGVHDVAZx7.jpg">https://image.tmdb.org/t/p/original/AqkdLeys77nWmC9kzVGVHDVAZx7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/fk0MTNBZiirZToSBRvhi7g0DNF5.jpg">https://image.tmdb.org/t/p/original/fk0MTNBZiirZToSBRvhi7g0DNF5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nJvb0J281x7oB32L0zVVnsO5VOL.jpg">https://image.tmdb.org/t/p/original/nJvb0J281x7oB32L0zVVnsO5VOL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg">https://image.tmdb.org/t/p/original/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/odVVJrCOveHXCBc5Pf2k4XmOhIz.jpg">https://image.tmdb.org/t/p/original/odVVJrCOveHXCBc5Pf2k4XmOhIz.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ovkZRy20F4YKddyQ9tVmVHatWiI.jpg">https://image.tmdb.org/t/p/original/ovkZRy20F4YKddyQ9tVmVHatWiI.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iHTRZQwqjbpkKqA3qKO0La6Lgap.jpg">https://image.tmdb.org/t/p/original/iHTRZQwqjbpkKqA3qKO0La6Lgap.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yazBQjeULI0Lc2yTGZwwkXrySBB.jpg">https://image.tmdb.org/t/p/original/yazBQjeULI0Lc2yTGZwwkXrySBB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jd7GPCY5lXA3V0ow9cQQAtKUax1.jpg">https://image.tmdb.org/t/p/original/jd7GPCY5lXA3V0ow9cQQAtKUax1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5aAkj9S6g68H2fxYAdh2O2avPz4.jpg">https://image.tmdb.org/t/p/original/5aAkj9S6g68H2fxYAdh2O2avPz4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nASAe3JrgK5e1IyupEKy2aAimwj.jpg">https://image.tmdb.org/t/p/original/nASAe3JrgK5e1IyupEKy2aAimwj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zaHqckCJEwrUptgpU7VWzRsD7ET.jpg">https://image.tmdb.org/t/p/original/zaHqckCJEwrUptgpU7VWzRsD7ET.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aseeXtz8EA6nwfqnKLnrZke9RBr.jpg">https://image.tmdb.org/t/p/original/aseeXtz8EA6nwfqnKLnrZke9RBr.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg">https://image.tmdb.org/t/p/original/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5DsJhGoIQe32Z2UinjLcEnfc6hS.jpg">https://image.tmdb.org/t/p/original/5DsJhGoIQe32Z2UinjLcEnfc6hS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/vNJJPWebNpgerRnokD8cEtAuARq.jpg">https://image.tmdb.org/t/p/original/vNJJPWebNpgerRnokD8cEtAuARq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m0GoaMqdspiId3sK8u2OR0rnDj0.jpg">https://image.tmdb.org/t/p/original/m0GoaMqdspiId3sK8u2OR0rnDj0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1yqvJtjUKoXmC3oMESmwDlCUeje.jpg">https://image.tmdb.org/t/p/original/1yqvJtjUKoXmC3oMESmwDlCUeje.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7cAGVMo2vRb3zxpJIw2STUnnDKV.jpg">https://image.tmdb.org/t/p/original/7cAGVMo2vRb3zxpJIw2STUnnDKV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/tTQQqjHCIAMlbiTlD6EEYt5J5wd.jpg">https://image.tmdb.org/t/p/original/tTQQqjHCIAMlbiTlD6EEYt5J5wd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cMZI5VrSv4L8ioHApQLqUkNS99o.jpg">https://image.tmdb.org/t/p/original/cMZI5VrSv4L8ioHApQLqUkNS99o.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5397yVMTMEsvTBbAQsDz7mnxQ6D.jpg">https://image.tmdb.org/t/p/original/5397yVMTMEsvTBbAQsDz7mnxQ6D.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/25tOGMnDIBbUIcAx8CEZBhGsNNP.jpg">https://image.tmdb.org/t/p/original/25tOGMnDIBbUIcAx8CEZBhGsNNP.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kkQBYZom9ALAqixtuXXCtfrTYkk.jpg">https://image.tmdb.org/t/p/original/kkQBYZom9ALAqixtuXXCtfrTYkk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/swpkkbiBBjejFhyZCmJvSjSZiV5.jpg">https://image.tmdb.org/t/p/original/swpkkbiBBjejFhyZCmJvSjSZiV5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oklXjbzJBYz5IGvibvLu59HX42K.jpg">https://image.tmdb.org/t/p/original/oklXjbzJBYz5IGvibvLu59HX42K.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q6TTw5x6s0sM0tLGwFkYSd0gFjr.jpg">https://image.tmdb.org/t/p/original/q6TTw5x6s0sM0tLGwFkYSd0gFjr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/a9msSttwYwvm6r8d0r8OCpTVBSX.jpg">https://image.tmdb.org/t/p/original/a9msSttwYwvm6r8d0r8OCpTVBSX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0800080</id>
+    <uniqueid type="imdb" default="true">tt0800080</uniqueid>
+    <uniqueid type="tmdb">1724</uniqueid>
+    <genre>Ciencia ficción</genre>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <country>United States of America</country>
+    <credits>Zak Penn</credits>
+    <director>Louis Leterrier</director>
+    <premiered>2008-06-12</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Marvel Studios</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WI1GgNjJiyw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>40.000000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>6739</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Edward Norton</name>
+        <role>Bruce Banner / The Hulk</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/5XBzD5WuTyVQZeS4VI25z2moMeY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liv Tyler</name>
+        <role>Betty Ross</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/rYlicHd8EQUrYvgkj7joO5RVv2T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Roth</name>
+        <role>Emil Blonsky / Abomination</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Hurt</name>
+        <role>Thaddeus &quot;Thunderbolt&quot; Ross</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Blake Nelson</name>
+        <role>Dr. Samuel Sterns</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/dcfdSmVmklb1HXHbB9kySdrl9Nq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ty Burrell</name>
+        <role>Dr. Leonard Samson</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/zXrrbvW2ZKHYHbhujDj8aBlO4yx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christina Cabot</name>
+        <role>Major Kathleen Sparr</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/h1vwbOfITSvDvDq8E9MVvWqMYSr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Mensah</name>
+        <role>General Joe Greller</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/t94TFc6f71AUmZFqdaQfjr7LTRp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lou Ferrigno</name>
+        <role>Voice of The Incredible Hulk / Security Guard</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Soles</name>
+        <role>Stanley</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/96fdxpuz3gUUMWhvpPQXrsiUGmh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Débora Nascimento</name>
+        <role>Martina</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/W0chjQKQbMRBe3WQTfPWUS6D4g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Bryk</name>
+        <role>Commando</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Owens</name>
+        <role>Commando</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Al Vrkljan</name>
+        <role>Commando</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adrian Hein</name>
+        <role>Commando</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John MacDonald</name>
+        <role>Commando</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/7FPNCLha0VCjkmJis7FB8deI0gS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shaun McComb</name>
+        <role>Helicopter Soldier</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Simon Wong</name>
+        <role>Grad Student</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pedro Salvín</name>
+        <role>Tough Guy Leader</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/qrnEg2nptJ3BiqzdHFMfAegsGfS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julio Cesar Torres Dantas</name>
+        <role>Tough Guy</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Raimundo Camargo Nascimento</name>
+        <role>Tough Guy</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/u2ewCzrG8UJmt05jcYnFNu86UH2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Alachiotis</name>
+        <role>Tough Guy</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/xP76F3bxWjBZ42cgWgh1MMHxy0q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Burke</name>
+        <role>Communications Officer</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/s8CVKE7GrnGKT6ae7qZpBVj8vep.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Nickalls</name>
+        <role>Helicopter Pilot</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/ddJ7pxo8vs99DYgSY3paaNKhGiJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joris Jarsky</name>
+        <role>Soldier</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/snXBT36DDvxDhRyym44Zs55eKUf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arnold Pinnock</name>
+        <role>Soldier</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Hunter</name>
+        <role>Cop</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/wpM6ILrVtreG0rRd3tsWzIJMCGT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tig Fong</name>
+        <role>Cop</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/e0HEDArgeEN2fQ7WgOFXG9InDK5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maxwell McCabe-Lokos</name>
+        <role>Cab Driver</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Collins</name>
+        <role>Medical Technician</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/lhjFjJZ2m5lXW1ZO4aQIOb8ltnn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Carvalho</name>
+        <role>Plant Manager</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robin Wilcock</name>
+        <role>Sniper</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/zhrhHysJ7p500XB1oXFG1jRoLIW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wayne Robson</name>
+        <role>Boat Captain</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/idYHGiGyWcUUrVFm9THGLzTgWHF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Javier Lambert</name>
+        <role>Guatemalan Trucker</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/tqmWA326jMJvOM5dV5J64TuSqNY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Starr</name>
+        <role>Computer Nerd</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/gNyCdend3C5gY3ucq42Zt3swfg2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Ratz</name>
+        <role>Young Guy</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/7tLdYaZUT8Yb2uF2j7CEUi6qV46.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Todd Hofley</name>
+        <role>Apache Helicopter Pilot</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/69dJn6cjjDFsRkeUonXOpBSrFtD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe La Loggia</name>
+        <role>Soldier</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tamsen McDonough</name>
+        <role>Colleague</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/wA5IQfYFmqJp2asGYy0BWfkCfou.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Kenneth Williams</name>
+        <role>Harlem Bystande</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/qlgS26SCTGKO9wvyR7BIGh81BaE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto Bakker</name>
+        <role>Market Vendor</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Du7J7tIWw9InGprqqZzAajuEqx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ruru Sacha</name>
+        <role>Supply Driver</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Downing</name>
+        <role>Army Base Doctor</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/zwMaHqLzkcAwSxPWMoAzG0BFls5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rickson Gracie</name>
+        <role>Aikido Instructor</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/mglZot9oYZ2iJi0JgjD6p8W5ehE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Gartner</name>
+        <role>Ross&apos;s Soldier</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/qda8oP6PrcAH4e2MhK3WTuY3T7C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Rose</name>
+        <role>McGee</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/nzQW8KMZndQgoMeWoVmO6Le2vmW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Genelle Williams</name>
+        <role>Terrified Gal</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/lFkr60cTzG3rAhKbi7LxruzYVVN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>P.J. Kerr</name>
+        <role>Wilson</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/jeW2znMChBmfLVhg1OZ60Qn3zNx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jee-Yun Lee</name>
+        <role>Reporter</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Desmond Campbell</name>
+        <role>Gunner</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deshaun Clarke</name>
+        <role>Little Boy</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/nTqDpblBlKlO6qwIypdLAFRRem3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Nappo</name>
+        <role>Brave Cop</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/eRcYYtMvLmypURncfQqVA43BZYD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Berg</name>
+        <role>Soldier</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/iO3wqI7rVDPtImrFGyieBXyWzoO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Meunier</name>
+        <role>Soldier</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/cHk0sLgU2J0MDxG3K35cn9Owf7K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tre Smith</name>
+        <role>Soldier</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/lABPTewEaNTUd58JjKlHQv30KIQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Moses Nyarko</name>
+        <role>Soldier</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/pwVu1MJJXSy2BJWLT6y7w5CVQWV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos A. Gonzalez</name>
+        <role>BOPE Officer</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yan Regis</name>
+        <role>Medic Soldier</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Broussard</name>
+        <role>Handsome Soldier</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Morse</name>
+        <role>Command Van Soldier</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/uPhgtF40eEI18Kb0S5JOnDa1cSn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Purdy</name>
+        <role>Ross&apos;s Aide</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/72LS7OlfvnCXiYl95TXEDVHfxDX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lenka Matuska</name>
+        <role>Female Medical Assistant</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/toQ2Q74Gvy2DbaBqEJB0oXk2CBi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Magee</name>
+        <role>Humvee Driver</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wes Berger</name>
+        <role>Sterns Lab Soldier</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/ugSs5D1aaUXeCq1e3aZIb36CbWg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carla Nascimento</name>
+        <role>Large Woman</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Krista Vendy</name>
+        <role>Female Bartender</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mila Stromboni</name>
+        <role>Hopscotch Girl</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stan Lee</name>
+        <role>Milwaukee Man Drinking from Bottle (uncredited)</role>
+        <order>67</order>
+        <thumb>https://image.tmdb.org/t/p/original/nGjBAc25C3LT23NqeOfY1pCcax8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Downey Jr.</name>
+        <role>Tony Stark (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-24 10:55:41</dateadded>
+</movie>

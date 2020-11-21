@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Los 6 Ridículos</title>
+    <originaltitle>The Ridiculous 6</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.800000</value>
+            <votes>43695</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.100000</value>
+            <votes>927</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En la época del Lejano Oeste, un hombre tranquilo llamado Tommy &quot;Cuchillo Blanco&quot; Stockburn (Adam Sandler) junto a sus cinco hermanos -todos huérfanos- han crecido bajo el cuidado de una tribu de nativos americanos. Cuando todos ellos alcanzan la edad adulta, la seguridad de la zona es cada vez más frágil y surgen problemas para mantener el orden en la región, por lo que, a menudo, tiene encuentros violentos con un grupo de bandidos con parches en el ojo liderados por Will Patch (Will Forte).\r Todo cambia cuando en la ciudad reaparece un ladrón de bancos llamado Frank Stockburn (Nick Nolte), quien dice ser el padre biológico de Tommy y a quien se dio por muerto durante mucho tiempo. Junto a él, Tommy tiene que emprender un viaje lleno de aventuras que hará que ambos revivan recuerdos del pasado al mismo tiempo que buscan dentro de sí mismos una valentía inexistente de la que habrá que echar mano cuando llegue el momento de enfrentarse a nuevos y temidos enemigos....</plot>
+    <tagline>Los 6 Ridículos</tagline>
+    <runtime>119</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/zLUVdJfBzPw41c0vdafSB33jT8m.jpg">https://image.tmdb.org/t/p/original/zLUVdJfBzPw41c0vdafSB33jT8m.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jDYmYMoMuJxf45wWwpByQ11iiR6.jpg">https://image.tmdb.org/t/p/original/jDYmYMoMuJxf45wWwpByQ11iiR6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kPc80jywR5Nm2KIQjkY5i4VXSx4.jpg">https://image.tmdb.org/t/p/original/kPc80jywR5Nm2KIQjkY5i4VXSx4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yN8jrNA9TeyeBr80SgFvBpEIFor.jpg">https://image.tmdb.org/t/p/original/yN8jrNA9TeyeBr80SgFvBpEIFor.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2479478</id>
+    <uniqueid type="imdb" default="true">tt2479478</uniqueid>
+    <uniqueid type="tmdb">347969</uniqueid>
+    <genre>Comedia</genre>
+    <genre>Western</genre>
+    <country>United States of America</country>
+    <credits>Adam Sandler</credits>
+    <credits>Tim Herlihy</credits>
+    <director>Frank Coraci</director>
+    <premiered>2015-12-11</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Happy Madison Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sCpYfjJZ1Z4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7149</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Adam Sandler</name>
+        <role>Tommy aka White Knife</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Taylor Lautner</name>
+        <role>Lil&apos; Pete</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/mxersUkPKcpcHDtyJUmP8G5HDBk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Buscemi</name>
+        <role>Doc Griffin</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Zahn</name>
+        <role>Clem</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Spade</name>
+        <role>General Custer</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8tv638lAMLmYh8bSLICqPzbW3tv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Nolte</name>
+        <role>Frank Stockburn</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Turturro</name>
+        <role>Abner Doubleday</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chris Parnell</name>
+        <role>Bank Manager</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/aGzA5l9S89qLkhpSdjmkerFdZt0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Terry Crews</name>
+        <role>Chico</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/pxTY4SglLo5hFcMH00MxPeC5u55.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luke Wilson</name>
+        <role>Danny</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/GTx8OEQoj0GWVwSjxRCgWtzP6n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Trejo</name>
+        <role>Cicero</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/gCWJybpDGAuKZ0mG2uTBVfsLuZX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harvey Keitel</name>
+        <role>Smiley</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/c1KlwOAlnFhBWfcPIvA6hmrElb6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Schneider</name>
+        <role>Ramon</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Forte</name>
+        <role>Will Patch</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/kphnirb7YggSVEhGI47kACxaIJQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge Garcia</name>
+        <role>Herm</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Swardson</name>
+        <role>Nelly Patch</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/kA6ASJ9kK8mz1ejIXY8h5XgBwgc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norm Macdonald</name>
+        <role>Dirty Cowboy</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/pGOpdt9Xy9YO2nUEWgp8G89KC5r.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Whitney Cummings</name>
+        <role>Susannah</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/zGItiBP0mFIIPSaauW0PgYPuP8L.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Sandler</name>
+        <role>Babyface Patch</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/jlr4YZUUfrhxKx592mJnY9nQEMO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Lovitz</name>
+        <role>Ezekiel Grant</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Farley</name>
+        <role>Roscoe</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/iWDL5mvrsgSnsvrclFA01ka8btB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lavell Crawford</name>
+        <role>Lavall Patch</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/dXAb3xJ9rXGNxCSvQIjWkMbfHpW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blake Clark</name>
+        <role>Gulch Sheriff</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/pA4OZQPyATEX9AqZYUIOItQ447o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Blake Shelton</name>
+        <role>Wyatt Earp</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/fXgQ4O20f49wJHgTHUIM9T3XBAQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanilla Ice</name>
+        <role>Mark Twain</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/uSZjjsRFskxQcu4ZAtXJvYEAPgV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julia Jones</name>
+        <role>Smoking Fox</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/9xiA9EGxvIpcCYAlhWHn9LC7fT3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Patrick</name>
+        <role>Abraham Lincoln</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sarah Minnich</name>
+        <role>Woman in Bank</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/b9HKZ5Q4RmMKhiDfIGHzADmZ45c.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Saginaw Grant</name>
+        <role>Screaming Eagle</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katalina Parrish</name>
+        <role>Sheriff&apos;s Wife</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alex Knight</name>
+        <role>Performer #1</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/eojFYCdbTnv5VegIMoCVrJXur3K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Grady</name>
+        <role>Nugget Bouncer #1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Catharine E. Jones</name>
+        <role>Betty Dunson</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/hKh3BrAph2iMTuBdhN2qEt8TX7Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Manzanares</name>
+        <role>Ciciro&apos;s Gang</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Henry Steckman</name>
+        <role>Young Tommy</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kimo Keoke</name>
+        <role>Short Stop</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruben Rivera Laguna</name>
+        <role>Young Cicero</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ricardo Andres</name>
+        <role>Sober Bar Patron (uncredited)</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Beal</name>
+        <role>Town Cowboy (uncredited)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/rILyVLEIKouSHpdZ75dMaFD3jA1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Caster</name>
+        <role>Angry Townsman (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jetto Dorsainville</name>
+        <role>Rattlers Gulch Man (uncredited)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/9d4qY9HVlozo7qzkY8LNLSiMTGR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Fogle</name>
+        <role>School Girl (uncredited)</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Corinne Fox</name>
+        <role>Soiled Dove Saloon Girl (uncredited)</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christopher W. Garcia</name>
+        <role>Towns Boy (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alan Humphrey</name>
+        <role>Cowboy (uncredited)</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/lIjTbjNG60cgRXdm9eNhTJZ1YxC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodger Larance</name>
+        <role>Townsman (uncredited)</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/8Xj8TPltWo7geg0RQEkOtcEEl6k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jameson Macmillan</name>
+        <role>Cowboy / Townsman (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Meggie Maddock</name>
+        <role>Nugget Prostitute (uncredited)</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/cPOnJID3uh72a714S4kn5CSZm6m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natasha Nazario</name>
+        <role>Nugget Prostitute (uncredited)</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/fhqjyX4gxe6gjOPkX4ZYLaCOrDc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Clint Obenchain</name>
+        <role>Sheriff&apos;s Deputy (uncredited)</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/83xqwuGuh2g1kqLuOIrSefMdXHK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Palmer</name>
+        <role>Gambler (uncredited)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Burton Ritchie</name>
+        <role>Townsman (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gonzalo Robles</name>
+        <role>Guard (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/ujtPkOgFVnsEGUrKWxD4q7NJEZC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J. Nathan Simmons</name>
+        <role>Citizen of Rattler&apos;s Gulch (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/obcEumoCx3pXhhZBZcsImV3OtxQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael E. Stogner</name>
+        <role>Citizen of Rattler&apos;s Gulch (uncredited)</role>
+        <order>54</order>
+        <thumb>http://image.tmdb.org/t/p/h632/sHBIsWUwg0tXWbttl8S9skXtnYW.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 08:51:45</dateadded>
+</movie>

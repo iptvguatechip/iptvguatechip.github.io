@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Operación Casino</title>
+    <originaltitle>The House</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>40036</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.700000</value>
+            <votes>650</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando la hija de Scott y Kate Johansen entra en la universidad de sus sueños es motivo de celebración. Es decir, hasta que Scott y Kate aprendieron que la beca con la que contaban no llegó, y ahora están en el gancho para la matrícula que no pueden comenzar a pagar. Con la ayuda de su amigo y vecino Frank también necesitan un gran día de pago deciden abrir un casino ilegal en su casa suburbana, arriesgando todo en un bacanal de estilo Vegas donde el dinero fluye, las inhibiciones se comprueban en la puerta y todo las apuestas están apagadas.</plot>
+    <tagline>If you can&apos;t beat the house, be... The House</tagline>
+    <runtime>88</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ggFjM5DbnWQl0FTjRbhzsV1dtzG.jpg">https://image.tmdb.org/t/p/original/ggFjM5DbnWQl0FTjRbhzsV1dtzG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qWRizvgDeuwL42joXuV3lAwX2D8.jpg">https://image.tmdb.org/t/p/original/qWRizvgDeuwL42joXuV3lAwX2D8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hkmWkVgirei79bwds23Hr0lWSXS.jpg">https://image.tmdb.org/t/p/original/hkmWkVgirei79bwds23Hr0lWSXS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/txVMqyc430ElOA64tT1fZuNrnZQ.jpg">https://image.tmdb.org/t/p/original/txVMqyc430ElOA64tT1fZuNrnZQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4bpVBObpiJuBzkRV52hC9157Iqu.jpg">https://image.tmdb.org/t/p/original/4bpVBObpiJuBzkRV52hC9157Iqu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5gXrngHfxaDx2kOGxqDBZAIJkjb.jpg">https://image.tmdb.org/t/p/original/5gXrngHfxaDx2kOGxqDBZAIJkjb.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vCGNif3AJfLc2ZEdpHEGH0GpZxT.jpg">https://image.tmdb.org/t/p/original/vCGNif3AJfLc2ZEdpHEGH0GpZxT.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/yDgGiBQJY0iitCKyIzH54pPmsqo.jpg">https://image.tmdb.org/t/p/original/yDgGiBQJY0iitCKyIzH54pPmsqo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hyYeBSWWLeijwjfaWyFS5clYKHc.jpg">https://image.tmdb.org/t/p/original/hyYeBSWWLeijwjfaWyFS5clYKHc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eGOUnae38NseORcfyCBwoMbEkJR.jpg">https://image.tmdb.org/t/p/original/eGOUnae38NseORcfyCBwoMbEkJR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hbj24iuMTiO7GtKroda6YJYbVL8.jpg">https://image.tmdb.org/t/p/original/hbj24iuMTiO7GtKroda6YJYbVL8.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6GeglrHEnz858SR8rT7VGCTFfiL.jpg">https://image.tmdb.org/t/p/original/6GeglrHEnz858SR8rT7VGCTFfiL.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/piRIyhNNSIbAus9oYBRdiOKgnZ2.jpg">https://image.tmdb.org/t/p/original/piRIyhNNSIbAus9oYBRdiOKgnZ2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/omo4mM6b7re0sYErcuhTHoInfb5.jpg">https://image.tmdb.org/t/p/original/omo4mM6b7re0sYErcuhTHoInfb5.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/1x29nDCTbqOW3goW7OogNUCoP9H.jpg">https://image.tmdb.org/t/p/original/1x29nDCTbqOW3goW7OogNUCoP9H.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xaGF81kysHmXyak4XSHF3OFPLmR.jpg">https://image.tmdb.org/t/p/original/xaGF81kysHmXyak4XSHF3OFPLmR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/erG4dYXzFzDOE6gSnHkehQ80uS0.jpg">https://image.tmdb.org/t/p/original/erG4dYXzFzDOE6gSnHkehQ80uS0.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4aOdSOpLWTncrFs7pfbd6FEQRNN.jpg">https://image.tmdb.org/t/p/original/4aOdSOpLWTncrFs7pfbd6FEQRNN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/e7zZQqEAUdkblIPrNK3VvBFTpmq.jpg">https://image.tmdb.org/t/p/original/e7zZQqEAUdkblIPrNK3VvBFTpmq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9sTvboPftvjP6p1yBOJOUagVKo1.jpg">https://image.tmdb.org/t/p/original/9sTvboPftvjP6p1yBOJOUagVKo1.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/jIEt3mCh0g0H39rKNdi36DBuJs2.jpg">https://image.tmdb.org/t/p/original/jIEt3mCh0g0H39rKNdi36DBuJs2.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/4ctrFsyUr0vzd4iqqiccTugh4qb.jpg">https://image.tmdb.org/t/p/original/4ctrFsyUr0vzd4iqqiccTugh4qb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2UN24rUdfwdUChL4c8NcioXwaO8.jpg">https://image.tmdb.org/t/p/original/2UN24rUdfwdUChL4c8NcioXwaO8.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/6xWHmFj21Far2g1r0e3Vmqc30gv.jpg">https://image.tmdb.org/t/p/original/6xWHmFj21Far2g1r0e3Vmqc30gv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aBG9wYlwvQ8Pmz668aGqyHtlW10.jpg">https://image.tmdb.org/t/p/original/aBG9wYlwvQ8Pmz668aGqyHtlW10.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4481514</id>
+    <uniqueid type="imdb" default="true">tt4481514</uniqueid>
+    <uniqueid type="tmdb">345914</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Brendan O&apos;Brien</credits>
+    <credits>Andrew J. Cohen</credits>
+    <director>Andrew J. Cohen</director>
+    <premiered>2017-06-29</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Village Roadshow Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f-SP8iSCbKM</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5289</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Amy Poehler</name>
+        <role>Kate Johansen</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/k62oL10bNtPShjtHuLlKllwxva9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Ferrell</name>
+        <role>Scott Johansen/The Butcher</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sXT9uCw7ceIxTdmL9XqtuYdNmgM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Mantzoukas</name>
+        <role>Frank</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/ogkbSybFX2NrMZk0u0dBt1KZwVW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Simpkins</name>
+        <role>Alex Johansen</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/2lAeWsZADGLSTj3TxVXWTuxjyOV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Kroll</name>
+        <role>Bob Schaeffer</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allison Tolman</name>
+        <role>Dawn Mayweather</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/iVe6jpSOYLn4NVb8jt2K4TXPDjy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Huebel</name>
+        <role>Officer Chandler</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/uHz2fiBMRz2E6GmAH5sRJNvKHWI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christina Offley</name>
+        <role>Davida</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/dC3unzR7SaJ2gxsnF9ixIBPcaEm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessie Ennis</name>
+        <role>Rachel</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/Rx6zznL7EVBuOueSPfsuPlPvun.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rory Scovel</name>
+        <role>Joe</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5YjzkFvHUjEyDTg8JitAHgfYY1J.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lennon Parham</name>
+        <role>Martha</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/4j72PiVYOusmHCYRa5KDNgDlb8T.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cedric Yarbrough</name>
+        <role>Reggie Henderson</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/7JsXBxOmHpRdNlVdbWJdbe2YFLO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle Kinane</name>
+        <role>Garvey</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/etNCkrZCBM0eUxac52XQllQFnkg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michaela Watkins</name>
+        <role>Raina</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gillian Vigman</name>
+        <role>Becky</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/oyGFIJCGwLx6UFZLIRGMlzuqdT7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Zissis</name>
+        <role>Carl Shackler</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Renner</name>
+        <role>Tommy</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/ycFVAVMliCCf0zXsKWNLBG3YxzK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Daddario</name>
+        <role>Corsica</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/lh5zibQXYH1MNqkuX8TmxyNYHhK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrea Savage</name>
+        <role>Laura</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/t1zxxWJyw0s3lNsLJPyOeiz7Y5x.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Buckley</name>
+        <role>Craig</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/tFPotnI8lU9twu5C9GFm8RK2aTF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Maniscalco</name>
+        <role>The Stand-Up</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/bvJQGVOI8fJ9Y4eAvYqoQcOAbHZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruna Rubio</name>
+        <role>Stripper</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Linda Porter</name>
+        <role>Old Lady</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/AlLTmxIDEARLahCdPTcCeDrasgo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Tynes</name>
+        <role>Stripper #2</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/qDg2TiYqKaNDMrtEePLiheAcp2K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natasha Key</name>
+        <role>Stripper</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/6s00jLmMqhIXGsbE5vPiT7nONLr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Randall Park</name>
+        <role>Wall Street Guy/Buckley</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/1QJ4cBQZoOaLR8Hc3V2NgBLvB0f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Richardson</name>
+        <role>Marty</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/nEtVkRRf3y7EL2Ln5XfCpo8oxEV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wayne Federman</name>
+        <role>Chip Dave</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/y1Y0SxRCUBIVHPjuhPAh9Kipnof.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Roberts</name>
+        <role>Driver at College Campus</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/bJHRMaQmojv7Hou1HSrjcdIEQBf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Rowley</name>
+        <role>Waiter</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica St. Clair</name>
+        <role>Wall Street Guy - Reba</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/wOs6FiQi9FFNXAM6we9Do8cXM37.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben S. Harris</name>
+        <role>Shoe Salesman</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Patrick Murphy</name>
+        <role>Sparky</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/uF5e8PxkWZjDnTvRsfN4NbjVd89.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kathleen Meyer</name>
+        <role>Stripper</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/k8hKqTfJmHNRbFpaBUSfrnNx2vg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Javier Del Prado</name>
+        <role>Craps Dealer</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Gerrish</name>
+        <role>Butcher (uncredited)</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/862Pm1yK6zHavXmkQYHSUjGlGe8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Waymond Lee</name>
+        <role>Korean Businessman / Casino Player (uncredited)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/PXkskFrvX5onDvBMHgF4k5X0Fn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Olejniczak</name>
+        <role>Hot Poker Dealer (uncredited)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/5pGPmLBQsj8IccQ6O6nhHXUkZdu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>D A Allen</name>
+        <role>Cabana Boy Masseuse (uncredited)</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eleazar Barzart</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michelle Bernard</name>
+        <role>Casino Waitress (uncredited)</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bill Blair</name>
+        <role>Blackjack Dealer (uncredited)</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/5nkrXXt1ip7c9GXNXB9ITcSFot8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Blu</name>
+        <role>Craps Dealer (uncredited)</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kristopher Boutin</name>
+        <role>Swimming Pool Guest (uncredited)</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Libby Burns</name>
+        <role>Pool Party Guest (uncredited)</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Byers</name>
+        <role>Poker Player (uncredited)</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicole Chauvet</name>
+        <role>Upscale Gambler (uncredited)</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathy Corpus</name>
+        <role>Hot Gambler (uncredited)</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roger Julian Cross</name>
+        <role>Casino Gambler (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dee Cutrone</name>
+        <role>Sweet Old Lady (uncredited)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darlene Dalmaceda</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nancy DeMars</name>
+        <role>Dinner Guest (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike DeMille</name>
+        <role>Urgent Man (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John R. Duncan</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Timothy Skyler Dunigan</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amy Seddon Ebert</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/vx3q4MrA58tS29y4Pk8DUmZ103d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heiko Effenberger</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/oSoBl40gUO7PyBkgsgeqaBwTt7V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hasnaa El Faizi</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>58</order>
+        <thumb>https://image.tmdb.org/t/p/original/a4v3gjWBFCPZQ0oD8yXuDO7vroN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Feemster</name>
+        <role>Bingo Caller (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anthony Figueroa</name>
+        <role>Bartender (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mandell Frazier</name>
+        <role>Officer Chaney (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Haines</name>
+        <role>Auto Mechanic (uncredited)</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mobin Khan</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Punnavith Koy</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>64</order>
+        <thumb>https://image.tmdb.org/t/p/original/bKPoUxFeqfDV5tNykysMxOGC2Xf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stasiya Kuzmina</name>
+        <role>Big Hat Girl (uncredited)</role>
+        <order>65</order>
+        <thumb>https://image.tmdb.org/t/p/original/pBQrxeoYpenBV5r1n4AGbddXgDb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothy Ryan Lahr</name>
+        <role>Manny (uncredited)</role>
+        <order>66</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marc Livingood</name>
+        <role>Magician (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Oxana Lovich</name>
+        <role>Casino Waitress (uncredited)</role>
+        <order>68</order>
+        <thumb>https://image.tmdb.org/t/p/original/ehU8WWxpvbVDUP9lsV5cJgWbo8P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Marchitti</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alen Matters</name>
+        <role>Wall Street Dude (uncredited)</role>
+        <order>70</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katie McCabe</name>
+        <role>Cocktail Waitress (uncredited)</role>
+        <order>71</order>
+        <thumb>https://image.tmdb.org/t/p/original/fEOQa6uR8dORlgPaBqAnOTjnSFu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meghan McLeod</name>
+        <role>Bartender (uncredited)</role>
+        <order>72</order>
+        <thumb>https://image.tmdb.org/t/p/original/2hNSdIy3H2q4vynutBqfn8CB2wN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Addyson Medley</name>
+        <role>Gambler (uncredited)</role>
+        <order>73</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rusty Meyers</name>
+        <role>Cowboy Jack (uncredited)</role>
+        <order>74</order>
+        <thumb>https://image.tmdb.org/t/p/original/6lGZUnMlo5jC2XjF8pbxOFyBLoH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shannon Simone Miller</name>
+        <role>Container Store Checker (uncredited)</role>
+        <order>75</order>
+        <thumb>https://image.tmdb.org/t/p/original/iWK5fjYPEnajdeqnmcKcNQHb9O0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teebone Mitchell</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>76</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Peter Nikkos</name>
+        <role>&apos;Sweet&apos; Pete Pappas (uncredited)</role>
+        <order>77</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Angela Nordeng</name>
+        <role>Stripper (uncredited)</role>
+        <order>78</order>
+        <thumb>https://image.tmdb.org/t/p/original/jeHZuzBGSztJkfWvFmeVx28YudZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tommy Otis</name>
+        <role>Barber (uncredited)</role>
+        <order>79</order>
+        <thumb>https://image.tmdb.org/t/p/original/epsERAHYkpOMNm5FVEjlbIL29Co.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heather Palmer</name>
+        <role>Gambling Neighbor (uncredited)</role>
+        <order>80</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tara Phillips</name>
+        <role>Stripper (uncredited)</role>
+        <order>81</order>
+        <thumb>https://image.tmdb.org/t/p/original/e20UXL8rW2wYx7Wo8A7pXzAPqBV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Rigall</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>83</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Rossignol</name>
+        <role>Blackjack Player (uncredited)</role>
+        <order>84</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric C. Schmitz</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>85</order>
+        <thumb>https://image.tmdb.org/t/p/original/hAw21hSV31MZxkoELKRYXyETJy7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Silver</name>
+        <role>Cocaine Gambler (uncredited)</role>
+        <order>86</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Connor Skific</name>
+        <role>Coffee Shop Barista (uncredited)</role>
+        <order>87</order>
+        <thumb>https://image.tmdb.org/t/p/original/7t2KvGG25mTWHveQq8t1izCbGU4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Spath</name>
+        <role>Dog Walker (uncredited)</role>
+        <order>88</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stewart Strauss</name>
+        <role>Casino Dealer (uncredited)</role>
+        <order>89</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Derek Sulek</name>
+        <role>College Student (uncredited)</role>
+        <order>90</order>
+        <thumb>https://image.tmdb.org/t/p/original/dxhhABdUEbG88ErvczNLhX1aYBo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fernanda Tapia</name>
+        <role>Hostess (uncredited)</role>
+        <order>91</order>
+        <thumb>https://image.tmdb.org/t/p/original/nFxcJsmD4AOUxHIm2vfRxhifrNl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Tardieu</name>
+        <role>Pool Referee (uncredited)</role>
+        <order>92</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gian Franco Tordi</name>
+        <role>Waiter (uncredited)</role>
+        <order>93</order>
+        <thumb>https://image.tmdb.org/t/p/original/v9TDrKgiLqNQM881PsD8vM8kaOC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Valerie Tosi</name>
+        <role>Casino Patron (uncredited)</role>
+        <order>94</order>
+        <thumb>https://image.tmdb.org/t/p/original/ikl17VGV7NZinS4q4inm5GSGZyj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ran Wei</name>
+        <role>Coat Check Girl (uncredited)</role>
+        <order>95</order>
+        <thumb>https://image.tmdb.org/t/p/original/n7Vj2ZL2Ncd6MxTfXyjCLNX52K2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Harry Yi</name>
+        <role>Korean Poker Player (uncredited)</role>
+        <order>96</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-15 19:30:22</dateadded>
+</movie>

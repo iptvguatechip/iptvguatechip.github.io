@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Le poids des mensonges</title>
+    <originaltitle>Le poids des mensonges</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.000000</value>
+            <votes>42</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.000000</value>
+            <votes>10</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Luisa lives with Mathieu, the man she loves, and Arthur, Mathieu&apos;s son by his first wife, who died in an accident. But Arthur, whom Luisa has been raising like her own, suddenly disappears from school and no one claims a kidnapping.</plot>
+    <tagline></tagline>
+    <runtime>94</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wf7FCmgCcSUyCe2Q7ExMmh83TtY.jpg">https://image.tmdb.org/t/p/original/wf7FCmgCcSUyCe2Q7ExMmh83TtY.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/h4mvt7UXF8ePelaoJlcLZ16cQ6c.jpg">https://image.tmdb.org/t/p/original/h4mvt7UXF8ePelaoJlcLZ16cQ6c.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7455752</id>
+    <uniqueid type="imdb" default="true">tt7455752</uniqueid>
+    <uniqueid type="tmdb">492981</uniqueid>
+    <genre>Drama</genre>
+    <genre>Crimen</genre>
+    <genre>Misterio</genre>
+    <genre>Suspense</genre>
+    <genre>Película de TV</genre>
+    <country>France</country>
+    <credits>Elsa Marpeau</credits>
+    <credits>Patricia MacDonald</credits>
+    <director>Serge Meynard</director>
+    <premiered>2017-12-08</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5696</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sara Martins</name>
+        <role>Luisa Castelli</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sHxSZgDEDiDvx3W1ehyFuW0dh8m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thierry Godard</name>
+        <role>Mathieu Ricoeur</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/iIW7YCzXr1VR9TWOKhUon7ghO8V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Suarez</name>
+        <role>Sophie Colbert</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/rsrFfde9Ourb9i2oXuiiolQHuQD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michèle Moretti</name>
+        <role>Marthe Ricoeur</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/onmKHDPvnCtRRkzYY0qxb2ZyX5a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Rauth</name>
+        <role>Philippe Berger</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/rVfKN9akP0x7S03TmIRcHygwCZW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Félix Simon-Caron</name>
+        <role>Arthur</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julien Ledet</name>
+        <role>Tom</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marie Boitel</name>
+        <role>Paule Berger</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicole Cornille</name>
+        <role>Jérémy Berger</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Céline Cuignet</name>
+        <role>Hélène Ricoeur</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/wLcVl2IdYKjH3ePUj7fxJ2WwQUb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chloé André</name>
+        <role>Emilie Ricoeur</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Assouma Sow</name>
+        <role>Fatou</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Ousm</name>
+        <role>Paolo Castelli</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Philippe Wolczek</name>
+        <role>Instituteur d&apos;Arthur</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julien Emirian</name>
+        <role>Cobseiller Pôle Emploi</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samir Arab</name>
+        <role>Surveillant école d&apos;Arthur</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jack Claudany</name>
+        <role>Commissaire</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/xQva5F1rV7NchkLWmos3d3KI3rQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacques Herlin</name>
+        <role>Policier</role>
+        <order>18</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMDQyNGZjNGYtNjAzMC00NjVkLTk3ZmItNjAzMDZiZWUzYWU3L2ltYWdlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stéphane Pézérat</name>
+        <role>Policier</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/aJ3VKcVKzs1rEZsh4mWmFoCxSS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willy Lesaffre</name>
+        <role>Policier</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>François Godart</name>
+        <role>Mari de Colbert</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicolas Bigotte</name>
+        <role>Collègue d&apos;Emilie</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marie-José Billet</name>
+        <role>Propriétaire maison d&apos;hôtes</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Emmanuelle Rausenberger</name>
+        <role>Médecin de Jérémy</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:43:39</dateadded>
+</movie>

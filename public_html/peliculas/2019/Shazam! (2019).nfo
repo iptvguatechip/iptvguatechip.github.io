@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Shazam!</title>
+    <originaltitle>Shazam!</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.100000</value>
+            <votes>245475</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>5691</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Todos tenemos un superhéroe dentro de nosotros, solo se necesita un poco de magia para sacarlo. En el caso de Billy Batson, al gritar una sola palabra, SHAZAM, este niño adoptivo de 14 años de edad puede convertirse en el Superhéroe adulto Shazam, cortesía de un antiguo mago. Todavía un niño en el corazón, dentro de un cuerpo desgarrado y divino, Shazam se deleita en esta versión adulta de sí mismo al hacer lo que cualquier adolescente haría con superpoderes: ¡diviértete con ellos! ¿Puede volar? ¿Tiene visión de rayos X? ¿Puede disparar un rayo de sus manos? ¿Puede omitir su prueba de estudios sociales? Shazam se propone poner a prueba los límites de sus habilidades con la alegre imprudencia de un niño. Pero necesitará dominar estos poderes rápidamente para luchar contra las fuerzas mortales del mal controladas por el Dr. Thaddeus Sivana</plot>
+    <tagline>Si quieres salvar al mundo, di la palabra mágica.</tagline>
+    <runtime>130</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg">https://image.tmdb.org/t/p/original/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kdylEZsNlWuxqYrFVnROUmQEW8a.jpg">https://image.tmdb.org/t/p/original/kdylEZsNlWuxqYrFVnROUmQEW8a.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jGxWpk1XfT3j9f8zHICPjYs9ZqL.jpg">https://image.tmdb.org/t/p/original/jGxWpk1XfT3j9f8zHICPjYs9ZqL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/8LzNq62JzcNtGkNb1Iqf3Q3lpCJ.jpg">https://image.tmdb.org/t/p/original/8LzNq62JzcNtGkNb1Iqf3Q3lpCJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xzEg3oFF8PEBYdYcrhxOzLcgukO.jpg">https://image.tmdb.org/t/p/original/xzEg3oFF8PEBYdYcrhxOzLcgukO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mIGPynKgeORaGKhJg2QsKF5MOFY.jpg">https://image.tmdb.org/t/p/original/mIGPynKgeORaGKhJg2QsKF5MOFY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/evEUgqFZaqByMv5TQLGP6QDVSsC.jpg">https://image.tmdb.org/t/p/original/evEUgqFZaqByMv5TQLGP6QDVSsC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eAiIKaXPZYaTf9tHZhT2VpV4ndA.jpg">https://image.tmdb.org/t/p/original/eAiIKaXPZYaTf9tHZhT2VpV4ndA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/l8plBQAT6taVsKC714lGVXsTK3s.jpg">https://image.tmdb.org/t/p/original/l8plBQAT6taVsKC714lGVXsTK3s.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4vNuI20Sq5mr2SwvUDMxp2o0crS.jpg">https://image.tmdb.org/t/p/original/4vNuI20Sq5mr2SwvUDMxp2o0crS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/y5MKewv51MiTgPomayONG4rNxJo.jpg">https://image.tmdb.org/t/p/original/y5MKewv51MiTgPomayONG4rNxJo.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xf22a5bMysUFJq9t0RQl8vZXhFl.jpg">https://image.tmdb.org/t/p/original/xf22a5bMysUFJq9t0RQl8vZXhFl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xoJ2TExRHwrEdcuLglbQskgW5Q9.jpg">https://image.tmdb.org/t/p/original/xoJ2TExRHwrEdcuLglbQskgW5Q9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nZ1PmQaH4RaEPa2qPtqHjltqtp5.jpg">https://image.tmdb.org/t/p/original/nZ1PmQaH4RaEPa2qPtqHjltqtp5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4DCy0FFzkFAfUOP5RunknYpJqHJ.jpg">https://image.tmdb.org/t/p/original/4DCy0FFzkFAfUOP5RunknYpJqHJ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/eOD1KUdeheVTdCdvxdDLL7RxF8Y.jpg">https://image.tmdb.org/t/p/original/eOD1KUdeheVTdCdvxdDLL7RxF8Y.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/uQROjQcp8MMW0G91Wy5WUlFV1Mn.jpg">https://image.tmdb.org/t/p/original/uQROjQcp8MMW0G91Wy5WUlFV1Mn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9DoDzowpCBzvkjWLY28q5AxQteF.jpg">https://image.tmdb.org/t/p/original/9DoDzowpCBzvkjWLY28q5AxQteF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/29TwSAb0RO6yvJ6eVoUYbK6nqtH.jpg">https://image.tmdb.org/t/p/original/29TwSAb0RO6yvJ6eVoUYbK6nqtH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7Qd8uiynOXKdM5QWPCU1dkNKzpQ.jpg">https://image.tmdb.org/t/p/original/7Qd8uiynOXKdM5QWPCU1dkNKzpQ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/lNmkp7j8MVaa8orhyAIMTuzoamR.jpg">https://image.tmdb.org/t/p/original/lNmkp7j8MVaa8orhyAIMTuzoamR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ARjmqyjkPmIh07GbuRTTDxw13v.jpg">https://image.tmdb.org/t/p/original/ARjmqyjkPmIh07GbuRTTDxw13v.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wW3qSTSd0g0AerAAkkLzKW5akt2.jpg">https://image.tmdb.org/t/p/original/wW3qSTSd0g0AerAAkkLzKW5akt2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bhhig2agUXave8hasou1w3fA2jF.jpg">https://image.tmdb.org/t/p/original/bhhig2agUXave8hasou1w3fA2jF.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kosugNOLDNEcCSo6VHw6WIjqr4L.jpg">https://image.tmdb.org/t/p/original/kosugNOLDNEcCSo6VHw6WIjqr4L.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9meP1RsX1prDJkx0oidXwjJVpU5.jpg">https://image.tmdb.org/t/p/original/9meP1RsX1prDJkx0oidXwjJVpU5.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jTcS6v2ZLIrKcDCXpIuipX6iKzx.jpg">https://image.tmdb.org/t/p/original/jTcS6v2ZLIrKcDCXpIuipX6iKzx.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ApJSJWQw3mvOYhyorj79eYqhXTB.jpg">https://image.tmdb.org/t/p/original/ApJSJWQw3mvOYhyorj79eYqhXTB.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/t4iiqzKzKlQFKNd69NkqBI3f0BX.jpg">https://image.tmdb.org/t/p/original/t4iiqzKzKlQFKNd69NkqBI3f0BX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4b9jGxEnnMvHTgli454MSGg5IeW.jpg">https://image.tmdb.org/t/p/original/4b9jGxEnnMvHTgli454MSGg5IeW.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5Z5WwiDp1Fl4BEcTibBwBuziefh.jpg">https://image.tmdb.org/t/p/original/5Z5WwiDp1Fl4BEcTibBwBuziefh.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iUxEjSNvfiWZkXwdLdJQgPahUcl.jpg">https://image.tmdb.org/t/p/original/iUxEjSNvfiWZkXwdLdJQgPahUcl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/oJfklz02dWklHd0zMB3eRe8wkrn.jpg">https://image.tmdb.org/t/p/original/oJfklz02dWklHd0zMB3eRe8wkrn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/hf7cDHt4hSZiFb5KNzqffRDnEVU.jpg">https://image.tmdb.org/t/p/original/hf7cDHt4hSZiFb5KNzqffRDnEVU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2DNtaAfTyevYZX5oWw3tQ7Xg4F7.jpg">https://image.tmdb.org/t/p/original/2DNtaAfTyevYZX5oWw3tQ7Xg4F7.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rmMJTMOoYtuvS2jSfxhapLrOk0x.jpg">https://image.tmdb.org/t/p/original/rmMJTMOoYtuvS2jSfxhapLrOk0x.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/54neCJAJGsqqnrytFZ4UE3P0VFs.jpg">https://image.tmdb.org/t/p/original/54neCJAJGsqqnrytFZ4UE3P0VFs.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg">https://image.tmdb.org/t/p/original/xnopI5Xtky18MPhK40cZAGAOVeV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/gGfsj3VW3qAtCdFjs7qa5fHc8aD.jpg">https://image.tmdb.org/t/p/original/gGfsj3VW3qAtCdFjs7qa5fHc8aD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1NaPSukv8YOssEhrjfJX8J2BIP6.jpg">https://image.tmdb.org/t/p/original/1NaPSukv8YOssEhrjfJX8J2BIP6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ubVMUEAIIA0jF4Sb2UdgQ6sNh2X.jpg">https://image.tmdb.org/t/p/original/ubVMUEAIIA0jF4Sb2UdgQ6sNh2X.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rKP9AvE6byCAxXTtxcWiItDXuPP.jpg">https://image.tmdb.org/t/p/original/rKP9AvE6byCAxXTtxcWiItDXuPP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bvCcq3zp8P6uCYoHJ1ve75Jsjog.jpg">https://image.tmdb.org/t/p/original/bvCcq3zp8P6uCYoHJ1ve75Jsjog.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x1CKypiOpvFXown6pPPwBFxFASt.jpg">https://image.tmdb.org/t/p/original/x1CKypiOpvFXown6pPPwBFxFASt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/5nDoXSBQECTnTJ9kTdoBWcYLLrf.jpg">https://image.tmdb.org/t/p/original/5nDoXSBQECTnTJ9kTdoBWcYLLrf.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qwgGtdlLMKYvT2tV8hLY22syRHN.jpg">https://image.tmdb.org/t/p/original/qwgGtdlLMKYvT2tV8hLY22syRHN.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ox7yc4cfR2bFMhBx7ESCpELJmba.jpg">https://image.tmdb.org/t/p/original/ox7yc4cfR2bFMhBx7ESCpELJmba.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/bi4jh0Kt0uuZGsGJoUUfqmbrjQg.jpg">https://image.tmdb.org/t/p/original/bi4jh0Kt0uuZGsGJoUUfqmbrjQg.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ex0dyFiWae5t8EYWZJlZmYXC05q.jpg">https://image.tmdb.org/t/p/original/ex0dyFiWae5t8EYWZJlZmYXC05q.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8q5q6wR67oIPpZk4zrgkMU1EgSp.jpg">https://image.tmdb.org/t/p/original/8q5q6wR67oIPpZk4zrgkMU1EgSp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/OIGX2lm5tmlCKvZUghtwHzoxxO.jpg">https://image.tmdb.org/t/p/original/OIGX2lm5tmlCKvZUghtwHzoxxO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/j1Jak9AxmvDcn0EmO5ObQmhhlXO.jpg">https://image.tmdb.org/t/p/original/j1Jak9AxmvDcn0EmO5ObQmhhlXO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nmV9MdbzST4xv8WMHwhVgxkHHjM.jpg">https://image.tmdb.org/t/p/original/nmV9MdbzST4xv8WMHwhVgxkHHjM.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wNXWVhALRBs07VmzdSQv5nJCkVG.jpg">https://image.tmdb.org/t/p/original/wNXWVhALRBs07VmzdSQv5nJCkVG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/sEBD3uMNaAeGsq12yc0VGokGlRA.jpg">https://image.tmdb.org/t/p/original/sEBD3uMNaAeGsq12yc0VGokGlRA.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/TfvH81zUYqOFU6yTosboBFq91Z.jpg">https://image.tmdb.org/t/p/original/TfvH81zUYqOFU6yTosboBFq91Z.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aZ2oDtUaLJidvhSdT9GH0ZWfLqe.jpg">https://image.tmdb.org/t/p/original/aZ2oDtUaLJidvhSdT9GH0ZWfLqe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zORJw1HJ632rjdz0cUSjWlEiSyy.jpg">https://image.tmdb.org/t/p/original/zORJw1HJ632rjdz0cUSjWlEiSyy.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wVIQswE1Q6uf5vew6Y9wuW2G8MR.jpg">https://image.tmdb.org/t/p/original/wVIQswE1Q6uf5vew6Y9wuW2G8MR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zuMA7qw5H7R2g0BE2UjP9m9IfGq.jpg">https://image.tmdb.org/t/p/original/zuMA7qw5H7R2g0BE2UjP9m9IfGq.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/agGKWTDMiEMoVVbMDzawDUGxWWp.jpg">https://image.tmdb.org/t/p/original/agGKWTDMiEMoVVbMDzawDUGxWWp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xVA2jvmQaBzPWfcNlFsqIxfhtSo.jpg">https://image.tmdb.org/t/p/original/xVA2jvmQaBzPWfcNlFsqIxfhtSo.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 7</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0448115</id>
+    <uniqueid type="imdb" default="true">tt0448115</uniqueid>
+    <uniqueid type="tmdb">287947</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Shazam! Collection</name>
+        <overview>Collection that groups the Shazam! movies</overview>
+    </set>
+    <credits>Henry Gayden</credits>
+    <director>David F. Sandberg</director>
+    <premiered>2019-03-29</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DC Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dURE0vS6OJ8</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7817</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Zachary Levi</name>
+        <role>Shazam</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Asher Angel</name>
+        <role>Billy Batson</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/l35dA6bF2JmpDsiii8GTW8eUDLP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Strong</name>
+        <role>Doctor Thaddeus  Sivana</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/umZDzjjfL6RTUsOWRaC2CS0hNL2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Dylan Grazer</name>
+        <role>Freddy Freeman</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/8WoKaWOqXLNvDjKloIjpHUDnZX3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Brody</name>
+        <role>Super Hero Freddy</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/2JT47vNEinUv3TZMpDCElzGakcR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Faithe Herman</name>
+        <role>Darla Dudley</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/9BnLbO7HqauDxJMH4V6L1mjNglI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Meagan Good</name>
+        <role>Super Hero Darla</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/j7srB4EzF926BHG8sr1BEK76AaG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grace Fulton</name>
+        <role>Mary Bromfield</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/fhwQWWTwl8r613puGYKMyf9H8mQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Borth</name>
+        <role>Super Hero Mary</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/gPawJjvcbDJTuVJn1ifEA1Z41WC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ian Chen</name>
+        <role>Eugene Choi</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/1P37FdH3hxnBtYPQHMpQt0bCAYn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ross Butler</name>
+        <role>Super Hero Eugene</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/asJ1bchERNBwcWS3Do7xSaYNOmX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jovan Armand</name>
+        <role>Pedro Peña</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/6LFTVoxooEMrQWjSXTmYJl1KXK4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>D.J. Cotrona</name>
+        <role>Super Hero Pedro</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/mxm4UVHzHf0Z7YK1oAfzNSC0T35.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marta Milans</name>
+        <role>Rosa Vasquez</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/nTvErwx5jnw0UmXTXZdXWlwxmYP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cooper Andrews</name>
+        <role>Victor Vasquez</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/uyvhcj3hrhCWqXmS4VSM36LhISt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Djimon Hounsou</name>
+        <role>The Wizard</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/hco0KMbrxACYTmBfAkSzCf23CXV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ethan Pugiotto</name>
+        <role>Dr. Thaddeus Sivana (1974)</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/64FL927R1wf1iLrXx8bbbSPOf6F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Glover</name>
+        <role>Sivana&apos;s Father</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/aPmq20MXqFALrUxaaJoC2Xonumo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Landon Doak</name>
+        <role>Sid Sivana (1974)</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Braunstein</name>
+        <role>Officer #1</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/5WFAZe2AGttbi0LPg2MmmswL7Gn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nadine Roden</name>
+        <role>Officer #2</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/3YCrGi0PwVbUCH3waX0GS8clN9P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Kohlsmith</name>
+        <role>Young Billy</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/yMKLIW8R4RuP7eAgMA2zYlhvOqb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Caroline Palmer</name>
+        <role>Billy&apos;s Mom</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/bBoPZEt3IDFzKgmvnO8Bd75rgDW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emily Nixon</name>
+        <role>Woman in Red Coat</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/AoerhdaTn77yUrPXaIC721z4ldy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carson MacCormac</name>
+        <role>Brett Bryer</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/jRCd3axr0kZhGJaYE3ksACdi42a.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lotta Losten</name>
+        <role>Dr. Lynn Crosby</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/k6C2tAU9EvFpBlLx9O2fKEVRFwx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andi Osho</name>
+        <role>Ms. E.B. Glover</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/z5m18lhx3uJXfxycSzKGdoGeswv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalia Safran</name>
+        <role>Mrs. Sivana (uncredited)</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/3luVtifpeQvF54jEf6NbK2Oz0dE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David J. MacNeil</name>
+        <role>Mr. Breyer (uncredited)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/2QSGxC5NzshYhIHamqPFzRsVHh7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lou Lou Safran</name>
+        <role>Sivana&apos;s Twin Sisters - 12 Yrs Old (uncredited)</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/9iRNXBVWoASeZbrS0aJ7VQjyz6b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ava Preston</name>
+        <role>Lillian Price (Interviewee)</role>
+        <order>30</order>
+        <thumb>https://image.tmdb.org/t/p/original/npwnZYMM4qfPXkNcOcLJ86cES79.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manuel Rodriguez-Saenz</name>
+        <role>Luis Pichardo (Interviewee)</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/rOnAxgtUgGZmYuAwSxBVyPVoX6F.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ali Badshah</name>
+        <role>Mehmet Kotil (Interviewee)</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/7yNCXP1xAgEnSSJzG83VrdGArkz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Northwood</name>
+        <role>Pissed Off Phone Owner</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/zaBu1bUHJAZZt11TbdPRjfYLpMw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lovina Yavari</name>
+        <role>Store Clerk</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/cQz5SLnBJz99CSMnuBngqVpcI1k.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rachel Boyd</name>
+        <role>Senior Girl</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/bkRBR0khUTzcnm8Pq7JBiq7eABg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jim Pagiamtzis</name>
+        <role>Night Club Patron (uncredited)</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Raul Torres</name>
+        <role>Pedrestian</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/tXPUe2WFEIgh2J0h5XExltHG7c1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jhaleil Swaby</name>
+        <role>Passing Teen</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/5mgVhVMYtfTkvyK38OQ98n0Xs34.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackson Reid</name>
+        <role>Little Boy</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/tGqmNaz6g1v74nbbkZhgkoiGsyD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryce Arden Poe</name>
+        <role>Student #2</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tosh Robertson</name>
+        <role>Student #3</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pearl Ho</name>
+        <role>Carnival Goer #2</role>
+        <order>42</order>
+        <thumb>https://image.tmdb.org/t/p/original/6oODNxU3ifOrNHFpvH8F53K3ttw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cassandra Ebner</name>
+        <role>Bus Passenger #3</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/ykIe7cvJjrdBgPilC5sCsZkwXCz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Hawkins</name>
+        <role>Bus Passenger #7</role>
+        <order>44</order>
+        <thumb>https://image.tmdb.org/t/p/original/ocbeeLHgZVmSqtQyowSQzM131AU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angelica Lisk-Hann</name>
+        <role>Bus Passenger #2</role>
+        <order>45</order>
+        <thumb>https://image.tmdb.org/t/p/original/hEwp7wR3GGcZMofacgtwe7ipTii.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesse Bond</name>
+        <role>Father at Carnival</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harper Gunn</name>
+        <role>Little Girl at Carnival</role>
+        <order>47</order>
+        <thumb>https://image.tmdb.org/t/p/original/nmPGMMuBO2lqiWVOorActooMkS9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Marsh</name>
+        <role>Burke Breyer</role>
+        <order>48</order>
+        <thumb>https://image.tmdb.org/t/p/original/abEhV2v27waWWOVt328tD5o9P0C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kerri Kamara</name>
+        <role>Attractive Lady</role>
+        <order>49</order>
+        <thumb>https://image.tmdb.org/t/p/original/k4w2E3Xoc07n3WBKQpiKpIm1Cmw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Leon Oliveira Martins</name>
+        <role>Man at Carnival</role>
+        <order>50</order>
+        <thumb>https://image.tmdb.org/t/p/original/9KKfucYUYe9SuqQfcgCdIGv644g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nilce Moretto</name>
+        <role>Woman at Carnival</role>
+        <order>51</order>
+        <thumb>https://image.tmdb.org/t/p/original/gNu57ACsJtJ3VPidt1zwdHd1lOE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David F. Sandberg</name>
+        <role>Mr Mind (Voice)/ The Husband (Voice) / Gangster Crocodile-Men (uncredited)</role>
+        <order>52</order>
+        <thumb>https://image.tmdb.org/t/p/original/10p2i4OW0JWAbnOb7yMLUEGdSqM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Handley</name>
+        <role>Superman (uncredited)</role>
+        <order>53</order>
+        <thumb>https://image.tmdb.org/t/p/original/aF2KKsTWnZcJKIpTPA99hCMLWy3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wayne Ward</name>
+        <role>Sid Sivana</role>
+        <order>54</order>
+        <thumb>https://image.tmdb.org/t/p/original/8psIIS7CBDYyJNwBtyoFodTJS6A.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pamela Matthews</name>
+        <role>Interviewee</role>
+        <order>55</order>
+        <thumb>https://image.tmdb.org/t/p/original/ryQ7uy47ojgVnVQSEyUkmyUQTVn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allison Brennan</name>
+        <role>Cissie Sommerly</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/aUykl07eUJhqNYrya2MRIN8nVls.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lisa Truong</name>
+        <role>Ms. Kwan</role>
+        <order>57</order>
+        <thumb>https://image.tmdb.org/t/p/original/dpDp4TPptGGOfA7oR5T9VqFG5mj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill R. Dean</name>
+        <role>Batman Toy (voice)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steve Blum</name>
+        <role>Seven Deadly Sins (voice)</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/cpO0muunoigq1WHegeOEI1AIQAo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Darin De Paul</name>
+        <role>Seven Deadly Sins (voice)</role>
+        <order>60</order>
+        <thumb>https://image.tmdb.org/t/p/original/vGzewVsLWtXyEU7X3iNdjWEd6y9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Tatasciore</name>
+        <role>Seven Deadly Sins (voice)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/busoEz4khUJ0hOoKHexjXwGrsit.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tabitha Tao</name>
+        <role>Interviewee</role>
+        <order>62</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Seth Green</name>
+        <role>friend (uncredited)</role>
+        <order>63</order>
+        <thumb>https://image.tmdb.org/t/p/original/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 22:17:38</dateadded>
+</movie>

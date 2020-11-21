@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Sanky Panky 3</title>
+    <originaltitle>Sanky Panky 3</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.200000</value>
+            <votes>85</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.100000</value>
+            <votes>23</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Genaro, Chelo y Carlitos han conseguido salir finalmente de República Dominicana, pero seguirán encontrando problemas para encontrar una visa en Puerto Rico.</plot>
+    <tagline></tagline>
+    <runtime>103</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cKs1JbX7Ujuf2jV5dSV0d5y4Qpa.jpg">https://image.tmdb.org/t/p/original/cKs1JbX7Ujuf2jV5dSV0d5y4Qpa.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/oJQr1ec3IetycVb62sotUexjSNv.jpg">https://image.tmdb.org/t/p/original/oJQr1ec3IetycVb62sotUexjSNv.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5848992</id>
+    <uniqueid type="imdb" default="true">tt5848992</uniqueid>
+    <uniqueid type="tmdb">407651</uniqueid>
+    <genre>Comedia</genre>
+    <country>Dominican Republic</country>
+    <set>
+        <name>Sanky Panky - Colección</name>
+    </set>
+    <credits>Miguel Morales</credits>
+    <director>Eduardo Ortiz</director>
+    <premiered>2018-03-18</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Piñollywood</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fMPjyt0O6Q4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>350.000000</aspect>
+                <width>1400</width>
+                <height>788</height>
+                <durationinseconds>6205</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Fausto Mata</name>
+        <role>Genaro</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Pascual</name>
+        <role>Chelo</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aquiles Correa</name>
+        <role>Carlitos</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jazmin Caratini</name>
+        <role>Patricia</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/mox6VI46MEZb4ub3xNIc5rmj4kk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rafael Sánchez Navarro</name>
+        <role>Manolo Castañeda</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/m9KfJxxrOdIBqPDOhSvw6GPA1Uy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Omar Cruz Soto</name>
+        <role>DJ Papito</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/10jmPu8kp4LN9DRaM1oyOtzHGSz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rafa Sánchez</name>
+        <role>Manolo Castañeda</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 20:58:17</dateadded>
+</movie>

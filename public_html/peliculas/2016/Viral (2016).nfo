@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Viral</title>
+    <originaltitle>Viral</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.500000</value>
+            <votes>8075</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>325</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Tras el estallido de un virus que extingue a la mayoría de la población humana, una joven documenta la nueva vida de su familia en cuarentena y trata de proteger a su hermana infectada.</plot>
+    <tagline>Fear what&apos;s inside</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2Rul30PXj13zTAx9RgYZQ8fnlif.jpg">https://image.tmdb.org/t/p/original/2Rul30PXj13zTAx9RgYZQ8fnlif.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6aKo9fVrn1mjWTh4tsZQvuvITtQ.jpg">https://image.tmdb.org/t/p/original/6aKo9fVrn1mjWTh4tsZQvuvITtQ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mOLcY0k3u31ylwKv8IB3XzoxhtE.jpg">https://image.tmdb.org/t/p/original/mOLcY0k3u31ylwKv8IB3XzoxhtE.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zNTIU2hB7OHJmT6zpyYFLBzY4HO.jpg">https://image.tmdb.org/t/p/original/zNTIU2hB7OHJmT6zpyYFLBzY4HO.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iqz7XeZmjwI3Wz0wqHMFTn1eZLo.jpg">https://image.tmdb.org/t/p/original/iqz7XeZmjwI3Wz0wqHMFTn1eZLo.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/smxlrWGByIzvdraNHYSmG36w1G9.jpg">https://image.tmdb.org/t/p/original/smxlrWGByIzvdraNHYSmG36w1G9.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2597892</id>
+    <uniqueid type="imdb" default="true">tt2597892</uniqueid>
+    <uniqueid type="tmdb">336455</uniqueid>
+    <genre>Drama</genre>
+    <genre>Terror</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <credits>Christopher Landon</credits>
+    <credits>Barbara Marshall</credits>
+    <director>Henry Joost</director>
+    <director>Ariel Schulman</director>
+    <premiered>2016-02-18</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>IM Global Octane</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4XdRLd13a4M</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>5135</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Sofia Black-D&apos;Elia</name>
+        <role>Emma Drakeford</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/4fFr8QkAGx7e9mRVp4zLGl9M8PV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Analeigh Tipton</name>
+        <role>Stacey Drakeford</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sEo8EO1JeutUldCTsQnDefXRmcT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Travis Tope</name>
+        <role>Evan Klein</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rb6bLRrACii6nPXFgKLT6nQHan.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Machine Gun Kelly</name>
+        <role>CJ</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/sIMKmVbR6kTyBnLzmJTaDdZB1as.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Kelly</name>
+        <role>Michael Drakeford</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/8V6RKWbbx8lyt3Xxz9B1OAPvHRt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Cothran, Jr.</name>
+        <role>Mr. Toomey</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ybpI2PeHD8Dd3LFzLNimsujBq1M.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stoney Westmoreland</name>
+        <role>Bill</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Linzie Gray</name>
+        <role>Gracie Lemay</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/6KrS9UJxjujLkE7jnyGwAq7IplR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judyann Elder</name>
+        <role>Mrs. Toomey</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brianne Howey</name>
+        <role>Tara Dannelly</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/zhiXsq3JoviKE4QABPyJyRPe4Vy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dean Neistat</name>
+        <role>Blockade Soldier</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anna Ross</name>
+        <role>Pot-Smoking Teen Party Goer</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/AgIcvTEc1ZVn5xtnM00NyNy79kR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brendon Eggertsen</name>
+        <role>Party Jock</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Lacovara</name>
+        <role>Soldier #2</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/u064GEjLUgiW5dmn4yt0Z9uwmAr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexa Fischer</name>
+        <role>#14 CDC Investigator</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay Hieron</name>
+        <role>Nest Hacker Leader</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/rVZm4enxPy8hcojiA653xoPhA9D.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Knudsen</name>
+        <role>CDC Agent Moran</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/kFjWUxJY4bXLt73ISSPM6vHa0M7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Annie Ellis</name>
+        <role>Nest Hacker #1</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/xCh9L6dOj9U2ydQybaVtDEN3WH.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 20:11:39</dateadded>
+</movie>

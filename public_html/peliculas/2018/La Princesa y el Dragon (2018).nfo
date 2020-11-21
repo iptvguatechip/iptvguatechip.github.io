@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>La princesa y el dragón</title>
+    <originaltitle>Принцесса и дракон</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.400000</value>
+            <votes>232</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.700000</value>
+            <votes>3</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>En su séptimo cumpleaños, la princesa Barbara descubre un libro mágico que la transporta a Wonderland, un lugar encantado lleno de dragones y criaturas fantásticas.</plot>
+    <tagline></tagline>
+    <runtime>73</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2AeosxTlikxvq9DT86nyO9Wbxlv.jpg">https://image.tmdb.org/t/p/original/2AeosxTlikxvq9DT86nyO9Wbxlv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/a8lY7bzTZ9LsimEVjSLpRDW9fEZ.jpg">https://image.tmdb.org/t/p/original/a8lY7bzTZ9LsimEVjSLpRDW9fEZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7tErg6ALkc53RZSnm5xGloaZjCG.jpg">https://image.tmdb.org/t/p/original/7tErg6ALkc53RZSnm5xGloaZjCG.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2RAphq12UvNukT2tivP0YfOimwh.jpg">https://image.tmdb.org/t/p/original/2RAphq12UvNukT2tivP0YfOimwh.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nx2ZfF5y42cnxuNBDaO2nL2uKpX.jpg">https://image.tmdb.org/t/p/original/nx2ZfF5y42cnxuNBDaO2nL2uKpX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/q3I6SXYFVq4ezjw2zssEpBPZ2NW.jpg">https://image.tmdb.org/t/p/original/q3I6SXYFVq4ezjw2zssEpBPZ2NW.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/iqKIIg0hwmV9YEXoduudnQ1P3II.jpg">https://image.tmdb.org/t/p/original/iqKIIg0hwmV9YEXoduudnQ1P3II.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gzBJMOpRW4vGtNOOjskG70kU0fF.jpg">https://image.tmdb.org/t/p/original/gzBJMOpRW4vGtNOOjskG70kU0fF.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/fryB9DApUwB0zEdlZtDH1RefHuD.jpg">https://image.tmdb.org/t/p/original/fryB9DApUwB0zEdlZtDH1RefHuD.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7403574</id>
+    <uniqueid type="imdb" default="true">tt7403574</uniqueid>
+    <uniqueid type="tmdb">518604</uniqueid>
+    <genre>Animación</genre>
+    <genre>Fantasía</genre>
+    <country>Russia</country>
+    <credits>Vasiliy Rovenskiy</credits>
+    <director>Marina Nefedova</director>
+    <premiered>2018-08-23</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Licensing Brands</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>24.000000</aspect>
+                <width>1920</width>
+                <height>1040</height>
+                <durationinseconds>4386</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Irina Kireeva</name>
+        <role>Queen</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/7ohjYfffIa6lbBrFb5KjFCElnnN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ani Lorak</name>
+        <role>Princess Barbara</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/7q69DMh3ZSTXHyg29OPxZEZ9L7s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sergey Smirnov</name>
+        <role>Dragosha</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qeUAuj0bUXHRPMuBcBi0Mmwgfl0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diomid Vinogradov</name>
+        <role>King</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/4VXryQlIAvpsXwUm2VTqsQI4ouJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Konstantin Kozhevnikov</name>
+        <role>Balthasar</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/rJ1kykRzR2MusB63QUi1zgzlRPz.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:09:22</dateadded>
+</movie>

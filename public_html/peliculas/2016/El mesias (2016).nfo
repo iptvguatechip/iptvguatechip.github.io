@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>El mesías</title>
+    <originaltitle>The Young Messiah</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>3144</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>66</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuenta la historia de Jesucristo a los 7 años, cuando él y su familia salen de Egipto para regresar a su hogar en Nazareth. Desde la perspectiva de un niño, sigue a Jesús mientras se da cuenta de su misión en el mundo.</plot>
+    <tagline>Before he was the savior, he was a child.</tagline>
+    <runtime>110</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tlvsqZBdJkXqjloH6bQNhEPPBHN.jpg">https://image.tmdb.org/t/p/original/tlvsqZBdJkXqjloH6bQNhEPPBHN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3dimmtqjcjDirXVHyQNCBj9gOZw.jpg">https://image.tmdb.org/t/p/original/3dimmtqjcjDirXVHyQNCBj9gOZw.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7x1fWmbTIpJ1pQuS4MJCqDT2nA4.jpg">https://image.tmdb.org/t/p/original/7x1fWmbTIpJ1pQuS4MJCqDT2nA4.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1002563</id>
+    <uniqueid type="imdb" default="true">tt1002563</uniqueid>
+    <uniqueid type="tmdb">318850</uniqueid>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <country>United States of America</country>
+    <credits>Cyrus Nowrasteh</credits>
+    <credits>Betsy Giffen Nowrasteh</credits>
+    <director>Cyrus Nowrasteh</director>
+    <premiered>2016-03-10</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Focus Features</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5EynFdirgmY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>240.000000</aspect>
+                <width>1920</width>
+                <height>808</height>
+                <durationinseconds>6650</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Adam Greaves-Neal</name>
+        <role>Jesus</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/bS8hbmFlvYyPzJVFuL1AHOYf3mO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Lazzaro</name>
+        <role>Mary</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/5IdjMMBUWxaQPTNIGM3andOMP44.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent Walsh</name>
+        <role>Joseph</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/eIyoJGq9YybiNkYHnVOOJGEekXD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Bean</name>
+        <role>Severus</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Bailey</name>
+        <role>Herod</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/w8M1dC15q2ShWMkrh2SyK4RROdm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isabelle Adriani</name>
+        <role>Seleni</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ij0duJyvUSOEaAEwWkBLjcC2zPX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rory Keenan</name>
+        <role>The Demon</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/coxaroBNEpi4xjQ7kZuZBxSqO29.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dorotea Mercuri</name>
+        <role>Eleazer&apos;s Mother</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jarreth J. Merz</name>
+        <role>Eleazer&apos;s Father</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Agni Scott</name>
+        <role>Miriam</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/rEqmvcyuxCx0Wami8cu5wuS0x8j.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paola Lavini</name>
+        <role>Crying Mother #2</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/jNUXZHJFUGtu4n0v94lqPsH2Jha.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Ireland</name>
+        <role>Optio</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt Patresi</name>
+        <role>Cynical Stranger</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/cywuOTI8rzZjcFaq7Kobldhu8cX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lee Boardman</name>
+        <role>Roman Squad Leader</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ghJ28dk1Zrl5C3KiC62nskgsqUi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Bradley</name>
+        <role>Old Rabbi</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/znpkwHitb3pcaJbUmgDqG0YenYp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian McKay</name>
+        <role>Cleopas</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/8k7XPKHVtlPqfWg4Joulw0Pc9Fe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Giselda Volodi</name>
+        <role>Female Soothsayer</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/g3L1QiOln7NOOJcDuLNgDum23x9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Burke</name>
+        <role>Blind Rabbi</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/owgqT5OvtAH9GEZfdNieL6Bzdjr.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-16 17:16:24</dateadded>
+</movie>

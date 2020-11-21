@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Jurassic World: Mundo Jurásico</title>
+    <originaltitle>Jurassic World</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.000000</value>
+            <votes>572876</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>16150</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un enorme parque temático, Jurassic Wold, con versiones «domesticadas» de algunos de los dinosaurios más conocidos. Cuando todo parece ir sobre ruedas y ser el negocio del siglo, un nuevo dinosaurio de especie desconocida, pues ha sido creado manipulando genéticamente su ADN, y que resulta ser mucho más inteligente de lo que se pensaba, se escapa de su recinto y comienza a causar estragos entre los visitantes del Parque</plot>
+    <tagline>El parque abre sus puertas</tagline>
+    <runtime>124</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg">https://image.tmdb.org/t/p/original/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/kzlJS8Vnd0jJFDxFFAwsVofVgLP.jpg">https://image.tmdb.org/t/p/original/kzlJS8Vnd0jJFDxFFAwsVofVgLP.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/jcUXVtJ6s0NG0EaxllQCAUtqdr0.jpg">https://image.tmdb.org/t/p/original/jcUXVtJ6s0NG0EaxllQCAUtqdr0.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gu1bpMMz79C4ZDRyW9DvLVZ8brv.jpg">https://image.tmdb.org/t/p/original/gu1bpMMz79C4ZDRyW9DvLVZ8brv.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bLjiEm2Wl1EBGPuCd4afuOkxOqU.jpg">https://image.tmdb.org/t/p/original/bLjiEm2Wl1EBGPuCd4afuOkxOqU.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/vJtt9kw2z1cRgAGJrG76oSzgJOl.jpg">https://image.tmdb.org/t/p/original/vJtt9kw2z1cRgAGJrG76oSzgJOl.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/7PNduvWHDy6CpV53L0U1nSEpZrn.jpg">https://image.tmdb.org/t/p/original/7PNduvWHDy6CpV53L0U1nSEpZrn.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/lxrKh85GuWWCbTF5CLPhOPbE4Z9.jpg">https://image.tmdb.org/t/p/original/lxrKh85GuWWCbTF5CLPhOPbE4Z9.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/AhB93NSKZ5hy3ooNdss4LZIDfV8.jpg">https://image.tmdb.org/t/p/original/AhB93NSKZ5hy3ooNdss4LZIDfV8.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/bQb36r6LEM0JuhU7DphRkwI9eTm.jpg">https://image.tmdb.org/t/p/original/bQb36r6LEM0JuhU7DphRkwI9eTm.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/3sN5issQ9iq5N45gRz95AXWyKJY.jpg">https://image.tmdb.org/t/p/original/3sN5issQ9iq5N45gRz95AXWyKJY.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/xA8Bpc4NWGgltO32agYHcebeDYT.jpg">https://image.tmdb.org/t/p/original/xA8Bpc4NWGgltO32agYHcebeDYT.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/rmyOpWLCjaObIEuPOYbrCHtDk8u.jpg">https://image.tmdb.org/t/p/original/rmyOpWLCjaObIEuPOYbrCHtDk8u.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/a6qWrxSEbf0QPy2hkUHa9MC538X.jpg">https://image.tmdb.org/t/p/original/a6qWrxSEbf0QPy2hkUHa9MC538X.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gz6zEQlW57eEx9CUJjMLxogFroA.jpg">https://image.tmdb.org/t/p/original/gz6zEQlW57eEx9CUJjMLxogFroA.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/x5ChiUtA9MhCiE4zsxKi0308hpq.jpg">https://image.tmdb.org/t/p/original/x5ChiUtA9MhCiE4zsxKi0308hpq.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/r0cgcEjaXeteQSxPfYAGGQnye45.jpg">https://image.tmdb.org/t/p/original/r0cgcEjaXeteQSxPfYAGGQnye45.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/gJ2nvMQ7tVttZTYwPhgVjphlBRJ.jpg">https://image.tmdb.org/t/p/original/gJ2nvMQ7tVttZTYwPhgVjphlBRJ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/sjWhcVM0C6gYAZ10U2fQpeQBKjQ.jpg">https://image.tmdb.org/t/p/original/sjWhcVM0C6gYAZ10U2fQpeQBKjQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/5hBKUlAIXBDOPELx5y2KBnbB5JN.jpg">https://image.tmdb.org/t/p/original/5hBKUlAIXBDOPELx5y2KBnbB5JN.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/jqNaxssv7zB0MsI701HjS62ppxi.jpg">https://image.tmdb.org/t/p/original/jqNaxssv7zB0MsI701HjS62ppxi.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/uoRPJihGMQ9Mh0GDStU4i9ogwKB.jpg">https://image.tmdb.org/t/p/original/uoRPJihGMQ9Mh0GDStU4i9ogwKB.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/vEXL0d1WpozrQo8JWYUgvfv9WFu.jpg">https://image.tmdb.org/t/p/original/vEXL0d1WpozrQo8JWYUgvfv9WFu.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/njFixYzIxX8jsn6KMSEtAzi4avi.jpg">https://image.tmdb.org/t/p/original/njFixYzIxX8jsn6KMSEtAzi4avi.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/lC69eXDkKPZmudn8uHXKaDRL5Cm.jpg">https://image.tmdb.org/t/p/original/lC69eXDkKPZmudn8uHXKaDRL5Cm.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/pJjIH9QN0OkHFV9eue6XfRVnPkr.jpg">https://image.tmdb.org/t/p/original/pJjIH9QN0OkHFV9eue6XfRVnPkr.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/qgT0rER9o7UykLb1qQOilCfgysi.jpg">https://image.tmdb.org/t/p/original/qgT0rER9o7UykLb1qQOilCfgysi.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/fHPzTDmEtuwdaA3dMSOxo56nkpT.jpg">https://image.tmdb.org/t/p/original/fHPzTDmEtuwdaA3dMSOxo56nkpT.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/p4Ivh9ej3TzlhWiabJ04PdrRkTh.jpg">https://image.tmdb.org/t/p/original/p4Ivh9ej3TzlhWiabJ04PdrRkTh.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/cURKatzZ0szOw3hczOSzq1PaVAf.jpg">https://image.tmdb.org/t/p/original/cURKatzZ0szOw3hczOSzq1PaVAf.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg">https://image.tmdb.org/t/p/original/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tLY0crgPAwIBiwkF7lDLmEjBWyn.jpg">https://image.tmdb.org/t/p/original/tLY0crgPAwIBiwkF7lDLmEjBWyn.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg">https://image.tmdb.org/t/p/original/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/swUxBbtfH9OMyNbUArgmYG7T5aS.jpg">https://image.tmdb.org/t/p/original/swUxBbtfH9OMyNbUArgmYG7T5aS.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2c0ajTi8nvrsYl5Oi1lVi6F0kd2.jpg">https://image.tmdb.org/t/p/original/2c0ajTi8nvrsYl5Oi1lVi6F0kd2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg">https://image.tmdb.org/t/p/original/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/b16SWxw2SYSdySH6qkt8NuL1Rrj.jpg">https://image.tmdb.org/t/p/original/b16SWxw2SYSdySH6qkt8NuL1Rrj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/siwPAslJxru6f7BUEmFI074BP7O.jpg">https://image.tmdb.org/t/p/original/siwPAslJxru6f7BUEmFI074BP7O.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bahxBLLdnPHWaSSZMWQOrronShj.jpg">https://image.tmdb.org/t/p/original/bahxBLLdnPHWaSSZMWQOrronShj.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xeP5Q1AmWLiLeTj7YxiWOsa1bT4.jpg">https://image.tmdb.org/t/p/original/xeP5Q1AmWLiLeTj7YxiWOsa1bT4.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/31roxBmKyz7ZoQ981ck9nbaSocy.jpg">https://image.tmdb.org/t/p/original/31roxBmKyz7ZoQ981ck9nbaSocy.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg">https://image.tmdb.org/t/p/original/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/m35KzIV2KLlzhFrcqHord2KqMaa.jpg">https://image.tmdb.org/t/p/original/m35KzIV2KLlzhFrcqHord2KqMaa.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/aIGIYJTyOkEVUmEd3z5x6diYsFx.jpg">https://image.tmdb.org/t/p/original/aIGIYJTyOkEVUmEd3z5x6diYsFx.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xX0IzuFa1Fj06iU2NlOmeMPe7oS.jpg">https://image.tmdb.org/t/p/original/xX0IzuFa1Fj06iU2NlOmeMPe7oS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/nO58Yr8dn3ctMH0NjsG6QcIeg8t.jpg">https://image.tmdb.org/t/p/original/nO58Yr8dn3ctMH0NjsG6QcIeg8t.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/9OywzJLgobAbSGfhMXligzTylko.jpg">https://image.tmdb.org/t/p/original/9OywzJLgobAbSGfhMXligzTylko.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xhHqXVAiJKngqK2ezN6AvFEuPTG.jpg">https://image.tmdb.org/t/p/original/xhHqXVAiJKngqK2ezN6AvFEuPTG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/piBnrWZRXojZ80RXR7QY8VFXgjs.jpg">https://image.tmdb.org/t/p/original/piBnrWZRXojZ80RXR7QY8VFXgjs.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7scm8kMHeCO71VARxYVyCcVHYjp.jpg">https://image.tmdb.org/t/p/original/7scm8kMHeCO71VARxYVyCcVHYjp.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0369610</id>
+    <uniqueid type="imdb" default="true">tt0369610</uniqueid>
+    <uniqueid type="tmdb">135397</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Ciencia ficción</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Jurassic Park - Colección</name>
+    </set>
+    <credits>Rick Jaffa</credits>
+    <credits>Amanda Silver</credits>
+    <credits>Colin Trevorrow</credits>
+    <credits>Derek Connolly</credits>
+    <director>Colin Trevorrow</director>
+    <premiered>2015-06-06</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Amblin Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W5sk3lZULU4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.000000</aspect>
+                <width>1920</width>
+                <height>960</height>
+                <durationinseconds>7461</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Chris Pratt</name>
+        <role>Owen Grady</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gXKyT1YU5RWWPaE1je3ht58eUZr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bryce Dallas Howard</name>
+        <role>Claire Dearing</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Irrfan Khan</name>
+        <role>Simon Masrani</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent D&apos;Onofrio</name>
+        <role>Vic Hoskins</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Omar Sy</name>
+        <role>Barry</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/o34IwFPlOvE00yJA2E4nvp5RQB7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Robinson</name>
+        <role>Zach Mitchell</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/mzYszYVPvTdirjkUueziWUHvye7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judy Greer</name>
+        <role>Karen Mitchell</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/jW4ui3qQj7kH34OsmcNRsJ9fSdQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ty Simpkins</name>
+        <role>Gray Mitchell</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Johnson</name>
+        <role>Lowery Cruthers</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/nUfiDAafxbxIqmjbZf0oEcmh3kn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>BD Wong</name>
+        <role>Dr. Henry Wu</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Lapkus</name>
+        <role>Vivian</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Y2r6l50cGz9HwfcVLnQDh2W9RQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brian Tee</name>
+        <role>Hamada</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/hxBPRA15C2Qtfqaw05Q5pKpG7ga.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie McGrath</name>
+        <role>Zara Young</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/cq9pc7qFRUKCrkXgsi5mJkb64U5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Buckley</name>
+        <role>Scott Mitchell</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/tFPotnI8lU9twu5C9GFm8RK2aTF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Edelstein</name>
+        <role>Paddock Supervisor</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/dQN5B3T2fepG81NFBD7Y2ODoGKv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney J. Clark</name>
+        <role>Mosasaurus Announcer</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/31BikC8xEucbdaD5aqg80Lve1Qb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colby Boothman</name>
+        <role>Young Raptor Handler</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/xS8gSCtpXv9rGm7dQXSvQsS0XR2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jimmy Fallon</name>
+        <role>Jimmy Fallon</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/49ouN0xbgEp7x4suJPtujFzhIKr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James DuMont</name>
+        <role>Hal Osterly</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/8DLNFj3a4SJWdtw5daPBQm0qrOO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Burke</name>
+        <role>Jim Drucker</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/AhpwRqmD9IHnlJbQyC5mBouUk0U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Talakkottur</name>
+        <role>Erica Brand</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/wgXc8QdRUgRW4lhIJEkP1y4Cr6H.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matthew Cardarople</name>
+        <role>Gyrosphere Operator</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/1PYYUktSJYQP9JZKeQC2rhmhoYD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Papajohn</name>
+        <role>InGen Contractor</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/9nVHCoYxCpGh9pO00xp7SybWd7b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Gary Smith</name>
+        <role>Park Ranger</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kelly Washington</name>
+        <role>Zach&apos;s Girlfriend</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/qMbKj9oNK68RyoFCd11k7JNGdFt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isaac Keys</name>
+        <role>Control Room Security Guard</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/6t8QJG7rai1iTyjkxUrzOmsGIGu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Crowley</name>
+        <role>Flight Instructor</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/kcBZtQazxoQfbArX1V9ERe5FJOY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chad Randall</name>
+        <role>InGen Soldier</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/fQwtV3TbWW8dGwflMWngwq4TUMZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Weeks</name>
+        <role>Father of Three</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/n4taftpteF6qUTeYRDkdGPHC58.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Ogilvie</name>
+        <role>Spanish Parkgoer</role>
+        <order>29</order>
+        <thumb>https://image.tmdb.org/t/p/original/njHFCXhwnrIoI0RWHkO4tC6qqqC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allan Tam</name>
+        <role>Chinese Parkgoer</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yvonne Angulo</name>
+        <role>Italian Mother</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/uYP3LMPbRpoQ76kw8ZVt6DtZYs6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chloe Perrin</name>
+        <role>Italian Girl</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/9uAu8larIWM8reoUw4qyXRKNJws.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Timothy Eulich</name>
+        <role>ACU Trooper</role>
+        <order>33</order>
+        <thumb>https://image.tmdb.org/t/p/original/xIfRmiBGtWogkRYAjbgIX7i4cuv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Foster</name>
+        <role>ACU Gunner</role>
+        <order>34</order>
+        <thumb>https://image.tmdb.org/t/p/original/whCIMVYDLXDVd8Xuz8hiC89ad4p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bonnie Wild</name>
+        <role>Park Announcer</role>
+        <order>35</order>
+        <thumb>https://image.tmdb.org/t/p/original/idPtIhDGE9IZ6w6ZTsKOIWZ0wKC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Bird</name>
+        <role>Monorail Announcer</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/ZX1hAfWK1zslpB6ifwgDP2uBqn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Trevorrow</name>
+        <role>Mr. DNA (voice)</role>
+        <order>37</order>
+        <thumb>https://image.tmdb.org/t/p/original/8o7PL87ngK7gbmdNfxW9DuVyHyS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erika Erica</name>
+        <role>Park Visitor (uncredited)</role>
+        <order>38</order>
+        <thumb>https://image.tmdb.org/t/p/original/6LGdHp8xcP8gVjnT1xdQUVdCMtC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Forest</name>
+        <role>Park Visitor (uncredited)</role>
+        <order>39</order>
+        <thumb>https://image.tmdb.org/t/p/original/A1YCddo0DoTGlH8K76S5wiyKMLU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brandon Marc Higa</name>
+        <role>Petting Zoo Staff (uncredited)</role>
+        <order>40</order>
+        <thumb>https://image.tmdb.org/t/p/original/twxN95fHJQzJdP8foLPKq4PXTrc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arlene Newman</name>
+        <role>Woman with Baby (uncredited)</role>
+        <order>41</order>
+        <thumb>https://image.tmdb.org/t/p/original/gY5HiCtmSYTSPLCyuA3KGBA1f1e.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-18 20:10:44</dateadded>
+</movie>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Temple de acero</title>
+    <originaltitle>True Grit</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>7.600000</value>
+            <votes>307449</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.300000</value>
+            <votes>3689</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Después del asesinato de su padre, Mattie Ross (Hailee Steinfeld), una chica de catorce años firmemente decidida a hacer justicia, contrata los servicios del veterano agente del Gobierno Rooster Cogburn (Jeff Bridges), borracho y excelente pistolero. Así ambos se ponen en camino y entran en territorio indio para dar caza a Tom Chaney (Josh Brolin) en compañía de LaBoeuf (Matt Damon), un ránger de Texas que busca al fugitivo por el asesinato de un senador… Nueva adaptación de una novela de Charles Portis, que ya había llevado al cine Henry Hathaway (True Grit, 1969) con John Wayne como protagonista.</plot>
+    <tagline>Punishment Comes One Way or Another.</tagline>
+    <runtime>128</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/sFWWSdTZfPQDcttLGygjgSWyaeu.jpg">https://image.tmdb.org/t/p/original/sFWWSdTZfPQDcttLGygjgSWyaeu.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rxeRwN7dxHSLE0asOEIc1Q5Mcxy.jpg">https://image.tmdb.org/t/p/original/rxeRwN7dxHSLE0asOEIc1Q5Mcxy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/krK7cQms3FlJ3HPkvXC3YyEFP2K.jpg">https://image.tmdb.org/t/p/original/krK7cQms3FlJ3HPkvXC3YyEFP2K.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dt7uyn5gDjC04pBWofIrUj3qvE4.jpg">https://image.tmdb.org/t/p/original/dt7uyn5gDjC04pBWofIrUj3qvE4.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ivo5vhAftxFiEZtDyOhepiYR24G.jpg">https://image.tmdb.org/t/p/original/ivo5vhAftxFiEZtDyOhepiYR24G.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qPsufpAYyzQmQEacvCHooRw7uAp.jpg">https://image.tmdb.org/t/p/original/qPsufpAYyzQmQEacvCHooRw7uAp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zztSrG61sqoHH5Zr66Z27fpbb26.jpg">https://image.tmdb.org/t/p/original/zztSrG61sqoHH5Zr66Z27fpbb26.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1403865</id>
+    <uniqueid type="imdb" default="true">tt1403865</uniqueid>
+    <uniqueid type="tmdb">44264</uniqueid>
+    <genre>Drama</genre>
+    <genre>Aventura</genre>
+    <genre>Western</genre>
+    <country>United States of America</country>
+    <credits>Joel Coen</credits>
+    <credits>Ethan Coen</credits>
+    <director>Joel Coen</director>
+    <director>Ethan Coen</director>
+    <premiered>2010-12-22</premiered>
+    <year>2010</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Paramount</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bT6al71VRp0</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>7684</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Hailee Steinfeld</name>
+        <role>Mattie Ross</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/u5oEj7m8IeXVGXlOXrVaQgUbVdn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Bridges</name>
+        <role>Reuben J. &quot;Rooster&quot; Cogburn</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Damon</name>
+        <role>LaBoeuf</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Brolin</name>
+        <role>Tom Chaney</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Barry Pepper</name>
+        <role>&quot;Lucky&quot; Ned Pepper</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/pmdNUqrpsoozh7QYqUgEgZQ69cA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Domhnall Gleeson</name>
+        <role>Moon (The Kid)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/qVRZPKZvkTDypGrrhDyUU4QaDYy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce Green</name>
+        <role>Harold Parmalee</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ed Lee Corbin</name>
+        <role>Bear Man</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Roy Lee Jones</name>
+        <role>Yarnell Poindexter</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Rae</name>
+        <role>Emmett Quincy</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Sadler</name>
+        <role>Repentant Condemned Man</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/mbIXwkcpmv3PBAjTvkCzHRe0hUy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dakin Matthews</name>
+        <role>Col. Stonehill</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/sIYsLZnEUTeYHnybPumEZ1Zi2CB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elizabeth Marvel</name>
+        <role>40-Year-Old Mattie</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ruth Morris</name>
+        <role>40-Year-Old Mattie</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leon Russom</name>
+        <role>Sheriff</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/lLBJc5ThJEMafNUlsQyYQ7x1efg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jake Walker</name>
+        <role>Judge Parker</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Pirl</name>
+        <role>Cole Younger</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>James Brolin</name>
+        <role>Frank James</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/rNboIDJ2WfqE6vdTLWevG9pMNNn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jarlath Conroy</name>
+        <role>Undertaker</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>J.K. Simmons</name>
+        <role>J. Noble Daggett (voice)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/7kIiPojgSVNRXb5z0hiijcD5LJ6.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Candyce Hinkle</name>
+        <role>Boarding House Landlady</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/kgUtL2EJrQqQh4xHdmRx8lTTAJ3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Leung</name>
+        <role>Mr. Lee</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Stevens</name>
+        <role>Cross-examining Lawyer</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/pCflBRau0xOGR17W1kzue7ySVqv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Lipman</name>
+        <role>First Lawyer</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Orlando Smart</name>
+        <role>Stableboy</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ty Mitchell</name>
+        <role>Ferryman</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Sowers</name>
+        <role>Unrepentant Condemned Man</role>
+        <order>26</order>
+        <thumb>https://image.tmdb.org/t/p/original/5La5xtIg32vkQQfUD0AsdLcF8OD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Joss</name>
+        <role>Condemned Indian</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/zmJhvjjt8ujOLCysbgaRKnNGSDW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maggie A. Goodman</name>
+        <role>Woman at Hanging</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brandon Sanderson</name>
+        <role>Indian Youth at Bagby&apos;s</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruben Nakai Campana</name>
+        <role>Indian Youth at Bagby&apos;s</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2018-08-23 08:15:04</dateadded>
+</movie>

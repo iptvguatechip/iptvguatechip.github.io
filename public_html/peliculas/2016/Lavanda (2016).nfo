@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Lavanda</title>
+    <originaltitle>Lavender</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.400000</value>
+            <votes>5964</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.500000</value>
+            <votes>189</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un fotógrafo que lucha con la pérdida de la memoria descubre que sus imágenes pueden indicar que algo siniestro está golpeando cerca de casa.</plot>
+    <tagline>The past won&apos;t forget</tagline>
+    <runtime>92</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/kKa40tTGwIzZofhHjhAylrzmfTc.jpg">https://image.tmdb.org/t/p/original/kKa40tTGwIzZofhHjhAylrzmfTc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/tAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg">https://image.tmdb.org/t/p/original/tAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/gvLokRAXxWN0ulm06yYL9DwpZoX.jpg">https://image.tmdb.org/t/p/original/gvLokRAXxWN0ulm06yYL9DwpZoX.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4680980</id>
+    <uniqueid type="imdb" default="true">tt4680980</uniqueid>
+    <uniqueid type="tmdb">340584</uniqueid>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>Canada</country>
+    <credits>Ed Gass-Donnelly</credits>
+    <credits>Colin Frizzell</credits>
+    <director>Ed Gass-Donnelly</director>
+    <premiered>2016-11-04</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>South Creek Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0qCPFQDZovo</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>476.000000</aspect>
+                <width>1904</width>
+                <height>788</height>
+                <durationinseconds>5560</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Abbie Cornish</name>
+        <role>Jane Rutter</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/AgIA8uPnwySIbqaPjr5jEXwZbS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dermot Mulroney</name>
+        <role>Patrick Ryan</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/uqDPswlyj7hUVrmTn5mbDiWiTQi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diego Klattenhoff</name>
+        <role>Alan Rutter</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6OV26Iq6qTXg4S3M7UnJglHBwHZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Long</name>
+        <role>Liam</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/Hlz1LnrOzGBKoZ50HBk9ytuVUa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peyton Kennedy</name>
+        <role>Young Jane</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/45U2xwnC5plfyDtNmTSvFPVD8aU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lola Flanery</name>
+        <role>Alice Rutter</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/9eDN5LcSxBAxZOKEcacfuSfnJn7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Abbott</name>
+        <role>Susie</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/riLNrHSQNFL2jgT3IRhIYOiBCXG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mackenzie Muldoon</name>
+        <role>Jody</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Odegaard Katie</name>
+        <role>Charlotte</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-20 16:25:32</dateadded>
+</movie>

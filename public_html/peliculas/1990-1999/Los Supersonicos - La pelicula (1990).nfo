@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Los Supersónicos: La película</title>
+    <originaltitle>Jetsons: The Movie</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>4690</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.800000</value>
+            <votes>126</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando Súper Sónico consigue un ascenso, se muda al espacio exterior con su familia: Ultra Sónico, Judy, Cometín, Robotina, y Astro el perro de la familia. Pero pronto la familia descubrirá que la empresa de Jorge está destruyendo las casas de los Grungies, amistosas criaturas bajo tierra que viven en el mismo asteroide. Con la ayuda de su familia, Súper Sónico es capaz de llegar a un acuerdo pacífico que beneficia tanto a la ecología como a la fábrica de última tecnología.</plot>
+    <tagline>The first movie from the family that&apos;s truly ahead of its time!</tagline>
+    <runtime>81</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iyr0rbQYyoIp1AnBrQivs6YQlK3.jpg">https://image.tmdb.org/t/p/original/iyr0rbQYyoIp1AnBrQivs6YQlK3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1lPPildz1cxyNbVOa3UTpYZ9qU3.jpg">https://image.tmdb.org/t/p/original/1lPPildz1cxyNbVOa3UTpYZ9qU3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3SwH9oUTXkhrZDz0jnG8ccZ6lIX.jpg">https://image.tmdb.org/t/p/original/3SwH9oUTXkhrZDz0jnG8ccZ6lIX.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qJGUcZo6RmOBIBcLkMJFL55Rqhm.jpg">https://image.tmdb.org/t/p/original/qJGUcZo6RmOBIBcLkMJFL55Rqhm.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/p9DFzfRX3txtT1xKNTi7wbXcP5m.jpg">https://image.tmdb.org/t/p/original/p9DFzfRX3txtT1xKNTi7wbXcP5m.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0099878</id>
+    <uniqueid type="imdb" default="true">tt0099878</uniqueid>
+    <uniqueid type="tmdb">17009</uniqueid>
+    <genre>Animación</genre>
+    <genre>Comedia</genre>
+    <genre>Familia</genre>
+    <genre>Ciencia ficción</genre>
+    <country>United States of America</country>
+    <director>Joseph Barbera</director>
+    <director>William Hanna</director>
+    <premiered>1990-06-06</premiered>
+    <year>1990</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DxQE-7_CIJ4</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>4910</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>George O&apos;Hanlon</name>
+        <role>George Jetson (voice)</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/gq8ueQObgDjDIPUFpxLm6FCU213.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mel Blanc</name>
+        <role>Mr. Spacely (voice)</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/sicAwqCq5PLCj12KlGWFKJLr1Zv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penny Singleton</name>
+        <role>Jane Jetson (voice)</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/zdSAcjLWrwcnu9Aph8BcSwobAHR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany</name>
+        <role>Judy Jetson (voice)</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/xbwtRSKZBi0CcwBqqDm9xBzOkv7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patric Zimmerman</name>
+        <role>Elroy Jetson (voice)</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Messick</name>
+        <role>Astro (voice)</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jean Vander Pyl</name>
+        <role>Rosie the Robot (voice)</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/pHJjddmRyn3f2TP2HmgcGhY0HMT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brad Garrett</name>
+        <role>Bertie Ferbelow (voice)</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/hYh3fR8UeKPVD4LcfDrit4JkCqD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rick Dees</name>
+        <role>Rocket Rick Ragnarok (voice)</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Squeep / Grungees (voice)</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/b3gImArbw13mMKJIe9leFc9YYb7.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 19:18:57</dateadded>
+</movie>

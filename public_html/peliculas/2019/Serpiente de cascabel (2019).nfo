@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Serpiente de cascabel</title>
+    <originaltitle>Rattlesnake</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.600000</value>
+            <votes>7114</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.100000</value>
+            <votes>279</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una misteriosa mujer salva a su hija de una serpiente venenosa y ella, madre soltera, deberá retribuirle asesinando a un desconocido antes de que se ponga el sol.</plot>
+    <tagline>Time waits for no one</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aQwgS2L5qNNhEyjc7NkEcaFdQIy.jpg">https://image.tmdb.org/t/p/original/aQwgS2L5qNNhEyjc7NkEcaFdQIy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg">https://image.tmdb.org/t/p/original/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/16VDPLzdszGhhjRSh4DA03mM372.jpg">https://image.tmdb.org/t/p/original/16VDPLzdszGhhjRSh4DA03mM372.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/TEDCI9vNLh8IVY521elGNJSZrv.jpg">https://image.tmdb.org/t/p/original/TEDCI9vNLh8IVY521elGNJSZrv.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mHqUQK4c4lgCXtJjRfIFSfMGgwt.jpg">https://image.tmdb.org/t/p/original/mHqUQK4c4lgCXtJjRfIFSfMGgwt.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/meEuc9El2efDGZMARPjd4u4qHhd.jpg">https://image.tmdb.org/t/p/original/meEuc9El2efDGZMARPjd4u4qHhd.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/mcGCOsDBFzJUMM5lh8p1Jp5pCRP.jpg">https://image.tmdb.org/t/p/original/mcGCOsDBFzJUMM5lh8p1Jp5pCRP.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9257484</id>
+    <uniqueid type="imdb" default="true">tt9257484</uniqueid>
+    <uniqueid type="tmdb">560362</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Drama</genre>
+    <genre>Misterio</genre>
+    <genre>Terror</genre>
+    <country>United States of America</country>
+    <credits>Zak Hilditch</credits>
+    <director>Zak Hilditch</director>
+    <premiered>2019-10-25</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Campfire</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LhklHFwmBYw</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>5139</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Carmen Ejogo</name>
+        <role>Katrina Ridgeway</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/pJkBfxuifYtuigcjM8qnvNklZNX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Theo Rossi</name>
+        <role>Billy</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/7yHT7a1b3QAQaElX7aoVEoewy9N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Greenwell</name>
+        <role>Abbie</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/3c7zvchL0X6i3ptUgQk7WnJnZQQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Debrianna Mansini</name>
+        <role>Woman in Trailer</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rio Alexander</name>
+        <role>Truck Driver</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Josh Kemble</name>
+        <role>Priest</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/jZpQ09bg4wDGEryLZnHYM5Bnxnd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joy Jacobson</name>
+        <role>Lorraine</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qg0RJF8zPBybLjm2IWiBxU7K78S.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Stafford</name>
+        <role>Nurse</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/93QRcMpoOl2v56hnRcEFo2a399l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jon Kristian Moore</name>
+        <role>Lorraine&apos;s Husband</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Catherine Haun</name>
+        <role>Lorraine&apos;s Sister</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/mLbTpdU1vyZdPFSKiDyOp4G8ZBj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Owen McDonald</name>
+        <role>Lorraine&apos;s Brother in Law</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/wu811uKs5by0gVf3foMQpUv0S69.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andres Segura</name>
+        <role>Lorraine&apos;s Nephew</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/nMV0axRZPdrgc103y16l9z6ATPo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arianna Ortiz</name>
+        <role>Francine</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/8Yn9GacGJNFUCT2BRc4uBEOcPfW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Sterchi</name>
+        <role>Earl</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/6Pbp5BWDPZ7NhkcnjTkUhKEx3QU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Yow</name>
+        <role>Charlie</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/rbL8wH5G8gBd93RjOcfcFLC3e2l.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Apollonia Pratt</name>
+        <role>Clara Ridgeway</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bruce Davis</name>
+        <role>The Suit</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Spencer Mabrey</name>
+        <role>The Boy</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexandra Nell</name>
+        <role>Hiker</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean J. Dillingham</name>
+        <role>Dr. Haynes</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/quqA6H7UwuKc9h9kfKmAGou1247.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jenna Doolittle</name>
+        <role>Nurse</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Lippert</name>
+        <role>Lorraine&apos;s Father</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/usHQAnzP9NjFxoEYQD0ndX8wjEl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manny Rubio</name>
+        <role>Concerned Driver</role>
+        <order>22</order>
+        <thumb>https://image.tmdb.org/t/p/original/1zaN5jjDxwvdAa95gfU6yAov8IZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Chambers</name>
+        <role>Disheveled Woman</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nick A. Meyers</name>
+        <role>Michael James Warner</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 11:49:00</dateadded>
+</movie>

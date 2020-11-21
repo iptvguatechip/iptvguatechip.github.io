@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Boi</title>
+    <originaltitle>Boi</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.900000</value>
+            <votes>505</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.900000</value>
+            <votes>25</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>BOI es un joven que se inicia como conductor privado. Mientras espera con nervios la decisión que ha tomado su novia sobre un asunto que puede cambiarles la vida, deberá acompañar a sus primeros clientes: Michael y Gordon, dos empresarios de origen asiático que han venido a Barcelona con el objetivo de cerrar en menos de 48 horas un acuerdo de vital importancia.</plot>
+    <tagline></tagline>
+    <runtime>110</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/r6ao0ezy6X8MOjApDVRk3bw1Huq.jpg">https://image.tmdb.org/t/p/original/r6ao0ezy6X8MOjApDVRk3bw1Huq.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bnCWF3SEYYOXWFeBb9z6SUGtCPe.jpg">https://image.tmdb.org/t/p/original/bnCWF3SEYYOXWFeBb9z6SUGtCPe.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/47XQq3fqnILbEPZXhpyCyKvZntC.jpg">https://image.tmdb.org/t/p/original/47XQq3fqnILbEPZXhpyCyKvZntC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/9MR7YBrBCZFtX3uAnKQIEWPM9f.jpg">https://image.tmdb.org/t/p/original/9MR7YBrBCZFtX3uAnKQIEWPM9f.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2lGKEaL315JTlusiQDRobBA84ES.jpg">https://image.tmdb.org/t/p/original/2lGKEaL315JTlusiQDRobBA84ES.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9010900</id>
+    <uniqueid type="imdb" default="true">tt9010900</uniqueid>
+    <uniqueid type="tmdb">591789</uniqueid>
+    <genre>Suspense</genre>
+    <country>China</country>
+    <credits>Jorge M. Fontana</credits>
+    <director>Jorge M. Fontana</director>
+    <premiered>2019-03-29</premiered>
+    <year>2019</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Aquí y Allí Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JEKGmlODf2s</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>6652</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Bernat Quintana</name>
+        <role>Boi</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adrian Pang</name>
+        <role>Gordon</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/fOSFPav79lx1YmSj1R1IrsZ87On.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrew Lua</name>
+        <role>Michael</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miranda Gas</name>
+        <role>Anna</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anatoly Chugunov</name>
+        <role>Mafioso</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/akPeSnIc8ia7rIv0zzgC38iaJ8o.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fina Rius</name>
+        <role>Tía de Boi</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/hZNBr01kmJ0cBZGZ0B8TebatD4I.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Man Mourentan</name>
+        <role>Mou</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Sacristán</name>
+        <role></role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/7yoeUnzeopxh9YzAKIh1t19Gzae.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pol López</name>
+        <role></role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Berta Pipó</name>
+        <role></role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mar del Hoyo</name>
+        <role></role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/213rh669YjlWpWcCamXmD3CDKjc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pau Vinyals</name>
+        <role></role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/1SwQmyN5xeaX1zb871nQCEHrKKC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anna Alarcón</name>
+        <role></role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/8RK49xQsDmTYMAQFFkIyRaI504q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Macarena Gómez</name>
+        <role></role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/3MTchNnCV7QaGoAzIFJjgZVolL7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Sust</name>
+        <role></role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rachel Lascar</name>
+        <role></role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/dwk9VqbdpYzB2jc2QSVoHYbrCcs.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-11-08 08:33:15</dateadded>
+</movie>

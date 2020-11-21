@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Cien Años de Perdón</title>
+    <originaltitle>Cien años de perdón</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.300000</value>
+            <votes>6090</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.200000</value>
+            <votes>253</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una mañana lluviosa. Seis hombres disfrazados y armados asaltan la sede central de un banco en Valencia. Lo que parecía un robo limpio y fácil pronto se complica y nada saldrá como estaba planeado. Esto provoca desconfianza y el enfrentamiento entre los dos líderes de la banda, El Uruguayo y El Gallego. Pero ¿qué es exactamente lo que buscan los atracadores?</plot>
+    <tagline>¿Quién roba a quién?</tagline>
+    <runtime>97</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iVV01baOezgO7DIoM5mYgws4Xoa.jpg">https://image.tmdb.org/t/p/original/iVV01baOezgO7DIoM5mYgws4Xoa.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/olM5YUNVwUMIFZgT1L7Vg5RzpZR.jpg">https://image.tmdb.org/t/p/original/olM5YUNVwUMIFZgT1L7Vg5RzpZR.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x5c9xuTZcAeQ275LVR5crPPELuZ.jpg">https://image.tmdb.org/t/p/original/x5c9xuTZcAeQ275LVR5crPPELuZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/elEaCDGOymaTePaM7oL41WaT0aC.jpg">https://image.tmdb.org/t/p/original/elEaCDGOymaTePaM7oL41WaT0aC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/7IdfRM6iyg9CQS3JJTmV4J72ZfQ.jpg">https://image.tmdb.org/t/p/original/7IdfRM6iyg9CQS3JJTmV4J72ZfQ.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/7ORPZUhiSS2wt8PDJM0bMGy9q9s.jpg">https://image.tmdb.org/t/p/original/7ORPZUhiSS2wt8PDJM0bMGy9q9s.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3655414</id>
+    <uniqueid type="imdb" default="true">tt3655414</uniqueid>
+    <uniqueid type="tmdb">351809</uniqueid>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>Argentina</country>
+    <credits>Jorge Guerricaechevarría</credits>
+    <director>Daniel Calparsoro</director>
+    <premiered>2016-03-03</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Vaca Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q3-4fK4UVIg</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>5820</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Luis Tosar</name>
+        <role>&apos;Gallego&apos;</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/pMgqQVL0MMTd9Kcqtdo3q4RODZN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo de la Serna</name>
+        <role>&apos;Uruguayo&apos;</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/vMuKUJSnEGOmjjLYzVDKGukiaCr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raúl Arévalo</name>
+        <role>Ferrán</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>José Coronado</name>
+        <role>Mellizo</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/3Bh99mRONes1xP7DyLLiLqgO7p7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia Vico</name>
+        <role>Sandra</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/zaHtqzOql0YURUnWtLN7N2x1ZYn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Furriel</name>
+        <role>&apos;Loco&apos;</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/ioVO80TD1XSqLt2vAAzs2R82LNa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luciano Cáceres</name>
+        <role>Varela</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/29lmG9G5II9TwO9FDkEdSYBQxN8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marian Álvarez</name>
+        <role>Cristina</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/1pD1WvFckQ8t6LrovKn8wWkCxvW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Callejo</name>
+        <role>Domingo</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/s4SkMqVL7cGNLuCgYDSHzOfiu1p.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miquel Fernández</name>
+        <role>Julio</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/yPMVGPL5zFOpPkuqSc68Al2G1Pm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diego Starosta</name>
+        <role>Modesto</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/3KJwxK13UxyRDq3R9kFGcqOFcRG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pablo Andrés Pinto</name>
+        <role>Marco</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joaquín Climent</name>
+        <role>&apos;El Puñetas&apos;</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/oTirsY1uud5NlHFfyf4WLOiKChF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vicente Ayala</name>
+        <role>Ernesto</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/e5PaOU14XSolOTgdmh8w9MZfbTm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Molins</name>
+        <role>Marina</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/liTnf3KGe11ZZRUdrGOrGDgVmak.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nani Jiménez</name>
+        <role>Laura</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alfredo Villa</name>
+        <role>Special Forces Chief</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/VI5grPnp7319f1B26LDu4EotzY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carles Francino</name>
+        <role>Radio Announcer (voice)</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 13:25:16</dateadded>
+</movie>

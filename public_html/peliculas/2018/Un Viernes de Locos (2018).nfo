@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Un Viernes de Locos</title>
+    <originaltitle>Freaky Friday</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.700000</value>
+            <votes>1091</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.200000</value>
+            <votes>80</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una mujer y su hija rebelde de 16 años intercambian cuerpos a través del poder mágico de un reloj de arena. Cuando el aparato se rompe, deben buscar otro reloj de arena para poder regresar a sus propios cuerpos.</plot>
+    <tagline></tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6rXX1ASL9rq8qbBFuGbN6bvJ77F.jpg">https://image.tmdb.org/t/p/original/6rXX1ASL9rq8qbBFuGbN6bvJ77F.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/xKrgmQRUejBKktaxCXX8wGRQqs3.jpg">https://image.tmdb.org/t/p/original/xKrgmQRUejBKktaxCXX8wGRQqs3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/djhfSB7pmpuzSDB8tyOsT7NCztN.jpg">https://image.tmdb.org/t/p/original/djhfSB7pmpuzSDB8tyOsT7NCztN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/aD1GTKtSAyQIumPoUjslk6IzHxA.jpg">https://image.tmdb.org/t/p/original/aD1GTKtSAyQIumPoUjslk6IzHxA.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cky3HJ5Z0Hox3C5tU3wDpoLqnqc.jpg">https://image.tmdb.org/t/p/original/cky3HJ5Z0Hox3C5tU3wDpoLqnqc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/JuWRUkHTqfnV6cq7jP8JrDwYqv.jpg">https://image.tmdb.org/t/p/original/JuWRUkHTqfnV6cq7jP8JrDwYqv.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/wjHaHIVeD3wd9JBIJr4WDNcwoOZ.jpg">https://image.tmdb.org/t/p/original/wjHaHIVeD3wd9JBIJr4WDNcwoOZ.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/AgD2TrvEApNWXPf8BkHj2YNEXaS.jpg">https://image.tmdb.org/t/p/original/AgD2TrvEApNWXPf8BkHj2YNEXaS.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt7631348</id>
+    <uniqueid type="imdb" default="true">tt7631348</uniqueid>
+    <uniqueid type="tmdb">505904</uniqueid>
+    <genre>Música</genre>
+    <genre>Familia</genre>
+    <genre>Fantasía</genre>
+    <genre>Película de TV</genre>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Brian Yorkey</credits>
+    <director>Steve Carr</director>
+    <premiered>2018-08-10</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Disney Channel</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GhajYz6tH1A</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>5431</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <language>eng</language>
+                <channels>6</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Heidi Blickenstaff</name>
+        <role>Katherine Blake</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/GEuK0P0sHBAjfTK3HfSozuu7lM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cozi Zuehlsdorff</name>
+        <role>Ellie Blake</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rjIkFjeOq82erelwTJPWnZk0bfA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Maybaum</name>
+        <role>Fletcher Blake</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/f376XWV3Hl4jEDovsCvZxeup1Bc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ricky He</name>
+        <role>Adam</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/HJE6LGrKbO5mmmgrSm6IaV2eD4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Désert</name>
+        <role>Mike</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/iz5fLxrOTKYUkpUmGXgVfCfIZxn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kahyun Kim</name>
+        <role>Torrey</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/dsDBoLQ9Q3sCgrQJwqL6Asf3hRB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dara Reneé</name>
+        <role>Savannah</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4CFhg3wCy6JGFRqgzMPUIK0aac5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennifer Laporte</name>
+        <role>Monica</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/4loMiHMHpo6WWL67MDViGmfzWIc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isaiah Lehtinen</name>
+        <role>Karl</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/sOYfdzKsUYkaUAS8Kcbb7S3fQJN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Pak</name>
+        <role>Luis</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Ce7dIC1TEWlDfxuq8PhzCCpYJF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marlowe Percival</name>
+        <role>Kitty</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/8xeUrSIiyVJBy6xDbX5LCIEkGLd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rukiya Bernard</name>
+        <role>Danielle</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/1xnSniYd3y84qt6lqLvDIzGT4x0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren McGibbon</name>
+        <role>Ms. Meyers</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/bQ1vwMBUEU9lOoC9BC8VSwpEU1C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Hurtubise</name>
+        <role>Mr. Blumen</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paula Burrows</name>
+        <role>Mrs. Luckenbill</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/ptn5uGezXeKIuyPqymsIZeLuDrM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julius Fair</name>
+        <role>Fletchers Pal #1</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/aqWeXw95fcEpJeQO4xPuc7aApkf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joshua Blumhagen</name>
+        <role>Dancer</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/2Zk6s5myiDGw3Px0XekMFkNkt39.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hannah Henney</name>
+        <role>Dancer</role>
+        <order>20</order>
+        <thumb>https://image.tmdb.org/t/p/original/fwhaNxdN47w7DB4yifoCkvHtdcc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Richard O&apos;Sullivan</name>
+        <role>Dancer</role>
+        <order>21</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMmRhNDcwOTctODQyZS00YWUwLWE3NmQtNzdmNWFiOTJhNmY1XkEyXkFqcGdeQXVyMTEwODg2MDY@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tristan Lawrie</name>
+        <role>Fletcher&apos;s Pal #2</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-07 06:59:45</dateadded>
+</movie>

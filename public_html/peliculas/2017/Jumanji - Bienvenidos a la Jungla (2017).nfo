@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Jumanji: Bienvenidos a la Jungla</title>
+    <originaltitle>Jumanji: Welcome to the Jungle</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>312523</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.800000</value>
+            <votes>9900</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en avatares de personajes arquetípicos. Allí vivirán múltiples aventuras, al tiempo que buscan cómo salir de allí para volver a su mundo.</plot>
+    <tagline>El juego ha evolucionado.</tagline>
+    <runtime>119</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6sjMsBcIuqU44GpG5tL33KUFOQR.jpg">https://image.tmdb.org/t/p/original/6sjMsBcIuqU44GpG5tL33KUFOQR.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/9nWt8JILrjYAQSbTltHeW6kPTS6.jpg">https://image.tmdb.org/t/p/original/9nWt8JILrjYAQSbTltHeW6kPTS6.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/eSvJHVibXoj0ghzmo8f3LD3DyD7.jpg">https://image.tmdb.org/t/p/original/eSvJHVibXoj0ghzmo8f3LD3DyD7.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/oGQYrsC3t30ovgkBNlncbdBmkaP.jpg">https://image.tmdb.org/t/p/original/oGQYrsC3t30ovgkBNlncbdBmkaP.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/1dS95mhJHJ6OZHXRnoix5RRxu3X.jpg">https://image.tmdb.org/t/p/original/1dS95mhJHJ6OZHXRnoix5RRxu3X.jpg</thumb>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/cg7dst3rFcnJ3FXFHuQRTMs443s.jpg">https://image.tmdb.org/t/p/original/cg7dst3rFcnJ3FXFHuQRTMs443s.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/ymz9MDKC44SFrPKbMWQhO6V7qMe.jpg">https://image.tmdb.org/t/p/original/ymz9MDKC44SFrPKbMWQhO6V7qMe.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/9PCsWrw1GvrZkrd1GCxRqscgZu0.jpg">https://image.tmdb.org/t/p/original/9PCsWrw1GvrZkrd1GCxRqscgZu0.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/2XDgq7CVVc6IVRPbphu58ts4gIV.jpg">https://image.tmdb.org/t/p/original/2XDgq7CVVc6IVRPbphu58ts4gIV.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/5rrpYqEgVxG2kRrgv39hHaqBUjl.jpg">https://image.tmdb.org/t/p/original/5rrpYqEgVxG2kRrgv39hHaqBUjl.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg">https://image.tmdb.org/t/p/original/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/8UFtBL5otySY4nmFcCx53JwucWE.jpg">https://image.tmdb.org/t/p/original/8UFtBL5otySY4nmFcCx53JwucWE.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/dsaUpJoxSqYJh96s5Z9hHzoRKQ3.jpg">https://image.tmdb.org/t/p/original/dsaUpJoxSqYJh96s5Z9hHzoRKQ3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg">https://image.tmdb.org/t/p/original/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/thmLO2GWf6NcuNOoYtv2gOomE4x.jpg">https://image.tmdb.org/t/p/original/thmLO2GWf6NcuNOoYtv2gOomE4x.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6pbFAOQOfXyRRAe3yfHvtjWTsCM.jpg">https://image.tmdb.org/t/p/original/6pbFAOQOfXyRRAe3yfHvtjWTsCM.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vS4KMBViudWUtAd4uWcTSyjw3J9.jpg">https://image.tmdb.org/t/p/original/vS4KMBViudWUtAd4uWcTSyjw3J9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/2gluHMWUNEJ9YW03UZrOVhDrmW6.jpg">https://image.tmdb.org/t/p/original/2gluHMWUNEJ9YW03UZrOVhDrmW6.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/h2n0oHdJa6Y7ZvZx3WsSYPfrW1j.jpg">https://image.tmdb.org/t/p/original/h2n0oHdJa6Y7ZvZx3WsSYPfrW1j.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/22hqf97LadMvkd4zDi3Bq25xSqD.jpg">https://image.tmdb.org/t/p/original/22hqf97LadMvkd4zDi3Bq25xSqD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rFeV1u4Ubw5u3DXTpZk8VufnOGG.jpg">https://image.tmdb.org/t/p/original/rFeV1u4Ubw5u3DXTpZk8VufnOGG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg">https://image.tmdb.org/t/p/original/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/inong8C18HmwnKqhzAyPBlOYeLU.jpg">https://image.tmdb.org/t/p/original/inong8C18HmwnKqhzAyPBlOYeLU.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qcVl1KHAZBMvfY3tui9tyMq87hA.jpg">https://image.tmdb.org/t/p/original/qcVl1KHAZBMvfY3tui9tyMq87hA.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vfiJehTiJGV649XOHLFfIptnWyG.jpg">https://image.tmdb.org/t/p/original/vfiJehTiJGV649XOHLFfIptnWyG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/bUzOyCgsb6FLXco6mxaNufY0joi.jpg">https://image.tmdb.org/t/p/original/bUzOyCgsb6FLXco6mxaNufY0joi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/idFEJScwWfQa4lrI76L1zn1gdM3.jpg">https://image.tmdb.org/t/p/original/idFEJScwWfQa4lrI76L1zn1gdM3.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/n9BvsYMJiqe7wwgMY8RTFfZZNjt.jpg">https://image.tmdb.org/t/p/original/n9BvsYMJiqe7wwgMY8RTFfZZNjt.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6UiqMIo36JVrVq1eBu36KQRLRhZ.jpg">https://image.tmdb.org/t/p/original/6UiqMIo36JVrVq1eBu36KQRLRhZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6P9cwzlbXpsh8M4vFntzU0sH0yr.jpg">https://image.tmdb.org/t/p/original/6P9cwzlbXpsh8M4vFntzU0sH0yr.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3fdRgjkInNs8YJuH3RKBKViymgi.jpg">https://image.tmdb.org/t/p/original/3fdRgjkInNs8YJuH3RKBKViymgi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/85yc1WdYoWj44OdPFu8AWr7vtJc.jpg">https://image.tmdb.org/t/p/original/85yc1WdYoWj44OdPFu8AWr7vtJc.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/6ZkN3KoVZJi87ob8cyYEnMoHrk.jpg">https://image.tmdb.org/t/p/original/6ZkN3KoVZJi87ob8cyYEnMoHrk.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ibqVapj3Y1Y35xnVkTvaRnW3az9.jpg">https://image.tmdb.org/t/p/original/ibqVapj3Y1Y35xnVkTvaRnW3az9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vuIvrm1LAPa8VE6ZJne0hKFxcwi.jpg">https://image.tmdb.org/t/p/original/vuIvrm1LAPa8VE6ZJne0hKFxcwi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/p2gr6MseDvYSMyKK4k1FmqaImpl.jpg">https://image.tmdb.org/t/p/original/p2gr6MseDvYSMyKK4k1FmqaImpl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/d0LYHNbcKFEXO1T9IRxatxQ2Ct2.jpg">https://image.tmdb.org/t/p/original/d0LYHNbcKFEXO1T9IRxatxQ2Ct2.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/1g5xylyYBlbeuqK2SUbefOVXmuK.jpg">https://image.tmdb.org/t/p/original/1g5xylyYBlbeuqK2SUbefOVXmuK.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ihWtJavpZEodNr3YwrcTbK5VlrH.jpg">https://image.tmdb.org/t/p/original/ihWtJavpZEodNr3YwrcTbK5VlrH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cldoOo6t2Vv9NKqjGKX4xotbBSy.jpg">https://image.tmdb.org/t/p/original/cldoOo6t2Vv9NKqjGKX4xotbBSy.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/nfkbbVKdrqCjLqygm0GRRYuPnRi.jpg">https://image.tmdb.org/t/p/original/nfkbbVKdrqCjLqygm0GRRYuPnRi.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jWZpnXybiRK0uhJOmJoi8XboT3H.jpg">https://image.tmdb.org/t/p/original/jWZpnXybiRK0uhJOmJoi8XboT3H.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4zj7LmIo2XnQ2AuR4gWSrm9BIOl.jpg">https://image.tmdb.org/t/p/original/4zj7LmIo2XnQ2AuR4gWSrm9BIOl.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mERCelDyNQxaSCoAqqyRtrj5m4f.jpg">https://image.tmdb.org/t/p/original/mERCelDyNQxaSCoAqqyRtrj5m4f.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ygywOinktQCrowuoIgy0Xl9p1nG.jpg">https://image.tmdb.org/t/p/original/ygywOinktQCrowuoIgy0Xl9p1nG.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jBi26q0wGbN30doFUFvycdYwvyZ.jpg">https://image.tmdb.org/t/p/original/jBi26q0wGbN30doFUFvycdYwvyZ.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3D5dpEOX0JSSoV2pZdK2xTfGeFN.jpg">https://image.tmdb.org/t/p/original/3D5dpEOX0JSSoV2pZdK2xTfGeFN.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/dfiWrYg9OqxI9CNSXmhlsDvIofE.jpg">https://image.tmdb.org/t/p/original/dfiWrYg9OqxI9CNSXmhlsDvIofE.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/3mnc8On8MNonTqCjv5yWzFaxauD.jpg">https://image.tmdb.org/t/p/original/3mnc8On8MNonTqCjv5yWzFaxauD.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/cuV6yfXN7yuL2d526LyxseNGJb1.jpg">https://image.tmdb.org/t/p/original/cuV6yfXN7yuL2d526LyxseNGJb1.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rz3TAyd5kmiJmozp3GUbYeB5Kep.jpg">https://image.tmdb.org/t/p/original/rz3TAyd5kmiJmozp3GUbYeB5Kep.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg">https://image.tmdb.org/t/p/original/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cpz070zEKbPGXzCWuQsNt42PqXY.jpg">https://image.tmdb.org/t/p/original/cpz070zEKbPGXzCWuQsNt42PqXY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/yqMXhCCyZhqvnMWNRYkDuphHmGX.jpg">https://image.tmdb.org/t/p/original/yqMXhCCyZhqvnMWNRYkDuphHmGX.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/r3pJ884C2cJ6F64X5Yd5sARuNZ6.jpg">https://image.tmdb.org/t/p/original/r3pJ884C2cJ6F64X5Yd5sARuNZ6.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zJDMuXQDraHjtF53wikmyBQIcYe.jpg">https://image.tmdb.org/t/p/original/zJDMuXQDraHjtF53wikmyBQIcYe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/5n4TuIrpUx7whmk36zUgBhMhmLp.jpg">https://image.tmdb.org/t/p/original/5n4TuIrpUx7whmk36zUgBhMhmLp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xu1K9wch9iu5Pqd1wIGHFs2yTfV.jpg">https://image.tmdb.org/t/p/original/xu1K9wch9iu5Pqd1wIGHFs2yTfV.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/o69xYJMQKUVbfWulORbuzrSQerU.jpg">https://image.tmdb.org/t/p/original/o69xYJMQKUVbfWulORbuzrSQerU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/pIjv57padPCmbWm08U8FtJUX7Qn.jpg">https://image.tmdb.org/t/p/original/pIjv57padPCmbWm08U8FtJUX7Qn.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/i7UjgR36wSPqYeAnJYS57K8CSua.jpg">https://image.tmdb.org/t/p/original/i7UjgR36wSPqYeAnJYS57K8CSua.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/rHf6t1BfiaVD18gF2oTZO9kw2pS.jpg">https://image.tmdb.org/t/p/original/rHf6t1BfiaVD18gF2oTZO9kw2pS.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/zuFI43DVyLSrX74Hya61UMSZIYU.jpg">https://image.tmdb.org/t/p/original/zuFI43DVyLSrX74Hya61UMSZIYU.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kcnyw8o4GmAPZzgStWhVYkbnyqG.jpg">https://image.tmdb.org/t/p/original/kcnyw8o4GmAPZzgStWhVYkbnyqG.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/ho6nEIvpfHDSmk08u7P1F7gQXWY.jpg">https://image.tmdb.org/t/p/original/ho6nEIvpfHDSmk08u7P1F7gQXWY.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2VWmXjomGf4HPgSZ73g67qMYFkk.jpg">https://image.tmdb.org/t/p/original/2VWmXjomGf4HPgSZ73g67qMYFkk.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/b9vToxewllJMVa9fkQmpqzZBuAB.jpg">https://image.tmdb.org/t/p/original/b9vToxewllJMVa9fkQmpqzZBuAB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qfCIj6KUT8KMU4wkFhvwTvV3gVb.jpg">https://image.tmdb.org/t/p/original/qfCIj6KUT8KMU4wkFhvwTvV3gVb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/8rpt5eFTRo2aslvJEiwZNzxV0Rr.jpg">https://image.tmdb.org/t/p/original/8rpt5eFTRo2aslvJEiwZNzxV0Rr.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/kjztMaMItphU1CgSUrEuSwK9saB.jpg">https://image.tmdb.org/t/p/original/kjztMaMItphU1CgSUrEuSwK9saB.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/d7sj4pf7F6wT7513PtGzHzUy34B.jpg">https://image.tmdb.org/t/p/original/d7sj4pf7F6wT7513PtGzHzUy34B.jpg</thumb>
+    </fanart>
+    <mpaa>Rated 7</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2283362</id>
+    <uniqueid type="imdb" default="true">tt2283362</uniqueid>
+    <uniqueid type="tmdb">353486</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Fantasía</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Jumanji - Colección</name>
+    </set>
+    <credits>Scott Rosenberg</credits>
+    <credits>Jeff Pinkner</credits>
+    <credits>Chris McKenna</credits>
+    <credits>Erik Sommers</credits>
+    <director>Jake Kasdan</director>
+    <premiered>2017-12-09</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Radar Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=leIrosWRbYQ</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.400000</aspect>
+                <width>1920</width>
+                <height>800</height>
+                <durationinseconds>7143</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Dwayne Johnson</name>
+        <role>Dr. Smolder Bravestone</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/cgoy7t5Ve075naBPcewZrc08qGw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Hart</name>
+        <role>Franklin &apos;Mouse&apos; Finbar</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/1mp95DQQrvfWttiJnvFnIF3VECR.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Black</name>
+        <role>Professor Sheldon &apos;Shelly&apos; Oberon</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Karen Gillan</name>
+        <role>Ruby Roundhouse</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/52kqB0Bei1TaTBx2rABrijVhhTG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhys Darby</name>
+        <role>Nigel Billingsley</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/q6Grd42OgTUbRcTarZhR9piA6a5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobby Cannavale</name>
+        <role>Professor Russel Van Pelt</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/gYQwTbEj5IBPYKLGKgrsNGrWAMl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Jonas</name>
+        <role>Jefferson &apos;Seaplane&apos; McDonough</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/2uBLva0RyUX6Y09wPIsAvBV7B7K.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alex Wolff</name>
+        <role>Spencer Gilpin</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/hMhGWS5nB7ZGA3B1aefY39pizgm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ser&apos;Darius Blain</name>
+        <role>Anthony &apos;Fridge&apos; Johnson</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/4INvD4RYdjGCznboNgdyfWA6dpG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madison Iseman</name>
+        <role>Bethany Walker</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/5JVhacnNhqLcWpGPH1fqL7Ovq7g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Morgan Turner</name>
+        <role>Martha Kaply</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/xQ76S7GeUGF0u5Y3CFWrIZI2AZf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Buxton</name>
+        <role>Mr. Vreeke</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mason Guccione</name>
+        <role>Young Alex Vreeke</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/91tUFef8XEy39e0S8o9seXjdMz1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marin Hinkle</name>
+        <role>Mrs. Gilpin</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/igxP1pOjJxOYFJIb3PA55XkSPzn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Hanks</name>
+        <role>Alex Vreeke</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/xe44rLf5CbEY0ovNaOD0RIy5VCJ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc Evan Jackson</name>
+        <role>Principal Bentley</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/4TWP0nlhkxkZ5XzzZuz3RCoZjFX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlease Burke</name>
+        <role>Miss Mathers</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/9PsHQ7xyCDwgeuHfT09SlroVgH8.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Matheson</name>
+        <role>Old Man Vreeke</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/trZ4QaDidCOPNy7HK9cYnmKHkg9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Missi Pyle</name>
+        <role>Coach Webb</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/qIeLygSouOCNuESQMvf2Pz9mft.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maribeth Monroe</name>
+        <role>Teacher</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/l3vMVl0vzOz599zX58jUCPxA8nV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tracey Bonner</name>
+        <role>Mrs. Johnson</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Natasha Charles Parker</name>
+        <role>Mrs. Walker</role>
+        <order>21</order>
+        <thumb>https://image.tmdb.org/t/p/original/tD0XMTTTzEOqZwuvQhrlfXPm9BW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kat Altman</name>
+        <role>Lucinda</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Shacket</name>
+        <role>Fussfeld</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Tokarsky</name>
+        <role>Bread/Cake Vendor</role>
+        <order>24</order>
+        <thumb>https://image.tmdb.org/t/p/original/xZrfbq4oXcDCeBhHVmMvDrI0YTb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rohan Chand</name>
+        <role>Boy at Bazaar</role>
+        <order>25</order>
+        <thumb>https://image.tmdb.org/t/p/original/sE42K7kvQ9tRKEy7vvqQeb1JCAr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Gaspard</name>
+        <role>The Spy</role>
+        <order>26</order>
+        <thumb>https://m.media-amazon.com/images/M/MV5BMmJiOTZkMjUtMDk4ZC00N2RiLWI3YjktMmE3MTZlZjNjZDU4XkEyXkFqcGdeQXVyNDE0NzkxNDM@._UY632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sylvia Jefferies</name>
+        <role>Jogger&apos;s Wife</role>
+        <order>27</order>
+        <thumb>https://image.tmdb.org/t/p/original/hajHcvChIaX7EtVsD5DPr0rnM1i.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Pardo</name>
+        <role>Bazaar Vendor</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/jqJkEdkTna0bXPoOQJgt9IXHHJ0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natasha Mayet</name>
+        <role>Berber lady</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruby Bustamante</name>
+        <role>High School Student</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Virginia Newcomb</name>
+        <role>Alex&apos;s Wife</role>
+        <order>31</order>
+        <thumb>https://image.tmdb.org/t/p/original/xdin5aWu7H3SI46fFeC9lCNpwUO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maiya Boyd</name>
+        <role>Cute Bazar Kid</role>
+        <order>32</order>
+        <thumb>https://image.tmdb.org/t/p/original/ijAc9zlEHat1RYdDs4xmGO5ykYW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Archer Lundgren</name>
+        <role>Knife Vendor</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Williams</name>
+        <role>Gypsy Cowboy</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Najah Jackson</name>
+        <role>Cute girl</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maddie Nichols</name>
+        <role>Kid #2</role>
+        <order>36</order>
+        <thumb>https://image.tmdb.org/t/p/original/jH8lLhaqgRK1uVV84UgUnZukIyP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie Renell</name>
+        <role>Gym Teacher</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darian Baker</name>
+        <role>High School Jock</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sarah Fawaz</name>
+        <role>Eccentric Woman</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Max Ortiz Jr.</name>
+        <role>Dragoon / Raven</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>William Walker</name>
+        <role>High School Administrator</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jemarko Jones</name>
+        <role>Neighbor</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniel Salyers</name>
+        <role>High School Student</role>
+        <order>43</order>
+        <thumb>https://image.tmdb.org/t/p/original/iyLfFoPuBlXmCeaUGsWyjzgNoz7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ashley Lonardo</name>
+        <role>Kid #3</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Demetrice Nguyen</name>
+        <role>Vendor</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Louis Ramos</name>
+        <role>Berber</role>
+        <order>46</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Martin Feigen</name>
+        <role>Neighbor</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Leeza Jones</name>
+        <role>Bazaar Patron</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tad Sallee</name>
+        <role>Skater Punk</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tyler Stormant</name>
+        <role>Letterman</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cory Michael Peeler</name>
+        <role>High School Gym Student</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chrysta-Lyn Rodrigues</name>
+        <role>Mean Girl #1</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan Baughman</name>
+        <role>Boy #1</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Montgomery</name>
+        <role>High School Student</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Na Bil</name>
+        <role>Bazar kid</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeffery Clarke</name>
+        <role>Bazaar Patron</role>
+        <order>56</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mario Fernandez</name>
+        <role>The Begger</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stanislav Mruz</name>
+        <role>Bazaar patron</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Early</name>
+        <role>Beggar</role>
+        <order>59</order>
+        <thumb>https://image.tmdb.org/t/p/original/byDLwLfv267cqrhIMlGrQffcSn4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lyric Jefferson</name>
+        <role>Cheerleader</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Friday Chamberlain</name>
+        <role>Amazon Warrior (uncredited)</role>
+        <order>61</order>
+        <thumb>https://image.tmdb.org/t/p/original/12c1FEmzRLQhdwbU7UA19K4EZ7t.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-04-06 12:52:52</dateadded>
+</movie>

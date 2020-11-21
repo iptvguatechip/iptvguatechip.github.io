@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Más rebeldes y más confundidos</title>
+    <originaltitle>Everybody Wants Some!!</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.900000</value>
+            <votes>51276</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>791</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una película de Richard Linklater, director de Rebeldes y confundidos. A mediados de los años 80, un grupo de jugadores de béisbol universitarios sin mucha supervisión tratan de balancear la libertad y responsabilidades de la adultez.</plot>
+    <tagline>Here for a good time not a long time</tagline>
+    <runtime>117</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg">https://image.tmdb.org/t/p/original/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/4ydOZuk364jBW2Za8wF0kJFBk5R.jpg">https://image.tmdb.org/t/p/original/4ydOZuk364jBW2Za8wF0kJFBk5R.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/2qJYF7jQSUhpk6kXBCd75bBA0S0.jpg">https://image.tmdb.org/t/p/original/2qJYF7jQSUhpk6kXBCd75bBA0S0.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2937696</id>
+    <uniqueid type="imdb" default="true">tt2937696</uniqueid>
+    <uniqueid type="tmdb">295699</uniqueid>
+    <genre>Comedia</genre>
+    <country>United States of America</country>
+    <credits>Richard Linklater</credits>
+    <director>Richard Linklater</director>
+    <premiered>2016-03-30</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Annapurna Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1uQq3jQdIkk</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>7025</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Blake Jenner</name>
+        <role>Jake Bradford</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wwm7s9jEkV29utEKEpOuEyBjdlE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoey Deutch</name>
+        <role>Beverly</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/csmSAm3vpJj9lB5vb5fTbRqOw9C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Guzman</name>
+        <role>Kenny Roper</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/pHdc4VPIGDfi7r8g4tQBUTQenda.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyler Hoechlin</name>
+        <role>Glen McReynolds</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/n2hXiC2MABZnZoQKtWLkP73LKWe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>J. Quinton Johnson</name>
+        <role>Dale Douglas</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/mvsjZ1AQZPtJk6HKL7HKzJCmmlw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Glen Powell</name>
+        <role>Finnegan</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/pwmkkgA2VQnE8p6VswSF2uIPxcs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wyatt Russell</name>
+        <role>Charlie Willoughby</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/f759e6y7uhobWRCmD0O21cBmjBA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Brittain</name>
+        <role>Billy &apos;Beuter&apos; Autrey</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Austin Amelio</name>
+        <role>Nesbit</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/y4QTXuSSmD99n8dinMiTRBkUnAp.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Temple Baker</name>
+        <role>Tyrone Plummer</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tanner Kalina</name>
+        <role>Alex Brumley</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juston Street</name>
+        <role>Jay Niles</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/vhg0fgJJbARM16CWXlx9JYK0OUE.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Forrest Vickery</name>
+        <role>Coma</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Breck</name>
+        <role>Coach Gordon</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/8lEThSfpr7ebYApwEiU3hO6uGd5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dora Madison</name>
+        <role>Val</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/9YG1Kqrly5e9IeheNBwUUcC9PHA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Celina Chapin</name>
+        <role>Angie</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shailaun Manning</name>
+        <role>Elaine (as Shailaundra Manning)</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lynden Orr</name>
+        <role>Suzi</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/munhi6FftXlIGMTioBEuE9IjMrD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Zoey Brooks</name>
+        <role>Cathy</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Asjha Cooper</name>
+        <role>Sharon</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Olivia Griswald</name>
+        <role>Leeann</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Anna Vanston</name>
+        <role>Michelle</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Monsour</name>
+        <role>Justin</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sophia Taylor Ali</name>
+        <role>Beverly&apos;s Roommate</role>
+        <order>23</order>
+        <thumb>https://image.tmdb.org/t/p/original/uqXn3Gp0FlsV5kDLwJ6FbeuJvx2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtney Tailor</name>
+        <role>Sorority Girl #1</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Taylor Ashley Murphy</name>
+        <role>Sorority Girl #2 (as Taylor Murphy)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Christina Burdette</name>
+        <role>Cute Coed #1</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ernest James</name>
+        <role>Sound Machine Doorman</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Liebrecht</name>
+        <role>Sound Machine Manager (as E. Jason Liebrecht)</role>
+        <order>28</order>
+        <thumb>https://image.tmdb.org/t/p/original/ueIj8v99OSfqzgK3kJ7tJk9N6gx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Alexio</name>
+        <role>Sound Machine Bartender</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Laura Ritz</name>
+        <role>McReynolds Girl</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tess Cline</name>
+        <role>Country Girl #1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adriene Mishler</name>
+        <role>Country Girl #2</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Beau Smith</name>
+        <role>Guaranteed Wholesome DJ</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Wiebe</name>
+        <role>Punk Band Member #1</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fadi El-Assad</name>
+        <role>Punk Band Member #2</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Walling</name>
+        <role>Punk Band Member #3</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Marchant</name>
+        <role>Punk Band Member #4</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian MacDougall</name>
+        <role>Punk Band Member #5</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jenna Saab</name>
+        <role>Mud Wrestlng Champ</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lauren Hale</name>
+        <role>Mud Wrestling Opponent</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kay Epperson</name>
+        <role>Wigwam Server</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tory Taranova</name>
+        <role>Debra Kadabra</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessi Mechler</name>
+        <role>Astrology Girl</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katherine Sutton</name>
+        <role>Oz Party Girl</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Blaire Clause</name>
+        <role>Oz Party Girl #2</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Devin Bonnée</name>
+        <role>The Mad Hatter</role>
+        <order>46</order>
+        <thumb>https://image.tmdb.org/t/p/original/2mCs4EX4FCUI3ODta30LYP1xhNZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaleb King</name>
+        <role>The Queen Of Hearts</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charlie</name>
+        <role>Cat in Refridgerator</role>
+        <order>48</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Deborah Alcorn</name>
+        <role>Car Driver / Pedestrian (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Amaya</name>
+        <role>Sound Machine Patron (uncredited)</role>
+        <order>50</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt Blackwell</name>
+        <role>Sound Machine Patron (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sadie Brook</name>
+        <role>Sound Machine Patron (uncredited)</role>
+        <order>52</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alyssa Bryer</name>
+        <role>Two Step Dancer (uncredited)</role>
+        <order>53</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kyla Burke</name>
+        <role>Two Step Dancer (uncredited)</role>
+        <order>54</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Cristian Clark</name>
+        <role>Oz Party Guest / College Student (uncredited)</role>
+        <order>55</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Julie Cude-Eaton</name>
+        <role>Townsperson (uncredited)</role>
+        <order>56</order>
+        <thumb>https://image.tmdb.org/t/p/original/vi7SrGiJq2yLFaL29EOtNUAqW14.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bonnie Gayle</name>
+        <role>College Student (uncredited)</role>
+        <order>57</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chelsey Gentry</name>
+        <role>Sound Machine Patron / College Student (uncredited)</role>
+        <order>58</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Holly Jee</name>
+        <role>Punk (uncredited)</role>
+        <order>59</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Caitlyn Moore</name>
+        <role>Two-Step Dancer (uncredited)</role>
+        <order>60</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alexandria Payne</name>
+        <role>College Student (uncredited)</role>
+        <order>61</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lizzy Pop Muro</name>
+        <role>Disco Dancer / Sound Machine (uncredited)</role>
+        <order>62</order>
+        <thumb>https://image.tmdb.org/t/p/original/xtmX4LQeuvGyEYrbv38Zspt79fV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cyndy Powell</name>
+        <role>Marge, the Lunch Room Lady (uncredited)</role>
+        <order>63</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rene Rhi</name>
+        <role>Cowboy (uncredited)</role>
+        <order>64</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cecilia L. Salinas</name>
+        <role>College Student / Sound Machine Patron (uncredited)</role>
+        <order>65</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Diane Selken</name>
+        <role>Parent (uncredited)</role>
+        <order>66</order>
+        <thumb>https://image.tmdb.org/t/p/original/dgFxvpUS7qhwZkiOQIL7eCDYruM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angela Simmons-Morgan</name>
+        <role>Cannibal Club Patron (uncredited)</role>
+        <order>67</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paula Marcenaro Solinger</name>
+        <role>Twister Coed (uncredited)</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stan Taylor</name>
+        <role>Driver (uncredited)</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 12:42:59</dateadded>
+</movie>

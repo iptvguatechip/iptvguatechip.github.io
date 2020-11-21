@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Motel Acqua</title>
+    <originaltitle>Motel Acqua</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.300000</value>
+            <votes>12</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Perico decide robar cinco millones de dólares. A partir de ese momento, su vida cambiará para siempre, pero el precio a pagar será muy alto.</plot>
+    <tagline>A thriller and action movie where money is the true god.</tagline>
+    <runtime>101</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/egJRYBtKdi116QFcfCLADahD8SY.jpg">https://image.tmdb.org/t/p/original/egJRYBtKdi116QFcfCLADahD8SY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/c6f6XxdjzenSJfT2X9SNn5sfowb.jpg">https://image.tmdb.org/t/p/original/c6f6XxdjzenSJfT2X9SNn5sfowb.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/lG093ffOU7VikDfeG81b1ZaEhvp.jpg">https://image.tmdb.org/t/p/original/lG093ffOU7VikDfeG81b1ZaEhvp.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/muQGjykPWrUMmrHu9PwpfLFzMA1.jpg">https://image.tmdb.org/t/p/original/muQGjykPWrUMmrHu9PwpfLFzMA1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt9317286</id>
+    <uniqueid type="imdb" default="true">tt9317286</uniqueid>
+    <uniqueid type="tmdb">664869</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Crimen</genre>
+    <country>Mexico</country>
+    <credits>Llorent Barajas</credits>
+    <credits>Fabián Archondo</credits>
+    <director>Conrado Martinez</director>
+    <premiered>2018-12-15</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>DMM Films</studio>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>2.350000</aspect>
+                <width>1920</width>
+                <height>816</height>
+                <durationinseconds>6086</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>lat</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Ricardo Abarca</name>
+        <role>Perico</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/eVuhmc1Tie6lQcMwdSnr54nSBTy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariano Palacios</name>
+        <role>Charly</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/p5WwM2hVOBVO3iS3JDQuwVvIhjQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge Luis Moreno</name>
+        <role>Muzquiz</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/9FPA3fZ28c31H9Y7BU59w5P8bO4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Inés de Tavira</name>
+        <role>Sofia</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pablo Astiazarán</name>
+        <role>Cerillo</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-02 08:06:17</dateadded>
+</movie>

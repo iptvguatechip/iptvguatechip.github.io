@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Operation Mekong</title>
+    <originaltitle>湄公河行動</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>3976</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>88</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Una organización internacional busca aplicar el peso de la ley sobre el líder de un cártel de droga asiático y sus secuaces asesinos.</plot>
+    <tagline></tagline>
+    <runtime>123</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/wghFabaZgRorsMQWuPtKUlzq4W1.jpg">https://image.tmdb.org/t/p/original/wghFabaZgRorsMQWuPtKUlzq4W1.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/rsO17LKpwdSSeVYLF7AKhjQ6LqL.jpg">https://image.tmdb.org/t/p/original/rsO17LKpwdSSeVYLF7AKhjQ6LqL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/mLkYBE1CI9Ctcufg2hsPkqNfuPv.jpg">https://image.tmdb.org/t/p/original/mLkYBE1CI9Ctcufg2hsPkqNfuPv.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/xUmZHFZa85KxIKzsIdr16oGMjCH.jpg">https://image.tmdb.org/t/p/original/xUmZHFZa85KxIKzsIdr16oGMjCH.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/qy7Tjr3yNB5ta6Q7o1VC2oqr4gt.jpg">https://image.tmdb.org/t/p/original/qy7Tjr3yNB5ta6Q7o1VC2oqr4gt.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt6044910</id>
+    <uniqueid type="imdb" default="true">tt6044910</uniqueid>
+    <uniqueid type="tmdb">415214</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Crimen</genre>
+    <genre>Bélica</genre>
+    <country>Hong Kong</country>
+    <credits>Eric Lin</credits>
+    <credits>Dante Lam</credits>
+    <credits>Tam Wai-Ching</credits>
+    <credits>Chu Kang-Ki</credits>
+    <credits>Lau Siu-Kwan</credits>
+    <director>Dante Lam</director>
+    <premiered>2016-09-30</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Film Fireworks Production</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vcyef27rZ-w</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>160.000000</aspect>
+                <width>1920</width>
+                <height>804</height>
+                <durationinseconds>7398</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>zho</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Zhang Hanyu</name>
+        <role>Gao Gang</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/kDkKdcABMpoB6NxK4KhWBUsM9lP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eddie Peng</name>
+        <role>Fang Xinwu</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/p9J3IAXVVV2DsaJZpgTcj1RWAa5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Feng Wenjuan</name>
+        <role>Guo Bing</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/73xfd6K7d39jF2RqRVH0RGUDXsi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ganesh Acharya</name>
+        <role>Mr. Zar</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Chen Baoguo</name>
+        <role>Jiang Haifeng, Minister of Public Security</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/7wjHexXmRmny2y9t5Xe6MYRcLdk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Lo</name>
+        <role>Xing Deng</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/tfXVoF3xnsRBHnapdAFxueboydM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carl Ng</name>
+        <role>Pierre</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mandy Wei</name>
+        <role>Fang Xinwu&apos;s Girlfriend</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/9rqxAQC1G5YBUVWnaFyuix3M7ik.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vithaya Pansringarm</name>
+        <role>P&apos;Som</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/rGEyRPrs3d9r4NHcHijzzGjP2p9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pavarit Mongkolpisit</name>
+        <role>Naw Khar</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Wu</name>
+        <role></role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wu Xu-Dong</name>
+        <role>The Bulls Team Leader</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zhang Guoli</name>
+        <role></role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/jYC0uUs7XUufPzYqgDB8OI6cv05.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Liu Xian-Da</name>
+        <role>Xie Wenfeng</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zhao Jian</name>
+        <role>Guo Xu</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sun Chun</name>
+        <role>Yu Ping</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/3a9s6XlvOjWmGAzcdqcfXAakFBe.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-22 06:52:20</dateadded>
+</movie>

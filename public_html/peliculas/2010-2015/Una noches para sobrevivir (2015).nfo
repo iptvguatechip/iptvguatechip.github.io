@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Una noches para sobrevivir</title>
+    <originaltitle>Run All Night</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.600000</value>
+            <votes>100611</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.400000</value>
+            <votes>2071</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Al veterano mercenario Jimmy Conlon, conocido como El Cavatumbas, lo persiguen los crímenes del pasado, pero tambien el policía que le ha seguido la pista durante 30 años. Cuando se entera de que su hijo Mike corre peligro, Jimmy tiene que elegir entre el clan criminal al que ha pertenecido siempre y su familia, a la que había abandonado hace mucho tiempo. Sólo dispone de una noche para averiguar a quién debe su lealtad.</plot>
+    <tagline>Ningún pecado queda impune.</tagline>
+    <runtime>114</runtime>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iSjOGNQY34qIOfYk5heCc1gAlEY.jpg">https://image.tmdb.org/t/p/original/iSjOGNQY34qIOfYk5heCc1gAlEY.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/frzdzHceByAIlwVKvSvY9zqpjyV.jpg">https://image.tmdb.org/t/p/original/frzdzHceByAIlwVKvSvY9zqpjyV.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/qTo8XVS2XGZqATmGJqvgiponH0k.jpg">https://image.tmdb.org/t/p/original/qTo8XVS2XGZqATmGJqvgiponH0k.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/owTdkLW0uoVTUPtM5h4gw88prdC.jpg">https://image.tmdb.org/t/p/original/owTdkLW0uoVTUPtM5h4gw88prdC.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/iGvSMoPbWZWDnIhh54yiq3sW7wH.jpg">https://image.tmdb.org/t/p/original/iGvSMoPbWZWDnIhh54yiq3sW7wH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/h0FOpbBcpZ9TnHk6au6uAxrtAs9.jpg">https://image.tmdb.org/t/p/original/h0FOpbBcpZ9TnHk6au6uAxrtAs9.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/jrgHGlBR6Eng1WIOTTXoA1aaCmA.jpg">https://image.tmdb.org/t/p/original/jrgHGlBR6Eng1WIOTTXoA1aaCmA.jpg</thumb>
+    <fanart>
+        <thumb preview="https://image.tmdb.org/t/p/w780/btYLocrnI24i8e5FRSQEkTAOSbe.jpg">https://image.tmdb.org/t/p/original/btYLocrnI24i8e5FRSQEkTAOSbe.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/itohUtyCyj6BuKlNg4fyTi8s3rb.jpg">https://image.tmdb.org/t/p/original/itohUtyCyj6BuKlNg4fyTi8s3rb.jpg</thumb>
+        <thumb preview="https://image.tmdb.org/t/p/w780/cb1R4VdM0FkacQ8AYjuK9Qe6Lpl.jpg">https://image.tmdb.org/t/p/original/cb1R4VdM0FkacQ8AYjuK9Qe6Lpl.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt2199571</id>
+    <uniqueid type="imdb" default="true">tt2199571</uniqueid>
+    <uniqueid type="tmdb">241554</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <credits>Brad Ingelsby</credits>
+    <director>Jaume Collet-Serra</director>
+    <premiered>2015-03-11</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>RatPac-Dune Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dUCZD9NUVpY</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>239.000000</aspect>
+                <width>1912</width>
+                <height>792</height>
+                <durationinseconds>6858</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Liam Neeson</name>
+        <role>Jimmy Conlon</role>
+        <order>0</order>
+        <thumb>https://image.tmdb.org/t/p/original/wloLd5YrrlRPiTgfaMJsAx7U6hr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ed Harris</name>
+        <role>Shawn Maguire</role>
+        <order>1</order>
+        <thumb>https://image.tmdb.org/t/p/original/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joel Kinnaman</name>
+        <role>Mike Conlon</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/xOXQBE127mdJDF3NHpm7hi7va9z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boyd Holbrook</name>
+        <role>Danny Maguire</role>
+        <order>3</order>
+        <thumb>https://image.tmdb.org/t/p/original/531YOKa2usleWCA55t6Db4MZhT3.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce McGill</name>
+        <role>Pat Mullen</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/tkGIAezUvjntJFDsOAmaan5nXfw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Génesis Rodríguez</name>
+        <role>Gabrielle</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/vVhP4OYhzECFXAFA4Dh1MFnH7fH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vincent D&apos;Onofrio</name>
+        <role>Detective Harding</role>
+        <order>6</order>
+        <thumb>https://image.tmdb.org/t/p/original/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lois Smith</name>
+        <role>Margaret Conlon</role>
+        <order>7</order>
+        <thumb>https://image.tmdb.org/t/p/original/unvPSZshdNoj7c5wl6D30gPwKtS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Common</name>
+        <role>Mr. Price</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/dHOcvZJmHz50gk78Eta7PfoZQLH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Beau Knapp</name>
+        <role>Kenan Boyle</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/246hy6vVtTQ26R8iXHCXcwwbGSu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patricia Kalember</name>
+        <role>Shawn&apos;s Wife</role>
+        <order>10</order>
+        <thumb>https://image.tmdb.org/t/p/original/d9sT1O3H9Kk122DNoIt1KIAnZIk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Stewart Sherman</name>
+        <role>Brendan</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/c7aeOkCHK0881Kyl9VBa73bBbiF.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Martinez</name>
+        <role>Detective Jose Flores</role>
+        <order>12</order>
+        <thumb>https://image.tmdb.org/t/p/original/nD2Alcz1mjb5hpvNKPZqYiqmZBI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Radivoje Bukvić</name>
+        <role>Victor Grezda</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/64B4gbIM5RsoPDBhKcMa0AmN8xQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Naumovski</name>
+        <role>Samir</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/gk6gmZt30jKlCFDuQ60rqcpKbIM.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Holt McCallany</name>
+        <role>Frank</role>
+        <order>15</order>
+        <thumb>https://image.tmdb.org/t/p/original/8NvOcP35qv5UHWEdpqAvQrKnQQz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Malcolm Goodwin</name>
+        <role>Colston</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/h2AVP07OdXOsX3ERNwpsQuvrUEB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Cenatiempo</name>
+        <role>Tommy</role>
+        <order>17</order>
+        <thumb>https://image.tmdb.org/t/p/original/tLGNdbuunOiSJvUAde59h5zUNMm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nick Nolte</name>
+        <role>Eddie Conlon</role>
+        <order>18</order>
+        <thumb>https://image.tmdb.org/t/p/original/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynn Marocola</name>
+        <role>Rangers Fan (uncredited)</role>
+        <order>19</order>
+        <thumb>https://image.tmdb.org/t/p/original/EUCiWK7SMchKLqeVZYobZTw3qL.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-02-24 17:36:47</dateadded>
+</movie>

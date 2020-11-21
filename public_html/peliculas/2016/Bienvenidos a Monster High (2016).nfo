@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Bienvenidos a Monster High</title>
+    <originaltitle>Monster High: Welcome to Monster High</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.600000</value>
+            <votes>449</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.600000</value>
+            <votes>73</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Todo empieza con Draculaura, hija de Drácula y su gran sueño: crear un lugar donde los monstruos puedan sentir que pertenecen y ser ellos mismos. Junto a sus mejores amigas vivirá grandes aventuras, viajando alrededor del mundo para rescatar a los monstruos que se encuentran ocultos y así reclutar nuevos estudiantes. El instituto se convertirá en un monstruoso e increíble lugar, ¡nunca antes visto!</plot>
+    <tagline>Welcome to the most clever, quirky and exciting monster-filled school imaginable!</tagline>
+    <runtime>73</runtime>
+    <thumb aspect="set.poster" preview="https://image.tmdb.org/t/p/w500/6Re1mtsMLuHAeoUtSE7GPAdxldO.jpg">https://image.tmdb.org/t/p/original/6Re1mtsMLuHAeoUtSE7GPAdxldO.jpg</thumb>
+    <thumb aspect="set.fanart" preview="https://image.tmdb.org/t/p/w500/kDsPcm1Qx5zjPNAZ80dBSHdTowH.jpg">https://image.tmdb.org/t/p/original/kDsPcm1Qx5zjPNAZ80dBSHdTowH.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/ceurB6wkAgMKwR4bVq1PdEJ5bvL.jpg">https://image.tmdb.org/t/p/original/ceurB6wkAgMKwR4bVq1PdEJ5bvL.jpg</thumb>
+    <thumb aspect="poster" preview="https://image.tmdb.org/t/p/w500/x9u5Qi5aFCmxS55GKawpINNDt2o.jpg">https://image.tmdb.org/t/p/original/x9u5Qi5aFCmxS55GKawpINNDt2o.jpg</thumb>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5898034</id>
+    <uniqueid type="imdb" default="true">tt5898034</uniqueid>
+    <uniqueid type="tmdb">413736</uniqueid>
+    <genre>Animación</genre>
+    <genre>Familia</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Monster High Collection</name>
+    </set>
+    <credits>Dana Starfield</credits>
+    <credits>Shane Amsterdam</credits>
+    <credits>Stephen Donnelly</credits>
+    <director>Jun Falkenstein</director>
+    <director>Stephen Donnelly</director>
+    <director>Olly Reid</director>
+    <premiered>2016-08-27</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Appa Productions</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3fCrSQBk9_o</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>16.000000</aspect>
+                <width>1920</width>
+                <height>1080</height>
+                <durationinseconds>4393</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>spa</language>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>aac</codec>
+                <language>eng</language>
+                <channels>2</channels>
+            </audio>
+            <subtitle>
+                <language>spa</language>
+            </subtitle>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Hippo Cabal</name>
+        <role>Burrito Cat</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cam Clarke</name>
+        <role>Agent / Monster Boy Gargoyle / Monster Boy Vampire</role>
+        <order>2</order>
+        <thumb>https://image.tmdb.org/t/p/original/6gN8eimNsZXf0r2PBRcXRL7z7Td.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Cravens</name>
+        <role>Clawdeen&apos;s Mom / Manager</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Debi Derryberry</name>
+        <role>Draculaura</role>
+        <order>4</order>
+        <thumb>https://image.tmdb.org/t/p/original/aB3016rMAcuEEyytdQskRQwm8ff.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Diskin</name>
+        <role>Gob / Zomboys</role>
+        <order>5</order>
+        <thumb>https://image.tmdb.org/t/p/original/4RWjcrPgfTG1yp19kFKRZYimv2B.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Travis Dresden</name>
+        <role>Raythe</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jun Falkenstein</name>
+        <role>Lunch Lady</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Larissa Gallagher</name>
+        <role>Lagoona / Reporter</role>
+        <order>8</order>
+        <thumb>https://image.tmdb.org/t/p/original/nk1Mrxg0ZI9eKIos2AiX6aAA8P4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonquil Goode</name>
+        <role>Tash / Ari</role>
+        <order>9</order>
+        <thumb>https://image.tmdb.org/t/p/original/xFGXWkVFzdzlItHPcKfFovD5Sk9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Maddalena</name>
+        <role>Secretary</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cristina Milizia</name>
+        <role>Moanica / Woolee</role>
+        <order>11</order>
+        <thumb>https://image.tmdb.org/t/p/original/hyoNXHS3W4bvzq6wziy7q3JSklN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Mitchell</name>
+        <role>Werekids</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cassandra Morris</name>
+        <role>Frankie / Venus</role>
+        <order>13</order>
+        <thumb>https://image.tmdb.org/t/p/original/ojZ7iGG2enCFe3xaKxMJjnAyVhS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Salli Saffioti</name>
+        <role>Clawdeen / Cleo De Nile</role>
+        <order>14</order>
+        <thumb>https://image.tmdb.org/t/p/original/qZ3kEREvlmLf9eX7NYKbRwtCYRw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evan Smith</name>
+        <role>Deuce</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Sorich</name>
+        <role>Dracula</role>
+        <order>16</order>
+        <thumb>https://image.tmdb.org/t/p/original/fiuJUfRiESALcUXW7BHsOJ12yfQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Spike Spencer</name>
+        <role>Zomboys</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2020-05-01 13:59:26</dateadded>
+</movie>
